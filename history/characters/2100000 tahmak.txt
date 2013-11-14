@@ -1,0 +1,407 @@
+2100000={
+name = "Hripsime"
+female = yes
+dynasty = 63000
+culture = tahmak
+religion = chaos
+military = 1
+diplomacy = 2
+stewardship = 7
+intrigue = 5
+learning = 9
+add_trait = "poet"
+add_trait = "intricate_webweaver"
+add_trait="kind"
+add_trait="honest"
+
+
+1988.6.13={birth="1988.6.13"}
+2014.4.27={death="2014.4.27"}
+}
+
+2100001={
+name = "Arda"
+female = yes
+dynasty = 63001
+culture = tahmak
+religion = chaos
+military = 0
+diplomacy = 3
+stewardship = 3
+intrigue = 4
+learning = 9
+add_trait = "poet"
+add_trait = "underhanded_rogue"
+add_trait="gregarious"
+
+
+
+1987.4.9={birth="1987.4.9"}
+2049.9.17={death="2049.9.17"}
+}
+
+2100002={
+name = "Zabel"
+female = yes
+dynasty = 63002
+culture = tahmak
+religion = chaos
+military = 1
+diplomacy = 10
+stewardship = 6
+intrigue = 6
+learning = 6
+add_trait = "duelist"
+add_trait = "flamboyant_schemer"
+
+add_trait="weak"
+add_trait="tall"
+
+1959.11.27={birth="1959.11.27"}
+2063.7.29={death="2063.7.29"}
+}
+
+2100003={
+name = "Vanakan"
+dynasty = 63003
+culture = tahmak
+religion = chaos
+military = 10
+diplomacy = 5
+stewardship = 0
+intrigue = 6
+learning = 1
+add_trait = "impaler"
+add_trait = "mastermind_theologian"
+add_trait="craven"
+add_trait="cruel"
+add_trait="wroth"
+
+1968.7.29={birth="1968.7.29"}
+2042.1.27={death="2042.1.27"}
+}
+
+2100004={
+name = "Mamkan"
+dynasty = 63004
+culture = tahmak
+religion = chaos
+military = 4
+diplomacy = 2
+stewardship = 6
+intrigue = 8
+learning = 4
+add_trait = "mystic"
+add_trait = "charismatic_negotiator"
+add_trait="greedy"
+add_trait="chaste"
+add_trait="humble"
+
+1975.5.17={birth="1975.5.17"}
+2069.6.20={death="2069.6.20"}
+}
+
+2100005={
+name = "Keghanoush"
+female = yes
+dynasty = 63005
+culture = tahmak
+religion = chaos
+military = 9
+diplomacy = 4
+stewardship = 0
+intrigue = 7
+learning = 6
+add_trait = "falconer"
+add_trait = "charismatic_negotiator"
+add_trait="temperate"
+add_trait="content"
+add_trait="trusting"
+
+1975.7.5={birth="1975.7.5"}
+2059.8.13={death="2059.8.13"}
+}
+
+2100006={
+name = "Xosken"
+dynasty = 63006
+culture = tahmak
+religion = chaos
+military = 6
+diplomacy = 9
+stewardship = 9
+intrigue = 6
+learning = 9
+add_trait = "impaler"
+add_trait = "mastermind_theologian"
+add_trait="stressed"
+
+
+
+1954.7.19={birth="1954.7.19"}
+2051.4.20={death="2051.4.20"}
+}
+
+2100007={
+name = "Shergir"
+dynasty = 63007
+culture = tahmak
+religion = chaos
+military = 7
+diplomacy = 8
+stewardship = 5
+intrigue = 0
+learning = 0
+add_trait = "impaler"
+add_trait = "mastermind_theologian"
+add_trait="depressed"
+add_trait="ill"
+add_trait="drunkard"
+
+1955.2.16={birth="1955.2.16"}
+2029.6.10={death="2029.6.10"}
+}
+
+2100008={
+name = "Mirhavan"
+dynasty = 63008
+culture = tahmak
+religion = chaos
+military = 0
+diplomacy = 9
+stewardship = 6
+intrigue = 2
+learning = 1
+add_trait = "hunter"
+add_trait = "elusive_shadow"
+
+add_trait="homosexual"
+add_trait="lustful"
+
+1994.10.12={birth="1994.10.12"}
+2035.9.22={death="2035.9.22"}
+}
+
+2100009={
+name = "Mamkan"
+dynasty = 63009
+culture = tahmak
+religion = chaos
+military = 6
+diplomacy = 1
+stewardship = 11
+intrigue = 9
+learning = 0
+
+add_trait = "underhanded_rogue"
+
+add_trait="lisp"
+
+
+1971.12.30={birth="1971.12.30"}
+2027.1.30={death="2027.1.30"}
+}
+
+2100010={
+name = "Mirdazat"
+dynasty = 63010
+culture = tahmak
+religion = chaos
+military = 0
+diplomacy = 7
+stewardship = 5
+intrigue = 6
+learning = 10
+add_trait = "hunter"
+add_trait = "dutiful_cleric"
+
+
+
+
+1958.6.20={birth="1958.6.20"}
+2024.11.12={death="2024.11.12"}
+}
+
+2100011={
+name = "Gorandoukht"
+female = yes
+dynasty = 63012
+culture = tahmak
+religion = chaos
+military = 4
+diplomacy = 6
+stewardship = 4
+intrigue = 7
+learning = 4
+add_trait = "scholar"
+add_trait = "dutiful_cleric"
+add_trait="legit_bastard"
+add_trait="fair"
+
+
+1990.11.26={birth="1990.11.26"}
+2063.11.17={death="2063.11.17"}
+}
+
+2100012={
+name = "Vosgi"
+female = yes
+dynasty = 63011
+culture = tahmak
+religion = chaos
+military = 8
+diplomacy = 1
+stewardship = 6
+intrigue = 5
+learning = 7
+
+add_trait = "indulgent_wastrel"
+add_trait="diligent"
+add_trait="strong"
+add_trait="proud"
+
+1979.2.17={birth="1979.2.17"}
+2049.3.7={death="2049.3.7"}
+}
+
+2100013={
+name = "Aghbugha"
+dynasty = 63013
+culture = tahmak
+religion = chaos
+military = 4
+diplomacy = 4
+stewardship = 9
+intrigue = 2
+learning = 10
+add_trait = "hunter"
+add_trait = "thrifty_clerk"
+add_trait="slothful"
+add_trait="envious"
+
+
+1990.10.7={birth="1990.10.7"}
+2039.10.10={death="2039.10.10"}
+}
+
+2100014={
+name = "Varaz-Peroz"
+dynasty = 63014
+culture = tahmak
+religion = chaos
+military = 10
+diplomacy = 0
+stewardship = 1
+intrigue = 8
+learning = 5
+add_trait = "mystic"
+add_trait = "flamboyant_schemer"
+add_trait="patient"
+add_trait="ambitious"
+add_trait="just"
+
+1967.10.18={birth="1967.10.18"}
+2050.3.28={death="2050.3.28"}
+}
+
+2100015={
+name = "Vaxtank"
+dynasty = 63015
+culture = tahmak
+religion = chaos
+military = 4
+diplomacy = 7
+stewardship = 11
+intrigue = 0
+learning = 8
+add_trait = "falconer"
+add_trait = "grey_eminence"
+add_trait="shy"
+add_trait="zealous"
+add_trait="arbitrary"
+
+1954.1.3={birth="1954.1.3"}
+2028.8.4={death="2028.8.4"}
+}
+
+2100016={
+name = "Datevig"
+female = yes
+dynasty = 63016
+culture = tahmak
+religion = chaos
+military = 7
+diplomacy = 2
+stewardship = 6
+intrigue = 11
+learning = 10
+add_trait = "falconer"
+add_trait = "mastermind_theologian"
+add_trait="gregarious"
+add_trait="cynical"
+add_trait="paranoid"
+
+1979.3.11={birth="1979.3.11"}
+2022.8.28={death="2022.8.28"}
+}
+
+2100017={
+name = "Smbat"
+dynasty = 63017
+culture = tahmak
+religion = chaos
+military = 5
+diplomacy = 5
+stewardship = 3
+intrigue = 5
+learning = 4
+
+add_trait = "charismatic_negotiator"
+add_trait="honest"
+add_trait="craven"
+add_trait="greedy"
+
+1967.1.5={birth="1967.1.5"}
+2035.1.12={death="2035.1.12"}
+}
+
+2100018={
+name = "Rahat"
+dynasty = 63018
+culture = tahmak
+religion = chaos
+military = 10
+diplomacy = 2
+stewardship = 10
+intrigue = 0
+learning = 9
+add_trait = "gardener"
+add_trait = "thrifty_clerk"
+add_trait="kind"
+
+
+
+1955.4.22={birth="1955.4.22"}
+2018.2.26={death="2018.2.26"}
+}
+
+2100019={
+name = "Eghisha"
+dynasty = 63019
+culture = tahmak
+religion = chaos
+military = 8
+diplomacy = 7
+stewardship = 7
+intrigue = 7
+learning = 9
+add_trait = "mystic"
+add_trait = "misguided_warrior"
+
+add_trait="tall"
+add_trait="cruel"
+
+1967.5.22={birth="1967.5.22"}
+2013.5.14={death="2013.5.14"}
+}
+

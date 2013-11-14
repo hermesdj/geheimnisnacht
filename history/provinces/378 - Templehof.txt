@@ -1,0 +1,19 @@
+# 378 - Templehof
+
+# County Title
+title = c_templehof
+
+# Settlements
+max_settlements = 5
+b_castle_templehof = castle
+b_templehof = city
+b_stolpe = temple
+b_naubonm = city
+b_leichberg = temple
+
+# Misc
+culture = sylvanian
+religion = vampiric
+
+
+# History

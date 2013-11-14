@@ -1,0 +1,1656 @@
+900000={
+name = "Siegfried"
+dynasty = 10000
+culture = reiklander
+religion = sigmarite
+military = 10
+diplomacy = 2
+stewardship = 6
+intrigue = 8
+learning = 7
+add_trait = "hunter"
+add_trait = "grey_eminence"
+add_trait="kind"
+add_trait="craven"
+add_trait="content"
+father = 900047
+
+1981.8.21={birth=yes}
+2051.7.28={death="2051.7.28"}
+}
+
+900001={
+name = "Michael"
+dynasty = 10012
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 3
+stewardship = 0
+intrigue = 2
+learning = 4
+add_trait = "falconer"
+add_trait = "detached_priest"
+add_trait="greedy"
+
+
+
+1975.5.1={birth="1975.5.1"}
+2040.3.17={death="2040.3.17"}
+}
+
+900002={
+name = "Erik"
+dynasty = 10088
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 9
+stewardship = 0
+intrigue = 4
+learning = 1
+add_trait = "impaler"
+add_trait = "grey_eminence"
+add_trait="honest"
+add_trait="tall"
+add_trait="gregarious"
+
+1962.7.24={birth="1962.7.24"}
+2035.2.1={death="2035.2.1"}
+}
+
+900003={
+name = "Karloman"
+dynasty = 10015
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 7
+stewardship = 4
+intrigue = 8
+learning = 9
+add_trait = "hedonist"
+add_trait = "brilliant_strategist"
+
+add_trait="wroth"
+add_trait="tall"
+
+1966.4.10={birth="1966.4.10"}
+2042.8.24={death="2042.8.24"}
+}
+
+900004={
+name = "Laurenz"
+dynasty = 10018
+culture = reiklander
+religion = sigmarite
+military = 7
+diplomacy = 7
+stewardship = 2
+intrigue = 8
+learning = 8
+add_trait = "duelist"
+add_trait = "brilliant_strategist"
+add_trait="cruel"
+add_trait="humble"
+add_trait="temperate"
+
+1962.8.11={birth="1962.8.11"}
+2002.8.16 = {add_spouse=800028}
+2025.9.5={death="2025.9.5"}
+}
+
+900005={
+name = "Walram"
+dynasty = 10021
+culture = reiklander
+religion = sigmarite
+military = 2
+diplomacy = 2
+stewardship = 3
+intrigue = 4
+learning = 3
+add_trait = "hedonist"
+add_trait = "amateurish_plotter"
+add_trait="trusting"
+add_trait="chaste"
+add_trait="ill"
+
+1975.8.23={birth="1975.8.23"}
+2069.9.5={death="2069.9.5"}
+}
+
+900006={
+name = "Ordulf"
+dynasty = 10010
+culture = reiklander
+religion = sigmarite
+military = 5
+diplomacy = 2
+stewardship = 8
+intrigue = 5
+learning = 0
+add_trait = "hedonist"
+add_trait = "elusive_shadow"
+add_trait="depressed"
+add_trait="stressed"
+
+
+2006.1.7={birth="2006.1.7"}
+2017.9.12={death="2017.9.12"}
+}
+
+900007={
+name = "Thietmar"
+dynasty = 10027
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 0
+stewardship = 8
+intrigue = 6
+learning = 10
+add_trait = "falconer"
+add_trait = "scholarly_theologian"
+add_trait="content"
+add_trait="lustful"
+
+
+1984.1.21={birth="1984.1.21"}
+2029.4.9={death="2029.4.9"}
+}
+
+900008={
+name = "Kriemhild"
+female = yes
+dynasty = 10005
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 2
+stewardship = 2
+intrigue = 1
+learning = 0
+add_trait = "falconer"
+add_trait = "elusive_shadow"
+add_trait="legit_bastard"
+add_trait="drunkard"
+add_trait="homosexual"
+
+1986.12.22={birth="1986.12.22"}
+2062.4.3={death="2062.4.3"}
+}
+
+900009={
+name = "Siegfried"
+dynasty = 10009
+culture = reiklander
+religion = sigmarite
+military = 2
+diplomacy = 2
+stewardship = 5
+intrigue = 2
+learning = 1
+add_trait = "gardener"
+add_trait = "naive_appeaser"
+
+1978.12.20={birth="1978.12.20"}
+2012.2.27={death="2012.2.27"}
+}
+
+900010={
+name = "Sieghard"
+dynasty = 10029
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 10
+stewardship = 0
+intrigue = 6
+learning = 6
+add_trait = "mystic"
+add_trait = "misguided_warrior"
+
+
+add_trait="lisp"
+
+1969.3.18={birth="1969.3.18"}
+2033.7.24={death="2033.7.24"}
+}
+
+900011={
+name = "Anselm"
+dynasty = 10030
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 9
+stewardship = 6
+intrigue = 0
+learning = 9
+add_trait = "scholar"
+add_trait = "dutiful_cleric"
+
+add_trait="fair"
+
+
+1984.1.11={birth="1984.1.11"}
+2045.10.13={death="2045.10.13"}
+}
+
+900012={
+name = "Wolfram"
+dynasty = 10032
+culture = reiklander
+religion = sigmarite
+military = 2
+diplomacy = 9
+stewardship = 5
+intrigue = 8
+learning = 9
+add_trait = "duelist"
+add_trait = "amateurish_plotter"
+add_trait="diligent"
+add_trait="strong"
+add_trait="proud"
+
+1986.1.12={birth="1986.1.12"}
+2046.12.1={death="2046.12.1"}
+}
+
+900013={
+name = "Wilhelm"
+dynasty = 10034
+culture = reiklander
+religion = sigmarite
+military = 2
+diplomacy = 7
+stewardship = 8
+intrigue = 6
+learning = 4
+
+add_trait = "tough_soldier"
+
+add_trait="patient"
+add_trait="slothful"
+
+1961.11.29={birth="1961.11.29"}
+2039.9.24={death="2039.9.24"}
+}
+
+900014={
+name = "Johann"
+dynasty = 10035
+culture = reiklander
+religion = sigmarite
+military = 0
+diplomacy = 6
+stewardship = 0
+intrigue = 4
+learning = 2
+add_trait = "gardener"
+add_trait = "intricate_webweaver"
+add_trait="ambitious"
+add_trait="arbitrary"
+add_trait="shy"
+
+1999.8.30={birth=yes}
+2021.3.27={death="2021.3.27"}
+}
+
+900015={
+name = "Hesso"
+dynasty = 10033
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 9
+stewardship = 11
+intrigue = 2
+learning = 9
+add_trait = "duelist"
+add_trait = "mastermind_theologian"
+add_trait="just"
+add_trait="envious"
+add_trait="cynical"
+
+1957.11.10={birth="1957.11.10"}
+2062.5.28={death="2062.5.28"}
+}
+
+900016={
+name = "Sofie"
+female = yes
+dynasty = 10059
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 0
+stewardship = 3
+intrigue = 8
+learning = 5
+add_trait = "poet"
+add_trait = "grey_eminence"
+add_trait="zealous"
+add_trait="gregarious"
+add_trait="kind"
+
+1971.3.9={birth="1971.3.9"}
+2030.7.8={death="2030.7.8"}
+}
+
+900017={
+name = "Norbert"
+dynasty = 10060
+culture = reiklander
+religion = sigmarite
+military = 3
+diplomacy = 1
+stewardship = 0
+intrigue = 8
+learning = 9
+add_trait = "gardener"
+add_trait = "mastermind_theologian"
+add_trait="paranoid"
+add_trait="craven"
+
+
+1951.8.14={birth="1951.8.14"}
+2069.11.14={death="2069.11.14"}
+}
+
+900018={
+name = "Reinhard"
+dynasty = 10062
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 3
+stewardship = 8
+intrigue = 6
+learning = 1
+add_trait = "gardener"
+add_trait = "scholarly_theologian"
+add_trait="greedy"
+
+
+
+1987.5.9={birth="1987.5.9"}
+2058.3.15={death="2058.3.15"}
+}
+
+900019={
+name = "Herbert"
+dynasty = 10061
+culture = reiklander
+religion = sigmarite
+military = 1
+diplomacy = 8
+stewardship = 11
+intrigue = 9
+learning = 4
+add_trait = "impaler"
+add_trait = "mastermind_theologian"
+
+add_trait="tall"
+add_trait="honest"
+
+1997.2.14={birth="1997.2.14"}
+2025.4.6={death="2025.4.6"}
+}
+
+900020={
+name = "Erich"
+dynasty = 10063
+culture = reiklander
+religion = sigmarite
+military = 10
+diplomacy = 3
+stewardship = 9
+intrigue = 6
+learning = 8
+add_trait = "falconer"
+add_trait = "indulgent_wastrel"
+add_trait="wroth"
+add_trait="cruel"
+add_trait="temperate"
+
+1988.11.29={birth="1988.11.29"}
+2049.11.20={death="2049.11.20"}
+}
+
+900021={
+name = "Gottfried"
+dynasty = 10065
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 6
+stewardship = 8
+intrigue = 7
+learning = 4
+add_trait = "scholar"
+add_trait = "midas_touched"
+add_trait="humble"
+add_trait="content"
+add_trait="trusting"
+
+1955.5.15={birth="1955.5.15"}
+2063.8.13={death="2063.8.13"}
+}
+
+900022={
+name = "Ruprecht"
+dynasty = 10066
+culture = reiklander
+religion = sigmarite
+military = 3
+diplomacy = 10
+stewardship = 8
+intrigue = 6
+learning = 5
+
+add_trait = "midas_touched"
+add_trait="chaste"
+add_trait="ill"
+add_trait="depressed"
+
+1981.9.7={birth="1981.9.7"}
+2032.10.20={death="2032.10.20"}
+}
+
+900023={
+name = "Amadeus"
+dynasty = 10067
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 7
+stewardship = 4
+intrigue = 9
+learning = 1
+add_trait = "hunter"
+add_trait = "detached_priest"
+add_trait="weak"
+
+
+
+1983.8.17={birth="1983.8.17"}
+2025.8.23={death="2025.8.23"}
+}
+
+900024={
+name = "Waldemar"
+dynasty = 10068
+culture = reiklander
+religion = sigmarite
+military = 10
+diplomacy = 2
+stewardship = 8
+intrigue = 5
+learning = 5
+add_trait = "mystic"
+add_trait = "detached_priest"
+add_trait="lustful"
+add_trait="stressed"
+
+
+1958.6.24={birth="1958.6.24"}
+2018.10.11={death="2018.10.11"}
+}
+
+900025={
+name = "Magnus"
+dynasty = 10070
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 6
+stewardship = 8
+intrigue = 1
+learning = 5
+add_trait = "poet"
+add_trait = "midas_touched"
+add_trait="homosexual"
+add_trait="drunkard"
+add_trait="legit_bastard"
+
+1992.2.4={birth="1992.2.4"}
+2038.2.26={death="2038.2.26"}
+}
+
+900026={
+name = "Gerlach"
+dynasty = 10069
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 0
+stewardship = 9
+intrigue = 3
+learning = 5
+add_trait = "mystic"
+add_trait = "tough_soldier"
+
+
+add_trait="lisp"
+
+1969.3.16={birth="1969.3.16"}
+2061.3.14={death="2061.3.14"}
+}
+
+900027={
+name = "Engelbrecht"
+dynasty = 10028
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 2
+stewardship = 11
+intrigue = 6
+learning = 3
+add_trait = "hunter"
+add_trait = "skilled_tactician"
+
+
+
+
+2001.6.22={birth="2001.6.22"}
+2036.3.26={death="2036.3.26"}
+}
+
+900028={
+name = "Dietwin"
+dynasty = 10026
+culture = reiklander
+religion = sigmarite
+military = 7
+diplomacy = 7
+stewardship = 6
+intrigue = 3
+learning = 5
+add_trait = "gardener"
+add_trait = "detached_priest"
+
+add_trait="strong"
+add_trait="fair"
+
+1970.1.27={birth="1970.1.27"}
+2032.10.24={death="2032.10.24"}
+}
+
+900029={
+name = "Bernhard"
+dynasty = 10025
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 9
+stewardship = 0
+intrigue = 3
+learning = 4
+add_trait = "poet"
+add_trait = "charismatic_negotiator"
+
+add_trait="diligent"
+add_trait="proud"
+
+1997.7.13={birth="1997.7.13"}
+2065.5.14={death="2065.5.14"}
+}
+
+#Emperors from Reikland
+#######################
+
+
+900030={
+name = "Sigismund"
+dynasty = 10043 #900030, 900031, 900032, & 900033 all the same dynasty
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 9
+stewardship = 11
+intrigue = 2
+learning = 9
+add_trait = "duelist"
+add_trait = "mastermind_theologian"
+add_trait="just"
+add_trait="envious"
+add_trait="cynical"
+
+427.11.10={birth="427.11.10"}
+479.5.28={death="479.5.28"}
+}
+
+900031={
+name = "Sigismund"
+dynasty = 10043 #900030, 900031, 900032, & 900033 all the same dynasty
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 0
+stewardship = 3
+intrigue = 8
+learning = 5
+add_trait = "poet"
+add_trait = "grey_eminence"
+add_trait="zealous"
+add_trait="gregarious"
+add_trait="kind"
+father = 900030
+
+440.3.9={birth="440.3.9"}
+485.1.1={give_nickname = nick_the_conqueror} #the conq
+505.7.8={death="2030.7.8"}
+}
+
+900032={
+name = "Siegfried"
+dynasty = 10043 #900030, 900031, 900032, & 900033 all the same dynasty
+culture = reiklander
+religion = sigmarite
+military = 3
+diplomacy = 1
+stewardship = 0
+intrigue = 8
+learning = 9
+add_trait = "gardener"
+add_trait = "mastermind_theologian"
+add_trait="paranoid"
+add_trait="craven"
+
+father = 900031
+
+480.8.14={birth="480.8.14"}
+520.1.1={give_nickname = nick_the_lawgiver} #lawgiver
+541.11.14={death="541.11.14"}
+}
+
+900033={
+name = "Ludwig"
+dynasty = 10043 #900030, 900031, 900032, & 900033 all the same dynasty
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 3
+stewardship = 8
+intrigue = 6
+learning = 1
+add_trait = "gardener"
+add_trait = "scholarly_theologian"
+add_trait="greedy"
+
+
+father = 900032
+
+519.5.9={birth="519.5.9"}
+569.3.15={death="569.3.15"}
+}
+
+900034={
+name = "Thyra"
+female = yes
+dynasty = 10044 
+culture = reiklander
+religion = sigmarite
+military = 1
+diplomacy = 8
+stewardship = 11
+intrigue = 9
+learning = 4
+add_trait = "impaler"
+add_trait = "mastermind_theologian"
+
+add_trait="tall"
+add_trait="honest"
+
+1241.2.14={birth="1241.2.14"}
+1304.4.6={death="1304.4.6"}
+}
+
+900035={
+name = "Heinrich"
+dynasty = 10045 
+culture = reiklander
+religion = sigmarite
+military = 10
+diplomacy = 3
+stewardship = 9
+intrigue = 6
+learning = 8
+add_trait = "falconer"
+add_trait = "indulgent_wastrel"
+add_trait="wroth"
+add_trait="cruel"
+add_trait="temperate"
+
+1462.11.29={birth="1462.11.29"}
+1531.11.20={death="1531.11.20"}
+}
+
+900036={
+name = "Heinrich"
+dynasty = 10046 
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 6
+stewardship = 8
+intrigue = 7
+learning = 4
+add_trait = "scholar"
+add_trait = "midas_touched"
+add_trait="humble"
+add_trait="content"
+add_trait="trusting"
+
+1713.5.15={birth=yes}
+1771.11.2={death=yes}
+}
+
+900037={
+name = "Konrad"
+dynasty = 10046 
+culture = reiklander
+religion = sigmarite
+military = 3
+diplomacy = 10
+stewardship = 8
+intrigue = 6
+learning = 5
+add_trait = "midas_touched"
+add_trait="chaste"
+add_trait="ill"
+add_trait="depressed"
+
+1821.9.7={birth=yes}
+1876.10.20={death=yes}
+}
+
+900038={
+name = "Wilhelm"
+dynasty = 10046 
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 7
+stewardship = 4
+intrigue = 9
+learning = 1
+add_trait = "hunter"
+add_trait = "detached_priest"
+add_trait="weak"
+add_trait="greedy"
+father = 900049
+
+1904.8.17={birth=yes}
+1975.8.23={death=yes}
+}
+
+900039={
+name = "Wilhelm" #Emperor Wilhelm III The Wise
+dynasty = 10047 
+culture = reiklander
+religion = sigmarite
+military = 10
+diplomacy = 2
+stewardship = 8
+intrigue = 5
+learning = 5
+add_trait = "mystic"
+add_trait = "detached_priest"
+add_trait="lustful"
+add_trait="stressed"
+
+2396.6.24={birth=yes}
+2419.3.22 = {add_spouse=900065}
+2432.1.1={give_nickname = nick_the_wise}
+2448.10.11={death=yes}
+}
+
+900040={
+name = "Wilhelm"
+dynasty = 10047
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 6
+stewardship = 8
+intrigue = 1
+learning = 5
+father = 900039
+mother = 900065
+add_trait = "poet"
+add_trait = "midas_touched"
+add_trait="diligent"
+add_trait="drunkard"
+add_trait="just"
+
+2432.2.4={birth=yes}
+2467.2.26={death=yes}
+}
+
+900041={
+name = "Mattheus"
+dynasty = 10047 #Grandfather of Karl-Franz, son of Wilhelm III
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 3
+stewardship = 9
+intrigue = 3
+learning = 5
+father = 900039
+mother = 900065
+add_trait = "mystic"
+add_trait = "tough_soldier"
+
+2426.2.4={birth=yes}
+2439.3.22 = {add_spouse=900064}
+2475.3.14={death=yes}
+}
+
+900042={
+name = "Luitpold" #Emperor, Father of Karl Franz
+dynasty = 10047 
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 2
+stewardship = 11
+intrigue = 6
+learning = 3
+father = 900041
+mother = 900064
+add_trait = "hunter"
+add_trait = "skilled_tactician"
+add_trait="diligent"
+
+2444.6.22={birth=yes}
+2470.7.12 = {add_spouse=900063}
+2502.3.26={death=yes}
+}
+
+900043={
+name = "Karl-Franz"
+dynasty = 10047
+culture = reiklander
+religion = sigmarite
+military = 7
+diplomacy = 7
+stewardship = 6
+intrigue = 3
+learning = 5
+father = 900042
+mother = 900063
+add_trait = "gardener"
+add_trait = "skilled_tactician"
+add_trait="strong"
+add_trait="fair"
+add_trait="gregarious"
+add_trait="diligent"
+
+2477.1.27={birth=yes}
+2557.10.24={death=yes}
+}
+
+900044={
+name = "Odo"
+dynasty = 10055
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 9
+stewardship = 0
+intrigue = 3
+learning = 4
+add_trait = "poet"
+add_trait = "charismatic_negotiator"
+add_trait="zealous"
+add_trait="diligent"
+add_trait="proud"
+
+1984.7.13={birth=yes}
+2069.5.14={death=yes}
+}
+
+900045={
+name = "Sigmarsson"
+dynasty = 10034
+culture = reiklander
+religion = sigmarite
+military = 14
+diplomacy = 9
+stewardship = 0
+intrigue = 3
+learning = 14
+add_trait = "poet"
+add_trait = "mastermind_theologian"
+add_trait="zealous"
+add_trait="diligent"
+add_trait="proud"
+
+1964.7.13={birth=yes}
+2039.5.14={death=yes}
+}
+
+900046={
+name = "Johann" #Johann Helsturm, first Grand Theogonist
+dynasty = 10087 
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 5
+stewardship = 4
+intrigue = 2
+learning = 10
+add_trait = "scholar"
+add_trait = "mastermind_theologian"
+add_trait="zealot"
+add_trait="brave"
+
+
+27.8.14={birth=yes}
+92.3.26={death=yes}
+}
+
+900047={
+name = "Marius" #Father of Emperor Siegfried I, nephew of Emperor Wilhelm
+dynasty = 10000 
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 4
+stewardship = 5
+intrigue = 3
+learning = 4
+add_trait = "charismatic_negotiator"
+add_trait="proud"
+add_trait="ambitious"
+add_trait="strong"
+father = 900048
+
+1947.12.3={birth=yes}
+2004.5.17={death=yes}
+}
+
+900048={
+name = "Albrecht" #Brother of Emperor Wilhelm
+dynasty = 10000 
+culture = reiklander
+religion = sigmarite
+military = 2
+diplomacy = 6
+stewardship = 4
+intrigue = 8
+learning = 6
+father = 900049
+add_trait = "underhanded_rogue"
+add_trait="deceitful"
+add_trait="ambitious"
+
+
+1914.7.12={birth=yes}
+1968.9.14={death=yes}
+}
+
+900049={
+name = "Johann" #Father of Emperor Wilhelm
+dynasty = 10000
+culture = reiklander
+religion = sigmarite
+military = 7
+diplomacy = 4
+stewardship = 4
+intrigue = 3
+learning = 6
+add_trait = "grey_eminence"
+add_trait="zealot"
+add_trait="poet"
+add_trait="chaste"
+
+1874.7.12={birth=yes}
+1922.9.14={death=yes}
+}
+
+
+900050={
+name = "Wilhelm" #Boring Emperor Wilhelm II from 'van Horstmann'
+dynasty = 10061
+culture = reiklander
+religion = sigmarite
+military = 3
+diplomacy = 2
+stewardship = 2
+intrigue = 4
+learning = 3
+add_trait = "charismatic_negotiator"
+add_trait="patient"
+add_trait="scholar"
+add_trait="slothful"
+
+2356.9.3={birth=yes}
+2399.4.13={death=yes}
+}
+
+
+900051={
+name = "Sighast"
+dynasty = 10089
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 2
+stewardship = 11
+intrigue = 6
+learning = 3
+add_trait = "hunter"
+add_trait = "skilled_tactician"
+
+1989.6.22={birth=yes}
+2036.3.26={death=yes}
+}
+
+900052={
+name = "Ezzo"
+dynasty = 10090
+culture = reiklander
+religion = sigmarite
+military = 7
+diplomacy = 7
+stewardship = 6
+intrigue = 3
+learning = 5
+add_trait = "gardener"
+add_trait = "detached_priest"
+
+add_trait="strong"
+add_trait="fair"
+
+1970.1.27={birth=yes}
+2032.10.24={death=yes}
+}
+
+900053={
+name = "Leonhard"
+dynasty = 10091
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 9
+stewardship = 0
+intrigue = 3
+learning = 4
+add_trait = "poet"
+add_trait = "charismatic_negotiator"
+
+add_trait="diligent"
+add_trait="proud"
+
+1967.7.13={birth=yes}
+2035.5.14={death=yes}
+}
+
+900054={
+name = "Heinz"
+dynasty = 10092
+culture = reiklander
+religion = sigmarite
+military = 9
+diplomacy = 9
+stewardship = 11
+intrigue = 2
+learning = 9
+add_trait = "duelist"
+add_trait = "mastermind_theologian"
+add_trait="just"
+add_trait="envious"
+add_trait="cynical"
+
+1990.9.3={birth=yes}
+2039.4.13={death=yes}
+}
+
+900055={
+name = "Luitpold" #Son of Karl-Franz
+dynasty = 10047
+culture = reiklander
+religion = sigmarite
+military = 5
+diplomacy = 9
+stewardship = 5
+intrigue = 7
+learning = 4
+father = 900043
+add_trait = "poet"
+add_trait = "mastermind_theologian"
+add_trait="just"
+add_trait="proud"
+add_trait="strong"
+add_trait="cynical"
+
+2493.4.23={birth=yes}
+2564.6.24={death=yes}
+}
+
+900056={
+name = "Viktoria" #Daughter of Karl-Franz
+female = yes
+dynasty = 10047
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 9
+stewardship = 5
+intrigue = 7
+learning = 4
+father = 900043
+add_trait = "poet"
+add_trait = "mastermind_theologian"
+add_trait="honest"
+add_trait="humble"
+add_trait="tall"
+
+2502.9.12={birth=yes}
+2578.2.4={death=yes}
+}
+
+900057={
+name = "Viktoria" #Sister of Karl-Franz
+female = yes
+dynasty = 10047
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 9
+stewardship = 5
+intrigue = 7
+learning = 4
+father = 900042
+mother = 900063
+add_trait = "poet"
+add_trait = "dutiful_cleric"
+add_trait="honest"
+add_trait="humble"
+add_trait="tall"
+
+2483.2.25={birth=yes}
+2500.6.18 = {add_spouse=900057}
+2561.6.14={death=yes}
+}
+
+
+900058={
+name = "Volkmar" #Grand Theogonist
+dynasty = 10080
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 9
+stewardship = 5
+intrigue = 7
+learning = 4
+add_trait = "poet"
+add_trait = "mastermind_theologian"
+add_trait="quick"
+add_trait="gregarious"
+add_trait="strong"
+add_trait="zealous"
+add_trait="tall"
+
+2454.5.5={birth=yes}
+2534.3.4={death=yes}
+}
+
+
+900059={
+name = "Jurgen" #Grand Theogonist
+dynasty = 10097
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 9
+stewardship = 5
+intrigue = 7
+learning = 4
+add_trait = "scholar"
+add_trait = "mastermind_theologian"
+add_trait="gregarious"
+add_trait="zealous"
+add_trait="proud"
+
+1938.5.2={birth=yes}
+1998.4.1={death=yes}
+}
+
+900060={
+name = "Falken"
+dynasty = 10131
+culture = reiklander
+religion = sigmarite
+military = 5
+diplomacy = 3
+stewardship = 6
+intrigue = 3
+learning = 6
+mother = 900061
+father = 900062
+add_trait = "tough_soldier"
+add_trait="kind"
+add_trait="cynical"
+add_trait="proud"
+
+2491.3.1={birth=yes}
+2549.11.14={death=yes}
+}
+
+900061={
+name = "Viktoria"
+female = yes
+dynasty = 10047
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 5
+stewardship = 3
+intrigue = 7
+learning = 2
+father = 900041
+mother = 900064
+add_trait = "tough_soldier"
+add_trait="kind"
+add_trait="just"
+add_trait="greedy"
+
+2459.6.18={birth=yes}
+2482.5.26 = {add_spouse=900062}
+2508.1.11={death=yes}
+}
+
+900062={
+name = "Marius"
+dynasty = 10131
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 7
+stewardship = 4
+intrigue = 2
+learning = 6
+add_trait = "charismatic_negotiator"
+add_trait="shy"
+add_trait="just"
+add_trait="fair"
+
+2445.1.10={birth=yes}
+2482.5.26 = {add_spouse=900061}
+2486.4.19={death=yes}
+}
+
+900063={
+name = "Viktoria" #Mother of Karl Franz
+female = yes
+dynasty = 10057 
+culture = reiklander
+religion = sigmarite
+military = 2
+diplomacy = 5
+stewardship = 4
+intrigue = 3
+learning = 6
+add_trait="patient"
+
+2451.6.22={birth=yes}
+2470.7.12 = {add_spouse=900042}
+2528.11.5={death=yes}
+}
+
+900064={
+name = "Hannelore" #Grandmother of Karl Franz
+female = yes
+dynasty = 10058
+culture = reiklander
+religion = sigmarite
+military = 7
+diplomacy = 5
+stewardship = 4
+intrigue = 4
+learning = 2
+add_trait="patient"
+
+2421.12.24={birth=yes}
+2439.3.22 = {add_spouse=900041}
+2449.5.21={death=yes}
+}
+
+900065={
+name = "Osterhild" #GreatGrandmother of Karl Franz
+female = yes
+dynasty = 10070
+culture = reiklander
+religion = sigmarite
+military = 7
+diplomacy = 5
+stewardship = 4
+intrigue = 4
+learning = 2
+add_trait="patient"
+
+2401.5.12={birth=yes}
+2419.3.22 = {add_spouse=900039}
+2435.12.2={death=yes}
+}
+
+900066={
+name = "Gotthilm"
+dynasty = 10089
+culture = reiklander
+religion = sigmarite
+military = 5
+diplomacy = 2
+stewardship = 3
+intrigue = 6
+learning = 4
+add_trait="diligent"
+add_trait="tall"
+add_trait="proud"
+
+2480.5.22={birth=yes}
+2543.12.22={death=yes}
+}
+
+900067={
+name = "Wolfgang" #Karl-Franz nephew
+dynasty = 10132
+culture = reiklander
+religion = sigmarite
+military = 2
+diplomacy = 5
+stewardship = 3
+intrigue = 3
+learning = 3
+mother = 900057
+father = 900068
+add_trait="imbecile"
+add_trait="diligent"
+
+2502.7.1={birth=yes}
+2559.11.5={death=yes}
+}
+
+900068={
+name = "Meinward"
+dynasty = 10132
+culture = reiklander
+religion = sigmarite
+military = 5
+diplomacy = 4
+stewardship = 5
+intrigue = 2
+learning = 4
+add_trait="proud"
+add_trait="diligent"
+
+2472.5.21={birth=yes}
+2500.6.18 = {add_spouse=900057}
+2531.4.5={death=yes}
+}
+
+900069={
+name = "Lorenz" #von Holzkrug Emperor
+dynasty = 10000
+culture = reiklander
+religion = sigmarite
+military = 5
+diplomacy = 4
+stewardship = 5
+intrigue = 2
+learning = 4
+add_trait="brave"
+add_trait="diligent"
+
+2276.2.26={birth=yes}
+2302.11.21={death=yes}
+}
+
+900070={
+name = "Annagret"
+female = yes
+dynasty = 10000
+dna = "hbiggbaapoh"
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 5
+stewardship = 3
+intrigue = 5
+learning = 3
+father = 900047
+add_trait = "elusive_shadow"
+add_trait = "celibate"
+add_trait = "arbitrary"
+1985.7.1={birth=yes}
+2038.9.13={death=yes}
+}
+
+900071={
+name = "Otho"
+dynasty = 10000
+dna = "bogafiicipo"
+culture = reiklander
+religion = sigmarite
+military = 3
+diplomacy = 4
+stewardship = 4
+intrigue = 4
+learning = 2
+father = 900000
+add_trait = "grey_eminence"
+add_trait = "cruel"
+add_trait = "wroth"
+2008.11.1={birth=yes}
+2078.5.7={death=yes}
+}
+
+900072={
+name = "Dietlinde"
+female = yes
+dynasty = 10000
+dna = "pojdihheapf"
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 2
+stewardship = 4
+intrigue = 6
+learning = 4
+father = 900000
+add_trait = "underhanded_rogue"
+add_trait = "gregarious"
+add_trait = "lustful"
+add_trait = "content"
+add_trait = "depressed"
+2013.5.1={birth=yes}
+2075.11.28={death=yes}
+}
+
+900073={
+name = "Werner"
+dynasty = 10000
+dna = "fjnfjlghlmd"
+culture = reiklander
+religion = sigmarite
+military = 3
+diplomacy = 2
+stewardship = 3
+intrigue = 3
+learning = 5
+father = 900000
+add_trait = "charismatic_negotiator"
+add_trait = "gluttonous"
+add_trait = "diligent"
+2023.1.1={birth=yes}
+2084.11.6={death=yes}
+}
+
+900074={
+name = "Ida"
+female = yes
+dynasty = 10000
+dna = "jnacionfjae"
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 0
+stewardship = 5
+intrigue = 3
+learning = 4
+father = 900071
+add_trait = "flamboyant_schemer"
+add_trait = "zealous"
+add_trait = "gregarious"
+2046.7.1={birth=yes}
+2088.5.3={death=yes}
+}
+
+900075={
+name = "Elke"
+female = yes
+dynasty = 10000
+dna = "kjdhnhiphdc"
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 2
+stewardship = 5
+intrigue = 5
+learning = 3
+father = 900071
+add_trait = "thrifty_clerk"
+add_trait = "kind"
+add_trait = "charitable"
+add_trait = "arbitrary"
+2054.3.1={birth=yes}
+2104.1.18={death=yes}
+}
+
+900076={
+name = "Marie"
+female = yes
+dynasty = 10000
+dna = "fgfgnbhfega"
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 4
+stewardship = 5
+intrigue = 3
+learning = 2
+father = 900071
+add_trait = "thrifty_clerk"
+add_trait = "patient"
+add_trait = "diligent"
+2061.3.1={birth=yes}
+2123.12.1={death=yes}
+}
+
+900077={
+name = "Dietwin"
+dynasty = 10000
+dna = "imaeoabmdpe"
+culture = reiklander
+religion = sigmarite
+military = 2
+diplomacy = 7
+stewardship = 3
+intrigue = 6
+learning = 4
+father = 900073
+add_trait = "thrifty_clerk"
+add_trait = "honest"
+2068.5.1={birth=yes}
+2113.6.10={death=yes}
+}
+
+900078={
+name = "Adele"
+female = yes
+dynasty = 10000
+dna = "egadmnhpnnn"
+culture = reiklander
+religion = sigmarite
+military = 3
+diplomacy = 6
+stewardship = 5
+intrigue = 3
+learning = 7
+father = 900073
+add_trait = "fortune_builder"
+add_trait = "cruel"
+2071.5.1={birth=yes}
+2100.3.10={death=yes}
+}
+
+900079={
+name = "Kunigunde"
+female = yes
+dynasty = 10000
+dna = "pcipppdbhno"
+culture = reiklander
+religion = sigmarite
+military = 5
+diplomacy = 6
+stewardship = 3
+intrigue = 7
+learning = 7
+father = 900073
+add_trait = "underhanded_rogue"
+add_trait = "hedonist"
+add_trait = "brave"
+add_trait = "envious"
+add_trait = "slothful"
+2073.9.1={birth=yes}
+2123.12.4={death=yes}
+}
+
+900080={
+name = "Celeste"
+female = yes
+dynasty = 10000
+dna = "lfnegpbloli"
+culture = reiklander
+religion = sigmarite
+military = 5
+diplomacy = 1
+stewardship = 3
+intrigue = 3
+learning = 5
+mother = 900078
+add_trait = "tough_soldier"
+2098.7.1={birth=yes}
+2178.2.7={death=yes}
+}
+
+900081={
+name = "Frida"
+female = yes
+dynasty = 10000
+dna = "kdehkehhcld"
+culture = reiklander
+religion = sigmarite
+military = 7
+diplomacy = 1
+stewardship = 2
+intrigue = 2
+learning = 5
+mother = 900078
+add_trait = "thrifty_clerk"
+add_trait = "duelist"
+add_trait = "proud"
+add_trait = "charitable"
+2103.1.1={birth=yes}
+2151.10.6={death=yes}
+}
+
+

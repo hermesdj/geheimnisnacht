@@ -1,0 +1,18 @@
+# 338 Borkrum
+
+# County Title
+title = c_borkrum
+
+# Settlements
+max_settlements = 4
+b_borkrum = castle
+b_dolzschen = city
+b_dorna = city
+b_ruhland = city
+
+# Misc
+culture = talabeclander
+religion = taalite
+
+
+# History

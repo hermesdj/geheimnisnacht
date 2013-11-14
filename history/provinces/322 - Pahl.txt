@@ -1,0 +1,18 @@
+# 322 Pahl
+
+# County Title
+title = c_pahl
+
+# Settlements
+max_settlements = 4
+b_pahl = castle
+b_ummenbach = temple
+b_kolbhugel = city
+b_kroppenleben = city
+
+# Misc
+culture = sollander
+religion = sigmarite
+
+
+# History

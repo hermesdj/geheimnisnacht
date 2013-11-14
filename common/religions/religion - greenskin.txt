@@ -1,0 +1,43 @@
+greenskin_gods_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	playable = yes
+
+	greenskin_gods = {
+		graphical_culture = westerngfx
+
+		icon = 12
+		color = { 0.2 1.0 0.2 }
+		god_names = {
+			GOD_THE_GODS GOD_GORK GOD_MORK GOD_GORK_AND_MORK
+		}
+		
+		crusade_name = "WAAAGH"
+		scripture_name = THE_SIGNS
+		
+		priests_can_marry = no
+		aggression = 2.5 		
+		allow_looting = yes
+		allow_rivermovement = yes
+		can_hold_temples = yes
+	}
+
+	spider_god = {
+		graphical_culture = westerngfx
+
+		icon = 12
+		color = { 0.5 0.9 0.6 }
+		god_names = {
+			GOD_THE_GODS GOD_THE_GREAT_SPIDER GOD_THE_WEAVER GOD_THE_WEB_SPINNER
+		}
+		
+		crusade_name = "HOLY_WAR"
+		scripture_name = THE_SIGNS
+		
+		priests_can_marry = no
+		aggression = 2.5 		
+		allow_looting = yes
+		allow_rivermovement = yes
+		can_hold_temples = yes
+	}	
+}

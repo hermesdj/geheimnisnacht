@@ -1,0 +1,402 @@
+2500000={
+name = "Praksa"
+dynasty = 64000
+culture = yusak
+religion = chaos
+military = 4
+diplomacy = 8
+stewardship = 5
+intrigue = 11
+learning = 7
+add_trait = "falconer"
+add_trait = "elusive_shadow"
+add_trait="honest"
+add_trait="gregarious"
+add_trait="kind"
+
+1987.5.4={birth="1987.5.4"}
+2028.1.18={death="2028.1.18"}
+}
+
+2500001={
+name = "Balamber"
+dynasty = 64001
+culture = yusak
+religion = chaos
+military = 4
+diplomacy = 0
+stewardship = 2
+intrigue = 8
+learning = 9
+add_trait = "falconer"
+add_trait = "indulgent_wastrel"
+add_trait="craven"
+add_trait="greedy"
+
+
+1969.2.7={birth="1969.2.7"}
+2048.12.8={death="2048.12.8"}
+}
+
+2500002={
+name = "Radiq"
+dynasty = 64002
+culture = yusak
+religion = chaos
+military = 1
+diplomacy = 10
+stewardship = 1
+intrigue = 11
+learning = 9
+add_trait = "poet"
+add_trait = "midas_touched"
+
+add_trait="weak"
+
+
+1952.8.15={birth="1952.8.15"}
+2047.11.18={death="2047.11.18"}
+}
+
+2500003={
+name = "Färidä"
+female = yes
+dynasty = 64003
+culture = yusak
+religion = chaos
+military = 4
+diplomacy = 6
+stewardship = 7
+intrigue = 8
+learning = 9
+
+add_trait = "tough_soldier"
+add_trait="tall"
+
+add_trait="temperate"
+
+1979.7.15={birth="1979.7.15"}
+2050.5.28={death="2050.5.28"}
+}
+
+2500004={
+name = "Alburia"
+dynasty = 64004
+culture = yusak
+religion = chaos
+military = 9
+diplomacy = 2
+stewardship = 8
+intrigue = 6
+learning = 1
+add_trait = "scholar"
+add_trait = "thrifty_clerk"
+add_trait="chaste"
+add_trait="wroth"
+add_trait="content"
+
+1978.4.4={birth="1978.4.4"}
+2027.6.18={death="2027.6.18"}
+}
+
+2500005={
+name = "Akhad"
+dynasty = 64005
+culture = yusak
+religion = chaos
+military = 2
+diplomacy = 4
+stewardship = 0
+intrigue = 2
+learning = 9
+add_trait = "scholar"
+add_trait = "charismatic_negotiator"
+add_trait="cruel"
+add_trait="ill"
+add_trait="trusting"
+
+1969.7.20={birth="1969.7.20"}
+2018.3.3={death="2018.3.3"}
+}
+
+2500006={
+name = "Kazbek"
+dynasty = 64006
+culture = yusak
+religion = chaos
+military = 6
+diplomacy = 7
+stewardship = 9
+intrigue = 5
+learning = 1
+add_trait = "falconer"
+add_trait = "skilled_tactician"
+add_trait="stressed"
+add_trait="humble"
+add_trait="depressed"
+
+1979.12.20={birth="1979.12.20"}
+2031.3.15={death="2031.3.15"}
+}
+
+2500007={
+name = "Nail"
+dynasty = 64007
+culture = yusak
+religion = chaos
+military = 6
+diplomacy = 0
+stewardship = 6
+intrigue = 8
+learning = 3
+add_trait = "hedonist"
+add_trait = "indulgent_wastrel"
+
+add_trait="lustful"
+
+
+1993.10.10={birth="1993.10.10"}
+2041.12.14={death="2041.12.14"}
+}
+
+2500008={
+name = "Liana"
+female = yes
+dynasty = 64008
+culture = yusak
+religion = chaos
+military = 5
+diplomacy = 8
+stewardship = 6
+intrigue = 3
+learning = 1
+add_trait = "hunter"
+add_trait = "skilled_tactician"
+add_trait="legit_bastard"
+
+add_trait="homosexual"
+
+1990.8.22={birth="1990.8.22"}
+2018.12.14={death="2018.12.14"}
+}
+
+2500009={
+name = "Bu-Timer"
+dynasty = 64009
+culture = yusak
+religion = chaos
+military = 2
+diplomacy = 2
+stewardship = 3
+intrigue = 9
+learning = 0
+add_trait = "falconer"
+add_trait = "indulgent_wastrel"
+
+add_trait="drunkard"
+add_trait="lisp"
+
+1953.9.3={birth="1953.9.3"}
+2056.7.27={death="2056.7.27"}
+}
+
+2500010={
+name = "Tahir"
+dynasty = 64010
+culture = yusak
+religion = chaos
+military = 6
+diplomacy = 3
+stewardship = 1
+intrigue = 8
+learning = 4
+add_trait = "gardener"
+add_trait = "skilled_tactician"
+
+
+
+
+1993.2.13={birth="1993.2.13"}
+2051.8.20={death="2051.8.20"}
+}
+
+2500011={
+name = "Ämir"
+dynasty = 64011
+culture = yusak
+religion = chaos
+military = 3
+diplomacy = 6
+stewardship = 0
+intrigue = 8
+learning = 3
+add_trait = "hunter"
+add_trait = "mastermind_theologian"
+
+add_trait="fair"
+add_trait="strong"
+
+1957.11.12={birth="1957.11.12"}
+2051.11.10={death="2051.11.10"}
+}
+
+2500012={
+name = "Ilyas"
+dynasty = 64012
+culture = yusak
+religion = chaos
+military = 10
+diplomacy = 0
+stewardship = 6
+intrigue = 9
+learning = 9
+
+add_trait = "charismatic_negotiator"
+
+add_trait="envious"
+add_trait="proud"
+
+1994.4.26={birth="1994.4.26"}
+2036.10.2={death="2036.10.2"}
+}
+
+2500013={
+name = "Ildus"
+dynasty = 64013
+culture = yusak
+religion = chaos
+military = 7
+diplomacy = 2
+stewardship = 3
+intrigue = 8
+learning = 6
+add_trait = "impaler"
+add_trait = "midas_touched"
+add_trait="slothful"
+
+add_trait="shy"
+
+1979.11.18={birth="1979.11.18"}
+2050.10.4={death="2050.10.4"}
+}
+
+2500014={
+name = "Gazan"
+dynasty = 64014
+culture = yusak
+religion = chaos
+military = 8
+diplomacy = 9
+stewardship = 11
+intrigue = 11
+learning = 5
+add_trait = "impaler"
+add_trait = "midas_touched"
+add_trait="patient"
+add_trait="ambitious"
+add_trait="just"
+
+1980.8.17={birth="1980.8.17"}
+2041.8.12={death="2041.8.12"}
+}
+
+2500015={
+name = "Tatra"
+dynasty = 64015
+culture = yusak
+religion = chaos
+military = 5
+diplomacy = 1
+stewardship = 11
+intrigue = 5
+learning = 0
+
+add_trait = "midas_touched"
+add_trait="arbitrary"
+add_trait="cynical"
+add_trait="zealous"
+
+1980.6.29={birth="1980.6.29"}
+2011.1.30={death="2011.1.30"}
+}
+
+2500016={
+name = "Uturgur"
+dynasty = 64017
+culture = yusak
+religion = chaos
+military = 5
+diplomacy = 7
+stewardship = 8
+intrigue = 6
+learning = 1
+
+add_trait = "fortune_builder"
+add_trait="gregarious"
+add_trait="diligent"
+add_trait="honest"
+
+1976.1.3={birth="1976.1.3"}
+2055.10.6={death="2055.10.6"}
+}
+
+2500017={
+name = "Zabergan"
+dynasty = 64016
+culture = yusak
+religion = chaos
+military = 4
+diplomacy = 7
+stewardship = 6
+intrigue = 8
+learning = 7
+add_trait = "hunter"
+add_trait = "elusive_shadow"
+add_trait="craven"
+
+add_trait="greedy"
+
+1976.2.22={birth="1976.2.22"}
+2062.2.9={death="2062.2.9"}
+}
+
+2500018={
+name = "Dizeng"
+dynasty = 64018
+culture = yusak
+religion = chaos
+military = 10
+diplomacy = 0
+stewardship = 3
+intrigue = 0
+learning = 0
+add_trait = "hunter"
+add_trait = "intricate_webweaver"
+
+add_trait="paranoid"
+
+
+1979.1.29={birth="1979.1.29"}
+2045.3.6={death="2045.3.6"}
+}
+
+2500019={
+name = "Stazis"
+dynasty = 64019
+culture = yusak
+religion = chaos
+military = 7
+diplomacy = 8
+stewardship = 7
+intrigue = 9
+learning = 10
+add_trait = "mystic"
+add_trait = "indulgent_wastrel"
+
+add_trait="weak"
+add_trait="cruel"
+
+1990.12.20={birth="1990.12.20"}
+2022.11.9={death="2022.11.9"}
+}
+

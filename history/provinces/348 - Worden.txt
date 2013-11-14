@@ -1,0 +1,19 @@
+# 348 Worden
+
+# County Title
+title = c_worden
+
+# Settlements
+max_settlements = 5
+b_worden = castle
+b_nussbach = temple
+b_franzen = city
+b_vigaun = temple
+b_kelham = city
+
+# Misc
+culture = stirlander
+religion = sigmarite
+
+
+# History

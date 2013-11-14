@@ -1,0 +1,21 @@
+# 299 - Altdorf
+
+# County Title
+title = c_altdorf
+
+# Settlements
+max_settlements = 7
+b_kaiserliche_palast = castle
+b_domplatz_bezirk = temple
+b_reikmarkt = city
+b_werksviertel = city
+b_reikhoch = city
+b_niederwind = castle
+b_oberhausen = city
+
+# Misc
+culture = reiklander
+religion = sigmarite
+
+
+# History

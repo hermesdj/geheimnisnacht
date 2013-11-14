@@ -1,0 +1,401 @@
+1500000={
+name = "Malowuj"
+dynasty = 33012
+culture = ropsmann
+religion = northern_gods
+military = 0
+diplomacy = 7
+stewardship = 6
+intrigue = 2
+learning = 1
+
+add_trait = "indulgent_wastrel"
+add_trait="gregarious"
+add_trait="kind"
+add_trait="craven"
+
+1987.12.23={birth="1987.12.23"}
+2040.12.17={death="2040.12.17"}
+}
+
+1500001={
+name = "Konrad"
+dynasty = 33019
+culture = ropsmann
+religion = northern_gods
+military = 5
+diplomacy = 8
+stewardship = 3
+intrigue = 3
+learning = 9
+add_trait = "hedonist"
+add_trait = "dutiful_cleric"
+add_trait="greedy"
+add_trait="honest"
+
+
+1989.6.15={birth="1989.6.15"}
+2043.12.1={death="2043.12.1"}
+}
+
+1500002={
+name = "Czcibor"
+dynasty = 33052
+culture = ropsmann
+religion = northern_gods
+military = 3
+diplomacy = 0
+stewardship = 6
+intrigue = 6
+learning = 0
+add_trait = "duelist"
+add_trait = "underhanded_rogue"
+
+
+add_trait="tall"
+
+1986.7.7={birth="1986.7.7"}
+2013.6.6={death="2013.6.6"}
+}
+
+1500003={
+name = "Prendota"
+dynasty = 33072
+culture = ropsmann
+religion = northern_gods
+military = 7
+diplomacy = 6
+stewardship = 0
+intrigue = 2
+learning = 8
+add_trait = "mystic"
+add_trait = "detached_priest"
+add_trait="cruel"
+add_trait="weak"
+
+
+1972.2.19={birth="1972.2.19"}
+2062.5.24={death="2062.5.24"}
+}
+
+1500004={
+name = "Vingoldas"
+dynasty = 33055
+culture = ropsmann
+religion = northern_gods
+military = 3
+diplomacy = 10
+stewardship = 8
+intrigue = 0
+learning = 9
+add_trait = "gardener"
+add_trait = "grey_eminence"
+add_trait="wroth"
+add_trait="humble"
+add_trait="chaste"
+
+2001.10.6={birth="2001.10.6"}
+2055.3.20={death="2055.3.20"}
+}
+
+1500005={
+name = "Gedigaudas"
+dynasty = 33024
+culture = ropsmann
+religion = northern_gods
+military = 3
+diplomacy = 3
+stewardship = 3
+intrigue = 1
+learning = 2
+add_trait = "hunter"
+add_trait = "naive_appeaser"
+add_trait="temperate"
+add_trait="content"
+add_trait="stressed"
+
+1967.6.9={birth="1967.6.9"}
+2024.12.28={death="2024.12.28"}
+}
+
+1500006={
+name = "Aras"
+dynasty = 33081
+culture = ropsmann
+religion = northern_gods
+military = 1
+diplomacy = 5
+stewardship = 6
+intrigue = 5
+learning = 1
+add_trait = "gardener"
+add_trait = "indulgent_wastrel"
+add_trait="ill"
+add_trait="trusting"
+
+
+1962.2.5={birth="1962.2.5"}
+2049.11.14={death="2049.11.14"}
+}
+
+1500007={
+name = "Jevna"
+female = yes
+dynasty = 33032
+culture = ropsmann
+religion = northern_gods
+military = 1
+diplomacy = 6
+stewardship = 7
+intrigue = 8
+learning = 9
+
+add_trait = "scholarly_theologian"
+add_trait="drunkard"
+add_trait="lustful"
+
+
+1986.3.20={birth="1986.3.20"}
+2051.2.2={death="2051.2.2"}
+}
+
+1500008={
+name = "Rimantas"
+dynasty = 33061
+culture = ropsmann
+religion = northern_gods
+military = 1
+diplomacy = 1
+stewardship = 8
+intrigue = 7
+learning = 2
+add_trait = "gardener"
+add_trait = "brilliant_strategist"
+
+add_trait="legit_bastard"
+add_trait="homosexual"
+
+2005.3.19={birth="2005.3.19"}
+2060.4.25={death="2060.4.25"}
+}
+
+1500009={
+name = "Zygimantas"
+dynasty = 33064
+culture = ropsmann
+religion = northern_gods
+military = 3
+diplomacy = 3
+stewardship = 7
+intrigue = 11
+learning = 9
+add_trait = "scholar"
+add_trait = "elusive_shadow"
+
+
+
+
+1985.8.6={birth="1985.8.6"}
+2056.4.10={death="2056.4.10"}
+}
+
+1500010={
+name = "Liudas"
+dynasty = 33047
+culture = ropsmann
+religion = northern_gods
+military = 9
+diplomacy = 6
+stewardship = 2
+intrigue = 0
+learning = 8
+
+add_trait = "scholarly_theologian"
+add_trait="lisp"
+
+
+
+1975.4.3={birth="1975.4.3"}
+2027.2.17={death="2027.2.17"}
+}
+
+1500011={
+name = "Rimgaila"
+dynasty = 33087
+culture = ropsmann
+religion = northern_gods
+military = 7
+diplomacy = 1
+stewardship = 11
+intrigue = 3
+learning = 4
+add_trait = "scholar"
+add_trait = "detached_priest"
+add_trait="depressed"
+
+
+
+2008.8.1={birth="2008.8.1"}
+2069.10.17={death="2069.10.17"}
+}
+
+1500012={
+name = "Witosz"
+dynasty = 33051
+culture = ropsmann
+religion = northern_gods
+military = 0
+diplomacy = 9
+stewardship = 9
+intrigue = 9
+learning = 5
+add_trait = "impaler"
+add_trait = "intricate_webweaver"
+add_trait="diligent"
+add_trait="strong"
+add_trait="envious"
+
+1968.1.1={birth="1968.1.1"}
+2017.9.1={death="2017.9.1"}
+}
+
+1500013={
+name = "Wanko"
+dynasty = 33074
+culture = ropsmann
+religion = northern_gods
+military = 4
+diplomacy = 0
+stewardship = 7
+intrigue = 6
+learning = 3
+add_trait = "impaler"
+add_trait = "skilled_tactician"
+add_trait="proud"
+add_trait="slothful"
+add_trait="fair"
+
+1973.11.3={birth="1973.11.3"}
+2010.9.10={death="2010.9.10"}
+}
+
+1500014={
+name = "Lasukas"
+dynasty = 33037
+culture = ropsmann
+religion = northern_gods
+military = 10
+diplomacy = 9
+stewardship = 4
+intrigue = 11
+learning = 4
+add_trait = "duelist"
+add_trait = "fortune_builder"
+add_trait="patient"
+add_trait="arbitrary"
+add_trait="just"
+
+1987.4.10={birth="1987.4.10"}
+2059.3.4={death="2059.3.4"}
+}
+
+1500015={
+name = "Sarunas"
+dynasty = 33071
+culture = ropsmann
+religion = northern_gods
+military = 4
+diplomacy = 3
+stewardship = 2
+intrigue = 8
+learning = 9
+add_trait = "mystic"
+add_trait = "amateurish_plotter"
+add_trait="shy"
+add_trait="zealous"
+add_trait="cynical"
+
+1973.1.16={birth="1973.1.16"}
+2022.9.14={death="2022.9.14"}
+}
+
+1500016={
+name = "Merkelis"
+dynasty = 33090
+culture = ropsmann
+religion = northern_gods
+military = 4
+diplomacy = 7
+stewardship = 0
+intrigue = 4
+learning = 9
+add_trait = "gardener"
+add_trait = "naive_appeaser"
+add_trait="ambitious"
+add_trait="paranoid"
+add_trait="honest"
+
+2009.12.6={birth="2009.12.6"}
+2019.3.21={death="2019.3.21"}
+}
+
+1500017={
+name = "Imram"
+dynasty = 33099
+culture = ropsmann
+religion = northern_gods
+military = 7
+diplomacy = 4
+stewardship = 5
+intrigue = 11
+learning = 10
+
+add_trait = "elusive_shadow"
+add_trait="gregarious"
+add_trait="kind"
+
+
+1955.3.28={birth="1955.3.28"}
+2044.6.30={death="2044.6.30"}
+}
+
+1500018={
+name = "Piotr"
+dynasty = 33022
+culture = ropsmann
+religion = northern_gods
+military = 1
+diplomacy = 9
+stewardship = 8
+intrigue = 8
+learning = 7
+
+add_trait = "dutiful_cleric"
+add_trait="craven"
+
+
+
+1992.10.6={birth="1992.10.6"}
+2052.7.15={death="2052.7.15"}
+}
+
+1500019={
+name = "Henryk"
+dynasty = 33253
+culture = ropsmann
+religion = northern_gods
+military = 0
+diplomacy = 7
+stewardship = 1
+intrigue = 7
+learning = 9
+add_trait = "mystic"
+add_trait = "grey_eminence"
+add_trait="greedy"
+
+add_trait="cruel"
+
+1974.12.26={birth=yes}
+2052.5.1={death=yes}
+}
+

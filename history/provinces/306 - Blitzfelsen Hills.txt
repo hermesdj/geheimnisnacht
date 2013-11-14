@@ -1,0 +1,18 @@
+# 306 - Blitzfelsen Hills
+
+# County Title
+title = c_blitzfelsen_hills
+
+# Settlements
+max_settlements = 4
+b_dunkelburg = city
+b_stimmigen = castle
+b_eschwege = temple
+b_backnang = city
+
+# Misc
+culture = reiklander
+religion = sigmarite
+
+
+# History

@@ -1,0 +1,19 @@
+# 375 - Sternieste
+
+# County Title
+title = c_sternieste
+
+# Settlements
+max_settlements = 5
+b_sternieste = castle
+b_siegfriedhof = city
+b_svarsee = temple
+b_morfen = temple
+b_eschenstir = castle
+
+# Misc
+culture = sylvanian
+religion = vampiric
+
+
+# History

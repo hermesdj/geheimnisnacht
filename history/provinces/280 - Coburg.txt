@@ -1,0 +1,16 @@
+# 280 Coburg
+
+# County Title
+title = c_coburg
+
+# Settlements
+max_settlements = 2
+b_coburg = castle
+b_osterwiecke = temple
+
+# Misc
+culture = middenlander
+religion = ulrican
+
+
+# History

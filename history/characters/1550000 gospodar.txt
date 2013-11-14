@@ -1,0 +1,505 @@
+1550000={
+name = "Androvo"
+dynasty = 31005
+culture = gospodar
+religion = northern_gods
+military = 7
+diplomacy = 4
+stewardship = 4
+intrigue = 8
+learning = 9
+
+add_trait = "naive_appeaser"
+add_trait="honest"
+add_trait="craven"
+add_trait="gregarious"
+
+1963.1.22={birth=yes}
+2045.11.14={death="2045.11.14"}
+}
+
+1550001={
+name = "Trifon"
+dynasty = 31040
+culture = gospodar
+religion = northern_gods
+military = 9
+diplomacy = 8
+stewardship = 2
+intrigue = 11
+learning = 0
+add_trait = "mystic"
+add_trait = "fortune_builder"
+add_trait="kind"
+add_trait="greedy"
+
+
+1964.5.12={birth=yes}
+2014.4.20={death="2014.4.20"}
+}
+
+1550002={
+name = "Ruslan"
+dynasty = 31043
+culture = gospodar
+religion = northern_gods
+military = 2
+diplomacy = 9
+stewardship = 7
+intrigue = 2
+learning = 10
+add_trait = "poet"
+add_trait = "tough_soldier"
+
+
+add_trait="tall"
+
+1980.2.27={birth=yes}
+2019.12.18={death="2019.12.18"}
+}
+
+1550003={
+name = "Bela"
+female = yes
+dynasty = 31087
+culture = gospodar
+religion = northern_gods
+military = 10
+diplomacy = 1
+stewardship = 9
+intrigue = 8
+learning = 7
+add_trait = "mystic"
+add_trait = "naive_appeaser"
+add_trait="cruel"
+
+add_trait="weak"
+
+1976.7.5={birth="1976.7.5"}
+2064.10.2={death="2064.10.2"}
+}
+
+1550004={
+name = "Oleg"
+dynasty = 31056
+culture = gospodar
+religion = northern_gods
+military = 3
+diplomacy = 2
+stewardship = 4
+intrigue = 9
+learning = 3
+add_trait = "poet"
+add_trait = "tough_soldier"
+add_trait="chaste"
+add_trait="wroth"
+add_trait="content"
+
+2010.10.8={birth="2010.10.8"}
+2057.1.29={death="2057.1.29"}
+}
+
+1550005={
+name = "Vlademar"
+dynasty = 31175
+culture = gospodar
+religion = northern_gods
+military = 0
+diplomacy = 5
+stewardship = 8
+intrigue = 2
+learning = 4
+add_trait = "duelist"
+add_trait = "mastermind_theologian"
+add_trait="trusting"
+add_trait="slothful"
+add_trait="stressed"
+
+1988.5.27={birth="1988.5.27"}
+2027.6.23={death="2027.6.23"}
+}
+
+1550006={
+name = "Ilyich"
+dynasty = 31081
+culture = gospodar
+religion = northern_gods
+military = 6
+diplomacy = 6
+stewardship = 6
+intrigue = 11
+learning = 2
+add_trait = "scholar"
+add_trait = "dutiful_cleric"
+
+add_trait="ambitious"
+add_trait="temperate"
+
+1974.7.14={birth="1974.7.14"}
+2063.10.30={death="2063.10.30"}
+}
+
+1550007={
+name = "Malyy"
+dynasty = 31109
+culture = gospodar
+religion = northern_gods
+military = 6
+diplomacy = 8
+stewardship = 10
+intrigue = 6
+learning = 8
+add_trait = "poet"
+add_trait = "indulgent_wastrel"
+add_trait="drunkard"
+add_trait="depressed"
+
+
+1991.6.23={birth="1991.6.23"}
+2060.8.25={death="2060.8.25"}
+}
+
+1550008={
+name = "Stepan"
+dynasty = 31141
+culture = gospodar
+religion = northern_gods
+military = 2
+diplomacy = 4
+stewardship = 7
+intrigue = 9
+learning = 8
+add_trait = "poet"
+add_trait = "dutiful_cleric"
+add_trait="legit_bastard"
+add_trait="homosexual"
+
+
+2002.4.2={birth="2002.4.2"}
+2064.10.22={death="2064.10.22"}
+}
+
+1550009={
+name = "Strelok"
+dynasty = 31159
+culture = gospodar
+religion = northern_gods
+military = 4
+diplomacy = 1
+stewardship = 0
+intrigue = 8
+learning = 7
+add_trait = "hunter"
+add_trait = "fortune_builder"
+add_trait="diligent"
+
+add_trait="honest"
+
+1997.7.6={birth="1997.7.6"}
+2062.9.8={death="2062.9.8"}
+}
+
+1550010={
+name = "Varaka"
+dynasty = 31131
+culture = gospodar
+religion = northern_gods
+military = 6
+diplomacy = 3
+stewardship = 6
+intrigue = 11
+learning = 4
+add_trait = "hedonist"
+add_trait = "midas_touched"
+
+
+
+
+1988.7.8={birth="1988.7.8"}
+2015.4.25={death="2015.4.25"}
+}
+
+1550011={
+name = "Lev"
+dynasty = 31156
+culture = gospodar
+religion = northern_gods
+military = 1
+diplomacy = 5
+stewardship = 4
+intrigue = 6
+learning = 4
+add_trait = "falconer"
+add_trait = "skilled_tactician"
+
+
+add_trait="fair"
+
+1968.9.30={birth="1968.9.30"}
+2043.6.1={death="2043.6.1"}
+}
+
+1550012={
+name = "Kezhay"
+dynasty = 31114
+culture = gospodar
+religion = northern_gods
+military = 1
+diplomacy = 8
+stewardship = 4
+intrigue = 2
+learning = 9
+add_trait = "poet"
+add_trait = "amateurish_plotter"
+
+add_trait="diligent"
+add_trait="envious"
+
+1961.1.7={birth="1961.1.7"}
+2011.11.24={death="2011.11.24"}
+}
+
+1550013={
+name = "Ioseb"
+dynasty = 31160
+culture = gospodar
+religion = northern_gods
+military = 7
+diplomacy = 10
+stewardship = 1
+intrigue = 1
+learning = 3
+add_trait = "hedonist"
+add_trait = "thrifty_clerk"
+add_trait="slothful"
+add_trait="patient"
+add_trait="proud"
+
+2005.6.29={birth="2005.6.29"}
+2065.8.25={death="2065.8.25"}
+}
+
+1550014={
+name = "Daniil"
+dynasty = 31142
+culture = gospodar
+religion = northern_gods
+military = 5
+diplomacy = 3
+stewardship = 4
+intrigue = 1
+learning = 10
+add_trait = "hedonist"
+add_trait = "scholarly_theologian"
+add_trait="ambitious"
+add_trait="arbitrary"
+add_trait="shy"
+
+1959.2.16={birth="1959.2.16"}
+2036.11.3={death="2036.11.3"}
+}
+
+1550015={
+name = "Rostislav"
+dynasty = 31120
+culture = gospodar
+religion = northern_gods
+military = 8
+diplomacy = 7
+stewardship = 3
+intrigue = 0
+learning = 9
+add_trait = "scholar"
+add_trait = "flamboyant_schemer"
+add_trait="just"
+add_trait="strong"
+add_trait="paranoid"
+
+1954.5.9={birth="1954.5.9"}
+2046.8.20={death="2046.8.20"}
+}
+
+1550016={
+name = "Uchva"
+dynasty = 31060
+culture = gospodar
+religion = northern_gods
+military = 1
+diplomacy = 0
+stewardship = 9
+intrigue = 3
+learning = 10
+add_trait = "gardener"
+add_trait = "brilliant_strategist"
+add_trait="gregarious"
+add_trait="kind"
+add_trait="cynical"
+
+1983.11.20={birth="1983.11.20"}
+2064.7.15={death="2064.7.15"}
+}
+
+1550017={
+name = "Putiata"
+dynasty = 31119
+culture = gospodar
+religion = northern_gods
+military = 9
+diplomacy = 8
+stewardship = 11
+intrigue = 0
+learning = 8
+add_trait = "duelist"
+add_trait = "elusive_shadow"
+add_trait="honest"
+add_trait="craven"
+add_trait="zealous"
+
+1983.10.15={birth="1983.10.15"}
+2045.2.26={death="2045.2.26"}
+}
+
+1550018={
+name = "Nalka"
+dynasty = 31143
+culture = gospodar
+religion = northern_gods
+military = 2
+diplomacy = 8
+stewardship = 1
+intrigue = 4
+learning = 2
+
+add_trait = "brilliant_strategist"
+
+
+
+
+2007.6.13={birth="2007.6.13"}
+2030.1.29={death="2030.1.29"}
+}
+
+1550019={
+name = "Zoltan"
+dynasty = 31149
+culture = gospodar
+religion = northern_gods
+military = 2
+diplomacy = 7
+stewardship = 7
+intrigue = 0
+learning = 9
+add_trait = "poet"
+add_trait = "flamboyant_schemer"
+add_trait="greedy"
+
+add_trait="weak"
+
+1988.8.18={birth="1988.8.18"}
+2029.10.6={death="2029.10.6"}
+}
+
+1550020={
+name = "Oleg"
+dynasty = 31123
+culture = gospodar
+religion = northern_gods
+military = 2
+diplomacy = 7
+stewardship = 7
+intrigue = 0
+learning = 9
+add_trait = "poet"
+add_trait = "flamboyant_schemer"
+add_trait="greedy"
+add_trait="strong"
+
+1982.8.18={birth="1982.8.18"}
+2029.10.6={death="2029.10.6"}
+}
+
+
+1550021={
+name = "Pier"
+dynasty = 31100
+culture = gospodar
+religion = northern_gods
+military = 9
+diplomacy = 8
+stewardship = 2
+intrigue = 11
+learning = 0
+add_trait = "stressed"
+add_trait = "fortune_builder"
+add_trait="kind"
+add_trait="greedy"
+
+1984.5.12={birth="1984.5.12"}
+2014.4.20={death="2014.4.20"}
+}
+
+
+1550022={
+name = "Yuri"
+dynasty = 31162
+culture = gospodar
+religion = northern_gods
+military = 14
+diplomacy = 6
+stewardship = 7
+intrigue = 9
+learning = 2
+add_trait = "stressed"
+add_trait = "misguided_warrior"
+add_trait="kind"
+add_trait="greedy"
+
+1973.5.12={birth=yes}
+2044.4.20={death=yes}
+}
+
+### Founders
+
+1550023={
+name = "Miska"
+female = yes
+dynasty = 31174
+culture = gospodar
+religion = northern_gods
+military = 10
+diplomacy = 6
+stewardship = 7
+intrigue = 9
+learning = 2
+add_trait = "stressed"
+add_trait = "brilliant_strategist"
+add_trait="ambitious"
+add_trait="proud"
+add_trait="tall"
+
+1468.5.15={birth=yes}
+1524.8.21={death=yes}
+}
+
+1550024={
+name = "Shoika"
+female = yes
+dynasty = 31174
+culture = gospodar
+religion = northern_gods
+military = 10
+diplomacy = 6
+stewardship = 7
+intrigue = 9
+learning = 2
+mother = 1550023
+add_trait = "brilliant_strategist"
+add_trait="ambitious"
+add_trait="proud"
+add_trait="tall"
+
+1498.7.22={birth=yes}
+1563.5.11={death=yes}
+}
+
+###

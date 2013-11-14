@@ -1,0 +1,17 @@
+# 294 - Reinsfeld
+
+# County Title
+title = c_reinsfeld
+
+# Settlements
+max_settlements = 3
+b_reinsfeld = castle
+b_konigsee = castle
+b_uslar = city
+
+# Misc
+culture = reiklander
+religion = sigmarite
+
+
+# History

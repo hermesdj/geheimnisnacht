@@ -1,0 +1,70 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+January;Nachhexen (1);Janvier;Januar;Styczeñ;Enero;Gennaio;Január;Leden;;;;;;x
+February;Jahrdrung (2);Février;Februar;Luty;Febrero;Febbraio;Február;Únor;;;;;;x
+March;Pflugzeit (3);Mars;März;Marzec;Marzo;Marzo;Március;Bøezen;;;;;;x
+April;Sigmarzeit (4);Avril;April;Kwiecieñ;Abril;Aprile;Április;Duben;;;;;;x
+May;Sommerzeit (5);Mai;Mai;Maj;Mayo;Maggio;Május;Kvìten;;;;;;x
+June;Vorgeheim (6);Juin;Juni;Czerwiec;Junio;Giugno;Június;Èerven;;;;;;x
+July;Nachgeheim (7);Juillet;Juli;Lipiec;Julio;Luglio;Július;Èervenec;;;;;;x
+August;Ernzeit (8);Août;August;Sierpieñ;Agosto;Agosto;Augusztus;Srpen;;;;;;x
+September;Brauzeit (9);Septembre;September;Wrzesieñ;Septiembre;Settembre;September;Záøí;;;;;;x
+October;Kaldezeit (10);Octobre;Oktober;PaŸdziernik;Octubre;Ottobre;Október;Øíjen;;;;;;x
+November;Ulriczeit (11);Novembre;November;Listopad;Noviembre;Novembre;November;Listopad;;;;;;x
+December;Vorhexen (12);Décembre;Dezember;Grudzieñ;Diciembre;Dicembre;December;Prosinec;;;;;;x
+Sunday;Sunday;Dimanche;Sonntag;Nd;Domingo;Domenica;Vasárnap;Nedìle;;;;;;x
+Monday;Monday;Lundi;Montag;Pn;Lunes;Lunedì;Hétfõ;Pondìlí;;;;;;x
+Tuesday;Tuesday;Mardi;Dienstag;Wt;Martes;Martedì;Kedd;Úterý;;;;;;x
+Wednesday;Wednesday;Mercredi;Mittwoch;Œr;Miércoles;Mercoledì;Szerda;Støeda;;;;;;x
+Thursday;Thursday;Jeudi;Donnerstag;Cz;Jueves;Giovedì;Csütörtök;Ètvrtek;;;;;;x
+Friday;Friday;Vendredi;Freitag;Pt;Viernes;Venerdì;Péntek;Pátek;;;;;;x
+Saturday;Saturday;Samedi;Samstag;So;Sábado;Sabato;Szombat;Sobota;;;;;;x
+marsh;Marsh;;;;;;;;;;;;;x
+mountain_pass;Mountain Pass;;;;;;;;;;;;;x
+BM_GEHEIMNISNACHT;Geheimnisnacht;;;;;;;;;;;;;x
+BM_GEHEIMNISNACHT_DESC;Vlad von Carstein marches on the fractured Empire to claim it for himself.;;;;;;;;;;;;;x
+BM_WINTER_WAR;Winter War;;;;;;;;;;;;;x
+BM_WINTER_WAR_DESC;Mannfred von Carstein marches out of Sylvania to do what Vlad von Carstein could not.;;;;;;;;;;;;;x
+BM_GREAT_WAR_AGAINST_CHAOS;Great War Against Chaos;;;;;;;;;;;;;x
+BM_GREAT_WAR_AGAINST_CHAOS_DESC;Innumerable hordes pour from Norsca and the Chaos Wastes under the banner of Asavar Kul, Everchosen of Chaos.;;;;;;;;;;;;;x
+BM_MAGNUS_THE_PIOUS;Magnus the Pious;;;;;;;;;;;;;x
+BM_MAGNUS_THE_PIOUS_DESC;The Empire is united for the first time in a thousand years.;;;;;;;;;;;;;x
+BM_STORM_OF_CHAOS;Storm of Chaos;;;;;;;;;;;;;x
+BM_STORM_OF_CHAOS_DESC;Archaon the Everchosen leads the forces of Chaos south to destroy Kislev, the Empire, and the world.;;;;;;;;;;;;;x
+BM_THE_END;The End;;;;;;;;;;;;;x
+BM_THE_END_DESC;Things are looking grim.;;;;;;;;;;;;;x
+LOADING_TIP_0;Small steps corrupt.;;;;;;;;;;;;;x
+LOADING_TIP_1;"Deliver us, Lord Sigmar, from the savage race of Northmen which lays waste our realm" - Common Nordlander prayer;;;;;;;;;;;;;x
+LOADING_TIP_2;Never confuse a Tilean with an Estalian.;;;;;;;;;;;;;x
+LOADING_TIP_3;KILL FOR KHORNE! KILL FOR KHORNE! KILL FOR KHORNE!;;;;;;;;;;;;;x
+LOADING_TIP_4;The cross is a popular symbol in the Empire. The left, right, and upper arms represent the tribes uniting from the east, west and north, and the lower arm represents the Dwarfs.;;;;;;;;;;;;;x
+LOADING_TIP_5;The fleur de lys is a common symbol in Bretonnia. The flower is the sacred emblem of the Lady of the Lake, and grows around holy sites.;;;;;;;;;;;;;x
+LOADING_TIP_6;In the Chaos Wastes, time and space lose consistancy the further north you travel.;;;;;;;;;;;;;x
+LOADING_TIP_7;The Hung are the least trustworthy people in the world, even among the treacherous savages of the north.;;;;;;;;;;;;;x
+LOADING_TIP_8;Tilea and Estalia were once briefly united in a great empire.;;;;;;;;;;;;;x
+LOADING_TIP_9;The ancient empire of Nehekhara had a terrible and long reach, taking slaves and erecting monuments as far as the Old World.;;;;;;;;;;;;;x
+LOADING_TIP_10;Far to the east, the great empire of Cathay endures.;;;;;;;;;;;;;x
+LOADING_TIP_11;Nobody quite knows where little orcs come from.;;;;;;;;;;;;;x
+LOADING_TIP_12;The Lynsk is commonly regarded as the true northern border of civilisation.;;;;;;;;;;;;;x
+LOADING_TIP_13;The great rolling plains of Bretonnia are home to some of the greatest knights in the world.;;;;;;;;;;;;;x
+LOADING_TIP_14;Pirates originating from Sartosa are a constant thorn in the side of Tilean merchants.;;;;;;;;;;;;;x
+LOADING_TIP_15;Eight is the sacred number of Khorne.;;;;;;;;;;;;;x
+LOADING_TIP_16;Six is the sacred number of Slaanesh.;;;;;;;;;;;;;x
+LOADING_TIP_17;Seven is the sacred number of Nurgle.;;;;;;;;;;;;;x
+LOADING_TIP_18;Nine is the sacred number of Tzeentch.;;;;;;;;;;;;;x
+LOADING_TIP_19;Norscans are sometimes traders, sometimes raiders.;;;;;;;;;;;;;x
+LOADING_TIP_20;The Great Forest of the Empire harbours innumerable beasts and foes.;;;;;;;;;;;;;x
+DYN1_DESC;With a score of $SCORE$ you$FAILED$ beat House Holswig-Schliestein. As Prince of Reikland, Wilhelm won the Imperial throne after the debacle of Dieter IV's abdication. Since then they have yet to relinquish the position, the latest in the series being Karl-Franz.;;;;;;;;;;;;;x
+DYN2_DESC;With a score of $SCORE$ you$FAILED$ beat House von Carstein. The von Carsteins originated with Vlad von Carstein, a powerful vampire who in 1797 married Isabella von Drak, daughter of the Graf of Sylvania. With subterfuge, brutality and sorcery he took control of the province, eliminated resistance and recruited promising nobles into his vampiric bloodline. His influence grew until he attempted to take over the fractured Empire in 2010, which resulted in his death in 2051 during the siege of Altdorf. Without his dominant leadership, his extensive family of vampires, cultists and necromancers fragmented into competing claimants, allowing them to be defeated piecemeal by the armies of the Empire. Despite the infighting and setbacks, the von Carstein bloodline survived and has continued to grow in influence, most notably under the control of Mannfred von Carstein.;;;;;;;;;;;;;x
+DYN3_DESC;With a score of $SCORE$ you$FAILED$ beat House von Bildhofen. This house is very old and widespread, with landed estates found throughout the Empire, and several Electors hailing from their dynasty. The most famous of all is Magnus the Pious, formerly a minor noble of Nuln, who united the Empire through his bravery and zealous devotion to Sigmar.;;;;;;;;;;;;;x
+DYN4_DESC;With a score of $SCORE$ you$FAILED$ beat House Untermensch. Despite the unfortunate name, the Untermensch family held a significant amount of influence on the history of the Empire. Most infamous of all is the first Ottilia, Elector of Talabecland, who rebelled against the Imperial election of 1359 and triggered the start of what would become the Age of Three Emperors. The Untermensch dynasty held onto the province of Talabecland and maintained their claim for the Imperial throne right until the ascension of Magnus the Pious in 2304. Despite their longetivity and persistance, they never extended outside of Talabecland, and are mostly remembered for causing the fragmentation of the Empire.;;;;;;;;;;;;;x
+DYN5_DESC;With a score of $SCORE$ you$FAILED$ beat House Bokha of Kislev. Directly descended from Khan-Queen Miska of the Gospodars, the Bokhas have withstood some of the fiercest Chaos incursions the world has seen.;;;;;;;;;;;;;x
+DYN6_DESC;With a score of $SCORE$ you$FAILED$ beat House van der Maacht. Their influence in Marienburg and Westerland stretches back into the hazy past, but it is believed they are distantly related to the various Nordlander ruling houses. The power of Marienburg under the van der Maachts grew as the Imperial system weakened during the Age of Three Emperors, as they took advantage of the general confusion and corruption to strengthen their own position. Nominally a subject territory of Nordland, the political and economic power of the city-state grew to the extent that in 1979 the infant Countess Magritta was elected Empress. The obvious fraud and bribery of the decision dissolved whatever integrity the Empire still had, and by 1980 the Empire had completely broken apart into constituent provinces and imperial claimants. The van der Maachts continued to make their claim for the Imperal throne, but were unable to make much headway due to the destruction caused by the Vampire Wars. In 2302, the last surviving member, Paulus van der Maacht, marched with Magnus the Pious to fight the forces of Chaos in Kislev. His death in battle resulted in the city being thrown into confusion over the sucession, which Magnus solved in 2305 by giving control of the city to a board of merchants.;;;;;;;;;;;;;x
+DYN7_DESC;With a score of $SCORE$ you$FAILED$ beat House Todbringer. Sometimes known instead as Wüterich, they have held Middenland and Middenheim for many centuries, building a reputation for fierce and proud servants of Ulric.;;;;;;;;;;;;;x
+DYN8_DESC;With a score of $SCORE$ you$FAILED$ beat House von Holzkrug. The von Holzkrugs held the throne of Reikland for centuries during the Age of Three Emperors, and even held the Imperial throne at one point. With the support of the Grand Theogonist, they rebelled against the electon of Magritta van der Maacht and attemped to press their own claim for the throne, resulting in the total fragmation of the already ailing Empire. The rulers of Reikland gained some fame for their exploits in the Vampire Wars, but the distrust and emnity of their neighbours prevented them from reuniting the Empire. The family came to an end in 2302 when the last heir, Lorenz, travelled with Magnus the Pious to Kislev to fight in the Great War Against Chaos. His death caused no small turmoil in the succession, which resulted in the Grand Theogonist ceding control of the realm to Magnus in recognition of his services to Sigmar.;;;;;;;;;;;;;x
+DYN9_DESC;With a score of $SCORE$ you$FAILED$ beat House von Alptraum.;;;;;;;;;;;;;x
+DYN10_DESC;With a score of $SCORE$ you$FAILED$ beat House Toppenheimer. Though not Electors, the Toppenheimers have expanded through Wissenland and Solland, securing an excellent power base.;;;;;;;;;;;;;x
+DYN11_DESC;With a score of $SCORE$ you$FAILED$ beat House Gausser.;;;;;;;;;;;;;x
+DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House von Krystallbach. After the defeat of Mannfred von Carstein in 2145, a moment of ill-conceived ambition led Graf Martin von Krystallbach to declare that Sylvania was a component province of Stirland, to the mild concern of his peers. Although this did effectively double the size of his realm, Sylvania proved to be nigh-impossible to govern and remained a regional menace for centuries to come.;;;;;;;;;;;;;x
+DYN13_DESC;With a score of $SCORE$ you$FAILED$ beat House von Drak. The von Draks of Sylvania were legendary in their ill-governance. Under their rule Sylvania was overrun by monsters and petty nobles abused their vassals with impunity. Their reign of ambivalent terror was only ended by the arrival of Vlad von Carstein.;;;;;;;;;;;;;x
+DYN14_DESC;With a score of $SCORE$ you$FAILED$ beat House Stoutheart. In the 26th century, Hisme Stoutheart achieved a record ten consecutive three-year terms as Elder of the Mootland.;;;;;;;;;;;;;x
+DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Nikse. The Nikse family were a minor noble family in Nordland, and are only known from their ocassional marriages into the Todbringer dynasty.;;;;;;;;;;;;;x

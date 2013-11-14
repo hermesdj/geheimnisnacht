@@ -1,0 +1,19 @@
+# 270 Carroburg
+
+# County Title
+title = c_carroburg
+
+# Settlements
+max_settlements = 5
+b_carroburg = castle
+b_senden = temple
+b_breuna = castle
+b_arenshausen = city
+b_barenfahre = temple
+
+# Misc
+culture = reiklander
+religion = sigmarite
+
+
+# History

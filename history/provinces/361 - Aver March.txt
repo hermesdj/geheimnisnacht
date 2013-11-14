@@ -1,0 +1,18 @@
+# 361 Aver March
+
+# County Title
+title = c_aver_march
+
+# Settlements
+max_settlements = 4
+b_einsamholz = castle
+b_grunhugel = city
+b_hornsbys_ferry = city
+b_eberbach = castle
+
+# Misc
+culture = mootlander
+religion = halfling_gods
+
+
+# History

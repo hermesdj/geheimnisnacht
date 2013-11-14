@@ -1,0 +1,16 @@
+# 293 - Merxheim
+
+# County Title
+title = c_merxheim
+
+# Settlements
+max_settlements = 2
+b_merxheim = castle
+b_lemgo = temple
+
+# Misc
+culture = reiklander
+religion = sigmarite
+
+
+# History

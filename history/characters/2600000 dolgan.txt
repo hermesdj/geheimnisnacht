@@ -1,0 +1,402 @@
+2600000={
+name = "Bönek"
+dynasty = 60004
+culture = dolgan
+religion = chaos
+military = 2
+diplomacy = 8
+stewardship = 0
+intrigue = 7
+learning = 4
+add_trait = "impaler"
+add_trait = "midas_touched"
+add_trait="honest"
+add_trait="craven"
+
+
+1955.3.26={birth="1955.3.26"}
+2047.6.12={death="2047.6.12"}
+}
+
+2600001={
+name = "Aklan"
+dynasty = 60006
+culture = dolgan
+religion = chaos
+military = 9
+diplomacy = 5
+stewardship = 4
+intrigue = 2
+learning = 6
+add_trait = "hedonist"
+add_trait = "charismatic_negotiator"
+add_trait="gregarious"
+add_trait="kind"
+add_trait="greedy"
+
+1969.12.24={birth="1969.12.24"}
+2019.4.13={death="2019.4.13"}
+}
+
+2600002={
+name = "Törtogul"
+dynasty = 60005
+culture = dolgan
+religion = chaos
+military = 1
+diplomacy = 4
+stewardship = 6
+intrigue = 8
+learning = 0
+
+add_trait = "brilliant_strategist"
+
+
+
+
+1993.6.2={birth="1993.6.2"}
+2037.10.23={death="2037.10.23"}
+}
+
+2600003={
+name = "Köten"
+dynasty = 60002
+culture = dolgan
+religion = chaos
+military = 2
+diplomacy = 1
+stewardship = 6
+intrigue = 9
+learning = 2
+add_trait = "scholar"
+add_trait = "indulgent_wastrel"
+add_trait="cruel"
+add_trait="weak"
+add_trait="temperate"
+
+1990.4.4={birth="1990.4.4"}
+2060.6.5={death="2060.6.5"}
+}
+
+2600004={
+name = "Eldeçyuk"
+dynasty = 60001
+culture = dolgan
+religion = chaos
+military = 8
+diplomacy = 4
+stewardship = 6
+intrigue = 8
+learning = 3
+add_trait = "mystic"
+add_trait = "grey_eminence"
+add_trait="tall"
+add_trait="wroth"
+add_trait="content"
+
+1993.2.3={birth="1993.2.3"}
+2045.5.22={death="2045.5.22"}
+}
+
+2600005={
+name = "Ipek"
+female = yes
+dynasty = 60000
+culture = dolgan
+religion = chaos
+military = 6
+diplomacy = 9
+stewardship = 9
+intrigue = 0
+learning = 5
+add_trait = "falconer"
+add_trait = "dutiful_cleric"
+add_trait="trusting"
+add_trait="ill"
+add_trait="stressed"
+
+1984.12.19={birth="1984.12.19"}
+2052.8.11={death="2052.8.11"}
+}
+
+2600006={
+name = "Alip"
+dynasty = 60005
+culture = dolgan
+religion = chaos
+military = 8
+diplomacy = 9
+stewardship = 7
+intrigue = 3
+learning = 7
+add_trait = "hedonist"
+add_trait = "skilled_tactician"
+add_trait="chaste"
+add_trait="depressed"
+
+
+1955.2.20={birth="1955.2.20"}
+2068.12.18={death="2068.12.18"}
+}
+
+2600007={
+name = "Girgen"
+dynasty = 60006
+culture = dolgan
+religion = chaos
+military = 1
+diplomacy = 4
+stewardship = 0
+intrigue = 9
+learning = 0
+add_trait = "falconer"
+add_trait = "flamboyant_schemer"
+add_trait="drunkard"
+
+add_trait="lustful"
+
+1984.11.13={birth="1984.11.13"}
+2026.9.20={death="2026.9.20"}
+}
+
+2600008={
+name = "Astlan"
+dynasty = 60007
+culture = dolgan
+religion = chaos
+military = 2
+diplomacy = 6
+stewardship = 3
+intrigue = 6
+learning = 10
+add_trait = "falconer"
+add_trait = "fortune_builder"
+add_trait="humble"
+add_trait="homosexual"
+
+
+1979.11.6={birth="1979.11.6"}
+2064.3.30={death=yes}
+}
+
+2600009={
+name = "Borç"
+dynasty = 60008
+culture = dolgan
+religion = chaos
+military = 1
+diplomacy = 7
+stewardship = 9
+intrigue = 4
+learning = 9
+add_trait = "poet"
+add_trait = "fortune_builder"
+
+
+add_trait="lisp"
+
+1956.10.15={birth="1956.10.15"}
+2048.6.15={death="2048.6.15"}
+}
+
+2600010={
+name = "Ulus"
+dynasty = 60009
+culture = dolgan
+religion = chaos
+military = 9
+diplomacy = 10
+stewardship = 6
+intrigue = 4
+learning = 6
+
+add_trait = "fortune_builder"
+
+add_trait="legit_bastard"
+
+
+1991.9.24={birth="1991.9.24"}
+2031.10.15={death="2031.10.15"}
+}
+
+2600011={
+name = "Tämir"
+dynasty = 60010
+culture = dolgan
+religion = chaos
+military = 10
+diplomacy = 8
+stewardship = 5
+intrigue = 9
+learning = 2
+add_trait = "mystic"
+add_trait = "intricate_webweaver"
+
+
+add_trait="fair"
+
+1952.7.29={birth="1952.7.29"}
+2030.5.5={death="2030.5.5"}
+}
+
+2600012={
+name = "Gundes"
+female = yes
+dynasty = 60011
+culture = dolgan
+religion = chaos
+military = 9
+diplomacy = 8
+stewardship = 9
+intrigue = 0
+learning = 9
+
+add_trait = "underhanded_rogue"
+
+add_trait="diligent"
+add_trait="proud"
+
+1951.3.22={birth="1951.3.22"}
+2060.3.23={death="2060.3.23"}
+}
+
+2600013={
+name = "Ituk"
+dynasty = 60012
+culture = dolgan
+religion = chaos
+military = 1
+diplomacy = 3
+stewardship = 2
+intrigue = 4
+learning = 9
+add_trait = "hunter"
+add_trait = "grey_eminence"
+add_trait="envious"
+add_trait="strong"
+add_trait="shy"
+
+1979.12.24={birth="1979.12.24"}
+2016.6.11={death="2016.6.11"}
+}
+
+2600014={
+name = "Karakus"
+dynasty = 60013
+culture = dolgan
+religion = chaos
+military = 9
+diplomacy = 7
+stewardship = 0
+intrigue = 1
+learning = 9
+add_trait = "gardener"
+add_trait = "intricate_webweaver"
+add_trait="ambitious"
+add_trait="arbitrary"
+add_trait="patient"
+
+1982.10.28={birth="1982.10.28"}
+2017.3.26={death="2017.3.26"}
+}
+
+2600015={
+name = "Baçman"
+dynasty = 60014
+culture = dolgan
+religion = chaos
+military = 1
+diplomacy = 0
+stewardship = 6
+intrigue = 4
+learning = 7
+add_trait = "hunter"
+add_trait = "elusive_shadow"
+add_trait="just"
+add_trait="cynical"
+add_trait="zealous"
+
+1961.12.16={birth="1961.12.16"}
+2015.1.15={death="2015.1.15"}
+}
+
+2600016={
+name = "Bonyak"
+dynasty = 60015
+culture = dolgan
+religion = chaos
+military = 9
+diplomacy = 7
+stewardship = 1
+intrigue = 5
+learning = 2
+add_trait = "gardener"
+add_trait = "intricate_webweaver"
+add_trait="paranoid"
+add_trait="gregarious"
+add_trait="slothful"
+
+1977.7.26={birth="1977.7.26"}
+2058.7.12={death="2058.7.12"}
+}
+
+2600017={
+name = "Afridon"
+dynasty = 483
+culture = dolgan
+religion = chaos
+military = 9
+diplomacy = 9
+stewardship = 0
+intrigue = 1
+learning = 1
+add_trait = "hedonist"
+add_trait = "underhanded_rogue"
+add_trait="craven"
+add_trait="kind"
+add_trait="greedy"
+
+1959.12.5={birth="1959.12.5"}
+2065.4.12={death="2065.4.12"}
+}
+
+2600018={
+name = "Kuntuvdi"
+dynasty = 470
+culture = dolgan
+religion = chaos
+military = 1
+diplomacy = 0
+stewardship = 4
+intrigue = 2
+learning = 9
+add_trait = "mystic"
+add_trait = "tough_soldier"
+
+
+add_trait="honest"
+
+1952.8.14={birth="1952.8.14"}
+2065.12.8={death="2065.12.8"}
+}
+
+2600019={
+name = "Saru"
+dynasty = 477
+culture = dolgan
+religion = chaos
+military = 1
+diplomacy = 7
+stewardship = 5
+intrigue = 8
+learning = 3
+add_trait = "mystic"
+add_trait = "detached_priest"
+
+add_trait="weak"
+add_trait="tall"
+
+1964.12.25={birth="1964.12.25"}
+2063.1.25={death="2063.1.25"}
+}
+

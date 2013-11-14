@@ -1,0 +1,18 @@
+# 364 Ingelfingen
+
+# County Title
+title = c_ingelfingen
+
+# Settlements
+max_settlements = 4
+b_ingelfingen = castle
+b_hemau = city
+b_garbsen = city
+b_rhon = castle
+
+# Misc
+culture = averlander
+religion = sigmarite
+
+
+# History

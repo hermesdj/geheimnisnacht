@@ -1,0 +1,23 @@
+200000={
+name = "Sigmar"
+dynasty = 9000
+culture = unberogen
+religion = ulrican
+military = 21
+diplomacy = 19
+stewardship = 6
+intrigue = 6
+learning = 15
+add_trait = "brilliant_strategist"
+add_trait="brave"
+add_trait="honest"
+add_trait="strong"
+add_trait="diligent"
+add_trait="gregarious"
+
+add_trait="celibate"
+
+-27.5.13={birth="-27.5.13"}
+1.1.1={give_nickname = nick_heldenhammer}
+50.1.1={death="50.1.1"}
+}

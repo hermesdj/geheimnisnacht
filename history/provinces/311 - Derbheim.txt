@@ -1,0 +1,18 @@
+# 311 - Derbheim
+
+# County Title
+title = c_derbheim
+
+# Settlements
+max_settlements = 4
+b_derbheim = castle
+b_hinkend = city
+b_beilngries = temple
+b_bendorf = castle
+
+# Misc
+culture = wissenlander
+religion = sigmarite
+
+
+# History

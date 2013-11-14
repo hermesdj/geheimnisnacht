@@ -1,0 +1,19 @@
+# 243 - Salkalten
+
+# County Title
+title = c_salkalten
+
+# Settlements
+max_settlements = 3
+b_salkalten = castle
+b_verborgenbucht = city
+b_domitz = temple
+b_peine = castle
+b_quickborn = city
+
+# Misc
+culture = ostlander
+religion = ulrican
+
+
+# History

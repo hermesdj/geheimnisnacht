@@ -1,0 +1,11 @@
+2302.7.23 =
+{
+liege="k_marienburg"
+}
+2302.7.23 =
+{
+holding_dynasty = 13009 
+}
+2302.7.23 = {
+holder = 600124
+}

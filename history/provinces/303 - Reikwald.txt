@@ -1,0 +1,18 @@
+# 303 - Reikwald
+
+# County Title
+title = c_reikwald
+
+# Settlements
+max_settlements = 4
+b_rottfurt = city
+b_grunwald_lodge = castle
+b_freyburg = temple
+b_unstrut = city
+
+# Misc
+culture = reiklander
+religion = sigmarite
+
+
+# History

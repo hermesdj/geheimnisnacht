@@ -1,0 +1,18 @@
+# 246 Rossin
+
+# County Title
+title = c_rossin
+
+# Settlements
+max_settlements = 4
+b_rossin = temple
+b_birkewiese = castle
+b_lowitz = city
+b_plon = temple
+
+# Misc
+culture = ostlander
+religion = ulrican
+
+
+# History

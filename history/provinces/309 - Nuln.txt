@@ -1,0 +1,21 @@
+# 309 - Nuln
+
+# County Title
+title = c_nuln
+
+# Settlements
+max_settlements = 7
+b_festunginsel = castle
+b_faulestadt = city
+b_der_halbinsel = castle
+b_altestadt = city
+b_neuestadt = city
+b_tempel_quarter = temple
+b_westdorf = city
+
+# Misc
+culture = wissenlander
+religion = sigmarite
+
+
+# History

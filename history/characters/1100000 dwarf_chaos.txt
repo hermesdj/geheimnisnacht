@@ -1,0 +1,841 @@
+1100000={
+name = "Placeholder"
+dynasty = 504
+culture = dwarf_chaos
+religion = hashut
+military = 8
+diplomacy = 6
+stewardship = 10
+intrigue = 3
+learning = 3
+add_trait = "impaler"
+add_trait = "naive_appeaser"
+add_trait="gregarious"
+add_trait="kind"
+
+
+1981.11.3={birth="1981.11.3"}
+2063.1.17={death="2063.1.17"}
+}
+
+1100001={
+name = "Placeholder"
+dynasty = 531
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 4
+stewardship = 6
+intrigue = 1
+learning = 4
+add_trait = "duelist"
+add_trait = "indulgent_wastrel"
+add_trait="greedy"
+add_trait="craven"
+
+
+1969.5.3={birth="1969.5.3"}
+2043.2.4={death="2043.2.4"}
+}
+
+1100002={
+name = "Placeholder"
+dynasty = 522
+culture = dwarf_chaos
+religion = hashut
+military = 9
+diplomacy = 4
+stewardship = 0
+intrigue = 9
+learning = 6
+
+add_trait = "thrifty_clerk"
+
+
+add_trait="weak"
+
+2006.11.6={birth="2006.11.6"}
+2047.4.11={death="2047.4.11"}
+}
+
+1100003={
+name = "Placeholder"
+dynasty = 546
+culture = dwarf_chaos
+religion = hashut
+military = 3
+diplomacy = 9
+stewardship = 1
+intrigue = 6
+learning = 7
+add_trait = "hunter"
+add_trait = "midas_touched"
+add_trait="honest"
+add_trait="tall"
+add_trait="wroth"
+
+1960.7.25={birth="1960.7.25"}
+2059.4.30={death="2059.4.30"}
+}
+
+1100004={
+name = "Placeholder"
+dynasty = 527
+culture = dwarf_chaos
+religion = hashut
+military = 4
+diplomacy = 4
+stewardship = 10
+intrigue = 9
+learning = 7
+add_trait = "falconer"
+add_trait = "scholarly_theologian"
+add_trait="chaste"
+add_trait="temperate"
+add_trait="humble"
+
+1957.10.21={birth="1957.10.21"}
+2065.2.17={death="2065.2.17"}
+}
+
+1100005={
+name = "Placeholder"
+dynasty = 534
+culture = dwarf_chaos
+religion = hashut
+military = 9
+diplomacy = 8
+stewardship = 11
+intrigue = 11
+learning = 5
+add_trait = "hunter"
+add_trait = "thrifty_clerk"
+add_trait="trusting"
+add_trait="cruel"
+add_trait="content"
+
+1978.5.6={birth="1978.5.6"}
+2057.7.28={death="2057.7.28"}
+}
+
+1100006={
+name = "Placeholder"
+dynasty = 539
+culture = dwarf_chaos
+religion = hashut
+military = 5
+diplomacy = 3
+stewardship = 10
+intrigue = 6
+learning = 4
+add_trait = "gardener"
+add_trait = "tough_soldier"
+add_trait="depressed"
+add_trait="stressed"
+
+
+1951.3.20={birth="1951.3.20"}
+2050.12.6={death="2050.12.6"}
+}
+
+1100007={
+name = "Placeholder"
+dynasty = 541
+culture = dwarf_chaos
+religion = hashut
+military = 0
+diplomacy = 9
+stewardship = 4
+intrigue = 6
+learning = 0
+add_trait = "duelist"
+add_trait = "flamboyant_schemer"
+add_trait="drunkard"
+add_trait="ill"
+
+
+2000.3.23={birth="2000.3.23"}
+2039.10.19={death="2039.10.19"}
+}
+
+1100008={
+name = "Placeholder"
+dynasty = 506
+culture = dwarf_chaos
+religion = hashut
+military = 5
+diplomacy = 7
+stewardship = 1
+intrigue = 6
+learning = 4
+add_trait = "poet"
+add_trait = "elusive_shadow"
+
+add_trait="legit_bastard"
+
+
+1986.5.18={birth="1986.5.18"}
+2029.6.24={death="2029.6.24"}
+}
+
+1100009={
+name = "Placeholder"
+dynasty = 503
+culture = dwarf_chaos
+religion = hashut
+military = 8
+diplomacy = 3
+stewardship = 11
+intrigue = 11
+learning = 4
+add_trait = "falconer"
+add_trait = "indulgent_wastrel"
+add_trait="homosexual"
+add_trait="lisp"
+
+
+1960.11.16={birth="1960.11.16"}
+2041.4.22={death="2041.4.22"}
+}
+
+1100010={
+name = "Placeholder"
+female = yes
+dynasty = 507
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 7
+stewardship = 8
+intrigue = 6
+learning = 6
+add_trait = "scholar"
+add_trait = "brilliant_strategist"
+
+
+add_trait="lustful"
+
+1965.2.30={birth="1965.2.30"}
+2034.7.11={death="2034.7.11"}
+}
+
+1100011={
+name = "Placeholder"
+dynasty = 540
+culture = dwarf_chaos
+religion = hashut
+military = 9
+diplomacy = 7
+stewardship = 7
+intrigue = 3
+learning = 8
+add_trait = "gardener"
+add_trait = "misguided_warrior"
+
+add_trait="fair"
+
+
+1999.11.18={birth="1999.11.18"}
+2033.9.27={death="2033.9.27"}
+}
+
+1100012={
+name = "Placeholder"
+dynasty = 517
+culture = dwarf_chaos
+religion = hashut
+military = 8
+diplomacy = 2
+stewardship = 6
+intrigue = 2
+learning = 9
+add_trait = "impaler"
+add_trait = "fortune_builder"
+
+add_trait="envious"
+add_trait="strong"
+
+1979.1.29={birth="1979.1.29"}
+2031.5.3={death="2031.5.3"}
+}
+
+1100013={
+name = "Placeholder"
+dynasty = 524
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 7
+stewardship = 4
+intrigue = 8
+learning = 9
+add_trait = "falconer"
+add_trait = "indulgent_wastrel"
+add_trait="slothful"
+add_trait="patient"
+add_trait="diligent"
+
+2007.7.9={birth="2007.7.9"}
+2056.2.26={death="2056.2.26"}
+}
+
+1100014={
+name = "Placeholder"
+dynasty = 547
+culture = dwarf_chaos
+religion = hashut
+military = 8
+diplomacy = 1
+stewardship = 2
+intrigue = 11
+learning = 10
+add_trait = "hedonist"
+add_trait = "elusive_shadow"
+add_trait="shy"
+add_trait="ambitious"
+add_trait="arbitrary"
+
+1998.9.23={birth="1998.9.23"}
+2055.12.26={death="2055.12.26"}
+}
+
+1100015={
+name = "Placeholder"
+dynasty = 531
+culture = dwarf_chaos
+religion = hashut
+military = 0
+diplomacy = 1
+stewardship = 1
+intrigue = 6
+learning = 0
+add_trait = "hedonist"
+add_trait = "flamboyant_schemer"
+add_trait="cynical"
+add_trait="zealous"
+add_trait="paranoid"
+
+2001.10.12={birth="2001.10.12"}
+2037.12.14={death="2037.12.14"}
+}
+
+1100016={
+name = "Placeholder"
+dynasty = 513
+culture = dwarf_chaos
+religion = hashut
+military = 6
+diplomacy = 7
+stewardship = 3
+intrigue = 8
+learning = 7
+add_trait = "hedonist"
+add_trait = "naive_appeaser"
+add_trait="just"
+add_trait="gregarious"
+add_trait="proud"
+
+1955.12.10={birth="1955.12.10"}
+2058.1.2={death="2058.1.2"}
+}
+
+1100017={
+name = "Placeholder"
+dynasty = 534
+culture = dwarf_chaos
+religion = hashut
+military = 8
+diplomacy = 1
+stewardship = 5
+intrigue = 3
+learning = 2
+add_trait = "hunter"
+add_trait = "charismatic_negotiator"
+add_trait="kind"
+
+add_trait="honest"
+
+1960.3.17={birth="1960.3.17"}
+2041.8.6={death="2041.8.6"}
+}
+
+1100018={
+name = "Placeholder"
+dynasty = 514
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 3
+stewardship = 11
+intrigue = 8
+learning = 3
+add_trait = "poet"
+add_trait = "naive_appeaser"
+
+
+add_trait="greedy"
+
+1970.9.30={birth="1970.9.30"}
+2027.10.30={death="2027.10.30"}
+}
+
+1100019={
+name = "Placeholder"
+dynasty = 548
+culture = dwarf_chaos
+religion = hashut
+military = 9
+diplomacy = 7
+stewardship = 6
+intrigue = 6
+learning = 7
+add_trait = "mystic"
+add_trait = "flamboyant_schemer"
+add_trait="weak"
+add_trait="tall"
+
+
+1970.4.23={birth="1970.4.23"}
+2016.10.7={death="2016.10.7"}
+}
+
+1100020={
+name = "Placeholder"
+dynasty = 544
+culture = dwarf_chaos
+religion = hashut
+military = 0
+diplomacy = 0
+stewardship = 9
+intrigue = 1
+learning = 2
+add_trait = "duelist"
+add_trait = "midas_touched"
+add_trait="craven"
+add_trait="wroth"
+add_trait="cruel"
+
+2000.3.3={birth="2000.3.3"}
+2049.3.12={death="2049.3.12"}
+}
+
+1100021={
+name = "Placeholder"
+dynasty = 517
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 4
+stewardship = 7
+intrigue = 0
+learning = 9
+add_trait = "poet"
+add_trait = "dutiful_cleric"
+add_trait="humble"
+add_trait="content"
+add_trait="temperate"
+
+1977.5.18={birth="1977.5.18"}
+2031.9.21={death="2031.9.21"}
+}
+
+1100022={
+name = "Placeholder"
+dynasty = 533
+culture = dwarf_chaos
+religion = hashut
+military = 4
+diplomacy = 8
+stewardship = 9
+intrigue = 6
+learning = 1
+add_trait = "gardener"
+add_trait = "amateurish_plotter"
+add_trait="chaste"
+add_trait="stressed"
+add_trait="depressed"
+
+1996.9.24={birth="1996.9.24"}
+2064.1.1={death="2064.1.1"}
+}
+
+1100023={
+name = "Placeholder"
+dynasty = 512
+culture = dwarf_chaos
+religion = hashut
+military = 6
+diplomacy = 5
+stewardship = 10
+intrigue = 4
+learning = 9
+add_trait = "falconer"
+add_trait = "brilliant_strategist"
+add_trait="trusting"
+
+add_trait="drunkard"
+
+1998.8.1={birth="1998.8.1"}
+2021.7.23={death="2021.7.23"}
+}
+
+1100024={
+name = "Placeholder"
+female = yes
+dynasty = 525
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 0
+stewardship = 6
+intrigue = 2
+learning = 10
+add_trait = "mystic"
+add_trait = "misguided_warrior"
+add_trait="lustful"
+
+add_trait="ill"
+
+1973.8.5={birth="1973.8.5"}
+2061.1.13={death="2061.1.13"}
+}
+
+1100025={
+name = "Placeholder"
+dynasty = 510
+culture = dwarf_chaos
+religion = hashut
+military = 0
+diplomacy = 5
+stewardship = 5
+intrigue = 5
+learning = 7
+add_trait = "falconer"
+add_trait = "indulgent_wastrel"
+add_trait="homosexual"
+
+add_trait="legit_bastard"
+
+2009.11.2={birth="2009.11.2"}
+2031.10.23={death="2031.10.23"}
+}
+
+1100026={
+name = "Placeholder"
+dynasty = 511
+culture = dwarf_chaos
+religion = hashut
+military = 8
+diplomacy = 10
+stewardship = 2
+intrigue = 1
+learning = 10
+add_trait = "mystic"
+add_trait = "misguided_warrior"
+
+
+
+
+1976.10.23={birth="1976.10.23"}
+2048.10.3={death="2048.10.3"}
+}
+
+1100027={
+name = "Placeholder"
+dynasty = 546
+culture = dwarf_chaos
+religion = hashut
+military = 7
+diplomacy = 8
+stewardship = 4
+intrigue = 6
+learning = 5
+add_trait = "hunter"
+add_trait = "midas_touched"
+add_trait="lisp"
+
+
+
+2001.2.6={birth="2001.2.6"}
+2028.11.6={death="2028.11.6"}
+}
+
+1100028={
+name = "Placeholder"
+dynasty = 522
+culture = dwarf_chaos
+religion = hashut
+military = 8
+diplomacy = 8
+stewardship = 1
+intrigue = 11
+learning = 3
+add_trait = "duelist"
+add_trait = "amateurish_plotter"
+
+add_trait="fair"
+
+
+2002.4.14={birth="2002.4.14"}
+2026.1.20={death="2026.1.20"}
+}
+
+1100029={
+name = "Placeholder"
+dynasty = 502
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 4
+stewardship = 11
+intrigue = 7
+learning = 4
+add_trait = "scholar"
+add_trait = "charismatic_negotiator"
+add_trait="diligent"
+add_trait="strong"
+add_trait="proud"
+
+1980.10.1={birth="1980.10.1"}
+2042.9.6={death="2042.9.6"}
+}
+
+1100030={
+name = "Placeholder"
+dynasty = 540
+culture = dwarf_chaos
+religion = hashut
+military = 10
+diplomacy = 5
+stewardship = 1
+intrigue = 0
+learning = 10
+add_trait = "scholar"
+add_trait = "charismatic_negotiator"
+add_trait="slothful"
+add_trait="patient"
+add_trait="ambitious"
+
+1981.12.9={birth="1981.12.9"}
+2021.3.7={death="2021.3.7"}
+}
+
+1100031={
+name = "Placeholder"
+dynasty = 527
+culture = dwarf_chaos
+religion = hashut
+military = 6
+diplomacy = 10
+stewardship = 1
+intrigue = 4
+learning = 7
+add_trait = "mystic"
+add_trait = "brilliant_strategist"
+add_trait="shy"
+add_trait="arbitrary"
+add_trait="just"
+
+1954.2.15={birth="1954.2.15"}
+2065.3.8={death="2065.3.8"}
+}
+
+1100032={
+name = "Placeholder"
+dynasty = 534
+culture = dwarf_chaos
+religion = hashut
+military = 4
+diplomacy = 8
+stewardship = 5
+intrigue = 1
+learning = 9
+add_trait = "poet"
+add_trait = "charismatic_negotiator"
+add_trait="zealous"
+add_trait="cynical"
+add_trait="gregarious"
+
+1988.6.27={birth="1988.6.27"}
+2022.6.21={death="2022.6.21"}
+}
+
+1100033={
+name = "Placeholder"
+dynasty = 540
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 7
+stewardship = 8
+intrigue = 0
+learning = 1
+
+add_trait = "mastermind_theologian"
+add_trait="kind"
+add_trait="paranoid"
+add_trait="envious"
+
+1989.5.25={birth="1989.5.25"}
+2031.7.8={death="2031.7.8"}
+}
+
+1100034={
+name = "Placeholder"
+dynasty = 540
+culture = dwarf_chaos
+religion = hashut
+military = 10
+diplomacy = 5
+stewardship = 1
+intrigue = 0
+learning = 10
+add_trait = "scholar"
+add_trait = "charismatic_negotiator"
+add_trait="slothful"
+add_trait="patient"
+add_trait="ambitious"
+
+1981.12.9={birth="1981.12.9"}
+2021.3.7={death="2021.3.7"}
+}
+
+1100035={
+name = "Placeholder"
+dynasty = 527
+culture = dwarf_chaos
+religion = hashut
+military = 6
+diplomacy = 10
+stewardship = 1
+intrigue = 4
+learning = 7
+add_trait = "mystic"
+add_trait = "brilliant_strategist"
+add_trait="shy"
+add_trait="arbitrary"
+add_trait="just"
+
+1954.2.15={birth="1954.2.15"}
+2065.3.8={death="2065.3.8"}
+}
+
+1100036={
+name = "Placeholder"
+dynasty = 534
+culture = dwarf_chaos
+religion = hashut
+military = 4
+diplomacy = 8
+stewardship = 5
+intrigue = 1
+learning = 9
+add_trait = "poet"
+add_trait = "charismatic_negotiator"
+add_trait="zealous"
+add_trait="cynical"
+add_trait="gregarious"
+
+1988.6.27={birth="1988.6.27"}
+2022.6.21={death="2022.6.21"}
+}
+
+1100037={
+name = "Placeholder"
+dynasty = 540
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 7
+stewardship = 8
+intrigue = 0
+learning = 1
+
+add_trait = "mastermind_theologian"
+add_trait="kind"
+add_trait="paranoid"
+add_trait="envious"
+
+1989.5.25={birth="1989.5.25"}
+2031.7.8={death="2031.7.8"}
+}
+
+1100038={
+name = "Placeholder"
+dynasty = 540
+culture = dwarf_chaos
+religion = hashut
+military = 10
+diplomacy = 5
+stewardship = 1
+intrigue = 0
+learning = 10
+add_trait = "scholar"
+add_trait = "charismatic_negotiator"
+add_trait="slothful"
+add_trait="patient"
+add_trait="ambitious"
+
+1981.12.9={birth="1981.12.9"}
+2021.3.7={death="2021.3.7"}
+}
+
+1100039={
+name = "Placeholder"
+dynasty = 527
+culture = dwarf_chaos
+religion = hashut
+military = 6
+diplomacy = 10
+stewardship = 1
+intrigue = 4
+learning = 7
+add_trait = "mystic"
+add_trait = "brilliant_strategist"
+add_trait="shy"
+add_trait="arbitrary"
+add_trait="just"
+
+1954.2.15={birth="1954.2.15"}
+2065.3.8={death="2065.3.8"}
+}
+
+1100041={
+name = "Placeholder"
+dynasty = 534
+culture = dwarf_chaos
+religion = hashut
+military = 4
+diplomacy = 8
+stewardship = 5
+intrigue = 1
+learning = 9
+add_trait = "poet"
+add_trait = "charismatic_negotiator"
+add_trait="zealous"
+add_trait="cynical"
+add_trait="gregarious"
+
+1988.6.27={birth="1988.6.27"}
+2022.6.21={death="2022.6.21"}
+}
+
+1100042={
+name = "Placeholder"
+dynasty = 540
+culture = dwarf_chaos
+religion = hashut
+military = 2
+diplomacy = 7
+stewardship = 8
+intrigue = 0
+learning = 1
+
+add_trait = "mastermind_theologian"
+add_trait="kind"
+add_trait="paranoid"
+add_trait="envious"
+
+1989.5.25={birth="1989.5.25"}
+2031.7.8={death="2031.7.8"}
+}

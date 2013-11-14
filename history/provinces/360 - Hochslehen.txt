@@ -1,0 +1,16 @@
+# 360 Hochslehen
+
+# County Title
+title = c_hochslehen
+
+# Settlements
+max_settlements = 2
+b_hochslehen = castle
+b_bruel = city
+
+# Misc
+culture = averlander
+religion = sigmarite
+
+
+# History

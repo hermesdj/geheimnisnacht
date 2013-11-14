@@ -1,0 +1,17 @@
+# 284 Heedenhof
+
+# County Title
+title = c_heedenhof
+
+# Settlements
+max_settlements = 3
+b_heedenhof = castle
+b_gerzen = city
+b_flaschfurt = city
+
+# Misc
+culture = hochlander
+religion = ulrican
+
+
+# History

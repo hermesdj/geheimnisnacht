@@ -1,0 +1,85 @@
+
+lizardman_group = {
+	graphical_culture = westerngfx
+
+	hexaotl = {
+		graphical_culture = norsegfx
+
+		color = { 0.3 0.6 0.3 }
+	
+		male_names = {
+		
+		}
+		
+		female_names = {
+
+		}
+
+		modifier = default_culture_modifier
+	}
+
+	tlaxtlan = {
+		graphical_culture = norsegfx
+
+		color = { 0.3 0.6 0.3 }
+	
+		male_names = {
+		
+		}
+		
+		female_names = {
+
+		}
+
+		modifier = default_culture_modifier
+	}
+
+	xlanhuapec = {
+		graphical_culture = norsegfx
+
+		color = { 0.3 0.6 0.3 }
+	
+		male_names = {
+		
+		}
+		
+		female_names = {
+
+		}
+
+		modifier = default_culture_modifier
+	}	
+
+	itza = {
+		graphical_culture = norsegfx
+
+		color = { 0.3 0.6 0.3 }
+	
+		male_names = {
+		
+		}
+		
+		female_names = {
+
+		}
+
+		modifier = default_culture_modifier
+	}	
+
+	zlatlan = {
+		graphical_culture = norsegfx
+
+		color = { 0.3 0.6 0.3 }
+	
+		male_names = {
+		
+		}
+		
+		female_names = {
+
+		}
+
+		modifier = default_culture_modifier
+	}	
+}
+

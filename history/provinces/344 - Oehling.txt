@@ -1,0 +1,17 @@
+# 344 Oehling
+
+# County Title
+title = c_oehling
+
+# Settlements
+max_settlements = 3
+b_oehling = castle
+b_schollach = temple
+b_niedling = city
+
+# Misc
+culture = stirlander
+religion = taalite
+
+
+# History

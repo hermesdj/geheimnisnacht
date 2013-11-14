@@ -1,0 +1,245 @@
+arabyan_group = {
+	graphical_culture = muslimgfx
+
+	ramaccan = {
+		graphical_culture = muslimgfx
+	#Arabic Egyptian
+		color = { 0.8 0.7 0.1 }
+		
+		male_names = {
+			Aaron_Aaron Abanoub Abderahman_Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah_Abdullah
+			Abianos_Abijah Abisalom Ablarion Abraam_Abraham Abu-Bakr_Abu-Bakr Adnan Agathon_Agathos Agathonikos_Agathonikos Agathos_Agathos
+			Ahmad_Ahmad Akbar_Akbar Alam Ali_Ali Amr Androus_Andrew Anthinos_Anthimos Arsenios_Arsenios Ashraf_Ashraf Asim
+			Athanasios_Athanasius Badr Bashir Biktor_Victor Binyamin_Benjamin Bishoi_Bishara Boutros_Peter Danyal_Daniel Dawlat Da'oud_David
+			Ezra_Ezra Farhan Firuz Gabri'el_Gabriel Georgios_George Ghiyasaddin Habil_Abel Hakam_Hakam Hammud Hanri_Henry Haroun_Aaron Hisham
+			Hussayn_Hussayn Ibrahim_Abraham Ilyas_Elijah Is'mail_Ismail Izzaddin Jalaaladdin Jawdat Jerjer_Gregory Kemaladdin Khalil Krystafer_Christopher
+			Latif Lot_Lothair Malik Matta_Matthew Mehtar Mikail_Michael Mikhael_Michael Milad_Milad Mina_Menas Muammar
+			Mukhtar Murad Murshid Musa_Moses Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir Ra'uf Rafiq Ridwan Sabah Salim Sha'ban
+			Sharif Suhail Tadros_Theodore Tajaddin Tayyib Touma_Thomas Usama Walid Yahya_Yahya Yared Yassir Youkhanna_John Youssef_Joseph Zaia_Isaiah Zakariyah_Zachary
+		}
+		female_names = {
+			Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima 
+			Jamila Khadija Majida Mariam_Maria Nabila Nura Radiya Rana Sacmis Safiya 
+			Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra_Zahra
+		}
+		from_dynasty_prefix = "mn "
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+
+		modifier = default_culture_modifier
+	}
+
+	tevari = {
+		graphical_culture = muslimgfx
+	#Bedouin
+		color = { 0.7 0.9 0.3 }
+
+		male_names = {
+			Abu-Bakr_Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul_Abdul Abdullah_Abdullah Aghlab Akin Ali_Ali Alim Aram Azam Bahir Burhanaddin
+			Fadil Fadl Faruk Ghalib Hafiz Halil Hasan_Hasan Husam Hussayn_Hussayn Ibrahim_Abraham Idris Is'mail_Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud_Mahmud
+			Mansur Mirza Mubarak Mukhtar Murad Musa_Moses Muslihiddin Muzaffaraddin Najib Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+			Shamir Shujah Sulayman_Solomon Talib Ubayd Uways Yahya_Yahya Ya'qub_Jacob Youkhanna_John Yusuf_Joseph Zeyd
+		}
+		female_names = {
+			Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+		from_dynasty_prefix = "mn "
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}	
+
+	cophic = {
+		graphical_culture = muslimgfx
+	#Berber/Maghreb
+		color = { 0.7 0.7 0.4 }
+
+		male_names = {
+			Abakada Abazza Abbas_Abbas Abdul_Abdul Abdul-Azeem Abdul-Haleem Abdul-Kareem Abdul-Rahman Abdullah_Abdullah Abidin Adal Adam_Adam Aderbal Adergazuz
+			Adherbal Admer Adrir Adum Afaghis Afalawas Afalku Afer Afulay Agafay Agama Agdada Agdun Agellid Aggur Aghali Aghecher Aghilas Agwillul
+			Ahamatu Aheyyad Ahmad_Ahmad Ajdir Ajeddig Akaday Akateiaji Akli Akorakor Aksel_Caecilius Aksil_Caecilius Akutla Akzer Al'a'addin Ali_Ali Alyamas Amawal
+			Amayas Amaz'uz' Ambay Amdegh Amellal Amennay Ameska Amessan Amin Amma Ammuc Amray Amri Amud Anaba Annaber Antalas Anwa Aras
+			Asad Asaru Asirem Aszellay Atissi Awdia Awgustin_August Awinagh Awlagh Awzal Aylal Ayt'ere Az'ar Az'regh Azenkwed Azim Azrur Badda Badis
+			Bagay Barakat Beddis Berkan Bezz'i Br'ir'uc Bukkus Buwayh Buxtuc Capussa Cucung Dali Fahd Fath Fella Firhun Firmus Frawsen Gaia Galussa Gauda
+			Gaya Ghani Ghanim Ghaysan Ghumer Gildun Gulusa H'emmu Haidar Hamad Hashim Hiba Hiempsal Himmi Hotha Hussamaddin Ibiza Ibrahim_Abraham Iccaam
+			Ifni Ifser Ighlaf Igider Igmi Iher Iken Ilyas_Ilyas Immeghar Immel Irgen Is'mail_Ismail Isalcas Ishaq_Isaac Isli Issam It'ij Itber Itri Ixfensen Ixzi Izri Jaffar Jamal Kadidu
+			Kamal Karidenna Kawsen Kenan Keraja Khalid Khanchla Khenchela Khidr Kussil Lacumaces Laweye Lewnis Luki_Lucius Madidu Magsen Mahtar Malik
+			Marwan Masgaba Masgava Masinissa Masmud Masnsen Massinissa Massiva Massnsen Mastan Mastanabal Matiya_Matthew Maysar Maziba Mazigh
+			Medjan Mellal Mennad Menzu Meq'wran Mez'yan Mezwar Micipsa Misagenes Misibsen Mu'izz Muh'end Mukhtar Mula Murad Musa_Moses Mustafa
+			Muzaffaraddin N'Guna Nasr Nazar Niptasan Nizamaddin Ptolemee_Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon_Solomon Sammer
+			Sayyid Seghada Sekla Shamsaddin Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq
+			Tegama Thabitah Tifan_Theophanus Tiljad Ugdada Ugwistan Umar_Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab Watt'as Xamida Yabdas Yaghmurasen
+			Yahya_Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna_John Yunes Yusuf_Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+		female_names = {
+			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac
+			Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin
+			Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda
+			Hadiya Hawwa Hemu Herru Iija Iiju Ittû Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta
+			Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa
+			Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament
+			Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat
+			Tawzalt Tayri Tayyurt Tazdayt Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi Tintifawin Tinzert Tisent
+			Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght Ultafa Wenza Wnissa Wrina Z'diant Z'ergha Zaghwa Zahida Zamba Zibba Zilgum Zubayda
+			Zunagha Zwina Zwira
+		}
+		
+		from_dynasty_prefix = "mn "
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+		
+		modifier = default_culture_modifier
+	}
+
+	medean = {
+		graphical_culture = africangfx
+		second_graphical_culture = muslimgfx
+	#Akan/Yoruba
+		color = { 0.8 0.4 0.3 }
+
+		male_names = {
+			Abayomi Abegunde Abejide Abiade Abidemi Abidugun Abimbola Abiodun Abiola Abioye Adagba Addae Ade Adeagbo Adebamgbe Adebayo Adeben Adebowale Adegbalu Adegoke Adejinle Adejola Ademilu Adeniyi Adetokunbo Adisa Adofo Adom Adusa Afolabi Agbedegbede Agyei Agyeman Agyemang Ajimuda Akinmoyero Akron Akwasi Alayemore Amadi Amoa Amoani Ampah Anan Anane Anikulapo Ankoma Anum Aribiwoso Asamoah Ashon Ason Atoapem Aworokolokin Awotwe Awotwi Ayetise Ayo Ayodele Ayokunle Ayomide Ayotunde 
+			Babafemi Babajide Babatunde Badu Bamidele Bandele Berko Boadi Bodua Bolade 
+			Donkor Dubaku Ebo Ekow Ekun Ekundayo Eniola Enitan Enu 
+			Femi Fiifi Folami Gbanlare Gbegbaaje Gboonijio Giesi Gyasi Idowu Ifedapo Jojo 
+			Kashimawo Kayin Kayode Kehinde Kobby Kobena Kobi Kobina Kodjo Koffi Kofi Kojo Komla Komlan Kontar Kosi Kow Kwabena Kwadwo Kwaku Kwame Kwasi Kwaw Kweku Kwesi Kwodwo Kyere 
+			Lafogido Lagunja Lajamisan Lajodoogun Larunnka Lugbade Lumobi Luwoo 
+			Mansa Manu Minkah 
+			Nkruma Nsia Nsonowa Ntonni 
+			Oba Obafemi Obalufon Obamakin Odidimode Odudua Oduduwa Ogbogbodirin Ogboruu Ogun Ogyam Ojelokunbirin Ojigidiri Okanlajosin Okiti Okoto Okyin Olabode Oladele Olamilekan Olanrewaju Olateju Olojo Oloyede Olufemi Olufunke Olufunmilola Olujimi Olukayode Olumide Olumuyiwa Oluremi Olusegun Oluwa Oluwafunmilayo Oluwanisola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Oluyemi Omobolanle Omogbogbo Opeyemi Oranmiyan Oranyan Osangangan Osei Osinkola Osinlade Owusu Owusuwao Oyin 
+			Pereko 
+			Remilekun Rogbeesin 
+			Siisi 
+			Taiwo Tano Temiloluwa Tokunbo 
+			Wunmonije 
+			Yaba Yao Yaw Yawo Yoofi
+
+		}
+		
+		female_names = {
+			Aba Abagbe Abayomi Abebi Abeje Abeke Abena Abeni Abeo Abina Abiodun Abiona Abisola Abla Abrema Adebola Adebomi Adebowale Adedagbo Adedewe Adedoja Adeleke Adenrele Adeola Aderinola Adesimbo Adesina Adetokunbo Adeyemi Adowa Adwoa Afi Afia Afua Akosi Akosiwa Akosua Aku Akua Alaba Ama Amba Ame Ameyo Amma Araba Asi Awusi Ayawa Ayo Ayobami Ayobunmi Ayodele Ayofemi Ayoluwa Ayomide Ayotunde 
+			Baaba Baako Baduwaa Bandele Bolade Bolanle 
+			Dada Dayo 
+			Efia Efua Ekua Ekundayo Eniola Esi 
+			Folade Folasade 
+			Gbemisola 
+			Idowu Ife Ifedapo Ige Iyabo 
+			Kaakyire Kakra Kayin Kehinde Kessie Kunto Kwasiba 
+			Maanu Mansa Modupe Mojisola Monifa Morayo Moremi Morowa 
+			Nkroma Nsowaa 
+			Oladele Olamide Olateju Olayinka Olubunmi Olufunke Olufunmilola Oluremi Oluwafunmilayo Oluwanisola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Oyin 
+			Panyin 
+			Remilekun 
+			Simisola 
+			Temiloluwa Temitope Thema Titilayo 
+			Yaa Yaaba Yejide Yetunde Yewande 
+		}
+
+		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 40
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+
+	wasai = {
+		graphical_culture = africangfx
+		second_graphical_culture = muslimgfx
+	#Mande/Mossi
+		color = { 0.2 0.9 0.8 }
+
+		male_names = {
+			Ablasse Abubakari Akba Alayaman Alfa Ali Ankada Askia 
+			Baaga Baahamma Baalisongi Babatu Bakon Bakr Balam Bamari Bandigoo Bankanu Bantia Banydoba Banyikuba Baongo Baru Bassarou Bello Berté Birma Biya Biyay Biyo Boagri Bogora Bomba Borgo Bory Boubakar Boukare Boumi Builsa Bulli 
+			Camba 
+			Dankaran Dankataya Dao Dawud Diebo Djata Doauda Doukourou Dulugu Dunku Dyabe 
+			Fadazaw Fari Fodi 
+			Gamambu Gao Gazari Geda Gigma Gima Gmarba Gnounga Gonga Gori Guifo Gumasida 
+			Hamaria Hamicuuri Haminari Hampandi Hanmiliri Hano Harun Huntani 
+			Igoumou Ikoi Ismail 
+			Kabayao Kalabi Kalinkuma Kampadi Kampadiboaghi Kanbga Kanbu Kango Kani Kankan Kanku Kanté Kaongo Karay Karfo Karim Katiya Kaya Kayna Keita Keïta Khalifa Kimi Kinba Kinkin Kobga Konaté Koom Korogo Korongo Kouka Koukiya Kourita Kukura Kumay Kusoy Kusur Kutu 
+			Labidiedo Lahilatoul Ligidi Lisongi Lompo 
+			M'Bali Mabungu Madao Magan Maghan Maghann Mahmud Malla Mamadi Manding Mansa Mari Mayan Mayroumfa Mazi Moogo Musa 
+			Naré Nawalagmba Nene Noaga Nonraogo Nyambe Nyambre 
+			Onadja Ouati Ouedraogo 
+			Pangangri Pataragombe Piiyo 
+			Ragongo Raissa Reidja Riale 
+			Saaga Sagmandia Sakura Salam Salma Sambo Sandaki Sanum Sapilem Sawadogo Saye Shinyunbu Sigiri Silman Sonni Sorgo Souleyman Soumaba Soumaoro Suleiman Sundiata 
+			Tagnogokelin Takoi Tantiari Tenin Tidarpo Tigre Tiiga Tokurma Tontuoriba Totebaldbo Touman Toumani Tuguri 
+			Uli Untani 
+			Wali Wati Wedraogo Wendmi Wobgho Wobogoo Wori Wurbendi Wuribiari Wurijuari 
+			Yaaparigu Yadega Yalle Yama Yamba Yankoi Yembrima Yembuado Yemde Yempaabu Yendabri Yenhamma Yenkoari Yenkpaari Yensombu Yentagma Yentema Yolomfaogoma Yomho Yuma 
+			Zakoi Zalil Zunku 
+
+		}
+
+		female_names = {
+			Aba Abena Abi Adama Adel Adjo Adjua Adzo Afi Aisa Aja Alanso Alima Alimatou Amie Aminata Aminata Anti Aramata Assita Attha Awa Awa Balkissa 
+			Bassin Binta Bintou Bintou Bintu 
+			Daba Dene Djeneba 
+			Edwige 
+			Fanta Fatim Fatou Fatou Fatoumatta Filije Filijee 
+			Guessrima 
+			Hadang Haddy Haoua Hawa 
+			Isatou Jabou Jahou Jainaba Jankeh Jatou Jojo Joma Juka 
+			Kadi Kankou Kati Kenga Keyah Khadijatu Kinti Kisswendsida Koba Kobba Kumba Kunda Kurukemeh Kuta Kutu 
+			Leila_Layla 
+			Madina Maimouna Makuto Maram Marang Mariam Mariama Mbasi Mboose 
+			Nadege Nafi Nafissatou Namandjé Nyima Nyonkoling 
+			Ouedraogo 
+			Pengdwende Pogbi Poko Pokobila 
+			Rasmata Relwende Rikki 
+			Salimata Sanji Sanpoko Sassouma Satang Satou Sibiri Sibo Sogolon Solange Sukai Sunkarr 
+			Tatiana Tomaring 
+			Wamanegdo Wend-Kouni Wenkouni 
+			Yama Yamma 
+		}
+
+
+		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 40
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+}

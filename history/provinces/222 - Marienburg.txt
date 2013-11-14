@@ -1,0 +1,23 @@
+# 221 Marienburg
+
+# County Title
+title = c_marienburg
+
+# Settlements
+max_settlements = 7
+b_rijkers_isle = castle
+b_winkelmarkt = city
+b_guilder_veld = castle
+b_tempelwijk = temple
+b_suiddock = city
+b_rijkspoort = city
+b_ostmuur = city
+
+# Misc
+culture = westerlander
+religion = sigmarite
+
+
+# History
+
+2302.7.23 = { capital = b_winkelmarkt }

@@ -1,0 +1,20 @@
+# 347 Stirhugel
+
+# County Title
+title = c_stirhugel
+
+# Settlements
+max_settlements = 6
+b_wolfsbach = castle
+b_chrobok = temple
+b_russbach = city
+b_ohlsdorf = temple
+b_martig = temple
+b_lammer = castle
+
+# Misc
+culture = stirlander
+religion = sigmarite
+
+
+# History

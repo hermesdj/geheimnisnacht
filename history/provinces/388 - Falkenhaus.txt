@@ -1,0 +1,20 @@
+# 388 - Falkenhaus
+
+# County Title
+title = c_falkenhaus
+
+# Settlements
+max_settlements = 6
+b_the_watchtower = castle
+b_brigstadt = city
+b_mittlenburg = temple
+b_pappenheim = castle
+b_sigmaringen = temple
+b_falkenhausen = city
+
+# Misc
+culture = sylvanian
+religion = vampiric
+
+
+# History

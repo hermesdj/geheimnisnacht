@@ -1,0 +1,19 @@
+# 367 - Fortenhaf
+
+# County Title
+title = c_fortenhaf
+
+# Settlements
+max_settlements = 5
+b_fortenhaf = castle
+b_gerdouen = city
+b_muckenhof = temple
+b_zeisholz = temple
+b_elmshorn = city
+
+# Misc
+culture = ostermarker
+religion = taalite
+
+
+# History

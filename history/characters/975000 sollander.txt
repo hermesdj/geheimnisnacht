@@ -1,0 +1,545 @@
+975000={
+name = "Etti"
+female = yes
+dynasty = 22009
+culture = sollander
+religion = sigmarite
+military = 4
+diplomacy = 3
+stewardship = 5
+intrigue = 2
+learning = 5
+add_trait = "creature_human"
+add_trait = "tall"
+add_trait = "shy"
+add_trait = "kind"
+father = 975025
+mother = 975024
+
+1986.10.10={birth="1986.10.10"}
+2058.4.14={death="2058.4.14"}
+}
+
+975001={
+name = "Ordulf"
+dynasty = 22009
+culture = sollander
+religion = sigmarite
+military = 2
+diplomacy = 7
+stewardship = 6
+intrigue = 8
+learning = 9
+add_trait = "creature_human"
+add_trait = "hunter"
+add_trait = "elusive_shadow"
+add_trait="greedy"
+
+father = 975025
+mother = 975024
+
+1989.1.7={birth="1989.1.7"}
+2063.11.21={death="2063.11.21"}
+}
+
+975002={
+name = "Viktoria"
+female = yes
+dynasty = 22009
+culture = sollander
+religion = sigmarite
+military = 6
+diplomacy = 1
+stewardship = 8
+intrigue = 5
+learning = 9
+add_trait = "creature_human"
+add_trait = "hedonist"
+add_trait = "fortune_builder"
+add_trait="honest"
+add_trait="tall"
+
+father = 975025
+mother = 975024
+
+
+1991.5.30={birth="1991.5.30"}
+2009.2.16 = {add_spouse=500088}
+2058.7.12={death="2058.7.12"}
+}
+
+975003={
+name = "Elke"
+female = yes
+dynasty = 22009
+culture = sollander
+religion = sigmarite
+military = 8
+diplomacy = 7
+stewardship = 10
+intrigue = 2
+learning = 6
+add_trait = "creature_human"
+add_trait = "duelist"
+add_trait = "misguided_warrior"
+add_trait="cruel"
+add_trait="wroth"
+
+father = 975025
+mother = 975024
+
+
+1993.10.13={birth="1993.10.13"}
+2010.2.4 = {add_spouse=500018}
+2021.5.19={death="2021.5.19"}
+}
+
+975004={
+name = "Gunther"
+dynasty = 22009
+culture = sollander
+religion = sigmarite
+military = 10
+diplomacy = 7
+stewardship = 6
+intrigue = 8
+learning = 0
+add_trait = "creature_human"
+add_trait = "poet"
+add_trait = "brilliant_strategist"
+add_trait="weak"
+add_trait="chaste"
+add_trait="humble"
+
+father = 975025
+mother = 975024
+
+1998.12.27={birth="1998.12.27"}
+2068.9.13={death="2068.9.13"}
+}
+
+975005={
+name = "Heilwiva"
+female = yes
+dynasty = 22011
+culture = sollander
+religion = sigmarite
+military = 10
+diplomacy = 1
+stewardship = 3
+intrigue = 2
+learning = 1
+add_trait = "creature_human"
+add_trait = "hunter"
+add_trait = "charismatic_negotiator"
+add_trait="content"
+add_trait="temperate"
+add_trait="trusting"
+
+1988.3.6={birth="1988.3.6"}
+2045.8.26={death="2045.8.26"}
+}
+
+975006={
+name = "Cordula"
+female = yes
+dynasty = 22015
+culture = sollander
+religion = sigmarite
+military = 6
+diplomacy = 4
+stewardship = 2
+intrigue = 0
+learning = 4
+add_trait = "creature_human"
+add_trait = "gardener"
+add_trait = "mastermind_theologian"
+
+1990.10.14={birth="1990.10.14"}
+2016.10.6={death="2016.10.6"}
+}
+
+975007={
+name = "Danielle"
+female = yes
+dynasty = 22017
+culture = sollander
+religion = sigmarite
+military = 9
+diplomacy = 7
+stewardship = 5
+intrigue = 0
+learning = 0
+add_trait = "creature_human"
+add_trait = "mystic"
+add_trait = "elusive_shadow"
+
+
+1989.7.17={birth="1989.7.17"}
+2050.11.4={death="2050.11.4"}
+}
+
+975008={
+name = "Volker"
+dynasty = 22019
+culture = sollander
+religion = sigmarite
+military = 0
+diplomacy = 10
+stewardship = 9
+intrigue = 6
+learning = 1
+add_trait = "creature_human"
+add_trait = "lustful"
+add_trait = "hedonist"
+add_trait = "intricate_webweaver"
+
+1982.6.9={birth="1982.6.9"}
+2012.7.30={death="2012.7.30"}
+}
+
+975009={
+name = "Talbert"
+dynasty = 22022
+culture = sollander
+religion = sigmarite
+military = 7
+diplomacy = 5
+stewardship = 8
+intrigue = 1
+learning = 1
+add_trait = "creature_human"
+add_trait = "naive_appeaser"
+add_trait="lustful"
+
+1957.10.9={birth="1957.10.9"}
+2000.10.10 = {add_spouse=975010}
+2065.6.5={death="2065.6.5"}
+}
+
+975010={
+name = "Marthe"
+female = yes
+dynasty = 22024
+culture = sollander
+religion = sigmarite
+military = 7
+diplomacy = 4
+stewardship = 7
+intrigue = 2
+learning = 9
+add_trait = "creature_human"
+add_trait = "scholar"
+add_trait = "thrifty_clerk"
+
+1982.3.13={birth="1982.3.13"}
+2000.10.10 = {add_spouse=975009}
+2064.10.6={death="2064.10.6"}
+}
+
+975011={
+name = "Max"
+dynasty = 22022
+culture = sollander
+religion = sigmarite
+military = 1
+diplomacy = 1
+stewardship = 9
+intrigue = 3
+learning = 7
+add_trait = "creature_human"
+add_trait = "mystic"
+add_trait = "midas_touched"
+
+add_trait="strong"
+
+father=975009
+mother=975010
+
+2003.10.15={birth="2003.10.15"}
+2055.6.26={death="2055.6.26"}
+}
+
+975012={
+name = "Folkmar"
+dynasty = 22019
+culture = sollander
+religion = sigmarite
+military = 0
+diplomacy = 4
+stewardship = 6
+intrigue = 1
+learning = 5
+add_trait = "creature_human"
+add_trait = "legit_bastard"
+add_trait = "grey_eminence"
+add_trait="proud"
+
+father=975008
+
+2001.6.10={birth="2001.6.10"}
+2059.8.30={death="2059.8.30"}
+}
+
+975013={
+name = "Sighast"
+dynasty = 22019
+culture = sollander
+religion = sigmarite
+military = 8
+diplomacy = 6
+stewardship = 11
+intrigue = 7
+learning = 0
+add_trait = "creature_human"
+add_trait = "poet"
+add_trait = "mastermind_theologian"
+add_trait="envious"
+add_trait="patient"
+add_trait="legit_bastard"
+
+father=975008
+
+2007.11.30={birth="2007.11.30"}
+2024.12.7={death="2024.12.7"}
+}
+
+975014={
+name = "Ruy"
+dynasty = 22019
+culture = sollander
+religion = sigmarite
+military = 4
+diplomacy = 1
+stewardship = 4
+intrigue = 9
+learning = 0
+add_trait = "creature_human"
+add_trait = "duelist"
+add_trait = "indulgent_wastrel"
+add_trait="slothful"
+add_trait="shy"
+add_trait="bastard"
+
+father=975008
+
+2008.11.9={birth="2008.11.9"}
+2062.4.5={death="2062.4.5"}
+}
+
+975015={
+name = "Ellinor"
+female = yes
+dynasty = 22019
+culture = sollander
+religion = sigmarite
+military = 0
+diplomacy = 0
+stewardship = 4
+intrigue = 9
+learning = 0
+add_trait = "creature_human"
+add_trait = "falconer"
+add_trait = "thrifty_clerk"
+add_trait="cynical"
+add_trait="just"
+add_trait="bastard"
+
+father=975008
+
+2008.7.14={birth="2008.7.14"}
+2043.4.19={death="2043.4.19"}
+}
+
+975016={
+name = "Knud"
+dynasty = 22030
+culture = sollander
+religion = sigmarite
+military = 5
+diplomacy = 9
+stewardship = 0
+intrigue = 9
+learning = 7
+add_trait = "creature_human"
+add_trait = "gardener"
+add_trait = "mastermind_theologian"
+add_trait="paranoid"
+add_trait="kind"
+add_trait="gregarious"
+
+father=975019
+
+1980.11.10={birth="1980.11.10"}
+2059.12.17={death="2059.12.17"}
+}
+
+975017={
+name = "Gustavus"
+dynasty = 22030
+culture = sollander
+religion = sigmarite
+military = 0
+diplomacy = 6
+stewardship = 6
+intrigue = 8
+learning = 10
+add_trait = "creature_human"
+add_trait = "impaler"
+add_trait = "amateurish_plotter"
+add_trait="honest"
+
+father=975019
+
+1982.9.12={birth="1982.9.12"}
+2022.8.30={death="2022.8.30"}
+}
+
+975018={
+name = "Alexa"
+female = yes
+dynasty = 22030
+culture = sollander
+religion = sigmarite
+military = 6
+diplomacy = 4
+stewardship = 11
+intrigue = 2
+learning = 5
+add_trait = "creature_human"
+add_trait = "duelist"
+add_trait = "midas_touched"
+add_trait="craven"
+
+father=975019
+
+1994.6.18={birth="1994.6.18"}
+2054.6.22={death="2054.6.22"}
+}
+
+975019={
+name = "Yohann"
+dynasty = 22030
+culture = sollander
+religion = sigmarite
+military = 8
+diplomacy = 0
+stewardship = 9
+intrigue = 4
+learning = 3
+add_trait = "creature_human"
+add_trait = "gardener"
+add_trait = "tough_soldier"
+
+1960.1.26={birth="1960.1.26"}
+2003.10.13={death="2003.10.13"}
+}
+
+#Emperors from Solland
+######################
+
+975020={
+name = "Heydrich"
+dynasty = 22004 
+culture = sollander
+religion = sigmarite
+military = 5
+diplomacy = 9
+stewardship = 0
+intrigue = 9
+learning = 7
+add_trait = "creature_human"
+add_trait = "gardener"
+add_trait = "mastermind_theologian"
+add_trait="paranoid"
+add_trait="kind"
+add_trait="gregarious"
+
+88.11.10={birth="88.11.10"}
+157.12.17={death="157.12.17"}
+}
+
+975021={
+name = "Siegfried"
+dynasty = 22005 
+culture = sollander
+religion = sigmarite
+military = 0
+diplomacy = 6
+stewardship = 6
+intrigue = 8
+learning = 10
+add_trait = "creature_human"
+add_trait = "impaler"
+add_trait = "amateurish_plotter"
+add_trait="honest"
+add_trait="ambitious"
+add_trait="greedy"
+
+651.9.12={birth="651.9.12"}
+732.8.30={death="732.8.30"}
+}
+
+975022={
+name = "Otto"
+dynasty = 22006 
+culture = sollander
+religion = sigmarite
+military = 6
+diplomacy = 4
+stewardship = 11
+intrigue = 2
+learning = 5
+add_trait = "creature_human"
+add_trait = "duelist"
+add_trait = "midas_touched"
+add_trait="craven"
+
+1107.6.18={birth="1107.6.18"}
+1179.6.22={death="1179.6.22"}
+}
+
+975023={
+name = "Dieter"
+dynasty = 22007 
+culture = sollander
+religion = sigmarite
+military = 8
+diplomacy = 0
+stewardship = 9
+intrigue = 4
+learning = 3
+add_trait = "creature_human"
+add_trait = "gardener"
+add_trait = "tough_soldier"
+add_trait="ugly"
+add_trait="cruel"
+
+1611.1.26={birth="1611.1.26"}
+1685.10.13={death="1685.10.13"}
+}
+
+975024={
+name = "Tatjana"
+female = yes
+dynasty = 22008
+culture = sollander
+religion = sigmarite
+add_trait = "creature_human"
+
+1969.1.26={birth="1969.1.26"}
+1985.1.15 = {add_spouse=975025}
+2029.10.13={death="2029.10.13"}
+}
+
+975025={
+name = "Ordulf"
+dynasty = 22009
+culture = sollander
+religion = sigmarite
+add_trait = "creature_human"
+
+1963.1.26={birth="1963.1.26"}
+1985.1.15 = {add_spouse=975024}
+2007.10.13={death="2007.10.13"}
+}

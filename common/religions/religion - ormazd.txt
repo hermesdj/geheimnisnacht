@@ -1,0 +1,59 @@
+ormazd_gods_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	playable = yes
+
+	ormazd = {
+		graphical_culture = westerngfx
+
+		icon = 11
+		color = { 1.0 1.0 0.3 }
+		god_names = {
+			GOD_AL_ALNON GOD_THE_PROPHETS GOD_FATE GOD_ORMAZD
+		}
+		
+		crusade_name = "HOLY_WAR"
+		scripture_name = THE_PROPHETS
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = no
+		max_wives = 4
+	}
+
+	akghan = {
+		graphical_culture = westerngfx
+
+		icon = 11
+		color = { 0.7 0.8 0.1 }
+		god_names = {
+			GOD_AL_ALNON GOD_THE_PROPHETS GOD_FATE GOD_ORMAZD
+		}
+		
+		crusade_name = "HOLY_WAR"
+		scripture_name = THE_PROPHETS
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		max_wives = 4
+	}
+	
+	atruhayid = {
+		graphical_culture = westerngfx
+
+		icon = 11
+		color = { 0.7 0.6 0.7 }
+		god_names = {
+			GOD_AL_ALNON GOD_THE_PROPHETS GOD_FATE GOD_ORMAZD
+		}
+		
+		crusade_name = "HOLY_WAR"
+		scripture_name = THE_PROPHETS
+		priests_can_marry = yes
+		aggression = 1.5 		
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes		
+		max_consorts = 3
+		
+	}		
+}

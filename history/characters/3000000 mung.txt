@@ -1,0 +1,404 @@
+3000000={
+name = "Placeholder"
+dynasty = 456
+culture = mung
+religion = chaos
+military = 4
+diplomacy = 2
+stewardship = 9
+intrigue = 2
+learning = 9
+add_trait = "scholar"
+add_trait = "elusive_shadow"
+add_trait="gregarious"
+add_trait="craven"
+add_trait="honest"
+
+1994.6.27={birth="1994.6.27"}
+2019.8.4={death="2019.8.4"}
+}
+
+3000001={
+name = "Placeholder"
+female = yes
+dynasty = 455
+culture = mung
+religion = chaos
+military = 5
+diplomacy = 2
+stewardship = 11
+intrigue = 2
+learning = 7
+
+add_trait = "mastermind_theologian"
+add_trait="greedy"
+add_trait="kind"
+
+
+1972.1.14={birth="1972.1.14"}
+2024.4.24={death=yes}
+}
+
+3000002={
+name = "Placeholder"
+dynasty = 476
+culture = mung
+religion = chaos
+military = 8
+diplomacy = 9
+stewardship = 2
+intrigue = 11
+learning = 9
+add_trait = "hedonist"
+add_trait = "misguided_warrior"
+
+
+add_trait="tall"
+
+1981.6.4={birth="1981.6.4"}
+2057.7.25={death="2057.7.25"}
+}
+
+3000003={
+name = "Placeholder"
+dynasty = 453
+culture = mung
+religion = chaos
+military = 3
+diplomacy = 8
+stewardship = 8
+intrigue = 1
+learning = 10
+add_trait = "hedonist"
+add_trait = "naive_appeaser"
+
+add_trait="cruel"
+add_trait="temperate"
+
+1984.10.24={birth="1984.10.24"}
+2037.8.26={death="2037.8.26"}
+}
+
+3000004={
+name = "Placeholder"
+female = yes
+dynasty = 457
+culture = mung
+religion = chaos
+military = 8
+diplomacy = 5
+stewardship = 5
+intrigue = 2
+learning = 10
+add_trait = "impaler"
+add_trait = "dutiful_cleric"
+add_trait="weak"
+add_trait="wroth"
+add_trait="content"
+
+1980.5.19={birth="1980.5.19"}
+2012.3.8={death="2012.3.8"}
+}
+
+3000005={
+name = "Yanni"
+dynasty = 475
+culture = mung
+religion = chaos
+military = 10
+diplomacy = 3
+stewardship = 2
+intrigue = 7
+learning = 1
+
+add_trait = "amateurish_plotter"
+add_trait="humble"
+add_trait="trusting"
+add_trait="stressed"
+
+2007.3.27={birth="2007.3.27"}
+2047.4.1={death="2047.4.1"}
+}
+
+3000006={
+name = "Placeholder"
+dynasty = 476
+culture = mung
+religion = chaos
+military = 2
+diplomacy = 7
+stewardship = 1
+intrigue = 6
+learning = 0
+add_trait = "impaler"
+add_trait = "grey_eminence"
+add_trait="chaste"
+add_trait="depressed"
+add_trait="ill"
+
+2001.5.10={birth="2001.5.10"}
+2048.8.7={death="2048.8.7"}
+}
+
+3000007={
+name = "Placeholder"
+dynasty = 460
+culture = mung
+religion = chaos
+military = 7
+diplomacy = 9
+stewardship = 4
+intrigue = 2
+learning = 1
+add_trait = "scholar"
+add_trait = "underhanded_rogue"
+add_trait="drunkard"
+
+add_trait="lustful"
+
+1985.2.21={birth="1985.2.21"}
+2044.11.13={death="2044.11.13"}
+}
+
+3000008={
+name = "Placeholder"
+female = yes
+dynasty = 451
+culture = mung
+religion = chaos
+military = 5
+diplomacy = 6
+stewardship = 9
+intrigue = 4
+learning = 10
+add_trait = "gardener"
+add_trait = "midas_touched"
+
+
+
+
+1960.8.18={birth="1960.8.18"}
+2040.2.27={death="2040.2.27"}
+}
+
+3000009={
+name = "Placeholder"
+dynasty = 469
+culture = mung
+religion = chaos
+military = 2
+diplomacy = 6
+stewardship = 8
+intrigue = 6
+learning = 7
+add_trait = "falconer"
+add_trait = "intricate_webweaver"
+
+add_trait="homosexual"
+add_trait="legit_bastard"
+
+2000.3.17={birth="2000.3.17"}
+2029.6.10={death="2029.6.10"}
+}
+
+3000010={
+name = "Placeholder"
+dynasty = 452
+culture = mung
+religion = chaos
+military = 4
+diplomacy = 5
+stewardship = 1
+intrigue = 8
+learning = 2
+add_trait = "gardener"
+add_trait = "tough_soldier"
+
+add_trait="lisp"
+
+
+1980.3.3={birth="1980.3.3"}
+2042.6.4={death="2042.6.4"}
+}
+
+3000011={
+name = "Placeholder"
+dynasty = 451
+culture = mung
+religion = chaos
+military = 0
+diplomacy = 2
+stewardship = 5
+intrigue = 5
+learning = 8
+add_trait = "impaler"
+add_trait = "tough_soldier"
+
+
+
+
+1992.5.20={birth="1992.5.20"}
+2049.8.10={death="2049.8.10"}
+}
+
+3000012={
+name = "Placeholder"
+female = yes
+dynasty = 475
+culture = mung
+religion = chaos
+military = 8
+diplomacy = 3
+stewardship = 9
+intrigue = 0
+learning = 9
+add_trait = "poet"
+add_trait = "elusive_shadow"
+add_trait="fair"
+add_trait="envious"
+add_trait="strong"
+
+1989.4.7={birth="1989.4.7"}
+2045.9.21={death="2045.9.21"}
+}
+
+3000013={
+name = "Placeholder"
+dynasty = 459
+culture = mung
+religion = chaos
+military = 8
+diplomacy = 1
+stewardship = 4
+intrigue = 0
+learning = 0
+add_trait = "mystic"
+add_trait = "dutiful_cleric"
+add_trait="slothful"
+add_trait="proud"
+add_trait="patient"
+
+1978.10.7={birth="1978.10.7"}
+2057.7.16={death="2057.7.16"}
+}
+
+3000014={
+name = "Placeholder"
+dynasty = 457
+culture = mung
+religion = chaos
+military = 9
+diplomacy = 0
+stewardship = 9
+intrigue = 11
+learning = 3
+
+add_trait = "intricate_webweaver"
+add_trait="ambitious"
+add_trait="arbitrary"
+add_trait="just"
+
+1988.5.18={birth="1988.5.18"}
+2024.10.17={death="2024.10.17"}
+}
+
+3000015={
+name = "Placeholder"
+dynasty = 463
+culture = mung
+religion = chaos
+military = 10
+diplomacy = 7
+stewardship = 6
+intrigue = 9
+learning = 9
+add_trait = "mystic"
+add_trait = "indulgent_wastrel"
+add_trait="shy"
+add_trait="zealous"
+add_trait="diligent"
+
+1980.12.3={birth="1980.12.3"}
+2027.3.10={death="2027.3.10"}
+}
+
+3000016={
+name = "Placeholder"
+dynasty = 479
+culture = mung
+religion = chaos
+military = 0
+diplomacy = 2
+stewardship = 9
+intrigue = 5
+learning = 9
+add_trait = "gardener"
+add_trait = "grey_eminence"
+add_trait="cynical"
+add_trait="paranoid"
+add_trait="gregarious"
+
+1961.11.6={birth="1961.11.6"}
+2063.5.9={death="2063.5.9"}
+}
+
+3000017={
+name = "Placeholder"
+dynasty = 467
+culture = mung
+religion = chaos
+military = 9
+diplomacy = 8
+stewardship = 4
+intrigue = 3
+learning = 9
+add_trait = "hunter"
+add_trait = "charismatic_negotiator"
+add_trait="kind"
+add_trait="honest"
+add_trait="craven"
+
+1976.8.24={birth="1976.8.24"}
+2061.8.5={death="2061.8.5"}
+}
+
+3000018={
+name = "Placeholder"
+dynasty = 455
+culture = mung
+religion = chaos
+military = 6
+diplomacy = 9
+stewardship = 11
+intrigue = 11
+learning = 0
+add_trait = "gardener"
+add_trait = "skilled_tactician"
+
+add_trait="greedy"
+
+
+2004.1.30={birth="2004.1.30"}
+2055.10.9={death="2055.10.9"}
+}
+
+3000019={
+name = "Placeholder"
+dynasty = 471
+culture = mung
+religion = chaos
+military = 6
+diplomacy = 1
+stewardship = 11
+intrigue = 9
+learning = 10
+add_trait = "poet"
+add_trait = "midas_touched"
+
+
+add_trait="tall"
+
+1988.3.16={birth="1988.3.16"}
+2031.11.24={death="2031.11.24"}
+}
+

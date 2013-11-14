@@ -1,0 +1,869 @@
+
+ # Castle
+castle = {
+
+	###Dwarf Settlement
+	ca_dwarf_keep_1 = {
+		desc = ca_dwarf_keep_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		build_cost = 50
+		build_time = 30
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 0.0		
+	}
+	
+	ca_dwarf_keep_2 = {
+		desc = ca_dwarf_keep_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_dwarf_keep_1
+		build_cost = 100
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 79
+		
+		extra_tech_building_start = 0.5
+	}
+	
+	ca_dwarf_keep_3 = {
+		desc = ca_dwarf_keep_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_dwarf_keep_2
+		build_cost = 150
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 78
+
+		extra_tech_building_start = 3.0
+	}
+	
+	ca_dwarf_keep_4 = {
+		desc = ca_dwarf_keep_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 3 }
+		upgrades_from = ca_dwarf_keep_3
+		build_cost = 200
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 77
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_keep_5 = {
+		desc = ca_dwarf_keep_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_dwarf_keep_4
+		build_cost = 250
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 76
+
+		extra_tech_building_start = 3.0		
+	}	
+	
+
+	###Dwarf Fort
+	
+	ca_dwarf_fort_1 = {
+		desc = ca_dwarf_fort_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		build_cost = 50
+		build_time = 30
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 0.0		
+	}
+	
+	ca_dwarf_fort_2 = {
+		desc = ca_dwarf_fort_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_dwarf_fort_1
+		build_cost = 100
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 79
+		
+		extra_tech_building_start = 0.5
+	}
+	
+	ca_dwarf_fort_3 = {
+		desc = ca_dwarf_fort_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_dwarf_fort_2
+		build_cost = 150
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 78
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_fort_4 = {
+		desc = ca_dwarf_fort_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 3 }
+		upgrades_from = ca_dwarf_fort_3
+		build_cost = 200
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 77
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_fort_5 = {
+		desc = ca_dwarf_fort_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = dwarf_group
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_dwarf_fort_4
+		build_cost = 250
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		fort_level = 0.25
+		galleys = 1
+		ai_creation_factor = 76
+
+		extra_tech_building_start = 3.0		
+	}	
+
+
+	
+	###Dwarf Mine
+	
+	ca_dwarf_mine_1 = {
+		desc = ca_dwarf_mine_1_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_dwarf_keep_1  }
+		not_if_x_exists = { ca_dwarf_workshop_1 ca_dwarf_workshop_2 ca_dwarf_workshop_3 ca_dwarf_workshop_4 ca_dwarf_workshop_5 }
+		build_cost = 50
+		build_time = 365
+		light_infantry = 40
+		archers = 40
+		levy_reinforce_rate = 0.15
+		tax_income = 2
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_mine_2 = {
+		desc = ca_dwarf_mine_2_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		prerequisites = { ca_dwarf_keep_2  }
+		not_if_x_exists = { ca_dwarf_workshop_1 ca_dwarf_workshop_2 ca_dwarf_workshop_3 ca_dwarf_workshop_4 ca_dwarf_workshop_5 }
+		upgrades_from = ca_dwarf_mine_1
+		build_cost = 100
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		levy_reinforce_rate = 0.05
+		tax_income = 1
+		ai_creation_factor = 79
+		
+		extra_tech_building_start = 3.0
+	}
+	
+	ca_dwarf_mine_3 = {
+		desc = ca_dwarf_mine_3_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		prerequisites = { ca_dwarf_keep_3  }
+		not_if_x_exists = { ca_dwarf_workshop_1 ca_dwarf_workshop_2 ca_dwarf_workshop_3 ca_dwarf_workshop_4 ca_dwarf_workshop_5 }
+		upgrades_from = ca_dwarf_mine_2
+		build_cost = 150
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		levy_reinforce_rate = 0.05
+		tax_income = 1
+		ai_creation_factor = 78
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_mine_4 = {
+		desc = ca_dwarf_mine_4_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 3 }
+		prerequisites = { ca_dwarf_keep_4  }
+		not_if_x_exists = { ca_dwarf_workshop_1 ca_dwarf_workshop_2 ca_dwarf_workshop_3 ca_dwarf_workshop_4 ca_dwarf_workshop_5 }
+		upgrades_from = ca_dwarf_mine_3
+		build_cost = 200
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		levy_reinforce_rate = 0.05
+		tax_income = 1
+		ai_creation_factor = 77
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_mine_5 = {
+		desc = ca_dwarf_mine_5_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		prerequisites = { ca_dwarf_keep_5 }
+		not_if_x_exists = { ca_dwarf_workshop_1 ca_dwarf_workshop_2 ca_dwarf_workshop_3 ca_dwarf_workshop_4 ca_dwarf_workshop_5 }
+		upgrades_from = ca_dwarf_mine_4
+		build_cost = 250
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		levy_reinforce_rate = 0.05
+		tax_income = 1
+		ai_creation_factor = 76
+
+		extra_tech_building_start = 3.0		
+	}	
+
+	
+	###Dwarf Workshop
+
+	ca_dwarf_workshop_1 = {
+		desc = ca_dwarf_workshop_1_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_dwarf_keep_1 }
+		not_if_x_exists = { ca_dwarf_mine_1 ca_dwarf_mine_2 ca_dwarf_mine_3 ca_dwarf_mine_4 ca_dwarf_mine_5 }
+		build_cost = 50
+		build_time = 365
+		light_cavalry = 30
+		knights = 30
+		heavy_infantry = 30
+		ai_creation_factor = 60
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_workshop_2 = {
+		desc = ca_dwarf_workshop_2_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		prerequisites = { ca_dwarf_keep_2 }
+		not_if_x_exists = { ca_dwarf_mine_1 ca_dwarf_mine_2 ca_dwarf_mine_3 ca_dwarf_mine_4 ca_dwarf_mine_5 }
+		upgrades_from = ca_dwarf_workshop_1
+		build_cost = 100
+		build_time = 365
+		light_cavalry = 20
+		knights = 20
+		heavy_infantry = 20
+		ai_creation_factor = 59
+		
+		extra_tech_building_start = 3.0
+	}
+	
+	ca_dwarf_workshop_3 = {
+		desc = ca_dwarf_workshop_3_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		prerequisites = { ca_dwarf_keep_3 }
+		not_if_x_exists = { ca_dwarf_mine_1 ca_dwarf_mine_2 ca_dwarf_mine_3 ca_dwarf_mine_4 ca_dwarf_mine_5 }
+		upgrades_from = ca_dwarf_workshop_2
+		build_cost = 150
+		build_time = 365
+		light_cavalry = 20
+		knights = 20
+		heavy_infantry = 20
+		ai_creation_factor = 58
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_workshop_4 = {
+		desc = ca_dwarf_workshop_4_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 3 }
+		prerequisites = { ca_dwarf_keep_4 }
+		not_if_x_exists = { ca_dwarf_mine_1 ca_dwarf_mine_2 ca_dwarf_mine_3 ca_dwarf_mine_4 ca_dwarf_mine_5 }
+		upgrades_from = ca_dwarf_workshop_3
+		build_cost = 200
+		build_time = 365
+		light_cavalry = 20
+		knights = 20
+		heavy_infantry = 20
+		ai_creation_factor = 57
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_workshop_5 = {
+		desc = ca_dwarf_workshop_5_desc
+		potential = {
+			OR = {
+				culture_group = dwarf_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		prerequisites = { ca_dwarf_keep_5 }
+		not_if_x_exists = { ca_dwarf_mine_1 ca_dwarf_mine_2 ca_dwarf_mine_3 ca_dwarf_mine_4 ca_dwarf_mine_5 }
+		upgrades_from = ca_dwarf_workshop_4
+		build_cost = 250
+		build_time = 365
+		light_cavalry = 20
+		knights = 20
+		heavy_infantry = 20
+		ai_creation_factor = 56
+
+		extra_tech_building_start = 3.0		
+	}
+
+
+	###Dwarven Grand Smithy
+	
+	ca_dwarf_smithy_1 = {
+		desc = ca_dwarf_smithy_1_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_dwarf_fort_1 }	
+		not_if_x_exists = { ca_dwarf_missile_1 ca_dwarf_missile_2 ca_dwarf_missile_3 ca_dwarf_missile_4 ca_dwarf_missile_5 }
+		build_cost = 50
+		build_time = 365
+		heavy_infantry = 30
+		knights = 15
+		retinuesize = 20
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_smithy_2 = {
+		desc = ca_dwarf_smithy_2_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		prerequisites = { ca_dwarf_fort_2 }	
+		not_if_x_exists = { ca_dwarf_missile_1 ca_dwarf_missile_2 ca_dwarf_missile_3 ca_dwarf_missile_4 ca_dwarf_missile_5 }
+		upgrades_from = ca_dwarf_smithy_1
+		build_cost = 100
+		build_time = 365
+		heavy_infantry = 30
+		knights = 15
+		retinuesize = 20
+		ai_creation_factor = 79
+		
+		extra_tech_building_start = 3.0
+	}
+	
+	ca_dwarf_smithy_3 = {
+		desc = ca_dwarf_smithy_3_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		prerequisites = { ca_dwarf_fort_3 }	
+		not_if_x_exists = { ca_dwarf_missile_1 ca_dwarf_missile_2 ca_dwarf_missile_3 ca_dwarf_missile_4 ca_dwarf_missile_5 }
+		upgrades_from = ca_dwarf_smithy_2
+		build_cost = 150
+		build_time = 365
+		heavy_infantry = 30
+		knights = 15
+		retinuesize = 20
+		ai_creation_factor = 78
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_smithy_4 = {
+		desc = ca_dwarf_smithy_4_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 3 }
+		prerequisites = { ca_dwarf_fort_4 }	
+		not_if_x_exists = { ca_dwarf_missile_1 ca_dwarf_missile_2 ca_dwarf_missile_3 ca_dwarf_missile_4 ca_dwarf_missile_5 }
+		upgrades_from = ca_dwarf_smithy_3
+		build_cost = 200
+		build_time = 365
+		heavy_infantry = 30
+		knights = 15
+		retinuesize = 20
+		ai_creation_factor = 77
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_smithy_5 = {
+		desc = ca_dwarf_smithy_5_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		prerequisites = { ca_dwarf_fort_5 }	
+		not_if_x_exists = { ca_dwarf_missile_1 ca_dwarf_missile_2 ca_dwarf_missile_3 ca_dwarf_missile_4 ca_dwarf_missile_5 }
+		upgrades_from = ca_dwarf_smithy_4
+		build_cost = 250
+		build_time = 365
+		heavy_infantry = 30
+		knights = 15
+		retinuesize = 20
+		ai_creation_factor = 76
+
+		extra_tech_building_start = 3.0		
+	}	
+	
+	
+	
+	### Dwarf Missile Range
+	
+	ca_dwarf_missile_1 = {
+		desc = ca_dwarf_missile_1_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_dwarf_fort_1 }	
+		not_if_x_exists = { ca_dwarf_smithy_1 ca_dwarf_smithy_2 ca_dwarf_smithy_3 ca_dwarf_smithy_4 ca_dwarf_smithy_5 }
+		build_cost = 50
+		build_time = 365
+		light_infantry = 80
+		light_cavalry = 40
+		archers = 80
+		levy_reinforce_rate = 0.1
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_missile_2 = {
+		desc = ca_dwarf_missile_2_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		prerequisites = { ca_dwarf_fort_2 }	
+		not_if_x_exists = { ca_dwarf_smithy_1 ca_dwarf_smithy_2 ca_dwarf_smithy_3 ca_dwarf_smithy_4 ca_dwarf_smithy_5 }
+		upgrades_from = ca_dwarf_missile_1
+		build_cost = 100
+		build_time = 365
+		light_infantry = 40
+		light_cavalry = 20
+		archers = 40
+		levy_reinforce_rate = 0.1
+		ai_creation_factor = 79
+		
+		extra_tech_building_start = 3.0
+	}
+	
+	ca_dwarf_missile_3 = {
+		desc = ca_dwarf_missile_3_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		prerequisites = { ca_dwarf_fort_3 }	
+		not_if_x_exists = { ca_dwarf_smithy_1 ca_dwarf_smithy_2 ca_dwarf_smithy_3 ca_dwarf_smithy_4 ca_dwarf_smithy_5 }
+		upgrades_from = ca_dwarf_missile_2
+		build_cost = 150
+		build_time = 365
+		light_infantry = 40
+		light_cavalry = 20
+		archers = 40
+		levy_reinforce_rate = 0.1
+		ai_creation_factor = 78
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_missile_4 = {
+		desc = ca_dwarf_missile_4_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 3 }
+		prerequisites = { ca_dwarf_fort_4 }	
+		not_if_x_exists = { ca_dwarf_smithy_1 ca_dwarf_smithy_2 ca_dwarf_smithy_3 ca_dwarf_smithy_4 ca_dwarf_smithy_5 }
+		upgrades_from = ca_dwarf_missile_3
+		build_cost = 200
+		build_time = 365
+		light_infantry = 40
+		light_cavalry = 20
+		archers = 40
+		levy_reinforce_rate = 0.1
+		ai_creation_factor = 77
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_missile_5 = {
+		desc = ca_dwarf_missile_5_desc
+		potential = {
+			culture_group = dwarf_group
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		prerequisites = { ca_dwarf_fort_5 }	
+		not_if_x_exists = { ca_dwarf_smithy_1 ca_dwarf_smithy_2 ca_dwarf_smithy_3 ca_dwarf_smithy_4 ca_dwarf_smithy_5 }
+		upgrades_from = ca_dwarf_missile_4
+		build_cost = 250
+		build_time = 365
+		light_infantry = 40
+		light_cavalry = 20
+		archers = 40
+		levy_reinforce_rate = 0.1
+		ai_creation_factor = 76
+
+		extra_tech_building_start = 3.0		
+	}	
+	
+	
+		
+	
+
+	###Dwarf Barracks
+	
+	ca_dwarf_barracks_1 = {
+		desc = ca_dwarf_barracks_1_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_dwarf_keep_1 }
+		not_if_x_exists = { ca_dwarf_cannon_1 ca_dwarf_cannon_2 ca_dwarf_cannon_3 ca_dwarf_cannon_4 ca_dwarf_cannon_5 }
+		build_cost = 50
+		build_time = 365
+		garrison_size = 0.15
+		fort_level = 0.75
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_barracks_2 = {
+		desc = ca_dwarf_barracks_2_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		prerequisites = { ca_dwarf_keep_2 }
+		not_if_x_exists = { ca_dwarf_cannon_1 ca_dwarf_cannon_2 ca_dwarf_cannon_3 ca_dwarf_cannon_4 ca_dwarf_cannon_5 }
+		upgrades_from = ca_dwarf_barracks_1
+		build_cost = 100
+		build_time = 365
+		garrison_size = 0.05
+		fort_level = 0.5
+		ai_creation_factor = 79
+		
+		extra_tech_building_start = 3.0
+	}
+	
+	ca_dwarf_barracks_3 = {
+		desc = ca_dwarf_barracks_3_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		prerequisites = { ca_dwarf_keep_3 }
+		not_if_x_exists = { ca_dwarf_cannon_1 ca_dwarf_cannon_2 ca_dwarf_cannon_3 ca_dwarf_cannon_4 ca_dwarf_cannon_5 }
+		upgrades_from = ca_dwarf_barracks_2
+		build_cost = 150
+		build_time = 365
+		garrison_size = 0.05
+		fort_level = 0.5
+		ai_creation_factor = 78
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_barracks_4 = {
+		desc = ca_dwarf_barracks_4_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 3 }
+		prerequisites = { ca_dwarf_keep_4 }
+		not_if_x_exists = { ca_dwarf_cannon_1 ca_dwarf_cannon_2 ca_dwarf_cannon_3 ca_dwarf_cannon_4 ca_dwarf_cannon_5 }
+		upgrades_from = ca_dwarf_barracks_3
+		build_cost = 200
+		build_time = 365
+		garrison_size = 0.05
+		fort_level = 0.5
+		ai_creation_factor = 77
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_barracks_5 = {
+		desc = ca_dwarf_barracks_5_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		prerequisites = { ca_dwarf_keep_5 }
+		not_if_x_exists = { ca_dwarf_cannon_1 ca_dwarf_cannon_2 ca_dwarf_cannon_3 ca_dwarf_cannon_4 ca_dwarf_cannon_5 }
+		upgrades_from = ca_dwarf_barracks_4
+		build_cost = 250
+		build_time = 365
+		garrison_size = 0.05
+		fort_level = 0.5
+		ai_creation_factor = 76
+
+		extra_tech_building_start = 3.0		
+	}	
+	
+###Dwarf Cannon Foundry
+	
+	ca_dwarf_cannon_1 = {
+		desc = ca_dwarf_cannon_1_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_dwarf_keep_1 }
+		not_if_x_exists = { ca_dwarf_barracks_1 ca_dwarf_barracks_2 ca_dwarf_barracks_3 ca_dwarf_barracks_4 ca_dwarf_barracks_5 }
+		build_cost = 50
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		tax_income = 2
+		fort_level = 0.5
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_cannon_2 = {
+		desc = ca_dwarf_cannon_2_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		prerequisites = { ca_dwarf_keep_2 }
+		not_if_x_exists = { ca_dwarf_barracks_1 ca_dwarf_barracks_2 ca_dwarf_barracks_3 ca_dwarf_barracks_4 ca_dwarf_barracks_5 }
+		upgrades_from = ca_dwarf_cannon_1
+		build_cost = 100
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		tax_income = 1
+		garrison_size = 0.05
+		fort_level = 0.3
+		ai_creation_factor = 79
+		
+		extra_tech_building_start = 3.0
+	}
+	
+	ca_dwarf_cannon_3 = {
+		desc = ca_dwarf_cannon_3_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		prerequisites = { ca_dwarf_keep_3 }
+		not_if_x_exists = { ca_dwarf_barracks_1 ca_dwarf_barracks_2 ca_dwarf_barracks_3 ca_dwarf_barracks_4 ca_dwarf_barracks_5 }
+		upgrades_from = ca_dwarf_cannon_2
+		build_cost = 150
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		tax_income = 1
+		garrison_size = 0.05
+		fort_level = 0.3
+		ai_creation_factor = 78
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_cannon_4 = {
+		desc = ca_dwarf_cannon_4_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 3 }
+		prerequisites = { ca_dwarf_keep_4 }
+		not_if_x_exists = { ca_dwarf_barracks_1 ca_dwarf_barracks_2 ca_dwarf_barracks_3 ca_dwarf_barracks_4 ca_dwarf_barracks_5 }
+		upgrades_from = ca_dwarf_cannon_3
+		build_cost = 200
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		tax_income = 1
+		garrison_size = 0.05
+		fort_level = 0.3
+		ai_creation_factor = 77
+
+		extra_tech_building_start = 3.0		
+	}
+	
+	ca_dwarf_cannon_5 = {
+		desc = ca_dwarf_cannon_5_desc
+		potential = {
+			OR = {
+				religion_group = dwarf_gods_group
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		prerequisites = { ca_dwarf_keep_5 }
+		not_if_x_exists = { ca_dwarf_barracks_1 ca_dwarf_barracks_2 ca_dwarf_barracks_3 ca_dwarf_barracks_4 ca_dwarf_barracks_5 }
+		upgrades_from = ca_dwarf_cannon_4
+		build_cost = 250
+		build_time = 365
+		light_infantry = 20
+		archers = 20
+		tax_income = 1
+		garrison_size = 0.05
+		fort_level = 0.3
+		ai_creation_factor = 76
+
+		extra_tech_building_start = 3.0		
+	}	
+
+	
+	
+}

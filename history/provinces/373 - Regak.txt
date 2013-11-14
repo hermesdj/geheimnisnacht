@@ -1,0 +1,20 @@
+# 373 - Regak
+
+# County Title
+title = c_regak
+
+# Settlements
+max_settlements = 5
+b_castle_regak = castle
+b_jenzwelden = city
+b_messinghof = temple
+b_zherden = city
+b_zherdenschlosse = castle
+b_regakhof = castle
+
+# Misc
+culture = ostermarker
+religion = taalite
+
+
+# History

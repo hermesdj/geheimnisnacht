@@ -1,0 +1,18 @@
+# 287 Ahlenhof
+
+# County Title
+title = c_ahlenhof
+
+# Settlements
+max_settlements = 4
+b_ahlenhof = castle
+b_laer = temple
+b_tussenhof = castle
+b_luthorst = city
+
+# Misc
+culture = hochlander
+religion = ulrican
+
+
+# History

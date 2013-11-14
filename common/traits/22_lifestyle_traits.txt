@@ -1,0 +1,222 @@
+
+################################################
+# LIFESTYLE - Events - only 1 lifestyle (adult)
+################################################
+
+hedonist = {
+	lifestyle = yes
+	
+	potential = {
+		NOT = { 
+			OR = {religion_group = greenskin_gods_group }
+		}
+	}
+	
+	opposites =  {
+		celibate
+	}
+
+	fertility = 0.2
+	
+	opposite_opinion = -5
+	same_opinion = 20
+	
+	church_opinion = -10
+	
+	monthly_character_piety = -0.5
+	
+	ai_zeal = -30
+}
+scholar = {
+	lifestyle = yes
+	
+	learning = 2
+	
+	same_opinion = 20
+}
+gardener = {
+	lifestyle = yes
+	
+	stewardship = 2
+	
+	same_opinion = 20
+}
+mystic = {
+	lifestyle = yes
+	
+	intrigue = 1
+	
+	same_opinion = 20
+}
+impaler = {
+	lifestyle = yes
+	
+	intrigue = 1
+	
+	same_opinion = 20
+	
+	ai_honor = -15
+	
+	command_modifier = {
+		morale_offence = 0.1
+	}
+}
+duelist = {
+	lifestyle = yes
+	
+	martial = 1
+	
+	same_opinion = 20
+}
+hunter = {
+	lifestyle = yes
+	
+	martial = 1
+	
+	same_opinion = 20
+}
+poet = {
+	lifestyle = yes
+	
+	diplomacy = 1
+	
+	same_opinion = 20
+}
+falconer = {
+	lifestyle = yes
+	
+	diplomacy = 1
+	
+	same_opinion = 20
+}
+
+# Those are added traits
+fashionista = {
+	lifestyle = yes
+	
+	diplomacy = 1
+	martial = -1
+
+	sex_appeal_opinion = 5
+	
+	monthly_character_prestige = 0.5
+	
+	same_opinion = 20
+}
+
+
+socialite = {
+	lifestyle = yes
+	
+	diplomacy = 1
+	intrigue = 1
+
+	sex_appeal_opinion = 5
+	
+	same_opinion = 20
+}
+
+alchemist = {
+	lifestyle = yes
+	
+	learning = 2
+	
+	fertility = -0.1
+	
+	same_opinion = 20
+}
+
+brewmaster = {
+	lifestyle = yes
+	
+	stewardship = 1
+	
+	fertility = 0.1
+	
+	same_opinion = 20
+}
+
+beast_tamer = {
+	lifestyle = yes
+
+	random = no
+	
+	martial = 1
+	
+	monthly_character_prestige = 0.5
+	
+	same_opinion = 20
+}
+
+blacksmith = {
+	lifestyle = yes
+	
+	diplomacy = -1
+	martial = 1
+	
+	same_opinion = 20
+}
+
+explorer = {
+	lifestyle = yes
+	
+	stewardship = -1
+	
+	same_opinion = 20
+}
+
+engineer = {
+	lifestyle = yes
+	
+	stewardship = 1
+	
+	same_opinion = 20
+}
+
+monster_hunter = {
+	lifestyle = yes
+
+	random = no
+	
+	martial = 2
+	
+	monthly_character_prestige = 0.5
+	
+	same_opinion = 20
+}
+
+sailor = {
+	lifestyle = yes
+	
+	stewardship = 1
+	
+	same_opinion = 20
+}
+
+benefactor = {
+	lifestyle = yes
+	
+	monthly_character_piety = 0.5
+	
+	same_opinion = 20
+}
+
+
+flagellant = {
+	lifestyle = yes
+	
+	monthly_character_piety = 0.5
+	
+	same_opinion = 20
+}
+
+slaver = {
+	lifestyle = yes
+	
+
+	ai_honor = -10
+	ai_ambition = 15
+	ai_greed = 50
+	
+	same_opinion = 20
+}

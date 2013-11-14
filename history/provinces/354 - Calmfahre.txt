@@ -1,0 +1,17 @@
+# 354 Calmfahre
+
+# County Title
+title = c_calmfahre
+
+# Settlements
+max_settlements = 3
+b_calmfahre = castle
+b_baruth = city
+b_grunsfeld = temple
+
+# Misc
+culture = averlander
+religion = sigmarite
+
+
+# History

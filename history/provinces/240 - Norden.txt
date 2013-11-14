@@ -1,0 +1,20 @@
+# 240 Norden
+
+# County Title
+title = c_norden
+
+# Settlements
+max_settlements = 6
+b_norden = castle
+b_ockholm = temple
+b_beelen = castle
+b_salzmorast = city
+b_gelting = temple
+b_kriedeklippe = city
+
+# Misc
+culture = nordlander
+religion = sigmarite
+
+
+# History

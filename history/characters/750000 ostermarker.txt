@@ -1,0 +1,515 @@
+750000={
+name = "Erich"
+dynasty = 21064
+culture = ostermarker
+religion = taalite
+military = 7
+diplomacy = 1
+stewardship = 0
+intrigue = 3
+learning = 9
+add_trait = "creature_human"
+add_trait = "impaler"
+add_trait = "intricate_webweaver"
+add_trait = "kind"
+add_trait = "craven"
+1962.7.30={birth=yes}
+2022.12.25={death=yes}
+}
+
+750001={
+name = "Suanhilda"
+female = yes
+dynasty = 21044
+culture = ostermarker
+religion = sigmarite
+military = 8
+diplomacy = 5
+stewardship = 7
+intrigue = 6
+learning = 1
+add_trait = "hunter"
+add_trait = "brilliant_strategist"
+add_trait = "zealous"
+add_trait = "honest"
+
+
+1959.5.13={birth=yes}
+2019.5.5={death=yes}
+}
+
+750002={
+name = "Günzel"
+dynasty = 21042
+culture = ostermarker
+religion = taalite
+military = 2
+diplomacy = 6
+stewardship = 6
+intrigue = 6
+learning = 5
+add_trait = "impaler"
+add_trait = "charismatic_negotiator"
+add_trait = "gregarious"
+
+add_trait = "weak"
+
+1986.8.26={birth=yes}
+2036.10.13={death=yes}
+}
+
+750003={
+name = "Arnold"
+dynasty = 21069
+culture = ostermarker
+religion = taalite
+military = 5
+diplomacy = 8
+stewardship = 0
+intrigue = 0
+learning = 6
+add_trait = "hunter"
+add_trait = "brilliant_tactician"
+add_trait = "tall"
+add_trait = "wroth"
+add_trait = "temperate"
+
+1974.11.18={birth=yes}
+2025.5.1={death=yes}
+}
+
+750004={
+name = "Meinhard"
+dynasty = 21032
+culture = ostermarker
+religion = taalite
+military = 3
+diplomacy = 2
+stewardship = 11
+intrigue = 4
+learning = 1
+add_trait = "mystic"
+add_trait = "tough_soldier"
+add_trait = "chaste"
+add_trait = "cruel"
+
+
+1956.7.12={birth=yes}
+2040.11.4={death=yes}
+}
+
+750005={
+name = "Lukas"
+dynasty = 21002
+culture = ostermarker
+religion = taalite
+military = 2
+diplomacy = 4
+stewardship = 4
+intrigue = 0
+learning = 5
+add_trait = "scholar"
+add_trait = "intricate_webweaver"
+add_trait = "content"
+add_trait = "trusting"
+add_trait = "ill"
+
+1968.5.15={birth=yes}
+2060.9.27={death=yes}
+}
+
+750006={
+name = "Wadar"
+dynasty = 21003
+culture = ostermarker
+religion = taalite
+military = 8
+diplomacy = 0
+stewardship = 2
+intrigue = 5
+learning = 8
+add_trait = "hedonist"
+add_trait = "indulgent_wastrel"
+add_trait = "depressed"
+add_trait = "humble"
+add_trait = "stressed"
+
+1984.5.20={birth=yes}
+2017.11.26={death=yes}
+}
+
+750007={
+name = "Ulricht"
+dynasty = 21038
+culture = ostermarker
+religion = taalite
+military = 8
+diplomacy = 2
+stewardship = 3
+intrigue = 3
+learning = 4
+add_trait = "hunter"
+add_trait = "mastermind_theologian"
+
+1968.6.13={birth=yes}
+2051.12.20={death=yes}
+}
+
+750008={
+name = "Ranelf"
+dynasty = 21036
+culture = ostermarker
+religion = taalite
+military = 9
+diplomacy = 2
+stewardship = 6
+intrigue = 2
+learning = 9
+add_trait = "duelist"
+add_trait = "thrifty_clerk"
+add_trait = "legit_bastard"
+add_trait = "drunkard"
+add_trait = "homosexual"
+
+1958.11.3={birth=yes}
+2065.11.8={death=yes}
+}
+
+750009={
+name = "Dietrich"
+dynasty = 21025
+culture = ostermarker
+religion = taalite
+military = 4
+diplomacy = 1
+stewardship = 6
+intrigue = 8
+learning = 9
+add_trait = "poet"
+add_trait = "thrifty_clerk"
+
+add_trait = "lisp"
+
+
+1960.11.28={birth=yes}
+2049.5.11={death=yes}
+}
+
+750010={
+name = "Baldewin"
+dynasty = 21034
+culture = ostermarker
+religion = taalite
+military = 8
+diplomacy = 3
+stewardship = 2
+intrigue = 11
+learning = 9
+add_trait = "hunter"
+add_trait = "mastermind_theologian"
+
+add_trait = "lustful"
+
+
+1978.1.1={birth=yes}
+2034.9.24={death=yes}
+}
+
+750011={
+name = "Mikhail"
+dynasty = 21043
+culture = ostermarker
+religion = taalite
+military = 4
+diplomacy = 6
+stewardship = 10
+intrigue = 11
+learning = 3
+add_trait = "mystic"
+add_trait = "flamboyant_schemer"
+add_trait = "fair"
+
+1987.3.7={birth=yes}
+2040.4.6={death=yes}
+}
+
+750012={
+name = "Baldemar"
+dynasty = 21009
+culture = ostermarker
+religion = taalite
+military = 9
+diplomacy = 7
+stewardship = 0
+intrigue = 2
+learning = 2
+add_trait = "hunter"
+add_trait = "detached_priest"
+add_trait = "diligent"
+add_trait = "strong"
+add_trait = "envious"
+
+1961.3.13={birth=yes}
+2068.6.27={death=yes}
+}
+
+750013={
+name = "Adolf"
+dynasty = 21013
+culture = ostermarker
+religion = taalite
+military = 9
+diplomacy = 0
+stewardship = 11
+intrigue = 5
+learning = 9
+add_trait = "gardener"
+add_trait = "naive_appeaser"
+add_trait = "slothful"
+
+add_trait = "patient"
+
+1957.7.17={birth=yes}
+2030.2.18={death=yes}
+}
+
+750014={
+name = "Kuno"
+dynasty = 21021
+culture = ostermarker
+religion = taalite
+military = 5
+diplomacy = 2
+stewardship = 10
+intrigue = 7
+learning = 6
+
+add_trait = "misguided_warrior"
+add_trait = "ambitious"
+add_trait = "shy"
+add_trait = "proud"
+
+1983.8.22={birth=yes}
+2060.4.23={death=yes}
+}
+
+750015={
+name = "Ulli"
+dynasty = 21022
+culture = ostermarker
+religion = taalite
+military = 8
+diplomacy = 8
+stewardship = 3
+intrigue = 5
+learning = 4
+add_trait = "falconer"
+add_trait = "underhanded_rogue"
+add_trait = "just"
+add_trait = "cynical"
+add_trait = "arbitrary"
+
+1971.7.14={birth=yes}
+2044.4.25={death=yes}
+}
+
+750016={
+name = "Welf"
+dynasty = 21023
+culture = ostermarker
+religion = taalite
+military = 8
+diplomacy = 9
+stewardship = 7
+intrigue = 2
+learning = 5
+add_trait = "hunter"
+add_trait = "midas_touched"
+add_trait = "zealous"
+add_trait = "kind"
+add_trait = "paranoid"
+
+1956.4.27={birth=yes}
+2016.8.22={death=yes}
+}
+
+750017={
+name = "Wenzel"
+dynasty = 21036
+culture = ostermarker
+religion = taalite
+military = 6
+diplomacy = 7
+stewardship = 3
+intrigue = 9
+learning = 2
+add_trait = "flamboyant_schemer"
+add_trait = "honest"
+add_trait = "craven"
+
+
+1993.11.13={birth=yes}
+2040.8.8={death=yes}
+}
+
+750018={
+name = "Jakob"
+dynasty = 21033
+culture = ostermarker
+religion = taalite
+military = 9
+diplomacy = 8
+stewardship = 1
+intrigue = 7
+learning = 7
+add_trait = "mystic"
+add_trait = "scholarly_theologian"
+add_trait = "greedy"
+add_trait = "gregarious"
+
+
+1992.6.17={birth=yes}
+2033.3.10={death=yes}
+}
+
+750019={
+name = "Werner"
+dynasty = 21010
+culture = ostermarker
+religion = taalite
+military = 9
+diplomacy = 3
+stewardship = 7
+intrigue = 11
+learning = 9
+add_trait = "hedonist"
+add_trait = "tough_soldier"
+add_trait = "tall"
+
+1981.9.20={birth=yes}
+2039.8.29={death=yes}
+}
+
+# Emperors from Ostermark
+########################
+
+750020={
+name = "Lando"
+dynasty = 21019 #Kallerson
+culture = ostermarker
+religion = taalite
+military = 6
+diplomacy = 7
+stewardship = 3
+intrigue = 9
+learning = 2
+
+add_trait = "flamboyant_schemer"
+add_trait = "honest"
+add_trait = "craven"
+
+
+136.11.13={birth=yes}
+190.8.8={death=yes}
+}
+
+750021={
+name = "Didrick"
+dynasty = 21018 
+culture = ostermarker
+religion = taalite
+military = 9
+diplomacy = 8
+stewardship = 1
+intrigue = 7
+learning = 7
+add_trait = "mystic"
+add_trait = "scholarly_theologian"
+add_trait = "greedy"
+add_trait = "gregarious"
+
+
+1249.6.17={birth=yes}
+1274.1.1={give_nickname = nick_the_unjust}
+1286.3.10={death=yes}
+}
+
+750022={
+name = "Ingrid"
+female = yes
+dynasty = 21017 
+culture = ostermarker
+religion = taalite
+military = 9
+diplomacy = 3
+stewardship = 7
+intrigue = 11
+learning = 9
+add_trait = "hedonist"
+add_trait = "tough_soldier"
+
+add_trait = "tall"
+add_trait = "weak"
+
+1797.9.20={birth=yes}
+1869.8.29={death=yes}
+}
+
+
+750023={
+name = "Wolfram" #Graf Wolfram Hertwig of Ostermark
+dynasty = 21108
+culture = ostermarker
+religion = taalite
+military = 5
+diplomacy = 3
+stewardship = 5
+intrigue = 10
+learning = 6
+add_trait = "tough_soldier"
+add_trait = "brave"
+add_trait = "proud"
+add_trait = "temperate"
+
+2501.4.23={birth=yes}
+2552.7.2={death=yes}
+}
+
+750024={
+name = "Maximillian" # Graf Maximillian Dachs of Ostermark
+dynasty = 21109
+culture = ostermarker
+religion = taalite
+military = 6
+diplomacy = 8
+stewardship = 4
+intrigue = 7
+learning = 6
+add_trait = "misguided_warrior"
+add_trait = "honest"
+add_trait = "ugly"
+add_trait = "humble"
+
+2467.5.5={birth=yes}
+2514.4.7={death=yes}
+}
+
+750024={
+name = "Oswald" # Oswald von Konigswald
+dynasty = 21109
+culture = ostermarker
+religion = taalite
+military = 4
+diplomacy = 3
+stewardship = 4
+intrigue = 2
+learning = 6
+add_trait = "misguided_warrior"
+add_trait = "honest"
+add_trait = "diligent"
+add_trait = "humble"
+
+2471.3.15={birth=yes}
+2534.5.27={death=yes}
+}
+

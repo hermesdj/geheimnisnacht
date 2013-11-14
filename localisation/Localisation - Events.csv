@@ -1,0 +1,60 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVTNAME1700000202;The Sword in the Stone;;;;;;;;;;;;;x
+EVTDESC1700000202;You decide to take a stroll in the countryside to relieve some stress. Whilst walking you come upon a large stone in a clearing. What makes this stone unusual is the large sword buried in it, with only the bejewelled hilt visible.;;;;;;;;;;;;;x
+EVTOPTA1700000202;I feel drawn to the power of this artifact.;;;;;;;;;;;;;x
+EVTOPTB1700000202;What is this? Someone's idea of a practical joke?;;;;;;;;;;;;;x
+EVTOPTC1700000202;Look at the size of those gemstones!;;;;;;;;;;;;;x
+EVTOPTD1700000202;A sword in a stone? That's it, I'm out of here.;;;;;;;;;;;;;x
+EVTNAME1700000203;You Approach the Stone;;;;;;;;;;;;;x
+EVTDESC1700000203;As you draw near, you feel the power of the stone fill you. You feel you coud do anything.;;;;;;;;;;;;;x
+EVTOPTA1700000203;I shall claim it for my own!;;;;;;;;;;;;;x
+EVTOPTB1700000203;I will examine the weapon first.;;;;;;;;;;;;;x
+EVTNAME1700000204;A Chance for Some Fun;;;;;;;;;;;;;x
+EVTDESC1700000204;If this is a joke, maybe we can use it to our benefit.;;;;;;;;;;;;;x
+EVTOPTA1700000204;I will embarrass my vassal.;;;;;;;;;;;;;x
+EVTOPTB1700000204;I will embarrass my courtier.;;;;;;;;;;;;;x
+EVTOPTC1700000204;I will embarrass my spouse.;;;;;;;;;;;;;x
+EVTOPTD1700000204;A joke like this would be mean. I'll just go home.;;;;;;;;;;;;;x
+EVTNAME1700000205;You Approach the Stone;;;;;;;;;;;;;x
+EVTDESC1700000205;As you draw near, you see the many jewels sparkle in the sunlight. Each is most likely worth a small fortune.;;;;;;;;;;;;;x
+EVTOPTA1700000205;I bet I can get these jewels and make a fortune.;;;;;;;;;;;;;x
+EVTOPTB1700000211;I will examine the weapon first.;;;;;;;;;;;;;x
+EVTNAME1700000206;You Place Your Hands on the Sword;;;;;;;;;;;;;x
+EVTDESC1700000206;You stand next to the stone and place both hands on the sword. In a moment you will try to remove it from its prison.;;;;;;;;;;;;;x
+EVTOPTA1700000206;This will be easy...;;;;;;;;;;;;;x
+EVTTOOLTIP1700000212;;;;;;;;;;;;;;x
+EVTTOOLTIP1700000213;;;;;;;;;;;;;;x
+EVTOPTB1700000206;This will be difficult...;;;;;;;;;;;;;x
+EVTTOOLTIP1700000212;TEXTNAME;;;;;;;;;;;;;x
+EVTTOOLTIP1700000213;TEXTNAME;;;;;;;;;;;;;x
+EVTOPTC1700000206;This will be impossible...;;;;;;;;;;;;;x
+EVTTOOLTIP1700000213;TEXTNAME;;;;;;;;;;;;;x
+EVTTOOLTIP1700000212;TEXTNAME;;;;;;;;;;;;;x
+EVTNAME1700000207;You Take a Closer Look at the Sword;;;;;;;;;;;;;x
+EVTDESC1700000207;You approach the sword and take a closer look at the markings on it. Your head swims and your vision blurs as you try to understand the meaning of the runes.;;;;;;;;;;;;;x
+#Health Events
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x

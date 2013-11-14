@@ -1,0 +1,72 @@
+amazon_group = {
+	graphical_culture = westerngfx
+
+	amazon_main = {
+		graphical_culture = norsegfx
+
+		color = { 1.0 0.4 0.1 }
+
+		male_names = {
+			Aello Aanchal Abibat Abosede Absa Adah Ademola Aditi Aicha Aida Ainia Ainippe Aisha Aishwarya Aissatou Akachi Akanksha Akansha Akeyo Alcibie Alcinoe Alcippe Aliah Alimi Aline Alisha Alkaia Ally Ama Amina Aminata Amynomene Anaea Anamika Ananya Anaxilea Androdameia Andromache Andromeda Angel Anipa Anisha Anja Anjali Anoushka Anqi Anta Antandre Antianara Antianeira Antibrote Antimache Antimachos Antiope Antiopeia Antsa Anumeha Anumeya Anushree Apoorva Arame Archana Archita Areto Areximacha Arielle Aristomache Aron Arti Ash Asteria Astou Aswini Aurelia Awa Axelle Ayycha Azu
+			Belyse Bethsheba Bhagirathy Bilquees Bineta Binta Bobete Bremusa 
+			Celaneo Chanchal Cherissa Chimdalu Chimene Chinwe Chukwu Clete Clyemne Coumba 
+			Damaris Dammie Deepthi Deianeira Deinomache Dekala Derimacheia Derinoe Devine Diamondra Diarra Diatou Dieyna Dieynaba Diksha Diop Diouma Divya Diya Domoina Doris Dykha 
+			Echephyle Eesha Ekwealor Elodie Enora Eriobea Eumache Eurybe Euryleia Eva Eve Exauce Ezinne 
+			Fadeelah Fanantenana Faniry Faridah Fati Fatima Fatou Fatoumata Felana 
+			Gayatri Geyir Gifty Gitanjali 
+			Habeeba Hadiza Haingo Hanitra Harmothoe Hasina Hawa Hildah Himani Hipp Hippolyte Hippomache Hippothoe Honie Hypsipyle 
+			Ifeoluwa Indhumathi Ines Inye Iphito Irinah Iryn Ishika Ishita 
+			Jasmine Jovi Jovia Juvina 
+			Kanto Kavitha Keisha Kekeli Khadidiatou Khadija Khadijah Khady Kileen Kim Kleoptoleme Kreousa Kriti Kydoime 
+			Laetitia Laodoke Leah Liantsoa Lina Lopa Lwanzo Lykopis Lysippe 
+			Magui Mahima Maimouna Malala Mallayka Mame Mami Mamina Mamy Mandra Manou Mariama Marpe Marpesia Maty Meddyomari Meera Megha Mekhala Melanippe Melousa Mialy Mikala Milanto Milix Mimnousa Miora Mirana Mirantsoa Misa Miti Molpadia Monsurat Morin Mungizila Mwajabu Mya 
+			Nabukenya Nadege Nadine Naina Nandrianina Natacha Nayana Naza Ndella Ndeye Ndiaye Nduwamahoro Nduwayezu Neema Niaina Niharika Nikita Nikita Nishi Nomena Ntirabampa Nyabenda Nyira
+			Ocha Ogunjobi Ogunsola Okyale Okypous Olariche Olayemi Onja Orianna Orithia Ornella Oumy Ouria Oyinlola 
+			Pantariste Pavithra Pelagie Penda Penthesilea Peruth Philippis Phoebe Pisto Polemusa Pooja Prachi Pragya Prerana Prisca Priya Priyanka Prothoe Pyrgomache
+			Quinter 
+			Radha Radhika Ramatoulaye Ramla Ramya Rashida Rashmi Reenz Remela Rhea Ria Richa Rindra Ritah Ritika Riya Rojo Rokhaya Roukeya 
+			Saeed Safi Safia Sakshi Salimata Sana Sanjana Scyleia Seema Seohee Seynabou Shadia Shaekal Sheba Sherifat Shiro Shivangi Shreya Shriya Shruti Sifa Sneha Sokhna Solange Sonal Sonali Soumya Sthella Sylvie 
+			Taarka Tahina Tahiry Tamilore Tania Tanvi Tanya Tatiana Tecmessa Teisipyte Telepyleia Temitope Teni Tenzin Thalestris Thalia Thermodosa Thraso Tiana Tima Tina Tolu Tophine Torera Toxaris Toxis Toxophile Toyin Tutta 
+			Vaishnavi Valasca Vanetha Vani Varsha Vidhya Vololoniaina Vrushali
+			Wanjiku Wendala Wisfavour Wivine
+			Xanthippe 
+			Yacine Yeshi Zayb Zeina Zeynab Zorah Zuzu Pentheselia Xena Lysippe Melandra Azura Lwaxana Thalestris
+		}
+		female_names = {
+			Aello Aanchal Abibat Abosede Absa Adah Ademola Aditi Aicha Aida Ainia Ainippe Aisha Aishwarya Aissatou Akachi Akanksha Akansha Akeyo Alcibie Alcinoe Alcippe Aliah Alimi Aline Alisha Alkaia Ally Ama Amina Aminata Amynomene Anaea Anamika Ananya Anaxilea Androdameia Andromache Andromeda Angel Anipa Anisha Anja Anjali Anoushka Anqi Anta Antandre Antianara Antianeira Antibrote Antimache Antimachos Antiope Antiopeia Antsa Anumeha Anumeya Anushree Apoorva Arame Archana Archita Areto Areximacha Arielle Aristomache Aron Arti Ash Asteria Astou Aswini Aurelia Awa Axelle Ayycha Azu
+			Belyse Bethsheba Bhagirathy Bilquees Bineta Binta Bobete Bremusa 
+			Celaneo Chanchal Cherissa Chimdalu Chimene Chinwe Chukwu Clete Clyemne Coumba 
+			Damaris Dammie Deepthi Deianeira Deinomache Dekala Derimacheia Derinoe Devine Diamondra Diarra Diatou Dieyna Dieynaba Diksha Diop Diouma Divya Diya Domoina Doris Dykha 
+			Echephyle Eesha Ekwealor Elodie Enora Eriobea Eumache Eurybe Euryleia Eva Eve Exauce Ezinne 
+			Fadeelah Fanantenana Faniry Faridah Fati Fatima Fatou Fatoumata Felana 
+			Gayatri Geyir Gifty Gitanjali 
+			Habeeba Hadiza Haingo Hanitra Harmothoe Hasina Hawa Hildah Himani Hipp Hippolyte Hippomache Hippothoe Honie Hypsipyle 
+			Ifeoluwa Indhumathi Ines Inye Iphito Irinah Iryn Ishika Ishita 
+			Jasmine Jovi Jovia Juvina 
+			Kanto Kavitha Keisha Kekeli Khadidiatou Khadija Khadijah Khady Kileen Kim Kleoptoleme Kreousa Kriti Kydoime 
+			Laetitia Laodoke Leah Liantsoa Lina Lopa Lwanzo Lykopis Lysippe 
+			Magui Mahima Maimouna Malala Mallayka Mame Mami Mamina Mamy Mandra Manou Mariama Marpe Marpesia Maty Meddyomari Meera Megha Mekhala Melanippe Melousa Mialy Mikala Milanto Milix Mimnousa Miora Mirana Mirantsoa Misa Miti Molpadia Monsurat Morin Mungizila Mwajabu Mya 
+			Nabukenya Nadege Nadine Naina Nandrianina Natacha Nayana Naza Ndella Ndeye Ndiaye Nduwamahoro Nduwayezu Neema Niaina Niharika Nikita Nikita Nishi Nomena Ntirabampa Nyabenda Nyira
+			Ocha Ogunjobi Ogunsola Okyale Okypous Olariche Olayemi Onja Orianna Orithia Ornella Oumy Ouria Oyinlola 
+			Pantariste Pavithra Pelagie Penda Penthesilea Peruth Philippis Phoebe Pisto Polemusa Pooja Prachi Pragya Prerana Prisca Priya Priyanka Prothoe Pyrgomache
+			Quinter 
+			Radha Radhika Ramatoulaye Ramla Ramya Rashida Rashmi Reenz Remela Rhea Ria Richa Rindra Ritah Ritika Riya Rojo Rokhaya Roukeya 
+			Saeed Safi Safia Sakshi Salimata Sana Sanjana Scyleia Seema Seohee Seynabou Shadia Shaekal Sheba Sherifat Shiro Shivangi Shreya Shriya Shruti Sifa Sneha Sokhna Solange Sonal Sonali Soumya Sthella Sylvie 
+			Taarka Tahina Tahiry Tamilore Tania Tanvi Tanya Tatiana Tecmessa Teisipyte Telepyleia Temitope Teni Tenzin Thalestris Thalia Thermodosa Thraso Tiana Tima Tina Tolu Tophine Torera Toxaris Toxis Toxophile Toyin Tutta 
+			Vaishnavi Valasca Vanetha Vani Varsha Vidhya Vololoniaina Vrushali
+			Wanjiku Wendala Wisfavour Wivine
+			Xanthippe 
+			Yacine Yeshi Zayb Zeina Zeynab Zorah Zuzu Pentheselia Xena Lysippe Melandra Azura Lwaxana Thalestris
+		}
+
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 40
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+}

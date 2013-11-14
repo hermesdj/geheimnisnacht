@@ -1,0 +1,19 @@
+# 2223 Klessen
+
+# County Title
+title = c_klessen
+
+# Settlements
+max_settlements = 5
+b_klessen = city
+b_kalkaat = city
+b_melick = castle
+b_lehmbourg = temple
+b_halsdorph = city
+
+# Misc
+culture = westerlander
+religion = sigmarite
+
+
+# History

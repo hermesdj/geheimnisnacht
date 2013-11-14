@@ -1,0 +1,124 @@
+chaos_gods_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	pacifist = no
+	
+	chaos = {
+		graphical_culture = westerngfx
+
+		icon = 1
+		color = { 0.3 0.1 0.1 }
+		
+		crusade_name = "BLACK_CRUSADE"
+		scripture_name = LIBER_CHAOTICA
+		god_names = {
+			GOD_GODS GOD_DARK_ONES GOD_THE_RUINOUS_POWERS GOD_CHAOS
+ 		}
+		
+		priests_can_marry = yes
+		aggression = 2.5 		
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes		
+		max_consorts = 3
+		
+		pc_marriage = yes
+		bs_marriage = yes
+		psc_marriage = yes 
+		can_hold_temples = yes
+		
+	}
+	
+	tzeentch = {
+		graphical_culture = westerngfx
+
+		icon = 22
+		color = { 0.3 0.6 0.9 }
+		god_names = {
+			GOD_TZEENTCH GOD_THE_CHANGER GOD_THE_DARKNESS
+		}
+		
+		priests_can_marry = yes
+		aggression = 2.5 		
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes		
+		max_consorts = 3
+		
+		pc_marriage = yes
+		bs_marriage = yes
+		psc_marriage = yes 
+		can_hold_temples = yes
+	}
+	
+	nurgle = {
+		graphical_culture = westerngfx
+
+		icon = 20
+		color = { 0.7 1.0 0.2 }
+		god_names = {
+			GOD_NURGLE GOD_THE_FATHER GOD_THE_DARKNESS
+		}
+
+		
+		priests_can_marry = yes
+		aggression = 2.5 		
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes		
+		max_consorts = 3
+		
+		pc_marriage = yes
+		bs_marriage = yes
+		psc_marriage = yes 
+		can_hold_temples = yes
+	}
+	
+	slaanesh = {
+		graphical_culture = westerngfx
+
+		icon = 21
+		color = { 1.0 0.5 0.6 }
+		god_names = {
+			GOD_SLAANESH GOD_THE_DARK_PRINCE GOD_THE_DARKNESS
+		}
+
+		
+		priests_can_marry = yes
+		aggression = 2.5 		
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes		
+		max_consorts = 6
+		
+		pc_marriage = yes
+		bs_marriage = yes
+		psc_marriage = yes 
+		can_hold_temples = yes
+	}
+	
+	khorne = {
+		graphical_culture = westerngfx
+
+		icon = 19
+		color = { 0.6 0.0 0.0 }
+		god_names = {
+			GOD_KHORNE GOD_THE_BLOOD_GOD GOD_THE_DARKNESS
+		}
+
+		
+		priests_can_marry = yes
+		aggression = 2.5 		
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes		
+		max_consorts = 3
+		
+		pc_marriage = yes
+		bs_marriage = yes
+		psc_marriage = yes 
+		can_hold_temples = yes
+	}
+}

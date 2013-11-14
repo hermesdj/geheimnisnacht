@@ -1,0 +1,16 @@
+# 233 Schaukel
+
+# County Title
+title = c_schaukel
+
+# Settlements
+max_settlements = 2
+b_fort_schaukeln = castle
+b_schaukeln = city
+
+# Misc
+culture = nordlander
+religion = sigmarite
+
+
+# History

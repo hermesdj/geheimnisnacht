@@ -1,0 +1,17 @@
+# 232 Schadelbruck
+
+# County Title
+title = c_schadelbruck
+
+# Settlements
+max_settlements = 3
+b_schadelbruck = castle
+b_manaans_teeth = temple
+b_sigmars_light = castle
+
+# Misc
+culture = nordlander
+religion = sigmarite
+
+
+# History

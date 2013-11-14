@@ -1,0 +1,21 @@
+# 386 - Drakenhof
+
+# County Title
+title = c_drakenhof
+
+# Settlements
+max_settlements = 7
+b_castle_drakenhof = castle
+b_drakenhof = city
+b_gallerschlosse = castle
+b_nachthafen = temple
+b_castle_senkhof = castle
+b_senkhof = city
+b_gallhof = city
+
+# Misc
+culture = sylvanian
+religion = vampiric
+
+
+# History

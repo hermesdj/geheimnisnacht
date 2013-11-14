@@ -1,0 +1,18 @@
+# 314 - Wusterberg
+
+# County Title
+title = c_wusterberg
+
+# Settlements
+max_settlements = 4
+b_wusterberg = castle
+b_eigenhof = city
+b_rotenbach = city
+b_serrig = castle
+
+# Misc
+culture = wissenlander
+religion = sigmarite
+
+
+# History

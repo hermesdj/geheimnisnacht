@@ -1,0 +1,18 @@
+# 278 Bad Hohne
+
+# County Title
+title = c_bad_hohne
+
+# Settlements
+max_settlements = 4
+b_bad_hohne = castle
+b_suderberg = castle
+b_eldagsen = temple
+b_schoppendorf = city
+
+# Misc
+culture = middenlander
+religion = ulrican
+
+
+# History

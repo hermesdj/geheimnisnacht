@@ -1,0 +1,19 @@
+cadai_gods_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	playable = yes
+
+	cadai = {
+		graphical_culture = westerngfx
+
+		icon = 11
+		color = { 1.0 1.0 0.3 }
+		god_names = {
+			GOD_AL_ALNON GOD_THE_PROPHETS GOD_FATE GOD_ORMAZD
+		}
+		
+		crusade_name = "HOLY_WAR"
+		scripture_name = THE_PROPHETS
+		priests_can_marry = yes
+	}	
+}

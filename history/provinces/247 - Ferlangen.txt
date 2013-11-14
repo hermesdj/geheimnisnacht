@@ -1,0 +1,18 @@
+# 247 Ferlangen
+
+# County Title
+title = c_ferlangen
+
+# Settlements
+max_settlements = 4
+b_ferlangen = castle
+b_obelstein = city
+b_aukrug = temple
+b_ochsunfurt = castle
+
+# Misc
+culture = ostlander
+religion = ulrican
+
+
+# History

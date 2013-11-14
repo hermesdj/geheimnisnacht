@@ -1,0 +1,17 @@
+# 290 Vodf
+
+# County Title
+title = c_vodf
+
+# Settlements
+max_settlements = 3
+b_vodf = castle
+b_dettelbach = city
+b_iphofen = city
+
+# Misc
+culture = hochlander
+religion = ulrican
+
+
+# History

@@ -1,0 +1,20 @@
+# 236 Manaansufer
+
+# County Title
+title = c_manaansufer
+
+# Settlements
+max_settlements = 6
+b_dietershafen = castle
+b_dreizack = city
+b_zweedorf = temple
+b_manaansheim = castle
+b_heiligdorf = city
+b_pugsblatter = city
+
+# Misc
+culture = nordlander
+religion = sigmarite
+
+
+# History

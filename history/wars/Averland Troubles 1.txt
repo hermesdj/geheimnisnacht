@@ -1,0 +1,36 @@
+name = "War to Depose Graf Seiger"
+
+# Seiger's Brother's war against Seiger
+
+casus_belli = {
+	casus_belli=depose_liege
+	actor = 500000
+	recipient = 500068
+	landed_title=k_averland
+	date=2010.1.1
+}
+
+2010.1.1 = {
+	add_attacker = 500000
+	add_defender = 500068
+}
+
+2010.2.10 = {
+	add_attacker = 500088
+}
+
+2010.2.26 = {
+	add_attacker = 500086
+}
+
+2010.3.12 = {
+	add_attacker = 500087
+}
+
+2015.3.7 = {
+	rem_attacker = 500000
+	rem_attacker = 500088
+	rem_attacker = 500086
+	rem_attacker = 500087
+	rem_defender = 500068
+}

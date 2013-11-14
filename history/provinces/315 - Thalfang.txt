@@ -1,0 +1,20 @@
+# 315 - Thalfang
+
+# County Title
+title = c_thalfang
+
+# Settlements
+max_settlements = 6
+b_thalfang = castle
+b_kell = temple
+b_oshausen = city
+b_sonnefurt = city
+b_kreutzhofen = temple
+b_weilerberg = castle
+
+# Misc
+culture = wissenlander
+religion = sigmarite
+
+
+# History

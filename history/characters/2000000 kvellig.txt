@@ -1,0 +1,404 @@
+2000000={
+name = "Sarica"
+female = yes
+dynasty = 61000
+culture = kvellig
+religion = chaos
+military = 10
+diplomacy = 8
+stewardship = 5
+intrigue = 8
+learning = 2
+add_trait = "tough_soldier"
+add_trait="honest"
+add_trait="gregarious"
+add_trait="kind"
+
+1965.7.18={birth="1965.7.18"}
+2041.9.24={death="2041.9.24"}
+}
+
+2000001={
+name = "Aytekin"
+dynasty = 61001
+culture = kvellig
+religion = chaos
+military = 3
+diplomacy = 3
+stewardship = 6
+intrigue = 8
+learning = 8
+add_trait = "hedonist"
+add_trait = "grey_eminence"
+add_trait="greedy"
+add_trait="craven"
+
+
+1956.12.4={birth="1956.12.4"}
+2031.10.28={death="2031.10.28"}
+}
+
+2000002={
+name = "Kurboga"
+dynasty = 61002
+culture = kvellig
+religion = chaos
+military = 8
+diplomacy = 1
+stewardship = 6
+intrigue = 2
+learning = 4
+add_trait = "impaler"
+add_trait = "scholarly_theologian"
+
+
+add_trait="weak"
+
+1966.10.4={birth="1966.10.4"}
+2036.11.7={death="2036.11.7"}
+}
+
+2000003={
+name = "Ceylan"
+female = yes
+dynasty = 61003
+culture = kvellig
+religion = chaos
+military = 0
+diplomacy = 1
+stewardship = 8
+intrigue = 6
+learning = 2
+add_trait = "hunter"
+add_trait = "amateurish_plotter"
+add_trait="tall"
+
+add_trait="cruel"
+
+1967.8.5={birth="1967.8.5"}
+2025.10.19={death="2025.10.19"}
+}
+
+2000004={
+name = "Umur"
+dynasty = 61004
+culture = kvellig
+religion = chaos
+military = 1
+diplomacy = 8
+stewardship = 7
+intrigue = 6
+learning = 6
+add_trait = "duelist"
+add_trait = "skilled_tactician"
+add_trait="wroth"
+add_trait="humble"
+add_trait="temperate"
+
+1971.1.4={birth="1971.1.4"}
+2035.7.19={death="2035.7.19"}
+}
+
+2000005={
+name = "Tugrul"
+dynasty = 61005
+culture = kvellig
+religion = chaos
+military = 5
+diplomacy = 5
+stewardship = 2
+intrigue = 5
+learning = 9
+add_trait = "scholar"
+add_trait = "misguided_warrior"
+add_trait="trusting"
+add_trait="ill"
+add_trait="content"
+
+1985.10.8={birth="1985.10.8"}
+2040.3.3={death="2040.3.3"}
+}
+
+2000006={
+name = "Ramazan"
+dynasty = 61006
+culture = kvellig
+religion = chaos
+military = 9
+diplomacy = 5
+stewardship = 10
+intrigue = 0
+learning = 9
+add_trait = "duelist"
+add_trait = "fortune_builder"
+add_trait="stressed"
+
+
+
+1989.5.15={birth="1989.5.15"}
+2020.2.2={death="2020.2.2"}
+}
+
+2000007={
+name = "Kutalmis"
+dynasty = 61007
+culture = kvellig
+religion = chaos
+military = 4
+diplomacy = 1
+stewardship = 10
+intrigue = 3
+learning = 2
+
+add_trait = "tough_soldier"
+add_trait="depressed"
+add_trait="lustful"
+
+
+1987.9.17={birth="1987.9.17"}
+2041.7.26={death="2041.7.26"}
+}
+
+2000008={
+name = "Inal"
+dynasty = 61008
+culture = kvellig
+religion = chaos
+military = 2
+diplomacy = 5
+stewardship = 4
+intrigue = 0
+learning = 4
+add_trait = "poet"
+add_trait = "thrifty_clerk"
+add_trait="drunkard"
+add_trait="homosexual"
+add_trait="chaste"
+
+1956.2.19={birth="1956.2.19"}
+2036.9.23={death="2036.9.23"}
+}
+
+2000009={
+name = "Dukak"
+dynasty = 61009
+culture = kvellig
+religion = chaos
+military = 10
+diplomacy = 4
+stewardship = 0
+intrigue = 7
+learning = 9
+add_trait = "hedonist"
+add_trait = "misguided_warrior"
+
+
+add_trait="legit_bastard"
+
+1981.8.5={birth="1981.8.5"}
+2047.7.4={death="2047.7.4"}
+}
+
+2000010={
+name = "Demir"
+dynasty = 61010
+culture = kvellig
+religion = chaos
+military = 8
+diplomacy = 3
+stewardship = 11
+intrigue = 4
+learning = 9
+add_trait = "gardener"
+add_trait = "fortune_builder"
+add_trait="lisp"
+
+
+
+1964.5.18={birth="1964.5.18"}
+2056.1.6={death="2056.1.6"}
+}
+
+2000011={
+name = "Aydogan"
+dynasty = 61012
+culture = kvellig
+religion = chaos
+military = 2
+diplomacy = 8
+stewardship = 10
+intrigue = 6
+learning = 5
+add_trait = "hedonist"
+add_trait = "thrifty_clerk"
+
+
+
+
+1981.5.7={birth="1981.5.7"}
+2014.10.17={death="2014.10.17"}
+}
+
+2000012={
+name = "Emine"
+female = yes
+dynasty = 61011
+culture = kvellig
+religion = chaos
+military = 3
+diplomacy = 1
+stewardship = 9
+intrigue = 9
+learning = 1
+add_trait = "poet"
+add_trait = "grey_eminence"
+add_trait="diligent"
+add_trait="strong"
+add_trait="envious"
+
+1960.8.11={birth="1960.8.11"}
+2064.7.20={death="2064.7.20"}
+}
+
+2000013={
+name = "Mahmud"
+dynasty = 61013
+culture = kvellig
+religion = chaos
+military = 7
+diplomacy = 1
+stewardship = 1
+intrigue = 6
+learning = 0
+add_trait = "hunter"
+add_trait = "amateurish_plotter"
+add_trait="slothful"
+add_trait="patient"
+add_trait="shy"
+
+1974.2.5={birth="1974.2.5"}
+2046.10.25={death="2046.10.25"}
+}
+
+2000014={
+name = "Meliksah"
+dynasty = 61014
+culture = kvellig
+religion = chaos
+military = 8
+diplomacy = 0
+stewardship = 11
+intrigue = 8
+learning = 9
+add_trait = "gardener"
+add_trait = "midas_touched"
+add_trait="ambitious"
+add_trait="proud"
+add_trait="arbitrary"
+
+1966.10.29={birth=yes}
+2046.10.9={death="2046.10.9"}
+}
+
+2000015={
+name = "Kiliç"
+dynasty = 61015
+culture = kvellig
+religion = chaos
+military = 8
+diplomacy = 0
+stewardship = 2
+intrigue = 6
+learning = 6
+add_trait = "impaler"
+add_trait = "grey_eminence"
+add_trait="fair"
+add_trait="just"
+add_trait="paranoid"
+
+1992.7.10={birth="1992.7.10"}
+2038.9.6={death="2038.9.6"}
+}
+
+2000016={
+name = "Kaikhusraw"
+dynasty = 61016
+culture = kvellig
+religion = chaos
+military = 2
+diplomacy = 1
+stewardship = 9
+intrigue = 6
+learning = 6
+add_trait = "falconer"
+add_trait = "skilled_tactician"
+add_trait="zealous"
+add_trait="kind"
+add_trait="cynical"
+
+1985.1.12={birth="1985.1.12"}
+2060.5.17={death="2060.5.17"}
+}
+
+2000017={
+name = "Serife"
+female = yes
+dynasty = 61017
+culture = kvellig
+religion = chaos
+military = 9
+diplomacy = 5
+stewardship = 6
+intrigue = 8
+learning = 2
+add_trait = "falconer"
+add_trait = "underhanded_rogue"
+add_trait="honest"
+
+add_trait="craven"
+
+1988.2.26={birth="1988.2.26"}
+2018.8.4={death="2018.8.4"}
+}
+
+2000018={
+name = "Gulbahar"
+female = yes
+dynasty = 61018
+culture = kvellig
+religion = chaos
+military = 9
+diplomacy = 7
+stewardship = 10
+intrigue = 3
+learning = 0
+add_trait = "falconer"
+add_trait = "mastermind_theologian"
+add_trait="greedy"
+add_trait="gregarious"
+
+
+1964.5.19={birth="1964.5.19"}
+2043.2.23={death="2043.2.23"}
+}
+
+2000019={
+name = "Terkhen"
+dynasty = 61019
+culture = kvellig
+religion = chaos
+military = 1
+diplomacy = 0
+stewardship = 7
+intrigue = 1
+learning = 8
+add_trait = "gardener"
+add_trait = "midas_touched"
+
+add_trait="tall"
+add_trait="weak"
+
+1981.6.22={birth="1981.6.22"}
+2063.5.5={death="2063.5.5"}
+}
+

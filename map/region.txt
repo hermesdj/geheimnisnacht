@@ -1,0 +1,12 @@
+# Island regions - no land path from the continent
+# The AI needs these to optimize path finding
+#
+# NOTE: do not add any regions here that are NOT islands
+
+region_kuldevind
+	provinces = { 1200 }
+}
+
+region_ildelver
+	provinces = { 1199 }
+}

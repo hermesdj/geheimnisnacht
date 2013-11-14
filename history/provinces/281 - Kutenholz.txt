@@ -1,0 +1,18 @@
+# 281 Kutenholz
+
+# County Title
+title = c_kutenholz
+
+# Settlements
+max_settlements = 4
+b_kutenholz = castle
+b_viersen = castle
+b_eibelstadt = castle
+b_esens = city
+
+# Misc
+culture = middenlander
+religion = ulrican
+
+
+# History

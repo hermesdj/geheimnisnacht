@@ -1,0 +1,17 @@
+# 308 - Rohrhausen
+
+# County Title
+title = c_rohrhausen
+
+# Settlements
+max_settlements = 3
+b_rohrhausen = castle
+b_grund = city
+b_iburg = city
+
+# Misc
+culture = wissenlander
+religion = sigmarite
+
+
+# History

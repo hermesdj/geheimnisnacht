@@ -1,0 +1,100 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+has_creeping_buboes;Has Creeping Buboes;;;;;;;;;;;;;x
+has_creeping_buboes_desc;This character has Creeping Buboes, which leave horrible itchy red welts;;;;;;;;;;;;;x
+has_green_pox;Has the Green Pox;;;;;;;;;;;;;x
+has_green_pox_desc;This character has the Green Pox, which causes pus-filled boils to appear and burst, trickling green ichor;;;;;;;;;;;;;x
+has_red_pox;Has the Red Pox;;;;;;;;;;;;;x
+has_red_pox_desc;This character has the Red Pox, which is sometimes know as the Scarlet Scourge;;;;;;;;;;;;;x
+has_rattlelung;Has Rattlelung;;;;;;;;;;;;;x
+has_rattlelung_desc;This character has Rattlelung, and can never seem to stop coughing;;;;;;;;;;;;;x
+has_tomb_rot;Has Tomb Rot;;;;;;;;;;;;;x
+has_tomb_rot_desc;This character has Tomb Rot, which causes the flesh to rot away;;;;;;;;;;;;;x
+has_nurgles_rot;Has Nurgle's Rot!;;;;;;;;;;;;;x
+has_nurgles_rot_desc;This character has Nurgle's Rot, and is cursed to spread father Nurgle's "gifts";;;;;;;;;;;;;x
+creeping_buboes;Creeping Buboes;;;;;;;;;;;;;x
+CREEPING_BUBOES_INFO;There is an epidemic of Creeping Buboes in this place;;;;;;;;;;;;;x
+rattlelung;Rattlelung;;;;;;;;;;;;;x
+RATTLELUNG_ROT_INFO;There is an epidemic of Rattlelung in this place;;;;;;;;;;;;;x
+nurgles_rot;Nurgle's Rot;;;;;;;;;;;;;x
+NURGLES_ROT_INFO;Father Nurgle has gifted this place with one his most virulent diseases;;;;;;;;;;;;;x
+red_pox;the Red Pox;;;;;;;;;;;;;x
+RED_POX_INFO;There is an epidemic of the Red Pox in this place;;;;;;;;;;;;;x
+green_pox;the Green Pox;;;;;;;;;;;;;x
+GREEN_POX_INFO;There is an epidemic of the Green Pox in this place;;;;;;;;;;;;;x
+# diseases events
+EVTDESC_DISEASES_1;You were infected with tomb rot, your body started rotting.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_1A;Oh no.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_0;A miracle! You were cured from Tomb Rot.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_0A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_2;A miracle! You were cured from Creeping Buboes.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_2A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_3;A miracle! You were cured from Green Pox.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_3A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_4;A miracle! You were cured from Red Pox.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_4A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_5;A miracle! You were cured from Rattlelung.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_5A;Bless the Gods!.;;;;;;;;;;;;;x
+# end of diseases events
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x

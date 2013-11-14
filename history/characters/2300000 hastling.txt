@@ -1,0 +1,403 @@
+2300000={
+name = "Cseka"
+dynasty = 66001
+culture = hastling
+religion = chaos
+military = 9
+diplomacy = 8
+stewardship = 3
+intrigue = 8
+learning = 3
+add_trait = "mystic"
+add_trait = "elusive_shadow"
+add_trait="honest"
+add_trait="kind"
+
+
+1961.12.1={birth="1961.12.1"}
+2019.3.25={death="2019.3.25"}
+}
+
+2300001={
+name = "Alirán"
+female = yes
+dynasty = 66004
+culture = hastling
+religion = chaos
+military = 9
+diplomacy = 0
+stewardship = 9
+intrigue = 9
+learning = 1
+add_trait = "scholar"
+add_trait = "scholarly_theologian"
+add_trait="craven"
+add_trait="greedy"
+
+
+1983.7.6={birth="1983.7.6"}
+2037.9.5={death="2037.9.5"}
+}
+
+2300002={
+name = "Tarcal"
+dynasty = 66003
+culture = hastling
+religion = chaos
+military = 8
+diplomacy = 2
+stewardship = 3
+intrigue = 6
+learning = 1
+add_trait = "mystic"
+add_trait = "brilliant_strategist"
+add_trait="gregarious"
+
+add_trait="weak"
+
+1981.2.3={birth="1981.2.3"}
+2039.3.16={death="2039.3.16"}
+}
+
+2300003={
+name = "Hudus"
+dynasty = 66000
+culture = hastling
+religion = chaos
+military = 10
+diplomacy = 8
+stewardship = 6
+intrigue = 1
+learning = 1
+add_trait = "poet"
+add_trait = "fortune_builder"
+add_trait="cruel"
+add_trait="wroth"
+add_trait="temperate"
+
+1984.5.27={birth="1984.5.27"}
+2052.12.27={death="2052.12.27"}
+}
+
+2300004={
+name = "Enéh"
+female = yes
+dynasty = 66005
+culture = hastling
+religion = chaos
+military = 10
+diplomacy = 5
+stewardship = 10
+intrigue = 2
+learning = 9
+
+add_trait = "misguided_warrior"
+add_trait="chaste"
+
+add_trait="content"
+
+1960.9.25={birth="1960.9.25"}
+2039.1.12={death="2039.1.12"}
+}
+
+2300005={
+name = "Déva"
+female = yes
+dynasty = 66004
+culture = hastling
+religion = chaos
+military = 6
+diplomacy = 4
+stewardship = 8
+intrigue = 1
+learning = 3
+add_trait = "poet"
+add_trait = "dutiful_cleric"
+add_trait="tall"
+add_trait="ill"
+add_trait="stressed"
+
+1976.8.28={birth="1976.8.28"}
+2015.8.9={death="2015.8.9"}
+}
+
+2300006={
+name = "Keszi"
+dynasty = 66006
+culture = hastling
+religion = chaos
+military = 9
+diplomacy = 8
+stewardship = 5
+intrigue = 6
+learning = 9
+add_trait = "falconer"
+add_trait = "tough_soldier"
+add_trait="depressed"
+add_trait="trusting"
+
+
+1965.6.11={birth="1965.6.11"}
+2025.5.21={death="2025.5.21"}
+}
+
+2300007={
+name = "Szilárd"
+dynasty = 66007
+culture = hastling
+religion = chaos
+military = 6
+diplomacy = 8
+stewardship = 4
+intrigue = 5
+learning = 2
+add_trait = "falconer"
+add_trait = "thrifty_clerk"
+
+add_trait="lustful"
+add_trait="humble"
+
+1970.11.18={birth="1970.11.18"}
+2018.4.6={death="2018.4.6"}
+}
+
+2300008={
+name = "Kurd"
+dynasty = 66008
+culture = hastling
+religion = chaos
+military = 4
+diplomacy = 7
+stewardship = 6
+intrigue = 4
+learning = 4
+add_trait = "hunter"
+add_trait = "amateurish_plotter"
+add_trait="legit_bastard"
+add_trait="drunkard"
+
+
+1991.2.3={birth="1991.2.3"}
+2037.10.29={death="2037.10.29"}
+}
+
+2300009={
+name = "Abád"
+dynasty = 66009
+culture = hastling
+religion = chaos
+military = 0
+diplomacy = 8
+stewardship = 2
+intrigue = 2
+learning = 8
+add_trait = "mystic"
+add_trait = "detached_priest"
+add_trait="homosexual"
+
+
+
+1994.2.18={birth="1994.2.18"}
+2021.3.7={death="2021.3.7"}
+}
+
+2300010={
+name = "Õdön"
+dynasty = 66010
+culture = hastling
+religion = chaos
+military = 4
+diplomacy = 3
+stewardship = 8
+intrigue = 0
+learning = 2
+add_trait = "hunter"
+add_trait = "skilled_tactician"
+add_trait="lisp"
+
+
+
+1993.9.20={birth="1993.9.20"}
+2033.11.18={death="2033.11.18"}
+}
+
+2300011={
+name = "Zovárd"
+dynasty = 66012
+culture = hastling
+religion = chaos
+military = 4
+diplomacy = 7
+stewardship = 7
+intrigue = 8
+learning = 8
+add_trait = "gardener"
+add_trait = "flamboyant_schemer"
+
+
+add_trait="fair"
+
+1972.11.9={birth="1972.11.9"}
+2011.9.17={death="2011.9.17"}
+}
+
+2300012={
+name = "Örs"
+dynasty = 66011
+culture = hastling
+religion = chaos
+military = 7
+diplomacy = 2
+stewardship = 4
+intrigue = 0
+learning = 9
+add_trait = "gardener"
+add_trait = "misguided_warrior"
+add_trait="strong"
+add_trait="diligent"
+add_trait="envious"
+
+1982.1.19={birth="1982.1.19"}
+2041.10.19={death="2041.10.19"}
+}
+
+2300013={
+name = "Vízibor"
+dynasty = 66013
+culture = hastling
+religion = chaos
+military = 7
+diplomacy = 5
+stewardship = 0
+intrigue = 5
+learning = 0
+add_trait = "scholar"
+add_trait = "mastermind_theologian"
+add_trait="proud"
+
+add_trait="shy"
+
+1982.5.22={birth="1982.5.22"}
+2016.10.25={death="2016.10.25"}
+}
+
+2300014={
+name = "Kipcsa"
+dynasty = 66014
+culture = hastling
+religion = chaos
+military = 9
+diplomacy = 7
+stewardship = 1
+intrigue = 3
+learning = 9
+
+add_trait = "flamboyant_schemer"
+add_trait="patient"
+add_trait="arbitrary"
+add_trait="ambitious"
+
+1980.5.21={birth="1980.5.21"}
+2030.3.15={death="2030.3.15"}
+}
+
+2300015={
+name = "Géza"
+dynasty = 66015
+culture = hastling
+religion = chaos
+military = 9
+diplomacy = 6
+stewardship = 4
+intrigue = 11
+learning = 9
+add_trait = "hunter"
+add_trait = "naive_appeaser"
+add_trait="slothful"
+add_trait="cynical"
+add_trait="just"
+
+1990.2.10={birth="1990.2.10"}
+2061.10.28={death="2061.10.28"}
+}
+
+2300016={
+name = "Botos"
+dynasty = 66016
+culture = hastling
+religion = chaos
+military = 8
+diplomacy = 7
+stewardship = 3
+intrigue = 8
+learning = 1
+add_trait = "impaler"
+add_trait = "indulgent_wastrel"
+add_trait="zealous"
+add_trait="kind"
+add_trait="paranoid"
+
+1989.1.15={birth="1989.1.15"}
+2061.4.12={death="2061.4.12"}
+}
+
+2300017={
+name = "Hódos"
+dynasty = 66017
+culture = hastling
+religion = chaos
+military = 7
+diplomacy = 8
+stewardship = 11
+intrigue = 2
+learning = 5
+add_trait = "hunter"
+add_trait = "scholarly_theologian"
+add_trait="gregarious"
+
+add_trait="craven"
+
+1953.7.8={birth="1953.7.8"}
+2053.9.11={death="2053.9.11"}
+}
+
+2300018={
+name = "Árbóc"
+dynasty = 66018
+culture = hastling
+religion = chaos
+military = 1
+diplomacy = 0
+stewardship = 3
+intrigue = 2
+learning = 0
+add_trait = "falconer"
+add_trait = "scholarly_theologian"
+add_trait="greedy"
+
+add_trait="honest"
+
+1996.9.18={birth="1996.9.18"}
+2028.7.20={death="2028.7.20"}
+}
+
+2300019={
+name = "Vata"
+dynasty = 66019
+culture = hastling
+religion = chaos
+military = 6
+diplomacy = 3
+stewardship = 4
+intrigue = 1
+learning = 3
+add_trait = "gardener"
+add_trait = "mastermind_theologian"
+
+add_trait="weak"
+add_trait="tall"
+
+1958.9.27={birth="1958.9.27"}
+2066.6.6={death="2066.6.6"}
+}
+

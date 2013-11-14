@@ -1,0 +1,17 @@
+# 220 Markenbinnen
+
+# County Title
+title = c_markenbinnen
+
+# Settlements
+max_settlements = 3
+b_markenbinnen = castle
+b_oudesluis = city
+b_wijdenes = temple
+
+# Misc
+culture = westerlander
+religion = sigmarite
+
+
+# History

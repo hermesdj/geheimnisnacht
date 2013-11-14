@@ -1,0 +1,553 @@
+#Chaos Cultist
+
+chaos_undivided_cultist_hidden = {
+}
+
+khorne_cultist_hidden = {
+}
+
+nurgle_cultist_hidden = {
+}
+
+slaanesh_hidden_hidden = {
+}
+
+tzeentch_cultist_hidden = {
+}
+
+#Renegade Chaos Cultist
+
+zuvassin_cultist_hidden = {
+}
+
+malal_cultist_hidden = {
+}
+
+necoho_cultist_hidden = {
+}
+
+#Yellow Fang Cultist
+
+yellow_fang_cultist_hidden = {
+}
+
+#Vampire Cultist
+
+vampire_cultist_hidden = {
+}
+
+#Ahalt Cultist
+
+ahalt_cultist_hidden = {
+}
+
+#Vylmar Cultist
+
+vylmar_cultist_hidden = {
+}
+
+#True Grail Cultist
+
+true_grail_cultist_hidden = {
+}
+
+#Necromancer
+
+necromancer_cultist_hidden = {
+}
+
+
+
+
+creature_human = {
+	inherit_chance = 100
+}
+
+creature_elf = {
+	inherit_chance = 100
+	immortal = yes
+	fertility = -10.0
+	opposites = {
+	trait = creature_dwarf
+	}
+	opposite_opinion = -30
+}
+
+creature_dwarf = {
+	inherit_chance = 100
+	immortal = yes
+	fertility = -10.0
+	opposites = {
+	trait = creature_chaos_dwarf
+	trait = creature_goblin
+	trait = creature_snotling
+	trait = creature_orc
+	trait = creature_skaven
+	}
+
+	opposite_opinion = -100
+}
+
+creature_chaos_dwarf = {
+	inherit_chance = 100
+	immortal = yes
+	fertility = -10.0
+}
+
+creature_halfling = {
+	inherit_chance = 100
+}
+
+creature_orc = {
+	inherit_chance = 100
+	immortal = yes
+	fertility = -10.0
+	cannot_marry = yes
+	ai_rationality = -20
+	vassal_opinion = -20
+}
+
+creature_goblin = {
+	inherit_chance = 100
+	immortal = yes
+	fertility = -10.0
+	cannot_marry = yes
+}
+
+creature_snotling = {
+	inherit_chance = 100
+	immortal = yes
+	fertility = -10.0
+	cannot_marry = yes
+}
+
+creature_nehekharan = {
+	inherit_chance = 100
+	immortal = yes
+	fertility = -10.0
+}
+
+creature_skink = {
+	inherit_chance = 100
+	fertility = -10.0
+	cannot_marry = yes
+}
+
+creature_skaven = {
+	inherit_chance = 100
+	fertility = -10.0
+	cannot_marry = yes
+	vassal_opinion = -30
+}
+
+creature_ogre = {
+	inherit_chance = 100
+	fertility = -0.15
+}
+
+creature_beastman = {
+	inherit_chance = 100
+	fertility = -0.3
+	ai_rationality = -20
+	vassal_opinion = -50
+}
+
+#Dwarf
+
+dwarf_infant = {
+#0-16 Navnsded
+}
+
+dwarf_youth = {
+#16-30 Garazi 
+}
+
+dwarf_adult = {
+#30-70 Gnutrommi 
+}
+
+dwarf_fullbeard = {
+#70-120 Altrommi 
+}
+
+dwarf_longbeard = {
+#120-150 Langktrommi 
+}
+
+dwarf_elder = {
+#150-200 Throngrink 
+}
+
+dwarf_greatbeard = {
+#200-400 Gormtrommi 
+}
+
+dwarf_ancestor = {
+#400+ Karugromthi 
+}
+
+
+
+#Greenskins
+
+orc_small = {
+	leader = no
+
+	intrigue = 2
+	
+	liege_opinion = 20
+	
+	
+	ai_ambition = -40
+	ai_zeal = -30
+}
+
+orc_average = {
+	leader = no
+
+	intrigue = 1
+	
+	liege_opinion = 10
+	
+	
+	ai_ambition = -20
+	ai_zeal = -10
+}
+
+orc_large = {
+	leader = no
+
+	diplomacy = 1
+	martial = 1
+	
+	liege_opinion = -20
+	
+	
+	ai_ambition = 20
+	ai_zeal = 20
+}
+
+orc_huge = {
+	leader = no
+
+	intrigue = -2
+	diplomacy = 2
+	martial = 3
+	
+	liege_opinion = -50
+	
+	
+	ai_ambition = 50
+	ai_zeal = 50
+}
+
+orc_massive = {
+	leader = no
+
+	intrigue = -2
+	diplomacy = 3
+	martial = 5
+	
+	liege_opinion = -80
+	
+	
+	ai_ambition = 80
+	ai_zeal = 80
+}
+
+goblin_small = {
+	leader = no
+
+	intrigue = 2
+	
+	liege_opinion = 20
+	
+	
+	ai_ambition = -40
+	ai_zeal = -30
+}
+
+goblin_average = {
+	leader = no
+
+	intrigue = 1
+	
+	liege_opinion = 10
+	
+	
+	ai_ambition = -20
+	ai_zeal = -10
+}
+
+goblin_large = {
+	leader = no
+
+	diplomacy = 1
+	martial = 1
+	
+	liege_opinion = -20
+	ai_ambition = 20
+	ai_zeal = 20
+}
+
+goblin_huge = {
+	leader = no
+
+	intrigue = -2
+	diplomacy = 2
+	martial = 3
+	
+	liege_opinion = -50
+	ai_ambition = 50
+	ai_zeal = 50
+}
+
+goblin_massive = {
+	leader = no
+
+	intrigue = -2
+	diplomacy = 3
+	martial = 5
+	
+	liege_opinion = -80
+	ai_ambition = 80
+	ai_zeal = 80
+}
+
+#Vampires
+
+vampire_lahmian_visible = {
+
+	sex_appeal_opinion = 25
+	same_opinion = 25
+	infidel_opinion = -1000
+	monthly_character_piety = 0.25
+	monthly_character_prestige = 0.5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = -30
+	ai_ambition = 30
+
+}
+
+vampire_carstein_visible = {
+
+	sex_appeal_opinion = 20
+	same_opinion = 25
+	infidel_opinion = -1000
+	monthly_character_piety = 0.25
+	monthly_character_prestige = 0.5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = -30
+	ai_ambition = 30
+
+}
+
+vampire_blood_visible = {
+
+	same_opinion = 25
+	infidel_opinion = -1000
+	monthly_character_piety = 0.25
+	monthly_character_prestige = 0.5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = 30
+	ai_ambition = -30
+}
+
+vampire_strigoi_visible = {
+
+	diplomacy = -5
+	martial = 5
+	stewardship = -5
+	intrigue = 5
+	learning = -5
+	same_opinion = -25
+	infidel_opinion = -1000
+	general_opinion = -100
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	pilgrimage = yes
+	ai_zeal = 30
+	ai_honor = -30
+	ai_ambition = 30
+	ai_rationality = -100 
+}
+
+vampire_necrach_visible = {
+
+	diplomacy = -5
+	martial = 5
+	stewardship = -5
+	intrigue = 5
+	learning = -5
+	same_opinion = -25
+	infidel_opinion = -1000
+	general_opinion = -100
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	pilgrimage = yes
+	ai_zeal = 30
+	ai_honor = -30
+	ai_ambition = 30
+	ai_rationality = -100 
+}
+
+vampire_jade_visible = {
+
+	same_opinion = -25
+	infidel_opinion = -1000
+	general_opinion = -100
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	pilgrimage = yes
+	ai_zeal = 30
+	ai_honor = -30
+	ai_ambition = 30
+	ai_rationality = -100 
+}
+
+vampire_mahtmasi_visible = {
+
+	same_opinion = -25
+	infidel_opinion = -1000
+	general_opinion = -100
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	pilgrimage = yes
+	ai_zeal = 30
+	ai_honor = -30
+	ai_ambition = 30
+	ai_rationality = -100 
+}
+
+special_char_nefereta = {
+
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = -50
+	ai_ambition = 30
+	ai_rationality = 100 
+}
+
+special_char_vashanesh = {
+
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = -50
+	ai_ambition = 30
+	ai_rationality = 100 
+}
+
+special_char_abhorash = {
+
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = -50
+	ai_ambition = 30
+	ai_rationality = 100 
+}
+
+special_char_ushoran = {
+
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = -50
+	ai_ambition = 30
+	ai_rationality = 100 
+}
+
+special_char_wsoran = {
+
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = -50
+	ai_ambition = 30
+	ai_rationality = 100 
+}
+
+special_char_harakhate = {
+
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = -50
+	ai_ambition = 30
+	ai_rationality = 100 
+}
+
+special_char_maatmases = {
+
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	ai_zeal = 30
+	ai_honor = -50
+	ai_ambition = 30
+	ai_rationality = 100 
+}
+
+special_char_red_duke = {
+
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	cannot_marry = yes
+	ai_zeal = 30
+	ai_honor = -50
+	ai_ambition = 30
+	ai_rationality = -50 
+}
+
+special_char_nagash = {
+
+	monthly_character_piety = 5
+	fertility = -10.0
+	immortal = yes
+	cannot_marry = yes
+	ai_zeal = 30
+	ai_honor = -50
+	ai_ambition = 30
+	ai_rationality = 50 
+}
+
+nehekharan_child = {
+}
+
+nagarythi_elf = {
+}
+
+sylvanian_human = {
+}
+
+mousillonian_human = {
+}
+
+strigany_human = {
+}
+
+reclaimed_druchi_elf = {
+}
+
+reclaimed_asur_elf = {
+}
+

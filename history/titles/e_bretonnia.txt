@@ -1,0 +1,17 @@
+977.5.10 = {
+	holder = 0 #Gilles le Breton
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+1001.3.18 = {
+	holder = 0 #Louis le Breton
+}
+
+2010.1.1 = {
+	holder = 4000101
+}
+
+2500.6.13 = {
+	holder = 4000120
+}

@@ -1,0 +1,157 @@
+### Head
+
+mutation_horns = {
+}
+mutation_cyclop = {
+    martial = -1
+}
+mutation_extraeyes = {
+}
+mutation_faceless = {
+    diplomacy = -2
+}
+mutation_fangedmaw = {
+    martial = 1
+}
+mutation_beastface = {
+}
+mutation_headless = {
+    diplomacy = -3
+}
+mutation_glowingeyes = {
+}
+
+
+### Legs
+
+mutation_fishlegs = {
+    fertility = -1000
+}
+mutation_snakelegs = {
+    fertility = -1000
+}
+mutation_sludgelegs = {
+    fertility = -1000
+}
+mutation_tentaclelegs = }
+    fertility = -1000
+}
+mutation_arachnidlegs = {
+    fertility = -1000
+}
+mutation_centaurlegs = {
+}
+mutation_beastleg = {
+}
+mutation_extraleg = {
+}
+
+### Body
+
+mutation_tail = {
+}
+mutation_wings = {
+    martial = 2
+    intrigue = 1
+}
+mutation_curiouseruptions = {
+}
+
+### Arms
+
+mutation_wingarms = {
+}
+mutation_extraarms = {
+    martial = 1
+}
+mutation_tentaclearms = {
+}
+
+### Entire
+
+mutation_pseudodaemon = {
+}
+mutation_were = {
+}
+mutation_skinless = {
+}
+mutation_skeleton = {
+}
+mutation_boneless = {
+}
+mutation_flaming = {
+}
+mutation_metallic = {
+}
+mutation_marks = {
+}
+
+
+mutation_mark_chaos = {
+	immortal = yes		
+	martial = 3
+	monthly_character_prestige = 0.3
+}
+mutation_mark_khorne = {
+	immortal = yes	
+	martial = 3
+	monthly_character_prestige = 0.3
+}
+mutation_mark_nurgle = {
+	immortal = yes		
+	martial = 3
+	monthly_character_prestige = 0.3
+}
+mutation_mark_slaanesh = {
+	immortal = yes
+	martial = 3
+	monthly_character_prestige = 0.3
+}
+
+mutation_mark_tzeentch = {
+	immortal = yes		
+	martial = 3
+	monthly_character_prestige = 0.3
+}
+
+
+mutation_fur = {
+}
+mutation_growth = {
+    health = 1
+    martial = 1
+    intrigue = -1
+}
+mutation_shrunken = {
+    martial = -1
+    intrigue = 1
+    fertility = -0.1
+}
+mutation_immense = {
+    health = 0.5
+}
+mutation_emaciated = {
+    health = -0.5
+}
+mutation_daemonicname = {
+}
+mutation_strength = {
+    health = 1
+}
+mutation_allure = {
+    diplomacy = 1
+    intrigue = 1
+}
+mutation_intellect = {
+    learning = 2
+    martial = 1
+    intrigue = 1
+    diplomacy = 1
+}
+mutation_regeneration = {
+    health = 1.5
+}
+mutation_magicimmune = {
+}
+mutation_malignsorcery = {
+}

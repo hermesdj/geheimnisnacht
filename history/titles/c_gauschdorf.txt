@@ -1,0 +1,20 @@
+2010.1.1= {
+liege="d_ferlangen"
+}
+
+2010.1.1 = {
+	holder = 800032
+}
+
+2450.1.1= {
+liege="k_ostland"
+}
+
+2478.5.2 = {
+	holder = 800081
+}
+
+2531.11.19 = {
+	liege="d_knochenkuste"
+	holder = 800080
+}

@@ -1,0 +1,18 @@
+# 356 Wuppertal
+
+# County Title
+title = c_wuppertal
+
+# Settlements
+max_settlements = 4
+b_wuppertal = castle
+b_rhens = city
+b_sehnde = temple
+b_vellberg = city
+
+# Misc
+culture = averlander
+religion = sigmarite
+
+
+# History

@@ -1,0 +1,19 @@
+# 231 Aarnau
+
+# County Title
+title = c_aarnau
+
+# Settlements
+max_settlements = 5
+b_aarnau = castle
+b_diever = city
+b_hollum = temple
+b_vatrop = temple
+b_zaanstad = city
+
+# Misc
+culture = westerlander
+religion = sigmarite
+
+
+# History

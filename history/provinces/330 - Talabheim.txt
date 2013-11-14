@@ -1,0 +1,21 @@
+# 330 Talabheim
+
+# County Title
+title = c_talabheim
+
+# Settlements
+max_settlements = 7
+b_talabheim = castle
+b_vateresche = city
+b_klarfeld = temple
+b_dankerood = temple
+b_sprotau = city
+b_talagaad = city
+b_waldfahrt = city
+
+# Misc
+culture = talabeclander
+religion = taalite
+
+
+# History

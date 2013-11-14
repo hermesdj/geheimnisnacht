@@ -1,0 +1,18 @@
+# 384 - Wartenhof
+
+# County Title
+title = c_wartenhof
+
+# Settlements
+max_settlements = 4
+b_castle_wartenhof = castle
+b_wartenhof = city
+b_erkrath = temple
+b_creusen = city
+
+# Misc
+culture = sylvanian
+religion = vampiric
+
+
+# History

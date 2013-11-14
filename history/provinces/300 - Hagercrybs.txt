@@ -1,0 +1,18 @@
+# 300 - Hagercrybs
+
+# County Title
+title = c_hagercrybs
+
+# Settlements
+max_settlements = 4
+b_weissbruck = castle
+b_wetzler = city
+b_wiehl = temple
+b_marktlehuen = city
+
+# Misc
+culture = reiklander
+religion = sigmarite
+
+
+# History

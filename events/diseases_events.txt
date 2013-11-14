@@ -1,0 +1,329 @@
+###################################
+#
+# Health Events (just diseases)
+#
+# Id : diseases namespace
+#
+###################################
+#
+namespace = disease
+
+#Tomb Rot
+character_event = {
+	id = disease.1
+	desc = EVTDESC_DISEASE_1
+	picture = GFX_evt_illness
+	
+	trigger = {
+		health = 4.0
+		NOT = { trait = ill }
+		NOT = { trait = pneumonic }
+		NOT = { trait = has_tomb_rot }
+		NOT = { trait = has_creeping_buboes }
+		NOT = { trait = has_rattlelung }
+		NOT = { trait = has_red_pox }
+		NOT = { trait = has_green_pox }
+	}
+	
+	mean_time_to_happen = {
+		years = 30
+		modifier = {
+			factor = 0.5
+			trait = has_nurgles_rot
+		}	
+		modifier = {
+			factor = 0.5
+			trait = depressed
+		}
+		modifier = {
+			factor = 0.5
+			trait = stressed
+		}
+		modifier = {
+			factor = 0.75
+			prisoner = yes
+			has_character_modifier = the_oubliette
+		}
+		modifier = {
+			factor = 0.9
+			prisoner = yes
+			has_character_modifier = the_dungeon
+		}
+		modifier = {
+			factor = 1.5
+			base_health = 6
+		}
+		modifier = {
+			factor = 2.0
+			base_health = 7
+		}
+		modifier = {
+			factor = 2.0
+			base_health = 8
+		}
+		modifier = {
+			factor = 0.1
+			has_character_flag = had_contact_with_dead
+			# this flag is used to mark the people
+			# who are doing things with dead bodies
+		}
+	}
+	
+	option = {
+		name = EVTOPT_DISEASE_1A
+		add_trait = has_tomb_rot
+		clr_character_flag = had_contact_with_dead
+	}
+}
+
+#Remove Tomb Rot
+character_event = {
+	id = disease.0
+	desc = EVTDESC_DISEASE_0
+	picture = GFX_evt_recovery
+	
+	trigger = {
+		base_health = 3
+		trait = has_tomb_rot
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+		
+		modifier = {
+			factor = 2.0
+			trait = depressed
+		}
+		modifier = {
+			factor = 2.0
+			trait = stressed
+		}
+		modifier = {
+			factor = 0.3
+			base_health = 5
+		}
+		modifier = {
+			factor = 0.2
+			base_health = 6
+		}
+		modifier = {
+			factor = 0.1
+			base_health = 7
+		}
+	}
+	
+	option = {
+		name = EVTOPT_DISEASE_0A
+		remove_trait = has_tomb_rot
+	}
+}
+
+# Recovery events for plagues
+#
+# Recover from Creeping_Buboes
+character_event = {
+	id = disease.2
+	desc = EVTDESC_DISEASE_2
+	picture = GFX_evt_recovery
+	
+	trigger = {
+		trait = has_creeping_buboes
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+		modifier = {
+			factor = 2.0
+			trait = ill
+		}
+		modifier = {
+			factor = 4.0
+			trait = infirm
+		}
+		modifier = {
+			factor = 0.75
+			base_health = 5.1
+		}
+		modifier = {
+			factor = 0.5
+			base_health = 6
+		}
+		modifier = {
+			factor = 0.5
+			base_health = 7
+		}
+		modifier = {
+			factor = 1.5
+			NOT = { base_health = 5 }
+		}
+		modifier = {
+			factor = 5.0
+			trait = incapable
+		}
+		modifier = {
+			factor  = 0.75
+			NOT = { age = 40 }
+		}
+		modifier = {
+			factor  = 0.75
+			NOT = { age = 20 }
+		}
+		modifier = {
+			factor = 2.0
+			OR = {
+				age = 60 
+				NOT = { age = 10 }
+			}
+		}
+	}
+	
+	option = {
+		name = EVTOPT_DISEASE_1A
+		remove_trait = has_creeping_buboes
+	}
+}
+# Recover from Red Pox
+character_event = {
+	id = disease.3
+	desc = EVTDESC_DISEASE_3
+	picture = GFX_evt_recovery
+	
+	trigger = {
+		trait = has_red_pox
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+		modifier = {
+			factor = 2.0
+			trait = ill
+		}
+		modifier = {
+			factor = 4.0
+			trait = infirm
+		}
+		modifier = {
+			factor = 0.75
+			base_health = 5.1
+		}
+		modifier = {
+			factor = 0.5
+			base_health = 6
+		}
+		modifier = {
+			factor = 0.5
+			base_health = 7
+		}
+		modifier = {
+			factor = 1.5
+			NOT = { base_health = 5 }
+		}
+		modifier = {
+			factor = 5.0
+			trait = incapable
+		}
+	}
+	option = {
+		name = EVTOPT_DISEASE_3A
+		remove_trait = has_red_pox
+	}
+}
+# Recover from Green Pox
+character_event = {
+	id = disease.4
+	desc = EVTDESC_DISEASE_4
+	picture = GFX_evt_recovery
+	
+	trigger = {
+		trait = has_green_pox
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+		modifier = {
+			factor = 2.0
+			trait = ill
+		}
+		modifier = {
+			factor = 4.0
+			trait = infirm
+		}
+		modifier = {
+			factor = 0.75
+			base_health = 5.1
+		}
+		modifier = {
+			factor = 0.5
+			base_health = 6
+		}
+		modifier = {
+			factor = 0.5
+			base_health = 7
+		}
+		modifier = {
+			factor = 1.5
+			NOT = { base_health = 5 }
+		}
+		modifier = {
+			factor = 5.0
+			trait = incapable
+		}
+	}
+	option = {
+		name = EVTOPT_DISEASE_4A
+		remove_trait = has_green_pox
+	}
+}
+# Recover from Rattlelung
+character_event = {
+	id = disease.5
+	desc = EVTDESC_DISEASE_5
+	picture = GFX_evt_recovery
+	
+	trigger = {
+		trait = has_rattlelung
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+		modifier = {
+			factor = 2.0
+			trait = ill
+		}
+		modifier = {
+			factor = 4.0
+			trait = infirm
+		}
+		modifier = {
+			factor = 0.75
+			base_health = 5.1
+		}
+		modifier = {
+			factor = 0.5
+			base_health = 6
+		}
+		modifier = {
+			factor = 0.5
+			base_health = 7
+		}
+		modifier = {
+			factor = 1.5
+			NOT = { base_health = 5 }
+		}
+		modifier = {
+			factor = 5.0
+			trait = incapable
+		}
+	}
+	option = {
+		name = EVTOPT_DISEASE_5A
+		remove_trait = has_rattlelung
+	}
+}
+# Recovery from Nurgle's Rot
+#  No one ever recovered from nurgle's rot :D
+#

@@ -1,0 +1,40 @@
+dwarf_gods_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	playable = yes
+
+	ancestor_gods = {
+		graphical_culture = westerngfx
+
+		icon = 14
+		color = { 0.7 0.7 0.7 }
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS GOD_THE_ANCESTOR_GODS GOD_GRUNGNI GOD_VALAYA GOD_GRIMNIR GOD_GAZUL GOD_SMEDNIR GOD_THUNGNI GOD_MORGRIM
+		}
+		
+		crusade_name = "HOLY_WAR"
+		scripture_name = BOOK_OF_GRUDGES
+		
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes		
+	}
+
+	norse_ancestor_gods = {
+		graphical_culture = westerngfx
+
+		icon = 14
+		color = { 0.9 0.9 0.9 }
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS GOD_THE_ANCESTOR_GODS GOD_GRUNGNI GOD_VALAYA GOD_GRIMNIR GOD_GAZUL GOD_SMEDNIR GOD_THUNGNI GOD_MORGRIM
+		}
+		
+		crusade_name = "HOLY_WAR"
+		scripture_name = BOOK_OF_GRUDGES
+		
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes		
+	}	
+	
+}

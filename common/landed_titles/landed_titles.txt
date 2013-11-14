@@ -1,0 +1,6323 @@
+e_rebels = {
+	rebel = yes
+	landless = yes
+	primary = yes
+
+	culture = reiklander
+	tribe = yes
+
+	color = { 0 0 0 }
+	color2 = { 0 0 0 }
+}
+
+e_pirates = {
+	pirate = yes
+	landless = yes
+	primary = yes
+
+	culture = westerlander
+	tribe = yes
+
+	color = { 0 0 0 }
+	color2 = { 0 0 0 }
+}
+
+d_rijikspoort_gazette = {
+	color = { 200 200 200 }
+	color2 = { 255 255 255 }
+	
+	title = "EDITOR"
+	title_female = "EDITOR"		
+		
+	capital = 222 #Marienburg
+	
+	short_name = yes
+
+	religion = classical_gods
+	culture = westerlander
+	
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+}
+
+d_imperial_engineers_school = {
+	color = { 250 250 250 }
+	color2 = { 255 255 255 }
+	
+	title = "MASTER_ENGINEER"
+	title_female = "MASTER_ENGINEER"		
+		
+	capital = 299 #Altdorf
+	
+	short_name = yes
+
+	religion = sigmarite
+	culture = reiklander
+	
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+}
+
+
+d_colleges_of_magic = {
+	color = { 250 250 250 }
+	color2 = { 255 255 255 }
+	
+	title = "SUPREME_PATRIARCH"
+	title_female = "SUPREME_MATRIARCH"		
+		
+	capital = 299 #Altdorf
+	
+	short_name = yes
+
+	religion = sigmarite
+	culture = reiklander
+	
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+}
+
+
+d_freieland = {
+	color = { 190 60 128 }
+	color2 = { 255 255 255 }
+	
+	capital = 1269 #Rosszutvonal
+}
+
+e_malleum_maleficus = {
+	color = { 190 160 228 }
+	color2 = { 255 255 255 }
+
+	title = "GOVERNOR_MILITANT"
+	title_female = "GOVERNOR_MILITANT"		
+	
+	short_name = yes
+	
+	capital = 299 #Altdorf
+}
+
+
+###Imperial
+
+e_reikland = {
+	color = { 235 234 237 }
+	color2 = { 255 255 255 }
+	
+	title = "EMPEROR"
+	title_female = "EMPRESS"		
+		
+	capital = 299 #Altdorf
+	
+	short_name = yes	
+}
+
+e_westerland = {
+	color = { 55 84 237 }
+	color2 = { 255 255 255 }
+	
+	title = "EMPEROR"
+	title_female = "EMPRESS"		
+		
+	capital = 222 #Marienburg
+	
+	short_name = yes	
+}
+
+e_talabecland = {
+	color = { 205 104 167 }
+	color2 = { 255 255 255 }
+	
+	title = "EMPEROR"
+	title_female = "EMPRESS"		
+		
+	capital = 330 #Talabheim
+	
+	short_name = yes	
+}
+
+e_middenland = {
+	color = { 55 34 137 }
+	color2 = { 255 255 255 }
+	
+	title = "EMPEROR"
+	title_female = "EMPRESS"		
+		
+	capital = 274 #Middenheim
+	
+	short_name = yes	
+}
+
+d_ragnarhalt = {
+	color = { 90 60 168 }
+	color2 = { 255 255 255 }
+
+	capital = 70 #Brodhir
+}
+		
+###Republics
+
+k_marienburg = {
+	color={ 109 126 211 }
+	color2={ 255 255 255 }
+	
+	capital = 222 #Marienburg
+
+	breton = "Marenbourg"
+	nortagnese = "Marenbourg"
+	armoric = "Marenbourg"
+	mousillonian = "Marenbourg"
+	carcassian = "Marenbourg"
+	gisoren = "Marenbourg"
+	bourgon = "Marenbourg"
+	gascon = "Marenbourg"
+	
+	dignity = 200 
+	
+	allow = {
+		always = no
+		is_republic = yes
+	}
+}
+
+d_ambacht = {
+	color={ 142 142 142 }
+	color2={ 255 255 255 }
+	
+	capital = 222 #Marienburg
+	
+	dignity = 200 
+	
+	allow = {
+		always = no
+		is_republic = yes
+	}
+}
+
+d_texelhaven = {
+	color={ 89 44 178 }
+	color2={ 255 255 255 }
+	
+	capital = 225 #Manaanspoort
+	
+	dignity = 200 
+	
+	allow = {
+		always = no
+		is_republic = yes
+	}
+}
+
+d_bogenhafen = {
+	color={ 142 232 192 }
+	color2={ 255 255 255 }
+	
+	capital = 296 #Bogenhafen
+	
+	dignity = 200 
+	
+	allow = {
+		always = no
+		is_republic = yes
+	}
+}
+
+d_grande_charte = {
+	color={ 142 232 192 }
+	color2={ 255 255 255 }
+	
+	capital = 866 #Gransette
+	
+	dignity = 200 
+	
+	allow = {
+		always = no
+		is_republic = yes
+	}
+}		
+		
+###Religious Titles
+
+	k_cult_of_myrmidia = {
+		color={ 50 50 200 }
+		color2={ 220 220 0 }
+
+		capital = 553 #Magritta
+		
+		title = "ULTIMA_AQUILA"
+		title_female = "ULTIMA_AQUILA"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		controls_religion = classical_gods
+	
+		religion = classical_gods
+		culture = astur
+		primary = yes
+	
+		dynasty_title_names = no
+	}
+
+	k_cult_of_sigmar = {
+		color={ 200 50 50 }
+		color2={ 220 220 0 }
+	
+		capital = 299 # Altdorf
+	
+		title = "GRAND_THEOGONIST"
+		foa = "GRAND_THEOGONIST_FOA"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		controls_religion = sigmarite
+	
+		religion = sigmarite
+	
+		primary = yes
+	
+		dynasty_title_names = no 	
+	}
+
+	k_cult_of_ulric = {
+		color={ 50 50 200 }
+		color2={ 220 220 0 }
+	
+		capital = 274 #Middenheim
+	
+		title = "AR_ULRIC"
+		foa = "AR_ULRIC_FOA"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		controls_religion = ulrican
+	
+		religion = ulrican
+	
+		primary = yes
+	
+		dynasty_title_names = no
+	}	
+
+	d_cult_of_taal_and_rhya = {
+		color={ 50 190 50 }
+		color2={ 220 220 0 }
+	
+		capital = 330 #Talabheim
+	
+		title = "HIERARCH"
+		title_female = "HIERARCH"
+		foa = "AR_ULRIC_FOA"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		controls_religion = taalite
+	
+		religion = taalite
+	
+		primary = yes
+	
+		dynasty_title_names = no
+	}
+
+	d_cult_of_ursun = {
+		color={ 250 100 100 }
+		color2={ 220 220 0 }
+	
+		capital = 202 #Kislev
+	
+		title = "HIGH_PRIEST"
+		foa = "HIGH_PRIEST_FOA"
+		short_name = yes
+		location_ruler_title = yes
+		
+		controls_religion = northern_gods
+	
+		religion = northern_gods
+		culture = gospodar
+	
+		dynasty_title_names = no 	
+	}
+
+	d_cult_of_ahalt = {
+		color={ 250 100 100 }
+		color2={ 220 220 0 }
+	
+		capital = 330 #Talabheim
+	
+		title = "HIGH_PRIEST"
+		foa = "HIGH_PRIEST_FOA"
+		short_name = yes
+		location_ruler_title = yes
+		
+		controls_religion = ahalt
+	
+		religion = ahalt
+		culture = talabeclander
+	
+		dynasty_title_names = no 	
+	}
+
+	d_cult_of_the_red_redemption = {
+		color={ 200 50 50 }
+		color2={ 220 220 0 }
+	
+		capital = 299 # Altdorf
+	
+		title = "MASTER"
+		title = "MISTRESS"
+		foa = "MASTER_FOA"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		controls_religion = red_redemption
+	
+		religion = red_redemption
+	
+		primary = yes
+	
+		dynasty_title_names = no 	
+	}
+
+	d_cult_of_the_true_grail = {
+		color={ 200 50 50 }
+		color2={ 220 220 0 }
+	
+		capital = 826 #Mousillon
+	
+		title = "MASTER"
+		title = "MISTRESS"
+		foa = "MASTER_FOA"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		controls_religion = true_grail
+	
+		religion = true_grail
+	
+		primary = yes
+	
+		dynasty_title_names = no 	
+	}	
+	
+	d_cult_of_the_yellow_fang = {
+		color={ 50 190 50 }
+		color2={ 220 220 0 }
+	
+		capital = 274 #Middenheim
+	
+		title = "MASTER"
+		title_female = "MISTRESS"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		controls_religion = yellow_fang
+	
+		religion = yellow_fang
+	
+		primary = yes
+	
+		dynasty_title_names = no
+	}
+
+	d_cult_of_vylmar = {
+		color={ 50 190 50 }
+		color2={ 220 220 0 }
+	
+		capital = 274 #Middenheim
+	
+		title = "MASTER"
+		title_female = "MISTRESS"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		controls_religion = vylmar
+	
+		religion = vylmar
+	
+		primary = yes
+	
+		dynasty_title_names = no
+	}
+
+	d_cult_of_nagash = {
+		color={ 50 190 50 }
+		color2={ 220 220 0 }
+	
+		capital = 471 #Cripple Peak
+	
+		title = "MASTER"
+		title_female = "MISTRESS"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		controls_religion = nagashi
+	
+		religion = nagashi
+	
+		primary = yes
+	
+		dynasty_title_names = no
+	}
+
+	d_high_temple_of_remas = {
+		color={ 50 190 50 }
+		color2={ 220 220 0 }
+	
+		capital = 600 #Remas
+	
+		title = "EAGLE"
+		title_female = "EAGLE"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		religion = classical_gods
+		culture = reman
+	
+		primary = yes
+	
+		dynasty_title_names = no
+	}
+
+	d_high_temple_of_magritta = {
+		color={ 50 190 50 }
+		color2={ 220 220 0 }
+	
+		capital = 553 #Magritta
+	
+		title = "EAGLE"
+		title_female = "EAGLE"
+		short_name = yes
+		location_ruler_title = yes
+	
+		landless = yes
+	
+		religion = classical_gods
+		culture = astur
+	
+		primary = yes
+	
+		dynasty_title_names = no
+	}
+
+
+e_high_kingdom = {
+	color={ 140 60 190 }
+	color2={ 220 220 0 }
+	
+	capital = 451 #Karaz-a-Karak
+	
+	title = "HIGH_KING"
+	title_female = "HIGH_QUEEN"
+	foa = "HIGH_KING_FOA"
+	short_name = yes
+	
+	religion = ancestor_gods
+	
+	primary = yes
+	
+	controls_religion = ancestor_gods
+}	
+	
+e_host_khorne = {
+	color={ 190 60 60 }
+	color2={ 220 220 0 }
+	
+	capital = 409 #Dragoynovo
+	
+	title = "CHAOS_CHAMPION"
+	title_female = "CHAOS_CHAMPION"
+	foa = "CHAOS_CHAMPION_FOA"
+	short_name = yes
+	
+	religion = khorne
+	
+	primary = yes
+	
+	controls_religion = khorne
+}
+	
+e_host_slaanesh = {
+	color={ 180 60 160 }
+	color2={ 220 220 0 }
+	
+	capital = 1230 #Kamas
+	
+	title = "CHAOS_CHAMPION"
+	title_female = "CHAOS_CHAMPION"
+	foa = "CHAOS_CHAMPION_FOA"
+	short_name = yes
+	
+	religion = slaanesh
+	
+	primary = yes
+	
+	controls_religion = slaanesh
+}	
+	
+e_host_tzeentch = {
+	color={ 70 110 190 }
+	color2={ 220 220 0 }
+	
+	capital = 1187 #Angara
+	
+	title = "CHAOS_CHAMPION"
+	title_female = "CHAOS_CHAMPION"
+	foa = "CHAOS_CHAMPION_FOA"
+	short_name = yes
+	
+	religion = tzeentch
+	
+	primary = yes
+	
+	controls_religion = tzeentch
+}
+	
+e_host_nurgle = {
+	color={ 120 160 60 }
+	color2={ 220 220 0 }
+	
+	capital = 393 #Blatnista
+	
+	title = "CHAOS_CHAMPION"
+	title_female = "CHAOS_CHAMPION"
+	foa = "CHAOS_CHAMPION_FOA"
+	short_name = yes
+	
+	religion = nurgle
+	
+	primary = yes
+	
+	controls_religion = nurgle
+}
+	
+e_host_chaos = {
+	color={ 100 60 70 }
+	color2={ 220 220 0 }
+	
+	capital = 404 #Rakovitska
+	
+	title = "CHAOS_CHAMPION"
+	title_female = "CHAOS_CHAMPION"
+	foa = "CHAOS_CHAMPION_FOA"
+	short_name = yes
+	
+	religion = chaos
+	
+	primary = yes
+	
+	controls_religion = chaos
+}		
+
+e_the_empire = {
+	color = { 210 210 210 }
+	color2 = { 255 255 255 }
+	
+	title = "EMPEROR"
+	title_female = "EMPRESS"		
+	
+	capital = 299 #Altdorf
+
+	short_name = yes
+
+	k_reikland = {
+		color = { 250 250 250 }
+		color2 = { 255 255 255 }
+		
+		capital = 299 #Altdorf
+
+			bjornling = "Ríkiland"
+			sarl = "Ríkiland"
+			aesling = "Ríkiland"
+			varg = "Ríkiland"
+			baersonling = "Ríkiland"
+			skaeling = "Ríkiland"
+			graeling = "Ríkiland"				
+								
+		d_altdorf = {
+			color = { 207 205 246 }
+			color2 = { 255 255 255 }
+			
+			capital = 299 #Altdorf
+						
+			c_altdorf = {
+				color = { 57 60 133 }
+				color2 = { 255 255 255 }
+					
+				b_kaiserliche_palast = {
+				}
+				b_domplatz_bezirk = {
+					pentarchy = yes
+					holy_site = sigmarite
+				}
+				b_reikmarkt = {
+				}
+				b_werksviertel = {
+				}
+				b_reikhoch = {
+				}
+				b_niederwind = {
+				}
+				b_oberhausen = {
+				}
+			}
+		}
+		
+		d_grauberge = {
+			color = { 164 150 139 }
+			color2 = { 255 255 255 }
+			
+			capital = 885 #Helmgart
+
+			breton = "La Morsure"
+			gisoren = "La Morsure"
+			nortagnese = "La Morsure"
+			mousillonian = "La Morsure"
+			bourbon = "La Morsure"
+			carcassian = "La Morsure"
+			armoric = "La Morsure"
+			gascon = "La Morsure"
+			
+			c_helmgart = {
+				color = { 146 153 130 }
+				color2 = { 255 255 255 }
+				
+				b_helmgart = {
+				}
+				b_neutting = {
+				}
+				b_lauta = {
+				}
+				b_lugde = {
+				}
+			}
+			
+			c_drachenfels = {
+				color = { 203 187 185 }
+				color2 = { 255 255 255 }
+				
+				b_castle_drachenfels = {
+				}
+				b_hautebad = {
+				}
+				b_lautenbachzell = {
+				}
+			}
+					
+
+		}
+		
+		d_schildermark = {
+			color = { 217 210 193 }
+			color2 = { 255 255 255 }
+			
+			capital = 296 #Schilderheim
+
+			c_reinsfeld = {
+				color = { 187 210 163 }
+				color2 = { 255 255 255 }
+				
+				b_reinsfeld = {
+				}
+				b_konigsee = {
+				}
+				b_uslar = {
+				}
+			}
+			
+			c_schilderheim = {
+				color = { 142 220 153 }
+				color2 = { 255 255 255 }
+				
+				b_schilderheim = {
+				}
+				b_holthausen = {
+				}
+				b_verl = {
+				}
+				b_neresheim = {
+				}
+			}	
+
+			c_merxheim = {
+				color = { 127 215 143 }
+				color2 = { 255 255 255 }
+				
+				b_merxheim = {
+				}
+				b_lemgo = {
+				}
+			}
+			
+			c_osburg = {
+				color = { 113 190 173 }
+				color2 = { 255 255 255 }
+				
+				b_osburg = {
+				}
+				b_ussingen = {
+				}
+				b_plaue = {
+				}
+				b_revenstein = {
+				}				
+			}
+		}
+		
+		d_saponatheim = {
+			color = { 168 200 153 }
+			color2 = { 255 255 255 }
+			
+			capital = 296 #Bogenhafen
+			
+			c_bogenhafen = {
+				color = { 197 245 153 }
+				color2 = { 255 255 255 }
+				
+				b_bogenhafen = {
+				}
+				b_castle_graunberg = {
+				}
+				b_eilhart = {
+				}
+				b_lieberose = {
+				}
+				b_olsberg = {
+				}
+			}
+			
+			c_furdienst = {
+				color = { 157 189 163 }
+				color2 = { 255 255 255 }
+				
+				b_rahden = {
+				}
+				b_teuchern = {
+				}
+				b_velten = {
+				}
+			}	
+
+			c_hagercrybs = {
+				color = { 153 190 130 }
+				color2 = { 255 255 255 }
+				
+				b_weissbruck = {
+				}
+				b_wetzler = {
+				}
+				b_wiehl = {
+				}
+				b_marktlehuen = {
+				}				
+			}		
+		}
+		
+		d_reikwald = {
+			color = { 218 230 193 }
+			color2 = { 255 255 255 }
+			
+			capital = 302 #Reikguard
+			
+			c_reikguard = {
+				color = { 152 150 163 }
+				color2 = { 255 255 255 }
+				
+				b_castle_reikguard = {
+				}
+				b_langewiessen = {
+				}
+				b_leun = {
+				}
+				b_hofheim = {
+				}
+			}
+			
+			c_worlitz = {
+				color = { 147 140 143 }
+				color2 = { 255 255 255 }
+				
+				b_worlitz = {
+				}
+				b_grunberg = {
+				}
+				b_diesdorf = {
+				}
+			}	
+
+			c_reikwald = {
+				color = { 160 170 147 }
+				color2 = { 255 255 255 }
+				
+				b_rottfurt = {
+				}
+				b_grunwald_lodge = {
+				}
+				b_freyburg = {
+				}
+				b_unstrut = {
+				}				
+			}
+		}
+		
+		d_auerswald = {
+			color = { 187 210 243 }
+			color2 = { 255 255 255 }
+			
+			capital = 304 #Teufel
+			
+			c_teufel = {
+				color = { 187 200 243 }
+				color2 = { 255 255 255 }
+				
+				b_ubersreik = {
+				}
+				b_hugeldal = {
+				}
+				b_stromdorf = {
+				}
+				b_auerswald = {
+				}
+				b_hersfeld = {
+				}
+			}
+			
+			c_blitzfelsen_hills = {
+				color = { 187 210 183 }
+				color2 = { 255 255 255 }
+				
+				b_dunkelburg = {
+				}
+				b_stimmigen = {
+				}
+				b_eschwege = {
+				}
+				b_backnang = {
+				}
+			}	
+
+			c_morlenfurt = {
+				color = { 187 200 173 }
+				color2 = { 255 255 255 }
+				
+				b_morlenfurt = {
+				}
+				b_geissbach = {
+				}
+				b_memmingen = {
+				}
+				b_meppen = {
+				}
+				b_freienwalde = {
+				}
+			}				
+			
+			c_wittendorf = {
+				color = { 187 180 173 }
+				color2 = { 255 255 255 }
+				
+				b_wittendorf = {
+				}
+				b_brackenheim = {
+				}
+				b_gandersheim = {
+				}
+			}
+		}
+	}
+	
+	k_westerland = {
+		color = { 20 130 200 }
+		color2 = { 255 255 255 }
+		
+		capital = 222 #Marienburg
+
+		bjornling = "Vestland"
+		sarl = "Vestland"
+		aesling = "Vestland"
+		varg = "Vestland"
+		baersonling = "Vestland"
+		skaeling = "Vestland"
+		graeling = "Vestland"	
+
+		breton = "Vestland"
+		nortagnese = "Vestland"
+		armoric = "Vestland"
+		mousillonian = "Vestland"
+		carcassian = "Vestland"
+		gisoren = "Vestland"
+		bourgon = "Vestland"
+		gascon = "Vestland"				
+
+		d_marienburg = {
+			color = { 10 91 206 }
+			color2 = { 255 255 255 }
+			
+			capital = 222 #Marienburg
+
+			breton = "Marenbourg"
+			nortagnese = "Marenbourg"
+			armoric = "Marenbourg"
+			mousillonian = "Marenbourg"
+			carcassian = "Marenbourg"
+			gisoren = "Marenbourg"
+			bourgon = "Marenbourg"
+			gascon = "Marenbourg"
+
+			c_markenbinnen = {
+				color = { 17 110 199 }
+				color2 = { 255 255 255 }
+
+				breton = "Marchebin"
+				nortagnese = "Marchebin"
+				armoric = "Marchebin"
+				mousillonian = "Marchebin"
+				carcassian = "Marchebin"
+				gisoren = "Marchebin"
+				bourgon = "Marchebin"
+				gascon = "Marchebin"
+				
+				b_markenbinnen = {
+					breton = "Marchebin"
+					nortagnese = "Marchebin"
+					armoric = "Marchebin"
+					mousillonian = "Marchebin"
+					carcassian = "Marchebin"
+					gisoren = "Marchebin"
+					bourgon = "Marchebin"
+					gascon = "Marchebin"
+				}
+				b_oudesluis = {
+				}
+				b_wijdenes = {
+				}
+			}
+			
+			c_marienburg = {
+				color = { 107 110 243 }
+				color2 = { 255 255 255 }
+
+				breton = "Marenbourg"
+				nortagnese = "Marenbourg"
+				armoric = "Marenbourg"
+				mousillonian = "Marenbourg"
+				carcassian = "Marenbourg"
+				gisoren = "Marenbourg"
+				bourgon = "Marenbourg"
+				gascon = "Marenbourg"
+				
+				b_rijkers_isle = {
+				}
+				b_winkelmarkt = {
+				}
+				b_guilder_veld = {
+				}
+				b_tempelwijk = {
+				holy_site = manannite
+				}
+				b_suiddock = {
+				}
+				b_rijkspoort = {
+				}
+				b_ostmuur = {
+				}
+			}			
+			
+			c_fauligmere = {
+				color = { 11 100 223 }
+				color2 = { 255 255 255 }
+
+				breton = "Faugilmère"
+				nortagnese = "Faugilmère"
+				armoric = "Faugilmère"
+				mousillonian = "Faugilmère"
+				carcassian = "Faugilmère"
+				gisoren = "Faugilmère"
+				bourgon = "Faugilmère"
+				gascon = "Faugilmère"
+				
+				b_leydenhove = {
+				}
+				b_salfen = {
+				}
+				b_fauligmere = {
+					breton = "Faugilmère"
+					nortagnese = "Faugilmère"
+					armoric = "Faugilmère"
+					mousillonian = "Faugilmère"
+					carcassian = "Faugilmère"
+					gisoren = "Faugilmère"
+					bourgon = "Faugilmère"
+					gascon = "Faugilmère"
+				}
+			}
+						
+			c_zandt = {
+				color = { 42 156 200 }
+				color2 = { 255 255 255 }
+
+				breton = "Zande"
+				nortagnese = "Zande"
+				armoric = "Zande"
+				mousillonian = "Zande"
+				carcassian = "Zande"
+				gisoren = "Zande"
+				bourgon = "Zande"
+				gascon = "Zande"
+					
+				b_zandt = {
+					breton = "Zande"
+					nortagnese = "Zande"
+					armoric = "Zande"
+					mousillonian = "Zande"
+					carcassian = "Zande"
+					gisoren = "Zande"
+					bourgon = "Zande"
+					gascon = "Zande"
+				}
+				b_rutten = {
+				}
+				b_didem = {
+				}
+			}			
+		}
+		
+		d_dachstelijkmark = {
+			color = { 97 151 246 }
+			color2 = { 255 255 255 }
+			
+			capital = 223 #Klessen
+			
+				breton = "Batave"
+				nortagnese = "Batave"
+				armoric = "Batave"
+				mousillonian = "Batave"
+				carcassian = "Batave"
+				gisoren = "Batave"
+				bourgon = "Batave"
+				gascon = "Batave"
+					
+			c_noordbeemster = {
+				color = { 77 120 253 }
+				color2 = { 255 255 255 }
+				
+				breton = "Normestre"
+				nortagnese = "Normestre"
+				armoric = "Normestre"
+				mousillonian = "Normestre"
+				carcassian = "Normestre"
+				gisoren = "Normestre"
+				bourgon = "Normestre"
+				gascon = "Normestre"		
+					
+				b_noordbeemster = {
+					breton = "Normestre"
+					nortagnese = "Normestre"
+					armoric = "Normestre"
+					mousillonian = "Normestre"
+					carcassian = "Normestre"
+					gisoren = "Normestre"
+					bourgon = "Normestre"
+					gascon = "Normestre"
+				}
+				b_terdiek = {
+				}
+			}
+
+			c_klessen = {
+				color = { 17 40 193 }
+				color2 = { 255 255 255 }
+				
+				breton = "Glasse"
+				nortagnese = "Glasse"
+				armoric = "Glasse"
+				mousillonian = "Glasse"
+				carcassian = "Glasse"
+				gisoren = "Glasse"
+				bourgon = "Glasse"
+				gascon = "Glasse"
+					
+				b_klessen = {
+					breton = "Glasse"
+					nortagnese = "Glasse"
+					armoric = "Glasse"
+					mousillonian = "Glasse"
+					carcassian = "Glasse"
+					gisoren = "Glasse"
+					bourgon = "Glasse"
+					gascon = "Glasse"
+				}
+				b_kalkaat = {
+				}
+				b_melick = {
+				}
+				b_lehmbourg = {
+				}
+				b_halsdorph = {
+				}
+			}
+			
+			c_dornhan = {
+				color = { 19 50 149 }
+				color2 = { 255 255 255 }
+
+				breton = "Donjon"
+				nortagnese = "Donjon"
+				armoric = "Donjon"
+				mousillonian = "Donjon"
+				carcassian = "Donjon"
+				gisoren = "Donjon"
+				bourgon = "Donjon"
+				gascon = "Donjon"
+
+				b_fort_karls = {
+				}
+				b_dornhan = {
+					breton = "Donjon"
+					nortagnese = "Donjon"
+					armoric = "Donjon"
+					mousillonian = "Donjon"
+					carcassian = "Donjon"
+					gisoren = "Donjon"
+					bourgon = "Donjon"
+					gascon = "Donjon"
+				}
+				b_sankt_veit = {
+				}
+			}
+			
+			c_gap_of_bergbres = {
+				color = { 107 100 153 }
+				color2 = { 255 255 255 }
+				
+				b_fort_bergbres = {
+				}
+				b_sinzig = {
+				}
+				b_neumunster = {
+				}
+				b_schramberg = {
+				}
+			}
+		}
+
+		d_noordhaven = {
+			color = { 67 81 255 }
+			color2 = { 255 255 255 }
+			
+			capital = 231 #Aarnau
+
+			breton = "Nedellande"
+			nortagnese = "Nedellande"
+			armoric = "Nedellande"
+			mousillonian = "Nedellande"
+			carcassian = "Nedellande"
+			gisoren = "Nedellande"
+			bourgon = "Nedellande"
+			gascon = "Nedellande"
+
+			c_burren = {
+				color = { 47 150 233 }
+				color2 = { 255 255 255 }
+
+				breton = "Bouran"
+				nortagnese = "Bouran"
+				armoric = "Bouran"
+				mousillonian = "Bouran"
+				carcassian = "Bouran"
+				gisoren = "Bouran"
+				bourgon = "Bouran"
+				gascon = "Bouran"
+				
+				b_middenmeer = {
+				}
+				b_oostzaan = {
+				}
+				b_ursem = {
+				}
+			}
+			
+			c_aarnau = {
+				color = { 27 190 223 }
+				color2 = { 255 255 255 }
+
+				breton = "Arneau"
+				nortagnese = "Arneau"
+				armoric = "Arneau"
+				mousillonian = "Arneau"
+				carcassian = "Arneau"
+				gisoren = "Arneau"
+				bourgon = "Arneau"
+				gascon = "Arneau"
+
+				b_aarnau = {
+					breton = "Arneau"
+					nortagnese = "Arneau"
+					armoric = "Arneau"
+					mousillonian = "Arneau"
+					carcassian = "Arneau"
+					gisoren = "Arneau"
+					bourgon = "Arneau"
+					gascon = "Arneau"
+				}
+				b_diever = {
+				}
+				b_hollum = {
+				}
+				b_vatrop = {
+				}
+				b_zaanstad = {
+				}
+			}			
+		}
+			
+		d_frysland = {
+			color = { 57 101 250 }
+			color2 = { 255 255 255 }
+			
+			capital = 228 #Harenskarpel
+
+			breton = "Fresie"
+			nortagnese = "Fresie"
+			armoric = "Fresie"
+			mousillonian = "Fresie"
+			carcassian = "Fresie"
+			gisoren = "Fresie"
+			bourgon = "Fresie"
+			gascon = "Fresie"
+			
+			c_velsen = {
+				color = { 107 100 253 }
+				color2 = { 255 255 255 }
+
+				breton = "Valse"
+				nortagnese = "Valse"
+				armoric = "Valse"
+				mousillonian = "Valse"
+				carcassian = "Valse"
+				gisoren = "Valse"
+				bourgon = "Valse"
+				gascon = "Valse"
+				
+				b_velsen = {
+					breton = "Valse"
+					nortagnese = "Valse"
+					armoric = "Valse"
+					mousillonian = "Valse"
+					carcassian = "Valse"
+					gisoren = "Valse"
+					bourgon = "Valse"
+					gascon = "Valse"
+				}
+				b_groet = {
+				}
+				b_castricum = {
+				}
+			}
+			
+			c_harskamp = {
+				color = { 101 150 233 }
+				color2 = { 255 255 255 }
+
+				breton = "Archamp"
+				nortagnese = "Archamp"
+				armoric = "Archamp"
+				mousillonian = "Archamp"
+				carcassian = "Archamp"
+				gisoren = "Archamp"
+				bourgon = "Archamp"
+				gascon = "Archamp"
+				
+				b_harskamp = {
+					breton = "Archamp"
+					nortagnese = "Archamp"
+					armoric = "Archamp"
+					mousillonian = "Archamp"
+					carcassian = "Archamp"
+					gisoren = "Archamp"
+					bourgon = "Archamp"
+					gascon = "Archamp"
+				}
+				b_stedum = {
+				}
+				b_oostwold = {
+				}
+				b_loenen = {
+				}
+			}
+			
+			c_ankeeven = {
+				color = { 17 100 243 }
+				color2 = { 255 255 255 }
+	
+				breton = "Arsenquère"
+				nortagnese = "Arsenquère"
+				armoric = "Arsenquère"
+				mousillonian = "Arsenquère"
+				carcassian = "Arsenquère"
+				gisoren = "Arsenquère"
+				bourgon = "Arsenquère"
+				gascon = "Arsenquère"
+			
+				b_ankeeven = {
+					breton = "Arsenquère"
+					nortagnese = "Arsenquère"
+					armoric = "Arsenquère"
+					mousillonian = "Arsenquère"
+					carcassian = "Arsenquère"
+					gisoren = "Arsenquère"
+					bourgon = "Arsenquère"
+					gascon = "Arsenquère"
+				}
+				b_de_gesp = {
+				}
+				b_halfweg = {
+				}
+			}
+			
+			c_harenskarpel = {
+				color = { 17 60 236 }
+				color2 = { 255 255 255 }
+
+				breton = "Carpel"
+				nortagnese = "Carpel"
+				armoric = "Carpel"
+				mousillonian = "Carpel"
+				carcassian = "Carpel"
+				gisoren = "Carpel"
+				bourgon = "Carpel"
+				gascon = "Carpel"
+				
+				b_fort_solace = {
+				}
+				b_harenskarpel = {
+					breton = "Carpel"
+					nortagnese = "Carpel"
+					armoric = "Carpel"
+					mousillonian = "Carpel"
+					carcassian = "Carpel"
+					gisoren = "Carpel"
+					bourgon = "Carpel"
+					gascon = "Carpel"
+				}
+				b_kriel = {
+				}
+				b_muiden = {
+				}
+			}
+			
+			c_manaanspoort = {
+				color = { 17 40 198 }
+				color2 = { 255 255 255 }
+
+				breton = "Grau de Manne"
+				nortagnese = "Grau de Manne"
+				armoric = "Grau de Manne"
+				mousillonian = "Grau de Manne"
+				carcassian = "Grau de Manne"
+				gisoren = "Grau de Manne"
+				bourgon = "Grau de Manne"
+				gascon = "Grau de Manne"
+				
+				b_venhuizen = {
+				}
+				b_vogolenzang = {
+				}
+				b_texel = {
+				}
+			}
+		}			
+	}
+	
+	k_nordland = {
+		color = { 20 20 200 }
+		color2 = { 255 255 255 }
+		
+		capital = 240 #Norden
+
+			bjornling = "Norðanland"
+			sarl = "Norðanland"
+			aesling = "Norðanland"
+			varg = "Norðanland"
+			baersonling = "Norðanland"
+			skaeling = "Norðanland"
+			graeling = "Norðanland"				
+			
+		d_steinigkuste = {
+			color = { 57 51 226 }
+			color2 = { 255 255 255 }
+			
+			capital = 232 #Schadelbruck
+			
+			c_schadelbruck = {
+				color = { 22 30 243 }
+				color2 = { 255 255 255 }
+				
+				b_schadelbruck = {
+				}
+				b_manaans_teeth = {
+				}
+				b_sigmars_light = {
+				}
+			}	
+			
+			c_schaukel = {
+				color = { 18 10 193 }
+				color2 = { 255 255 255 }
+				
+				b_fort_schaukeln = {
+				}
+				b_schaukeln = {
+				}
+			}	
+		}	
+		
+		d_laurelorn = {
+			color = { 67 51 246 }
+			color2 = { 255 255 255 }
+			
+			capital = 260 #Spuktlichtung
+			
+			c_roterwald = {
+				color = { 87 100 233 }
+				color2 = { 255 255 255 }
+				
+				b_kralle = {
+				}
+				b_efeuast = {
+				}
+				b_schaudereiche = {
+				}
+				b_stolzklotz = {
+				}
+			}	
+			
+			c_spuktichtung = {
+				color = { 97 150 253 }
+				color2 = { 255 255 255 }
+				
+				b_rehkitzpforte = {
+				}
+				b_weidehohl = {
+				}
+				b_hirschlichtung = {
+				}
+			}	
+			
+			c_finsternchen = {
+				color = { 107 100 243 }
+				color2 = { 255 255 255 }
+				
+				b_lehmigstadt = {
+				}
+				b_flechtehof = {
+				}
+			}	
+			
+			c_entsetzlichigelhugel = {
+				color = { 147 130 253 }
+				color2 = { 255 255 255 }
+				
+				b_moosdorf = {
+				}
+				b_wolferzahn = {
+				}
+				b_pilzering = {
+				}
+			}	
+		}
+			
+		d_kieselstaadt = {
+			color = { 37 51 236 }
+			color2 = { 255 255 255 }
+			
+			capital = 240 #Norden
+			
+			c_stavern = {
+				color = { 97 130 253 }
+				color2 = { 255 255 255 }
+				
+				b_stavern = {
+				}
+				b_alfhausen = {
+				}
+				b_luftberg = {
+				}
+				b_wilhelmskoog = {
+				}
+				b_skjaldberg = {
+				}
+			}	
+			
+			c_norden = {
+				color = { 87 50 233 }
+				color2 = { 255 255 255 }
+				
+				b_norden = {
+				}
+				b_ockholm = {
+				}
+				b_beelen = {
+				}
+				b_salzmorast = {
+				}
+				b_gelting = {
+				}
+				b_kriedeklippe = {
+				}
+			}	
+			
+			c_limshof = {
+				color = { 11 19 233 }
+				color2 = { 255 255 255 }
+				
+				b_limshof = {
+				}
+				b_schuten = {
+				}
+				b_bramble_hills = {
+				}
+			}	
+			
+			c_dorfmark = {
+				color = { 57 110 253 }
+				color2 = { 255 255 255 }
+				
+				b_dorfmark = {
+				}
+				b_dunsen = {
+				}
+				b_marklohe = {
+				}
+			}	
+		}
+			
+		d_salzen = {
+			color = { 27 21 206 }
+			color2 = { 255 255 255 }
+			
+			capital = 239 #Salz
+			
+			c_hargendorf = {
+				color = { 17 110 253 }
+				color2 = { 255 255 255 }
+				
+				b_hargendorf = {
+				}
+				b_beilen = {
+				}
+				b_ueblingen = {
+				}
+				b_schlaghugel = {
+				}
+			}		
+			
+			c_gelnhausen = {
+				color = { 27 80 193 }
+				color2 = { 255 255 255 }
+				
+				b_demst = {
+				}
+				b_gelnhausen = {
+				}
+			}			
+			
+			c_manaansufer = {
+				color = { 14 100 203 }
+				color2 = { 255 255 255 }
+				
+				b_dietershafen = {
+				}
+				b_dreizack = {
+				}
+				b_zweedorf = {
+				}
+				b_manaansheim = {
+				}
+				b_heiligdorf = {
+				}
+				b_pugsblatter = {
+				}
+			}			
+			
+			c_kurtwallen = {
+				color = { 110 89 233 }
+				color2 = { 255 255 255 }
+				
+				b_kurtwallen = {
+				}
+				b_traunreut = {
+				}
+				b_trostberg = {
+				}
+				b_wildberg = {
+				}
+			}			
+			
+			c_salz = {
+				color = { 107 110 243 }
+				color2 = { 255 255 255 }
+				
+				b_salzenmund = {
+				}
+				b_oldenlitz = {
+				}
+				b_grafenrich = {
+				}
+				b_beeckerhoven = {
+				}
+				b_silver_hills = {
+				}
+				b_coswig = {
+				}
+			}			
+		}
+	}
+	
+	k_ostland = {
+		color = { 70 70 70 }
+		color2 = { 255 255 255 }
+		
+		capital = 254 #Wolfenburg
+
+			bjornling = "Austland"
+			sarl = "Austland"
+			aesling = "Austland"
+			varg = "Austland"
+			baersonling = "Austland"
+			skaeling = "Austland"
+			graeling = "Austland"				
+				
+		d_knochenkuste = {
+			color = { 113 112 138 }
+			color2 = { 255 255 255 }
+			
+			capital = 243 #Salkalten
+			
+			c_salkalten = {
+				color = { 82 80 93 }
+				color2 = { 255 255 255 }
+				
+				b_salkalten = {
+				}
+				b_verborgenbucht = {
+				}
+				b_domitz = {
+				}
+				b_peine = {
+				}
+				b_quickborn = {
+				}
+			}
+			
+			c_rossin = {
+				color = { 91 71 101 }
+				color2 = { 255 255 255 }
+				
+				b_rossin = {
+				}
+				b_birkewiese = {
+				}
+				b_lowitz = {
+				}
+				b_plon = {
+				}
+			}				
+		}
+		
+		d_ferlangen = {
+			color = { 103 53 83 }
+			color2 = { 255 255 255 }
+			
+			capital = 247 #Ferlangen
+						
+			c_ferlangen = {
+				color = { 85 25 25 }
+				color2 = { 255 255 255 }
+				
+				b_ferlangen = {
+				}
+				b_obelstein = {
+				}
+				b_aukrug = {
+				}
+				b_ochsunfurt = {
+				}
+			}	
+			
+			c_huven = {
+				color = { 77 77 77 }
+				color2 = { 255 255 255 }
+				
+				b_krausnick = {
+				}
+				b_bokenhof = {
+				}
+				b_huven = {
+				}
+			}	
+			
+			c_gauschdorf = {
+				color = { 101 80 103 }
+				color2 = { 255 255 255 }
+				
+				b_gauschdorf = {
+				}
+				b_schonfeld = {
+				}
+				b_rastatt = {
+				}
+			}		
+			
+			c_bohsenfels = {
+				color = { 127 120 123 }
+				color2 = { 255 255 255 }
+				
+				b_bohsenfels = {
+				}
+				b_jegow = {
+				}
+				b_vogelsang = {
+				}
+				b_miklava = {
+				}
+			}	
+		}
+		
+		d_mittenberg = {
+			color = { 60 81 100 }
+			color2 = { 255 255 255 }
+			
+			capital = 245 #Friedmark
+			
+			c_friedmark = {
+				color = { 117 120 93 }
+				color2 = { 255 255 255 }
+				
+				b_sokh = {
+				}
+				b_brass_keep = {
+				}
+				b_friedberg = {
+				}
+			}	
+			
+			c_roezfels = {
+				color = { 137 130 122 }
+				color2 = { 255 255 255 }
+				
+				b_roezfels = {
+				}
+				b_mierach = {
+				}
+				b_hasselhund = {
+				}
+				b_dunkelpfad = {
+				}
+			}	
+		}	
+		
+		d_ziegermauerfeld = {
+			color = { 80 70 70 }
+			color2 = { 255 255 255 }
+			
+			capital = 252 #Vandengart
+			
+			c_dassel = {
+				color = { 107 90 93 }
+				color2 = { 255 255 255 }
+				
+				b_dassel = {
+				}
+				b_smallhof = {
+				}
+				b_felde = {
+				}
+			}				
+			
+			c_vandengart = {
+				color = { 117 120 113 }
+				color2 = { 255 255 255 }
+				
+				b_vandengart = {
+				}
+				b_lubrecht = {
+				}
+				b_grenzburg = {
+				}
+				b_irjisara = {
+				}
+				b_rheiden = {
+				}
+			}
+		}
+		
+		d_wolfenburg = {
+			color = { 124 128 124 }
+			color2 = { 255 255 255 }
+			
+			capital = 254 #Wolfenburg
+						
+			c_ristedt = {
+				color = { 125 140 113 }
+				color2 = { 255 255 255 }
+				
+				b_castle_lenkster = {
+				}
+				b_ristedt = {
+				}
+				b_wendorf = {
+				}
+				b_kienbaum = {
+				}
+				b_oranienburg = {
+				}
+			}		
+			
+			c_wolfenburg = {
+				color = { 137 70 113 }
+				color2 = { 255 255 255 }
+				
+				b_wolfenburg = {
+				}
+				b_levudaldorf = {
+				}
+				b_grunackeren = {
+				}
+				b_regensdorf = {
+				}
+				b_zundap = {
+				}
+				b_jever = {
+				}
+			}		
+						
+			c_wurzen = {
+				color = { 117 100 133 }
+				color2 = { 255 255 255 }
+				
+				b_wurzen = {
+				}
+				b_csenger = {
+				}
+				b_dorog = {
+				}
+				b_boven = {
+				}
+				b_penzlin = {
+				}
+			}	
+			
+			c_nettburg = {
+				color = { 97 90 83 }
+				color2 = { 255 255 255 }
+				
+				b_fort_korver = {
+				}
+				b_trillheim = {
+				}
+				b_dargun = {
+				}
+			}
+						
+			c_markdorf = {
+				color = { 65 70 50 }
+				color2 = { 255 255 255 }
+				
+				b_markdorf = {
+				}
+				b_mirow = {
+				}
+				b_hallenberg = {
+				}
+			}				
+			
+		}
+		
+		d_schutzen = {
+			color = { 57 51 65 }
+			color2 = { 255 255 255 }
+			
+			capital = 255 #Brizban
+						
+			c_brizban = {
+				color = { 55 50 83 }
+				color2 = { 255 255 255 }
+				
+				b_brizban = {
+				}
+				b_kukonois = {
+				}
+				b_osel = {
+				}
+			}
+						
+			c_selonian_hills = {
+				color = { 87 50 93 }
+				color2 = { 255 255 255 }
+				
+				b_zavstra = {
+				}
+				b_steinhof = {
+				}
+				b_schutzen = {
+				}
+			}		
+		}	
+	}
+
+	k_solland = {
+		color = { 177 170 70 }
+		color2 = { 255 255 255 }
+	
+		capital = 316 #Pfeildorf
+	}
+
+	
+	k_wissenland = {
+		color = { 125 125 125 }
+		color2 = { 255 255 255 }
+		
+		capital = 309 #Nuln
+		
+		d_nuln = {
+			color = { 167 121 76 }
+			color2 = { 255 255 255 }
+			
+			capital = 309 #Nuln
+			
+			c_nuln = {
+				color = { 137 80 53 }
+				color2 = { 255 255 255 }
+			
+				b_festunginsel = {
+				}
+				b_faulestadt = {
+				}
+				b_der_halbinsel = {
+				}
+				b_altestadt = {
+				}
+				b_neuestadt = {
+				}
+				b_tempel_quarter = {
+				pentarchy = yes
+				holy_site = sigmarite
+				}
+				b_westdorf = {
+				}
+			}
+		}
+		
+		d_wissenberg = {
+			color = { 197 151 126 }
+			color2 = { 255 255 255 }
+			
+			capital = 310 #Wissenberg
+						
+			c_wissenberg = {
+				color = { 161 149 113 }
+				color2 = { 255 255 255 }
+				
+				b_wissenberg = {
+				}
+				b_maselhof = {
+				}
+				b_weningen = {
+				}
+				b_dotternbach = {
+				}
+				b_halgerbach = {
+				}
+				b_liebenzall = {
+				}
+			}	
+
+			c_rohrhausen = {
+				color = { 87 130 123 }
+				color2 = { 255 255 255 }
+				
+				b_rohrhausen = {
+				}
+				b_grund = {
+				}
+				b_iburg = {
+				}
+			}
+		}
+
+		d_thalfang = {
+			color = { 97 100 133 }
+			color2 = { 255 255 255 }
+			
+			capital = 315 #Thalfang
+			
+			c_thalfang = {
+				color = { 147 115 133 }
+				color2 = { 255 255 255 }
+				
+				b_thalfang = {
+				}
+				b_kell = {
+				}
+				b_oshausen = {
+				}
+				b_sonnefurt = {
+				}
+				b_kreutzhofen = {
+				}
+				b_weilerberg = {
+				}
+			}
+			
+			c_wusterberg = {
+				color = { 97 120 113 }
+				color2 = { 255 255 255 }
+				
+				b_wusterberg = {
+				}
+				b_eigenhof = {
+				}
+				b_rotenbach = {
+				}
+				b_serrig = {
+				}
+			}	
+		}
+		
+		d_wurmer = {
+			color = { 128 100 93 }
+			color2 = { 255 255 255 }
+			
+			capital = 312 #Wurmgrube
+			
+			c_wurmgrube = {
+				color = { 87 119 153 }
+				color2 = { 255 255 255 }
+				
+				b_wurmgrube = {
+				}
+				b_meissen = {
+				}
+				b_auggen = {
+				}
+				b_heisenberg = {
+				}
+				b_beeskow = {
+				}
+			}
+			
+			c_derbheim = {
+				color = { 167 131 83 }
+				color2 = { 255 255 255 }
+				
+				b_derbheim = {
+				}
+				b_hinkend = {
+				}
+				b_beilngries = {
+				}
+				b_bendorf = {
+				}
+			}	
+
+			c_kelgard = {
+				color = { 197 140 143 }
+				color2 = { 255 255 255 }
+				
+				b_kelgard = {
+				}
+				b_trulben = {
+				}
+				b_salmfahre = {
+				}
+				b_nehren = {
+				}				
+			}
+		}
+
+		d_solland = {
+			color = { 137 131 50 }
+			color2 = { 255 255 255 }
+			
+			capital = 316 #Pfeildorf
+			
+			c_pfeildorf = {
+				color = { 187 80 3 }
+				color2 = { 255 255 255 }
+				
+				b_pfeildorf = {
+				}
+				b_elzach = {
+				}
+				b_bernau = {
+				}
+				b_hausern = {
+				}
+				b_nenndorf = {
+				}
+			}
+			
+			c_sexau = {
+				color = { 177 130 33 }
+				color2 = { 255 255 255 }
+				
+				b_sexau = {
+				}
+				b_mauchen = {
+				}
+				b_orb = {
+				}
+				b_pyrmont = {
+				}
+			}	
+
+			c_wittenhausen = {
+				color = { 217 140 3 }
+				color2 = { 255 255 255 }
+				
+				b_wittenhausen = {
+				}
+				b_fluorin = {
+				}
+				b_geschburg = {
+				}
+				b_althausen = {
+				}				
+			}
+			
+			c_staig = {
+				color = { 157 110 43 }
+				color2 = { 255 255 255 }
+				
+				b_staig = {
+				}
+				b_ellwangen = {
+				}
+				b_ballenhof = {
+				}
+				b_ahaus = {
+				}
+			}
+			
+			c_pforzen = {
+				color = { 187 210 113 }
+				color2 = { 255 255 255 }
+				
+				b_pforzen = {
+				}
+				b_hurlach = {
+				}
+				b_moasach = {
+				}
+				b_waldbach = {
+				}
+				b_altlandsberg = {
+				}
+			}	
+		}
+
+		d_sudenland = {
+			color = { 167 150 63 }
+			color2 = { 255 255 255 }
+			
+			capital = 321 #Aulen
+			
+			c_aulen = {
+				color = { 179 130 93 }
+				color2 = { 255 255 255 }
+				
+				b_sochtenau = {
+				}
+				b_rohrhof = {
+				}
+				b_eppiswald = {
+				}
+				b_bedernau = {
+				}
+				b_hornfurt = {
+				}
+			}
+			
+			c_pahl = {
+				color = { 227 150 173 }
+				color2 = { 255 255 255 }
+				
+				b_pahl = {
+				}
+				b_ummenbach = {
+				}
+				b_kolbhugel = {
+				}
+				b_kroppenleben = {
+				}
+			}	
+
+			c_oggel = {
+				color = { 187 140 123 }
+				color2 = { 255 255 255 }
+				
+				b_osterzell = {
+				}
+				b_erbshausen = {
+				}
+				b_steingart = {
+				}
+				b_mendelhof = {
+				}			
+				b_jengen = {
+				}		
+				b_merfeld = {
+				}						
+			}
+		}
+	}
+
+	k_talabecland = {
+		color = { 190 50 90 }
+		color2 = { 255 255 255 }
+		
+		capital = 330 #Talabheim
+		
+		d_karwe = {
+			color = { 237 101 126 }
+			color2 = { 255 255 255 }
+			
+			capital = 324 #Karwe
+			
+			c_karwe = {
+				color = { 127 10 3 }
+				color2 = { 255 255 255 }
+				
+				b_torpin = {
+				}
+				b_garndorf = {
+				}
+				b_werder = {
+				}
+				b_donauworth = {
+				}
+				b_cuxhaven = {
+				}
+			}
+			
+			c_isenburg = {
+				color = { 107 50 33 }
+				color2 = { 255 255 255 }
+				
+				b_isenburg = {
+				}
+				b_rennweg = {
+				}
+				b_vluyn = {
+				}
+				b_kulm = {
+				}
+			}
+			
+			c_kemperbad = {
+				color = { 87 60 53 }
+				color2 = { 255 255 255 }
+				
+				b_kemperbad = {
+				}
+				b_unterbaum = {
+				}
+				b_erzgeb = {
+				}
+				b_oederan = {
+				}
+				b_winkel = {
+				}
+			}
+		}	
+		
+		d_waldarfold = {
+			color = { 170 31 56 }
+			color2 = { 255 255 255 }
+			
+			capital = 331 #Kusel
+			
+			c_ravenstein = {
+				color = { 157 30 3 }
+				color2 = { 255 255 255 }
+				
+				b_ravenstein = {
+				}
+				b_klepzig = {
+				}
+				b_volgen = {
+				}
+				b_guttow = {
+				}
+				b_kortlheim = {
+				}
+				b_priestlicheim = {
+				}
+			}
+			
+			c_kahlen_hugeln = {
+				color = { 127 50 73 }
+				color2 = { 255 255 255 }
+				
+				b_florstadt = {
+				}
+				b_hayingen = {
+				}
+				b_nabburg = {
+				}
+			}
+			
+			c_kusel = {
+				color = { 167 130 50 }
+				color2 = { 255 255 255 }
+				
+				b_kusel = {
+				}
+				b_lochrafurt = {
+				}
+				b_strudel = {
+				}
+				b_niebull = {
+				}
+			}			
+		}
+		
+		d_talabheim = {
+			color = { 210 51 86 }
+			color2 = { 255 255 255 }
+			
+			capital = 330 #Talabheim
+			
+			c_talabheim = {
+				color = { 177 110 35 }
+				color2 = { 255 255 255 }
+			
+				b_talabheim = {
+				}
+				b_vateresche = {
+				}
+				b_klarfeld = {
+					pentarchy = yes
+					holy_site = sigmarite
+					holy_site = ulrican
+				}
+				b_dankerood = {
+				}
+				b_sprotau = {
+				}
+				b_talagaad = {
+				}
+				b_waldfahrt = {
+				}
+			}
+		}		
+		
+		d_grossenwald = {
+			color = { 227 101 152 }
+			color2 = { 255 255 255 }
+			
+			capital = 329 #Kolpin
+			
+			c_kolpin = {
+				color = { 127 30 103 }
+				color2 = { 255 255 255 }
+				
+				b_welleborn = {
+				}
+				b_trebbus = {
+				}
+				b_missen = {
+				}
+				b_zutzen = {
+				}
+				b_sydow = {
+				}
+				b_nossen = {
+				}
+			}
+			
+			c_egger = {
+				color = { 157 55 97 }
+				color2 = { 255 255 255 }
+				
+				b_hermdorf = {
+				}
+				b_ragenhof = {
+				}
+				b_gostahof = {
+				}
+				b_raddis = {
+				}
+				b_lieske = {
+				}
+				b_radische = {
+				}
+			}
+			
+			c_krugenheim = {
+				color = { 95 20 43 }
+				color2 = { 255 255 255 }
+				
+				b_krugenheim = {
+				}
+				b_trautenan = {
+				}
+				b_tauer = {
+				}
+				b_bissendorf = {
+				}
+				b_sabritz = {
+				}
+				b_gersdorf = {
+				}
+			}
+		}
+		
+		d_farlic = {
+			color = { 250 80 126 }
+			color2 = { 255 255 255 }
+			
+			capital = 333 #Vienau
+			
+			c_bek = {
+				color = { 127 30 3 }
+				color2 = { 255 255 255 }
+				
+				b_bek = {
+				}
+				b_vienau = {
+				}
+				b_stratenheim = {
+				}
+				b_ertburg = {
+				}
+				b_kappelburg = {
+				}
+				b_ahlbeck = {
+				}
+			}
+			
+			c_farlic_hills = {
+				color = { 145 15 93 }
+				color2 = { 255 255 255 }
+				
+				b_obelheim = {
+				}
+				b_horno = {
+				}
+				b_badau = {
+				}
+				b_geiseltal = {
+				}
+			}
+			
+			c_kolsa_hugel = {
+				color = { 217 55 33 }
+				color2 = { 255 255 255 }
+				
+				b_dorlesk = {
+				}
+				b_seuthes = {
+				}
+				b_meyenburg = {
+				}
+			}
+		}
+		
+		d_griffonwald = {
+			color = { 197 121 156 }
+			color2 = { 255 255 255 }
+			
+			capital = 336 #Bratian
+			
+			c_bratian = {
+				color = { 125 50 54 }
+				color2 = { 255 255 255 }
+				
+				b_bratian = {
+				}
+				b_grunwald = {
+				}
+				b_meskirch = {
+				}
+				b_rudesheim = {
+				}
+			}
+			
+			c_griffonwald = {
+				color = { 210 115 150 }
+				color2 = { 255 255 255 }
+				
+				b_rugenbuttle = {
+				}
+				b_velden = {
+				}
+				b_weilheim = {
+				}
+			}
+			
+			c_borkrum = {
+				color = { 227 134 93 }
+				color2 = { 255 255 255 }
+				
+				b_borkrum = {
+				}
+				b_dolzschen = {
+				}
+				b_dorna = {
+				}
+				b_ruhland = {
+				}
+			}		
+			
+			c_menshenfresserhoffen = {
+				color = { 234 195 193 }
+				color2 = { 255 255 255 }
+				
+				b_menshenfresserhoffen = {
+				}
+				b_kubel = {
+				}
+				b_rockenhausen = {
+				}
+				b_simmern = {
+				}
+				b_trossingen = {
+				}
+			}
+		}
+	}		
+	
+	k_averland = {
+		color = { 240 250 30 }
+		color2 = { 255 255 255 }
+		
+		capital = 357 #Averheim
+
+		brigundian = Brigundia
+		
+		d_averheim = {
+			color = { 247 241 6 }
+			color2 = { 255 255 255 }
+			
+			capital = 357 #Averheim
+			
+			c_averheim = {
+				color = { 117 120 33 }
+				color2 = { 255 255 255 }
+				
+				b_averheim = {
+				}
+				b_heideck = {
+				}
+				b_vetschau = {
+				}
+				b_spreewald = {
+				}
+				b_woldegsk = {
+				}
+				b_hemmor = {
+				}
+			}
+			
+			c_loningbruck = {
+				color = { 187 170 3 }
+				color2 = { 255 255 255 }
+				
+				b_loningbruck = {
+				}
+				b_agheiten = {
+				}
+				b_hammelburg = {
+				}
+				b_geseke = {
+				}
+			}	
+
+			c_hochslehen = {
+				color = { 100 123 43 }
+				color2 = { 255 255 255 }
+				
+				b_hochslehen = {
+				}
+				b_bruel = {
+				}
+			}
+		}
+
+		d_martig = {
+			color = { 197 210 3 }
+			color2 = { 255 255 255 }
+			
+			capital = 353 #Lengenfeld
+			
+			c_lengenfeld = {
+				color = { 207 215 153 }
+				color2 = { 255 255 255 }
+				
+				b_lengenfeld = {
+				}
+				b_ahrensburg = {
+				}
+				b_bayreuth = {
+				}
+			}
+			
+			c_calmfahre = {
+				color = { 217 190 63 }
+				color2 = { 255 255 255 }
+				
+				b_calmfahre = {
+				}
+				b_baruth = {
+				}
+				b_grunsfeld = {
+				}
+			}	
+
+			c_streissen = {
+				color = { 197 200 103 }
+				color2 = { 255 255 255 }
+				
+				b_streissen = {
+				}
+				b_gorlitz = {
+				}
+				b_kerpen = {
+				}
+				b_romrod = {
+				}			
+			}
+			
+			c_wuppertal = {
+				color = { 205 250 93 }
+				color2 = { 255 255 255 }
+				
+				b_wuppertal = {
+				}
+				b_rhens = {
+				}
+				b_sehnde = {
+				}
+				b_vellberg = {
+				}			
+			}
+		}
+		
+		d_pferdmark = {
+			color = { 237 210 33 }
+			color2 = { 255 255 255 }
+			
+			capital = 363 #Essing
+			
+			c_grenzstadt = {
+				color = { 217 210 103 }
+				color2 = { 255 255 255 }
+				
+				b_grenzstadt = {
+				}
+				b_lobenstein = {
+				}
+				b_betzenstein = {
+				}
+				b_franzburg = {
+				}
+				b_ichenhausen = {
+				}
+			}
+			
+			c_essing = {
+				color = { 241 250 33 }
+				color2 = { 255 255 255 }
+				
+				b_essing = {
+				}
+				b_zell = {
+				}
+				b_peungzig = {
+				}
+				b_dietfurt = {
+				}
+			}	
+
+			c_ingelfingen = {
+				color = { 131 123 33 }
+				color2 = { 255 255 255 }
+				
+				b_ingelfingen = {
+				}
+				b_hemau = {
+				}
+				b_garbsen = {
+				}
+				b_rhon = {
+				}			
+			}
+			
+			c_bernloch = {
+				color = { 218 200 5 }
+				color2 = { 255 255 255 }
+				
+				b_bernloch = {
+				}
+				b_garding = {
+				}
+				b_fehman = {
+				}
+				b_donzdorf = {
+				}			
+			}
+		}
+	}
+	
+	k_ostermark = {
+		color = { 150 10 210 }
+		color2 = { 255 255 255 }
+		
+		capital = 366 #Bechafen
+
+		d_bechen = {
+			color = { 147 51 176 }
+			color2 = { 255 255 255 }
+			
+			capital = 366 #Bechafen
+			
+			c_bechafen = {
+				color = { 87 11 163 }
+				color2 = { 255 255 255 }
+				
+				b_bechafen = {
+				}
+				b_reitwen = {
+				}
+				b_remer = {
+				}
+				b_bleak_moors = {
+				}
+				b_greding = {
+				}
+				b_frechen = {
+				}
+			}
+			
+			c_fortenhaf = {
+				color = { 147 40 193 }
+				color2 = { 255 255 255 }
+				
+				b_fortenhaf = {
+				}
+				b_gerdouen = {
+				}
+				b_muckenhof = {
+				}
+				b_zeisholz = {
+				}
+				b_elmshorn = {
+				}
+			}
+		}
+		
+		d_mordheim = {
+			color = { 107 51 126 }
+			color2 = { 255 255 255 }
+			
+			capital = 370 #Mordheim
+			
+			c_mordheim = {
+				color = { 127 30 143 }
+				color2 = { 255 255 255 }
+				
+				b_old_mordheim = {
+				}
+				b_odstir = {
+				}
+				b_totstir = {
+				}
+				b_barrichmere = {
+				}
+				b_golsen = {
+				}
+				b_mordheim = {
+				holy_site = vampiric
+				}
+			}
+		}
+
+		d_stachelbeere = {
+			color = { 137 80 183 }
+			color2 = { 255 255 255 }
+			
+			capital = 369 #Rundespitze
+			
+			c_rundespitze = {
+				color = { 187 110 233 }
+				color2 = { 255 255 255 }
+				
+				b_rundespitze = {
+				}
+				b_bassum = {
+				}
+				b_aichach = {
+				}
+			}
+			
+			c_the_veldt = {
+				color = { 137 110 163 }
+				color2 = { 255 255 255 }
+				
+				b_rheden = {
+				}
+				b_teutoberger_wald = {
+				}
+				b_butzbach = {
+				}
+			}
+		}
+		
+		d_abshaumwald = {
+			color = { 157 31 166 }
+			color2 = { 255 255 255 }
+			
+			capital = 374 #Nagenhof
+			
+			c_nagenhof = {
+				color = { 187 110 203 }
+				color2 = { 255 255 255 }
+				
+				b_nagenhof = {
+				}
+				b_osterwald = {
+				}
+				b_mielau = {
+				}
+				b_eisental = {
+				}
+				b_nachtdorf = {
+				}
+				b_blutfort = {
+				}
+			}
+			
+			c_carlsbruck = {
+				color = { 145 62 163 }
+				color2 = { 255 255 255 }
+				
+				b_carlsbruck = {
+				}
+				b_radinan = {
+				}
+				b_essen = {
+				}
+				b_vanheltor = {
+				}
+				b_gerau = {
+				}
+			}			
+			c_kolhov = {
+				color = { 124 12 133 }
+				color2 = { 255 255 255 }
+				
+				b_kolhov = {
+				}
+				b_berlner = {
+				}
+				b_bahlkurk = {
+				}
+				b_helmbrechts = {
+				}
+			}			
+			c_regak = {
+				color = { 157 110 193 }
+				color2 = { 255 255 255 }
+				
+				b_castle_regak = {
+				}
+				b_jenzwelden = {
+				}
+				b_messinghof = {
+				}
+				b_zherden = {
+				}
+				b_zherdenschlosse = {
+				}
+				b_regakhof = {
+				}
+			}	
+		}		
+	}
+	
+	k_stirland = {
+		color = { 20 180 40 }
+		color2 = { 255 255 255 }
+		
+		capital = 343 #Wurtbad
+				
+		d_stirhugel = {
+			color = { 10 201 76 }
+			color2 = { 255 255 255 }
+			
+			capital = 343 #Wurtbad
+			
+			c_teichel = {
+				color = { 17 150 63 }
+				color2 = { 255 255 255 }
+				
+				b_purgg = {
+				}
+				b_klam = {
+				}
+				b_pramet = {
+				}
+				b_oberwil = {
+				}
+				b_munzhausen = {
+				}
+			}		
+			
+			c_wurtbad = {
+				color = { 17 110 63 }
+				color2 = { 255 255 255 }
+				
+				b_wurtbad = {
+				}
+				b_biberhof = {
+				}
+				b_julbach = {
+				}
+				b_tarshof = {
+				}
+				b_sonningwiese = {
+				}
+				b_potting = {
+				}
+			}		
+			
+			c_stirhugel = {
+				color = { 18 209 63 }
+				color2 = { 255 255 255 }
+				
+				b_wolfsbach = {
+				}
+				b_chrobok = {
+				}
+				b_russbach = {
+				}
+				b_ohlsdorf = {
+				}
+				b_martig = {
+				}
+				b_lammer = {
+				}
+			}		
+			
+			c_worden = {
+				color = { 98 150 13 }
+				color2 = { 255 255 255 }
+				
+				b_worden = {
+				}
+				b_nussbach = {
+				}
+				b_franzen = {
+				}
+				b_vigaun = {
+				}
+				b_kelham = {
+				}
+			}	
+		}
+				
+		d_steyr = {
+			color = { 102 211 46 }
+			color2 = { 255 255 255 }
+			
+			capital = 349 #Oberstyre
+			
+			c_oberstyre = {
+				color = { 187 252 163 }
+				color2 = { 255 255 255 }
+				
+				b_fort_oberstyre = {
+				}
+				b_raab = {
+				}
+				b_gablitz = {
+				}
+				b_murieste = {
+				}
+				b_tenneck = {
+				}
+			}		
+			
+			c_oehling = {
+				color = { 89 190 23 }
+				color2 = { 255 255 255 }
+				
+				b_oehling = {
+				}
+				b_schollach = {
+				}
+				b_niedling = {
+				}
+			}	
+		}
+		
+		d_nattern = {
+			color = { 89 151 46 }
+			color2 = { 255 255 255 }
+			
+			capital = 345 #Ramsau
+			
+			c_nattern_forest = {
+				color = { 73 160 33 }
+				color2 = { 255 255 255 }
+				
+				b_zeven = {
+				}
+				b_scheer = {
+				}
+				b_ostringen = {
+				}
+			}
+			
+			c_ramsau = {
+				color = { 32 110 13 }
+				color2 = { 255 255 255 }
+				
+				b_ramsau = {
+				}
+				b_kircham = {
+				}
+				b_blutdorf = {
+				}
+				b_mendig = {
+				}
+			}
+			
+			c_zaya = {
+				color = { 64 145 89 }
+				color2 = { 255 255 255 }
+				
+				b_flensburg = {
+				}
+				b_lochen = {
+				}
+				b_mellrichstadt = {
+				}
+			}		
+		}
+	}
+			
+	k_mootland = {
+		color = { 50 150 30 }
+		color2 = { 255 255 255 }
+		
+		capital = 350 #Eicheschatten
+		
+		allow = {
+			religion_group = halfing_gods_gods
+		}
+		
+		title = "ELDER"
+		title_female = "ELDER"
+		foa = "ELDER_FOA"
+		
+		d_auld_styrland = {
+			color = { 27 120 46 }
+			color2 = { 255 255 255 }
+			
+			capital = 350 #Eicheschatten
+			
+			c_eicheschatten = {
+				color = { 17 110 63 }
+				color2 = { 255 255 255 }
+				
+				b_eicheschatten = {
+				}
+				b_molberg = {
+				}
+				b_vorchdorf = {
+				}
+				b_brandenberry = {
+				}
+				b_birnbaum = {
+				}
+				b_bogglewort = {
+				}
+			}
+
+			c_elster = {
+				color = { 87 150 23 }
+				color2 = { 255 255 255 }
+				
+				b_elster = {
+				}
+				b_itzehoe = {
+				}
+				b_gernsbach = {
+				}
+			}
+		}
+
+		d_aver_march = {
+			color = { 7 170 33 }
+			color2 = { 255 255 255 }
+			
+			capital = 359 #Sauerapfel
+			
+			c_sauerapfel = {
+				color = { 157 190 63 }
+				color2 = { 255 255 255 }
+				
+				b_sauerapfel = {
+				}
+				b_dreiflussen = {
+				}
+				b_bieswang = {
+				}
+				b_glinde = {
+				}
+			}
+			
+			c_greenleafs = {
+				color = { 7 170 33 }
+				color2 = { 255 255 255 }
+				
+				b_gipfel = {
+				}
+				b_fallenblatt = {
+				}
+				b_haukern = {
+				}
+				b_greenleafs = {
+				}
+				b_fallow_hills = {
+				}
+			}	
+			
+			c_aver_march = {
+				color = { 87 150 23 }
+				color2 = { 255 255 255 }
+				
+				b_einsamholz = {
+				}
+				b_grunhugel = {
+				}
+				b_hornsbys_ferry = {
+				}
+				b_eberbach = {
+				}
+			}
+		}
+	}
+
+
+	k_drakwald = {
+		color = { 60 150 80 }
+		color2 = { 255 255 255 }
+	
+		capital = 270 #Carroburg
+	}
+	
+	k_middenland = {
+		color = { 10 50 150 }
+		color2 = { 255 255 255 }
+		
+		capital = 274 #Middenheim
+
+
+		d_carroburg = {
+			color = { 27 160 173 }
+			color2 = { 255 255 255 }
+			
+			capital = 270 #Carroburg
+								
+			c_scheinfeld = {
+				color = { 27 150 143 }
+				color2 = { 255 255 255 }
+				
+				b_scheinfeld = {
+				}
+				b_calden = {
+				}
+				b_uder = {
+				}
+				b_nupstedt = {
+				}
+			}
+						
+			c_carroburg = {
+				color = { 47 160 183 }
+				color2 = { 255 255 255 }
+				
+				b_carroburg = {
+				}
+				b_senden = {
+				}
+				b_breuna = {
+				}
+				b_arenshausen = {
+				}
+				b_barenfahre = {
+				}
+			}
+		}
+		
+		d_erpelzug = {
+			color = { 7 121 140 }
+			color2 = { 255 255 255 }
+			
+			capital = 266 #Isenbuttel
+			
+			
+			c_wouduin = {
+				color = { 87 110 163 }
+				color2 = { 255 255 255 }
+				
+				b_wouduin = {
+				}
+				b_deinste = {
+				}
+				b_bokel = {
+				}
+			}	
+
+			c_pinnesberg = {
+				color = { 7 20 133 }
+				color2 = { 255 255 255 }
+				
+				b_pinnesberg = {
+				}
+				b_heilbronn = {
+				}
+				b_sankt_goar = {
+				}
+			}
+			
+			c_winsen = {
+				color = { 17 130 93 }
+				color2 = { 255 255 255 }
+				
+				b_winsen = {
+				}
+				b_kastof = {
+				}
+			}
+			
+			c_isenbuttel = {
+				color = { 18 120 123 }
+				color2 = { 255 255 255 }
+				
+				b_isenbuttel = {
+				}
+				b_fintel = {
+				}
+				b_basdahl = {
+				}
+			}
+		}
+		
+		d_kristal = {
+			color = { 97 151 180 }
+			color2 = { 255 255 255 }
+			
+			capital = 267 #Seidewald
+			
+			c_seidewald = {
+				color = { 107 210 233 }
+				color2 = { 255 255 255 }
+				
+				b_knorreibe = {
+				}
+				b_dornigdorf = {
+				}
+				b_taubchensdorf = {
+				}
+				b_beengendereichhornchensdorf = {
+				}
+			}
+
+			c_mittelwig = {
+				color = { 50 150 163 }
+				color2 = { 255 255 255 }
+				
+				b_mittelwig = {
+				}
+				b_brockel = {
+				}
+				b_guthugel = {
+				}
+				b_kupfengrube = {
+				}
+			}			
+		}
+		
+		d_nordlichturm = {
+			color = { 77 71 190 }
+			color2 = { 255 255 255 }
+			
+			capital = 271 #Schongau
+			
+			c_schongau = {
+				color = { 19 23 189 }
+				color2 = { 255 255 255 }
+				
+				b_schongau = {
+				}
+				b_torgelow = {
+				}
+				b_viernheim = {
+				}
+				b_welzheim = {
+				}
+			}
+			
+			c_werther = {
+				color = { 32 71 203 }
+				color2 = { 255 255 255 }
+				
+				b_werther = {
+				}
+				b_weinheim = {
+				}
+				b_idstein = {
+				}
+				b_mainburg = {
+				}
+			}
+		}
+		
+		d_middenheim = {
+			color = { 37 51 170 }
+			color2 = { 255 255 255 }
+			
+			capital = 274 #Middenheim
+			
+			c_middenheim = {
+				color = { 77 98 201 }
+				color2 = { 255 255 255 }
+			
+				b_middenheim_palast = {
+				}
+				b_grafsmund = {
+				}
+				b_ulricsmund = {
+					holy_site = ulrican
+				}
+				b_altmarkt = {
+				}
+				b_neumarkt = {
+				}
+				b_the_freiburg = {
+					holy_site = sigmarite
+				}
+				b_sudengarten = {
+				}
+			}
+		}
+		
+		d_kamistaat = {
+			color = { 17 11 130 }
+			color2 = { 255 255 255 }
+			
+			capital = 276 #Middenstag
+			
+			c_kammendun = {
+				color = { 35 87 120 }
+				color2 = { 255 255 255 }
+				
+				b_kammendun = {
+				}
+				b_pritzstock = {
+				}
+				b_leichlinberg = {
+				}
+				b_merkendorf = {
+				}
+			}
+			
+			c_malstedt = {
+				color = { 23 90 180 }
+				color2 = { 255 255 255 }
+				
+				b_malstedt = {
+				}
+				b_sotturm = {
+				}
+				b_delberz = {
+				}
+			}
+			
+			c_middenstag = {
+				color = { 7 34 120 }
+				color2 = { 255 255 255 }
+				
+				b_middenstag = {
+				}
+				b_hanau = {
+				}
+				b_versmold = {
+				}
+				b_elsfleth = {
+				}
+			}
+			
+			c_grimminhagen = {
+				color = { 72 62 148 }
+				color2 = { 255 255 255 }
+				
+				b_grimminhagen = {
+				}
+				b_untergard = {
+				}
+				b_elze = {
+				}
+				b_alzenau = {
+				}
+				b_kirn = {
+				}
+			}
+		}
+		
+		d_tauben = {
+			color = { 57 71 190 }
+			color2 = { 255 255 255 }
+			
+			capital = 279 #Holtdorf
+			
+			c_holtdorf = {
+				color = { 100 100 129 }
+				color2 = { 255 255 255 }
+				
+				b_holtdorf = {
+				}
+				b_kehl = {
+				}
+				b_leonberg = {
+				}
+				b_boxberg = {
+				}
+			}
+			
+			c_bad_hohne = {
+				color = { 49 23 209 }
+				color2 = { 255 255 255 }
+				
+				b_bad_hohne = {
+				}
+				b_suderberg = {
+				}
+				b_eldagsen = {
+				}
+				b_schoppendorf = {
+				}
+			}			
+			
+			c_coburg = {
+				color = { 126 118 205 }
+				color2 = { 255 255 255 }
+				
+				b_coburg = {
+				}
+				b_osterwiecke = {
+				}
+			}	
+			
+			c_kutenholz = {
+				color = { 120 143 240 }
+				color2 = { 255 255 255 }
+				
+				b_kutenholz = {
+				}
+				b_viersen = {
+				}
+				b_eibelstadt = {
+				}
+				b_esens = {
+				}
+			}
+						
+			c_ahlenhof = {
+				color = { 140 150 200 }
+				color2 = { 255 255 255 }
+				
+				b_ahlenhof = {
+				}
+				b_laer = {
+				}
+				b_tussenhof = {
+				}
+				b_luthorst = {
+				}
+			}	
+									
+			
+		}
+	}
+	
+	k_hochland = {
+		color = { 100 170 70 }
+		color2 = { 255 255 255 }
+		
+		capital = 292 #Hergig
+	
+		d_kaffberger = {
+			color = { 107 181 96 }
+			color2 = { 255 255 255 }
+			
+			capital = 282 #Krudenwald
+			
+			c_krudenwald = {
+				color = { 89 104 70 }
+				color2 = { 255 255 255 }
+				
+				b_krudenwald = {
+				}
+				b_bergsburg = {
+				}
+				b_garssen = {
+				}
+				b_ahresdorf = {
+				}
+				b_wahnsinningen = {
+				}
+			}	
+			
+			c_bergendorf = {
+				color = { 55 150 100 }
+				color2 = { 255 255 255 }
+				
+				b_bergendorf = {
+				}
+				b_esk = {
+				}
+				b_laubach = {
+				}
+			}	
+		}
+		
+		d_korver = {
+			color = { 82 141 46 }
+			color2 = { 255 255 255 }
+			
+			capital = 292 #Hergig
+						
+			c_heedenhof = {
+				color = { 29 200 98 }
+				color2 = { 255 255 255 }
+				
+				b_heedenhof = {
+				}
+				b_gerzen = {
+				}
+				b_flaschfurt = {
+				}
+			}	
+
+			c_igelhugel = {
+				color = { 109 203 134 }
+				color2 = { 255 255 255 }
+				
+				b_gruyden = {
+				}
+				b_langweise = {
+				}
+				b_dohna = {
+				}
+			}	
+						
+			c_ketzin = {
+				color = { 100 238 180 }
+				color2 = { 255 255 255 }
+				
+				b_havel = {
+				}
+				b_knittlingen = {
+				}
+				b_lichtenberg = {
+				}
+			}				
+						
+			c_hergig = {
+				color = { 109 238 120 }
+				color2 = { 255 255 255 }
+				
+				b_hergig = {
+				}
+				b_muden = {
+				}
+				b_stockse = {
+				}
+				b_estorf = {
+				}
+				b_dunstigfort = {
+				}
+			}	
+		}
+		
+		d_susspeise = {
+			color = { 107 150 93 }
+			color2 = { 255 255 255 }
+			
+			capital = 285 #Kiefer
+						
+			c_kiefer = {
+				color = { 189 240 190 }
+				color2 = { 255 255 255 }
+				
+				b_fort_schippel = {
+				}
+				b_koerin = {
+				}
+				b_breder = {
+				}
+				b_eichewaldchen = {
+				}
+			}	
+						
+			c_eiskalt = {
+				color = { 165 190 150 }
+				color2 = { 255 255 255 }
+				
+				b_lindow = {
+				}
+				b_jerichow = {
+				}
+			}	
+						
+			c_vodf = {
+				color = { 89 140 8 }
+				color2 = { 255 255 255 }
+				
+				b_vodf = {
+				}
+				b_dettelbach = {
+				}
+				b_iphofen = {
+				}
+			}	
+
+		}
+	}
+	
+	k_sylvania = {
+		color = { 110 70 130 }
+		color2 = { 255 255 255 }
+		
+		capital = 386 #Drakenhof
+		
+		d_drakenhohenzug = {
+			color = { 107 81 126 }
+			color2 = { 255 255 255 }
+			
+			capital = 386 #Drakenhof
+			
+			c_drakenhof = {
+				color = { 70 43 80 }
+				color2 = { 255 255 255 }
+				
+				b_castle_drakenhof = {
+				}
+				b_drakenhof = {
+				}
+				b_gallerschlosse = {
+				}
+				b_nachthafen = {
+				}
+				b_castle_senkhof = {
+				}
+				b_senkhof = {
+				}
+				b_gallhof = {
+				}
+			}
+			
+			c_gerhof = {
+				color = { 42 8 60 }
+				color2 = { 255 255 255 }
+				
+				b_gerhof = {
+				}
+				b_helsee = {
+				}
+			}
+
+			c_sumpfdorf = {
+				color = { 78 30 120 }
+				color2 = { 255 255 255 }
+				
+				b_sumpfdorf = {
+				}
+				b_rattenburg_house = {
+				}
+				b_glucksburg = {
+				}
+				b_erfstadt = {
+				}
+			}
+			
+			
+		}
+
+		d_vanhalden = {
+			color = { 107 60 153 }
+			color2 = { 255 255 255 }
+			
+			capital = 379 #Vanhaldenhof
+			
+			c_vanhaldenhof = {
+				color = { 87 40 130 }
+				color2 = { 255 255 255 }
+				
+				b_vanhaldenschlosse = {
+				holy_site = vampiric
+				}
+				b_vanhaldenhof = {
+				}
+				b_helfurt = {
+				}
+				b_gescher = {
+				}
+			}
+
+			c_mikaldorf = {
+				color = { 54 87 102 }
+				color2 = { 255 255 255 }
+				
+				b_mikaldorf = {
+				}
+				b_egling = {
+				}
+				b_eschen = {
+				}
+				b_stephansdorp = {
+				}
+				b_krondorf = {
+				}
+			}	
+
+			c_waldenhof = {
+				color = { 52 59 90 }
+				color2 = { 255 255 255 }
+				
+				b_waldenhof = {
+				}
+				b_hundham = {
+				}
+				b_thyrnan = {
+				}
+				b_jenzwalden = {
+				}
+			}
+
+			c_wartenhof = {
+				color = { 89 32 100 }
+				color2 = { 255 255 255 }
+				
+				b_castle_wartenhof = {
+				}
+				b_wartenhof = {
+				}
+				b_erkrath = {
+				}
+				b_creusen = {
+				}
+			}
+			
+		}
+		
+		d_brachland = {
+			color = { 100 50 153 }
+			color2 = { 255 255 255 }
+			
+			capital = 385 #Cottbus
+			
+			c_cottbus = {
+				color = { 89 70 100 }
+				color2 = { 255 255 255 }
+				
+				b_cottbus = {
+				}
+				b_buhl = {
+				}
+				b_segeberg = {
+				}
+				b_arnis = {
+				}
+			}
+			
+			c_amonen = {
+				color = { 67 50 80 }
+				color2 = { 255 255 255 }
+				
+				b_konrads_watch = {
+				}
+				b_amonenburg = {
+				}
+				b_aslar = {
+				}
+			}	
+		}
+		
+		d_achteraver = {
+			color = { 160 100 145 }
+			color2 = { 255 255 255 }
+			
+			capital = 389 #Fennonhugel
+			
+			c_falkenhaus = {
+				color = { 120 90 130 }
+				color2 = { 255 255 255 }
+				
+				b_the_watchtower = {
+				}
+				b_brigstadt = {
+				}
+				b_mittlenburg = {
+				}
+				b_pappenheim = {
+				}			
+				b_sigmaringen = {
+				}		
+				b_falkenhausen = {
+				}		
+			}
+			
+			c_fennonhugel = {
+				color = { 140 100 140 }
+				color2 = { 255 255 255 }
+				
+				b_fort_bracher = {
+				}
+				b_stoodhof = {
+				}
+				b_maylhof = {
+				}
+				b_averridge = {
+				}			
+				b_geihselhoff = {
+				}
+				b_marburg = {
+				}
+			}
+		}
+
+		d_kovasnia = {
+			color = { 47 30 63 }
+			color2 = { 255 255 255 }
+			
+			capital = 376 #Konigstein
+			
+			c_sternieste = {
+				color = { 80 10 100 }
+				color2 = { 255 255 255 }
+				
+				b_sternieste = {
+				}
+				b_siegfriedhof = {
+				}
+				b_svarsee = {
+				}
+				b_morfen = {
+				}
+				b_eschenstir = {
+				}
+			}
+			
+			c_konigstein = {
+				color = { 60 30 100 }
+				color2 = { 255 255 255 }
+				
+				b_konigstein_tower = {
+				}
+				b_konigstein = {
+				}
+				b_vierstein = {
+				}
+				b_lichenheim = {
+				}
+			}	
+
+			c_bylorhof = {
+				color = { 90 85 89 }
+				color2 = { 255 255 255 }
+				
+				b_bylorhof = {
+				}
+				b_swartzhafen = {
+				}
+				b_dechstein = {
+				}
+				b_hillesheim = {
+				}			
+			}
+			
+			c_templehof = {
+				color = { 130 120 140 }
+				color2 = { 255 255 255 }
+				
+				b_castle_templehof = {
+				}
+				b_templehof = {
+				}
+				b_stolpe = {
+				}
+				b_naubonm = {
+				}			
+				b_leichberg = {
+				}
+			}
+		}
+	}
+}
+
+
+#TITULAR!
+
+######Holy Orders
+
+d_knights_white_wolf = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 274 #Middenheim
+
+	religion = ulrican
+	culture = middenlander
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_white_wolf_modifier
+}
+
+d_knights_sigmars_blood = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 299 #Altdorf
+
+	religion = sigmarite
+	culture = reiklander
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_sigmars_blood_modifier
+}
+
+
+d_knights_panther = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 553 #Magritta
+
+	religion = classical_gods
+	culture = astur
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_panther_modifier
+}
+
+
+d_knights_griffon = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 309 #Nuln
+
+	religion = sigmarite
+	culture = wissenlander
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_griffon_modifier
+}
+
+
+d_knights_black_rose = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 343 #Wurtbad
+
+	religion = ulrican
+	culture = stirlander
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_black_rose_modifier
+}
+
+d_knights_blazing_sun = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 330 #Talabheim
+
+	religion = classical_gods
+	culture = talabeclander
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_blazing_sun_modifier
+}
+
+
+d_knights_broken_sword = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 357 #Averheim
+
+	religion = sigmarite
+	culture = averlander
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_broken_sword_modifier
+}
+
+
+d_knights_everlasting_light = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 366 #Bechafen
+
+	religion = sigmarite
+	culture = ostermarker
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_everlasting_light_modifier
+}
+
+d_sisters_of_sigmar = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 370 #Mordheim
+
+	religion = sigmarite
+	culture = ostermarker
+	
+	holy_order = yes
+
+	title = "HIGH_PATRIARCH"
+	title_female = "HIGH_MATRIARCH"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_sisters_of_sigmar_modifier
+}
+
+d_order_of_the_eagle = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 553 #Magritta
+
+	religion = classical_gods
+	culture = avilian
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_order_of_the_eagle_modifier
+}
+
+d_order_of_the_righteous_spear = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 553 #Magritta
+
+	religion = classical_gods
+	culture = obregonese
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_order_of_the_righteous_spear_modifier
+}
+
+### Grail Holy Orders
+
+
+d_knights_origo = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 1021 #Fyrus
+
+	religion = lady_of_the_lake
+	culture = breton
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_origo_modifier
+}
+
+d_knights_lily = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 844 #Bastonne
+
+	religion = lady_of_the_lake
+	culture = breton
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_knights_lily_modifier
+}
+
+d_chevaliers_notre_dame_bataille = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 884 #Quenelles
+
+	religion = lady_of_the_lake
+	culture = breton
+	
+	holy_order = yes
+
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_chevaliers_notre_dame_bataille_modifier
+}
+
+
+######Mercenaries
+
+## Bodyguards and Private Armies
+
+d_estalian_inquisition = {
+	color={ 230 230 230 }
+	color2={ 255 255 255 }
+	
+	capital = 554 #Magritta
+	
+	allow = {
+		has_landed_title = k_cult_of_myrmidia
+		culture_group = estalian_group
+		religion_group = old_world_gods_group
+	}
+	
+	title = "GRAND_INQUISITOR"
+	title_female = "GRAND_INQUISITOR"
+	foa = "GRAND_INQUISITOR_FOA"
+
+	landless = yes
+	
+	mercenary = yes
+	religion = classical_gods
+	culture = astur
+	
+	primary = yes
+
+	independent = yes
+	modifier = d_estalian_inquisition_modifier
+}
+
+d_tilean_inquisition = {
+	color={ 230 230 230 }
+	color2={ 255 255 255 }
+	
+	capital = 600 #Remas
+	
+	allow = {
+		has_landed_title = k_cult_of_myrmidia
+		culture_group = tilean_group
+		religion_group = old_world_gods_group
+	}
+	
+	title = "GRAND_INQUISITOR"
+	title_female = "GRAND_INQUISITOR"
+	foa = "GRAND_INQUISITOR_FOA"
+
+	landless = yes
+	
+	mercenary = yes
+	religion = classical_gods
+	culture = reman
+	
+	primary = yes
+
+	independent = yes
+	modifier = d_tilean_inquisition_modifier
+}
+
+
+d_arch_lectory_talabheim = {
+	color = { 159 130 101 }
+	color2 = { 255 255 255 }
+	
+	capital = 330 #Talabheim
+	
+	allow = {
+		has_landed_title = k_cult_of_sigmar
+		religion_group = old_world_gods_group
+	}
+	
+	religion = sigmarite
+	culture = talabeclander
+	
+	title = "ARCH_LECTOR"					
+	short_name = yes
+	landless = yes
+			
+	mercenary = yes
+	primary = yes		
+
+	independent = yes
+	modifier = d_arch_lectory_talabheim_modifier
+}	
+
+d_arch_lectory_nuln = {
+	color = { 159 130 101 }
+	color2 = { 255 255 255 }
+	
+	capital = 309 #Nuln
+	
+	allow = {
+		has_landed_title = k_cult_of_sigmar
+		religion_group = old_world_gods_group
+	}
+	
+	religion = sigmarite
+	culture = wissenlander
+	
+	title = "ARCH_LECTOR"					
+	short_name = yes
+	landless = yes
+			
+	mercenary = yes
+	primary = yes		
+
+	independent = yes
+	modifier = d_arch_lectory_nuln_modifier
+}	
+
+d_swords_of_ulric = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 274 #Middenheim
+
+	allow = {
+		has_landed_title = k_cult_of_ulric
+		religion_group = old_world_gods_group
+	}
+	
+	religion = ulrican
+	culture = middenlander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	modifier = d_swords_of_ulric_modifier
+}
+
+d_reiksguard = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 299 #Altdorf
+
+	allow = {
+		has_landed_title = e_the_empire
+		religion_group = old_world_gods_group
+	}
+	
+	religion = sigmarite
+	culture = reiklander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	modifier = d_reiksguard_modifier
+}
+
+
+###Imperial
+
+d_carroburg_greatswords = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 270 #Carroburg
+
+	allow = {
+		culture_group = imperial_group
+		religion_group = old_world_gods_group
+	}
+	
+	religion = sigmarite
+	culture = reiklander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	modifier = d_carroburg_greatswords_modifier
+}
+
+d_star_of_victory = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 270 #Carroburg
+
+	allow = {
+		culture_group = imperial_group
+		religion_group = old_world_gods_group
+	}
+	
+	religion = sigmarite
+	culture = reiklander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	modifier = d_star_of_victory_modifier
+}
+
+d_drakwald_patrol = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 270 #Carroburg
+
+	allow = {
+		culture_group = imperial_group
+		religion_group = old_world_gods_group
+	}
+	
+	religion = sigmarite
+	culture = drakwalder
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	modifier = d_drakwald_patrol_modifier
+}
+
+d_stir_river_patrol = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 343 #Wurtbad
+
+	allow = {
+		culture_group = imperial_group
+		religion_group = old_world_gods_group
+	}
+	
+	religion = sigmarite
+	culture = stirlander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	modifier = d_stir_river_patrol_modifier
+}
+
+d_helhuntens_redeemers = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 343 #Wurtbad
+
+	allow = {
+		culture_group = imperial_group
+		religion_group = old_world_gods_group
+	}
+	
+	religion = sigmarite
+	culture = stirlander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	modifier = d_helhuntens_redeemers_modifier
+}
+
+d_murderers_out_of_marienburg = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 222 #Marienburg
+
+	allow = {
+		culture_group = imperial_group
+		religion_group = old_world_gods_group
+	}
+	
+	religion = sigmarite
+	culture = westerlander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	modifier = d_murderers_out_of_marienburg_modifier
+}
+
+d_deaths_heads = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 366 #Bechafen
+
+	allow = {
+		culture_group = imperial_group
+		religion_group = old_world_gods_group
+	}
+	
+	religion = ulrican
+	culture = ostermarker
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	modifier = d_deaths_heads_modifier
+}
+
+
+
+
+
+
+###Tilean
+
+d_alcatani_fellowship = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 583 #Ravola
+	
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = classical_gods
+	culture = umbrian
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_alcatani_fellowship_modifier
+}
+
+d_brazangas_besiegers = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 592 #Urbimo
+	
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = classical_gods
+	culture = umbrian
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_brazangas_besiegers_modifier
+}
+
+d_riccos_republican_guard = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 600 #Remas
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = classical_gods
+	culture = reman
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_riccos_republican_guard_modifier
+}
+
+d_marksmen_of_miragliano = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 584 #Miragliano
+	
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = classical_gods
+	culture = miraglian
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_marksmen_of_miragliano_modifier
+}
+
+d_volands_venators = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 600 #Remas
+	
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = classical_gods
+	culture = umbrian
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_volands_venators_modifier
+}
+
+d_bronzinos_galloper_guns = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 584 #Miragliano
+	
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = classical_gods
+	culture = miraglian
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_bronzinos_galloper_guns_modifier
+}
+
+d_leopolds_leopard_company = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 614 #Luccini
+	
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = classical_gods
+	culture = lucian
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_leopolds_leopard_company_modifier
+}
+
+d_birdmen_of_catrazza = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 596 #Catrazza
+	
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = classical_gods
+	culture = reman
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_birdmen_of_catrazza_modifier
+}
+
+
+###Norscan
+
+d_vanaheim_marauders = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 222 #Marienburg
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+			religion_group = norse_group
+			religion_group = ormazd_gods_group
+			religion_group = halfling_gods_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = norse
+	culture = bjornling
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_vanaheim_marauders_modifier
+}
+
+d_bearmen_of_ursulo = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 130 #Urslo
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+			religion_group = norse_group
+			religion_group = ormazd_gods_group
+			religion_group = halfling_gods_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = norse
+	culture = baersonling
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_bearmen_of_ursulo_modifier
+}
+
+d_midgard_shieldmaidens = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 28 #Fyodravik
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+			religion_group = norse_group
+			religion_group = ormazd_gods_group
+			religion_group = halfling_gods_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = norse
+	culture = skaeling
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_midgard_shieldmaidens_modifier
+}
+
+d_shieldmaidens_of_the_storm = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 66 #Jotunir
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+			religion_group = norse_group
+			religion_group = ormazd_gods_group
+			religion_group = halfling_gods_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	religion = norse
+	culture = sarl
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_shieldmaidens_of_the_storm_modifier
+}
+
+### Kislevite
+
+d_gryphon_legion = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion_group = old_world_gods_group
+	}
+	
+	capital = 202 #Kislev
+	religion = northern_gods
+	culture = gospodar
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_gryphon_legion_modifier
+}
+
+d_winged_company = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion = northern_gods
+	}
+	
+	capital = 202 #Kislev
+	religion = northern_gods
+	culture = gospodar
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_winged_company_modifier
+}
+
+d_dobryrion_company = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion = northern_gods
+	}
+	
+	capital = 202 #Kislev
+	religion = northern_gods
+	culture = ungol
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_dobryrion_company_modifier
+}
+
+
+
+
+### Chaos
+
+d_purple_hand = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion = tzeentch
+	}
+	
+	capital = 309 #Nuln
+	religion = tzeentch
+	culture = wissenlander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_purple_hand_modifier
+}
+
+d_velvet_touch = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion = slaanesh
+	}
+	
+	capital = 309 #Nuln
+	religion = slaanesh
+	culture = wissenlander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_velvet_touch_modifier
+}
+
+d_bloody_skull_warband = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion = khorne
+	}
+	
+	capital = 299 #Altdorf
+	religion = khorne
+	culture = reiklander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_bloody_skull_warband_modifier
+}
+
+
+d_children_of_the_greatfather = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion = nurgle
+	}
+	
+	capital = 309 #Nuln
+	religion = nurgle
+	culture = wissenlander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_children_of_the_greatfather_modifier
+}
+
+d_eight_pointed_star = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion = chaos
+	}
+	
+	capital = 299 #Altdorf
+	religion = chaos
+	culture = reiklander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_eight_pointed_star_modifier
+}
+
+d_lost_and_damned = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion_group = chaos_gods_group
+	}
+	
+	capital = 299 #Altdorf
+	religion = chaos
+	culture = reiklander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_lost_and_damned_modifier
+}
+
+d_riders_of_loesh = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion = slaanesh
+	}
+	
+	capital = 1245 #Tohkar
+	religion = slaanesh
+	culture = tokmar
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_riders_of_loesh_modifier
+}
+
+### Stromfels ###Sartosan
+
+d_sartosa_sirens = {
+	color={ 50 50 200 }
+	color2={ 255 255 255 }
+	
+	capital = 626 #Sartosa
+	
+	allow = {
+		religion_group = old_world_gods_group
+	}
+	religion = stromfels
+	culture = tilean_sartosan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	primary = yes
+	independent = yes
+
+	modifier = d_sartosa_sirens_modifier
+}
+
+d_blackwater_raiders = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion = stromfels
+	}
+	
+	capital = 626 #Sartosa
+	religion = stromfels
+	culture = tilean_sartosan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_blackwater_raiders_modifier
+}
+
+d_bloodsail_buccaneers = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion = stromfels
+	}
+	
+	capital = 626 #Sartosa
+	religion = stromfels
+	culture = tilean_sartosan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_bloodsail_buccaneers_modifier
+}
+
+d_siren_sellswords = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	capital = 626 #Sartosa
+	
+	allow = {
+		religion = stromfels
+	}
+	
+	religion = stromfels
+	culture = tilean_sartosan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_siren_sellswords_modifier
+}
+
+###Dwarven
+
+d_dragon_company = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 451 #Karaz-a-Karak
+
+	allow = {
+		religion_group = dwarf_gods_group
+	}
+	religion = dwarven_main
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_dragon_company_modifier
+}
+
+d_slayer_legion = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 451 #Karaz-a-Karak
+
+	religion = dwarven_main
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_slayer_legion_modifier
+}
+
+
+###Greenskin
+
+d_mother_crushers = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion_group = greenskin_gods_group
+	}
+		
+	capital = 222 #Marienburg
+
+	religion = greenskin_gods
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_mother_crushers_modifier
+}
+
+d_spike_clan_commandos = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion_group = greenskin_gods_group
+	}
+		
+	capital = 222 #Marienburg
+
+	religion = greenskin_gods
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_spike_clan_commandos_modifier
+}
+
+d_black_mountain_boys = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion_group = greenskin_gods_group
+	}
+		
+	capital = 222 #Marienburg
+
+	religion = greenskin_gods
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_black_mountain_boys_modifier
+}
+
+d_battle_chariots_of_bogdan = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion_group = greenskin_gods_group
+	}
+	
+	capital = 222 #Marienburg
+
+	religion = greenskin_gods
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_battle_chariots_of_bogdan_modifier
+}
+
+d_notlobs_bolt_throwers = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion_group = greenskin_gods_group
+	}
+		
+	capital = 222 #Marienburg
+
+	religion = greenskin_gods
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_notlobs_bolt_throwers_modifier
+}
+
+d_throgs_hobgoblin_despoilers = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion_group = greenskin_gods_group
+	}
+		
+	capital = 222 #Marienburg
+
+	religion = greenskin_gods
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_throgs_hobgoblin_despoilers_modifier
+}
+
+d_blue_face_boyz = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion_group = greenskin_gods_group
+	}
+		
+	capital = 222 #Marienburg
+
+	religion = greenskin_gods
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_blue_face_boyz_modifier
+}
+
+d_broken_tooth_boyz = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion_group = greenskin_gods_group
+	}
+		
+	capital = 222 #Marienburg
+
+	religion = greenskin_gods
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+
+	modifier = d_broken_tooth_boyz_modifier
+}
+
+d_dead_head_boyz = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion_group = greenskin_gods_group
+	}
+		
+	capital = 222 #Marienburg
+
+	religion = greenskin_gods
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes
+	
+	modifier = d_dead_head_boyz_modifier
+}
+
+### Ships
+
+
+d_siren_isles_sailors = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 581 #Autaria
+
+	religion = stromfels
+	culture = tilean_sartosan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_siren_isles_sailors_modifier
+}
+
+d_kuldevind_convoy = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 1200 #Kuldevind
+
+	religion = norse
+	culture = graeling
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_kuldevind_convoy_modifier
+}
+
+d_sartosan_hulks = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 626 #Sartosa
+
+	religion = stromfels
+	culture = tilean_sartosan
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_sartosan_hulks_modifier
+}
+
+d_norscan_seafarers = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 39 #Ulfsland
+
+	religion = norse
+	culture = sarl
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_norscan_seafarers_modifier
+}
+
+d_erengrad_convoy = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 175 #Erengrad	
+
+	allow = {
+		religion_group = old_world_gods_group
+	}
+	
+	religion = northern_gods
+	culture = gospodar
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_erengrad_convoy_modifier
+}
+
+d_marienburg_merchant_fleet = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion_group = old_world_gods_group
+	}
+		
+	capital = 222 #Marienburg
+
+	religion = sigmarite
+	culture = westerlander
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_marienburg_merchant_fleet_modifier
+}
+
+d_nurgle_hulks = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	allow = {
+		religion = nurgle
+	}
+			
+	capital = 222 #Marienburg
+
+	religion = nurgle
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_nurgle_hulks_modifier
+}
+
+d_waveriders_of_slaanesh = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion = slaanesh
+	}
+	capital = 222 #Marienburg
+
+	religion = slaanesh
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_waveriders_of_slaanesh_modifier
+}
+
+d_bloodwater_corsairs = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion = khorne
+	}
+	capital = 222 #Marienburg
+
+	religion = khorne
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_bloodwater_corsairs_modifier
+}
+
+d_tides_of_magic = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	allow = {
+		religion = tzeentch
+	}
+	capital = 222 #Marienburg
+
+	religion = tzeentch
+	
+	mercenary = yes
+
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+
+	landless = yes
+	
+	primary = yes
+	
+	independent = yes	
+	
+	modifier = d_tides_of_magic_modifier
+}
+
+######Titular Realms
+
+### Chaos Wastes
+
+###Norsca
+
+###Bretonnia
+
+###Chaos Dwarf
+
+d_black_fortress = {
+	color = { 87 35 28 }
+	color2 = { 255 255 255 }
+	
+	capital = 1273 #Black Fortress
+}
+
+k_unzkulak = {
+	color = { 187 130 108 }
+	color2 = { 255 255 255 }
+	
+	capital = 416 #Unzkulak
+}
+
+###Greenskin
+
+d_red_eye_mountain = {
+	color = { 197 50 18 }
+	color2 = { 255 255 255 }
+	
+	capital = 433 #Karak Ungor
+}
+
+d_cragmere = {
+	color = { 167 150 148 }
+	color2 = { 255 255 255 }
+	
+	capital = 441 #Karak Varn
+}
+
+d_bonepick = {
+	color = { 197 170 198 }
+	color2 = { 255 255 255 }
+	
+	capital = 1258 #Chalde
+}
+
+d_mount_grey_hag = {
+	color = { 109 130 141 }
+	color2 = { 255 255 255 }
+	
+	capital = 497 #Mount Grey Hag
+}
+
+k_iron_rock = {
+	color = { 189 130 111 }
+	color2 = { 255 255 255 }
+	
+	capital = 712 #Iron Rock
+}
+
+k_black_crag = {
+	color = { 59 80 31 }
+	color2 = { 255 255 255 }
+	
+	capital = 465 #Black Crag
+}
+
+d_misty_mountain = {
+	color = { 199 180 231 }
+	color2 = { 255 255 255 }
+	
+	capital = 781 #Misty Mountain
+}
+
+### Southern
+
+k_olohrad = {
+	color = { 129 180 131 }
+	color2 = { 255 255 255 }
+	
+	capital = 1635 #Olohrad
+}
+
+d_wasai = {
+	color = { 59 130 101 }
+	color2 = { 255 255 255 }
+	
+	capital = 1594 #Oldrag
+}
+
+
+###Republics & Leagues
+
+
+d_ironsides = {
+	color={ 72 92 142 }
+	color2={ 255 255 255 }
+	
+	capital = 686 #Barak Varr
+
+	short_name = yes	
+	
+	dignity = 200 
+	
+	allow = {
+		always = no
+		is_republic = yes
+	}
+}
+
+
+#Merchant Houses of Grande Charte
+
+b_du_casse = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+b_lafitte = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+b_wynn = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+b_ordronaux = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+b_le_bec = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+#Merchant Houses of Ambacht
+
+b_hoegaarden = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_de_raamsdonk = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_daalen = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_de_peppel = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_veenstra = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+
+#Merchant Houses of Texelhaven
+
+b_batenburg = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_de_kooij = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_noordhoek = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_breedveld = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_ravensberg = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+
+#Merchant Houses of Bogenhafen
+
+b_olmstadt = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+b_steinhager = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+b_ruggbroder = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+b_teugen = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+b_haagen = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+#Merchant Houses of Marienburg
+
+b_van_onderzoeker = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_koopmans = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_winkler = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_vijfswinkel = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_smeele = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+#Merchant Houses of Erengrad
+
+b_shein = {
+	culture = gospodar
+	religion = northern_gods
+}
+
+b_orlov = {
+	culture = gospodar
+	religion = northern_gods
+}
+
+b_pyhaniemi = {
+	culture = ungol
+	religion = northern_gods
+}
+
+b_fingerpori = {
+	culture = ungol
+	religion = northern_gods
+}
+
+b_padaste = {
+	culture = ropsmann
+	religion = northern_gods
+}
+
+# Reman Merchant Houses
+
+
+b_di_sorrento = {
+	culture = reman
+	religion = classical_gods
+}
+
+b_de_sica = {
+	culture = reman
+	religion = classical_gods
+}
+
+b_minnoli = {
+	culture = reman
+	religion = classical_gods
+}
+
+b_remi = {
+	culture = reman
+	religion = classical_gods
+}
+
+b_garrani = {
+	culture = reman
+	religion = classical_gods
+}
+
+
+# Verezzo Merchant Houses
+
+b_lanese = {
+	culture = umbrian
+	religion = classical_gods
+}
+
+b_biagi = {
+	culture = umbrian
+	religion = classical_gods
+}
+
+b_ducati = {
+	culture = umbrian
+	religion = classical_gods
+}
+
+b_rustici = {
+	culture = umbrian
+	religion = classical_gods
+}
+
+b_aurino = {
+	culture = umbrian
+	religion = classical_gods
+}

@@ -1,0 +1,23 @@
+halfling_gods_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	playable = yes
+
+	halfling_gods = {
+		graphical_culture = westerngfx
+
+		icon = 16
+		color = { 0.3 0.6 0.3 }
+		god_names = {
+			GOD_THE_GODS GOD_ESMERELDA GOD_THE_HEARTH
+		}
+		
+		crusade_name = "HOLY_WAR"
+		scripture_name = THE_POT
+		
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_hold_temples = yes
+	}
+}

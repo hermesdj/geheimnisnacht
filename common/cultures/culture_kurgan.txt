@@ -1,0 +1,289 @@
+
+kurgan_group = {
+	graphical_culture = muslimgfx
+
+	aghol = {
+		graphical_culture = cumangfx
+	#Bolghar
+		color = { 0.3 0.7 0.2 }
+
+		male_names = {
+			Almish Alzek Anzi Apskhih Araslan_Arslan Asparukh Balamber_Balambar Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh 
+			Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek Isbul Islivan Isperikh Ispor Kälaç Kano Karan Karaton
+			Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi 
+			Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar_Bakhtiar Paväl Praksa Rassate Rugila Sabin Sandil Sandilkh Sarkhan Sartäç Savin Sevar Shilki 
+			Sondoke Tähtaman Tarasiy Taridin Tatra Telec Telerig Tervel Timër_Timur Timëreç Timërpälat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani 
+			Yavantey Yençepi Yerneslu Yeçtirek Zabergan Zenti Tukiy Aydar Irkhan Batir
+
+		}
+		female_names = {
+			Çeçek_Çiçek Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçeçek_Gulçiçek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
+			Karacik Kätyarikka Këlnissa Këlyamal Lärkka Lyukha Mala Maturkka Mutlu Naça Patiyer Paykëlti Peksen Puyantay Samur Sarantay Sarä Sarica Sarikel 
+			Sati Savaçka Savkëlti Savtilek Savilay_Sevilay Savintik_Sevindik Shurkka Sibel Sirin Sirma Songul Tähtani Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek 
+		}
+				
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+		}
+
+	dolgan = {
+		graphical_culture = cumangfx
+	#Cuman and Pecheneg
+		color = { 0.6 0.9 0.1 }
+
+		male_names = {
+			Çilbu Aepak Abarkhan Afridon Aklan Alip Arskab Asalup Asep Astlan Atrak Balaban Basar Bashkort Bönek Baçman Begluk Blush Bonyak
+			Borç Eldeçyuk Eldigüz Eltämir Etrek Garu Girgen Gzi Imek Inalçik Itlar Ituk Kaçir-üküle Karakus Karçiga Kitan Könçek Kobyak Kopti
+			Köten Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Kutlu Maçar Mämbrok Okhotur Or Otrak Otrok Pulad Saru Sevenç Shishman Siçgan Sirçan Sokal Sotan Sugr
+			Tämir Täbär Tärtär Toktämir Törtogul Togli Tolun Tomzak Tugor Ulus Urs Uzluk Uzur
+			            Çelgil Aba Baitzas Balgor Batan Batas Bator Bayça Biçkili Bizel Boru Bula Giazis Ildey Ipa Ipaos Kabuksin Karaca Kaydum Kegen Konel  
+			Korkutan Kortan Kostas Kourkoutai Kuerçi Kugel Kure Sol Suru Tatus Teber Temir Tyrach Yavdi Yazi Yeke
+		}
+		female_names = {
+			Çiçek_Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yaylak Yeldem Yildiz
+						Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
+		}
+				
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		male_patronym = "oglu "
+		female_patronym = "kiz "
+		prefix = yes
+		
+		modifier = default_culture_modifier
+	}
+
+	gharhar = {
+		graphical_culture = cumangfx
+	#Avar
+		color = { 0.4 0.9 0.5 }
+
+		male_names = {
+			Almish Alp Alzek Anzi Apskhih Araslan_Arslan Asparukh Bagha Baghatur Balambär_Balambar Barjik Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha Bughra Bulan Bulger Bulçan Busir Buzan Buzer Bälgiçi Böri 
+			Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Ilik Iltäbär Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon 
+			Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kundaç Kundaçiq Kurt Kutrigur Kälaç Labertam Magotin Malamir Mugel Mänär Mänäs Mënümarót Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag 
+			Oshi Ostro Pagan Pakhtiyar_Bakhtiar Papaçyz Paväl Praksa Rassate Rugila Sabin Samsam Sandil Sandilkh Sarkhan Sartäç Savin Sevar Shilki Simsam Sondoke Tabghaç Tarasiy Taridin Tarkhan Tarmaç Tatra Telec Telerig Tervel Timër_Timur Timëreç Timërpälat 
+			Tingiz Tiradin Toghan Toghrïl_Toghrul Tokhtaman Toktu Tsog Tsul Tuk Tuzniq Täbär_Teber Tähtaman Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey Yençepi Yerneslu Yeçtirek Yilig Zabergan Zenti Çat Çat'n Çorpan Ötemis
+
+		}
+		female_names = {
+			Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulay Gulçiçäk_Gulçiçek Gundes Gunduz Gunes Ikalay Ilkay Ipek Ipekel Irge Karacik Khatun Kätyarikka Këlnissa Këlyamal Lyukha Lärkka Mala Maturkka Mutlu Naça Parsbit Patiyer Paykëlti Peksen 
+			Puyantay Samur Sarantay Sarica Sarikel Sarä Sati Savaçka Savilay_Sevilay Savintik_Sevindik Savkëlti Savtilek Shurkka Sibel Sirin Sirma Songul Tekçe Tura Tähtani Umay Usunbike Yartilek Yasar Yeldem Yildiz Çeçeppi Çeçki
+			Çeçtilet Çilen Çiltanesi Çiçäk_Çiçek Özgul Özlem
+		}
+
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+		}
+
+	hastling = {
+		graphical_culture = cumangfx
+	#Old Magyar
+		color = { 0.1 0.7 0.1 }
+
+		male_names = {
+			Abád Acsád Adony Agád Ajtony Ajándok Alajos Alpár Apor Apszik Arszlán_Arslan Aszparucs Atakám Balabán_Balaban Balambér_Balambar Balázs Becse Berény Bese Bod Bogát Bojta 
+			Bors Bot Botond Botos Botus Bozdurgán Buda Bulcsu Bánd Bátur Béla Bökény Csaba Csanád Csege Csegõ Cseka Cseke Dengizék Dezsõ Domán Edömér Egyed Ellák Elõd Ennedzur Erdõjáró 
+			Ernakh Erõs Ete Ezelek Falicsi Farkas Fehér Fejér Fekete Forkos Gerény Gyalu Gyeicsa Gyimes Gyula Gécsa Géza Görény Hetény Hollus Hollós Huba Hudus Hódos Ilek Ilemér Irnek 
+			Iszonyat Itemér Itisza Itlár Izár Jelek Jeno Jutocsa Jutos Kada Kadocsa Kaplon Kapolcs Karaton Karcsa Karsa Kartal Karád Kecsen Kelad Keled Kerecse Kerecsen Keszi Ketel 
+			Ketüd Keve Kipcsa Kolos Koppány Kortol Kund Kuppány Kurd Kurszán Kusid Kuszán Kál Kálmán Kósa Kölcse Kölpény Köncs Köncse Kötény Kövecs Kücsen Kürüsüly Levedi Levente Levéd 
+			Lél Makó Menmarót Móg Nyárád Nyék Nándor Obus Õdön Öden Önedbelia Oktár Ond Örkény Örkönd Örs 
+			Somogy Szabolcs Szecsõd Szemes Szemus Szerénd Szilárd Szoárd Szónuk Súr Taksony Tarcal Tarhos Tarján Tarkacsu Tas Tasi 
+			Teveli Toksuny Torda Tormacsu Turda Turul Táltos Tühütüm Uldin Vajk Vata Vál Vászoly Vízibor Zalán Zolta Zoltán Zovárd Zsolt Zsombor Zuárd Ákus Álmos Álmus Árbóc Árpád Ócsád 
+			Ügyek
+			
+		}
+		female_names = {
+			Ajnácska Ajsa Ajándék Alirán Alma Anada Arany Arika Barót Bejke Bogárd Bolda Boróka Buga Bíbur Csente Cseperka Csepke Csikó Csillag Csuda Delin Déva Eger Emese Emõke 
+			Enikõ Enéh Evetke Eõrsike Fehéra Füvellõ Gilvád Gimely Gyöngy Hajna Havadi Hete Hitvánd Ildikó Jóleán Karoldu Kecse Köcse Köncse Lelle Lente Lónya Mag Manga Nyesta 
+			Nyeste Négyöke Ondvér Piriska Rege Rázdi Réka Ríka Sarolt Saroltu Somocska Szecsõke Szépa Sáfély Villõ Virág Zsejke Ábrányka Ágocska Áldáska Édua Éne Öte Ünõke
+		}
+		
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		male_patronym = "fi"
+		prefix = no
+		
+		modifier = default_culture_modifier
+		}
+
+	khazag = {
+		graphical_culture = cumangfx
+		#Cuman and Hunnic
+		color = { 0.2 0.4 0.9 }
+
+
+		male_names = {
+			Çilbu Aepak Abarkhan Afridon Aklan Alip Arskab Asalup Asep Astlan Atrak Balaban Basar Bashkort Bönek Baçman Begluk Blush Bonyak
+			Borç Eldeçyuk Eldigüz Eltämir Etrek Garu Girgen Gzi Imek Inalçik Itlar Ituk Kaçir-üküle Karakus Karçiga Kitan Könçek Kobyak Kopti
+			Köten Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Kutlu Maçar Mämbrok Okhotur Or Otrak Otrok Pulad Saru Sevenç Shishman Siçgan Sirçan Sokal Sotan Sugr
+			Tämir Täbär Tärtär Toktämir Törtogul Togli Tolun Tomzak Tugor Ulus Urs Uzluk Uzur
+			Akhad Alburia Alypbi Askungur Attila Aybat Balamber Belk Bleda Bu-Timer Bu-Urgan Chelbir Dengizich Djilka Djurash Ellec Ermak Gazan Gostun Hernach Khinialon Kurbat Kutrigur Labertam Octar Rugila Sandlikh Shambat Sinnion Sulabi Tat-Ugek Tat-Utyak Tatra Tingiz Tuldila Uldin Uturgur Vund Zabergan
+		}
+		female_names = {
+			Çiçek_Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yaylak Yeldem Yildiz
+			Ildico N'Kara
+		}
+
+		prefix = no
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+		}		
+		
+	kul = {
+		graphical_culture = cumangfx
+	#Caucasian Avar
+		color = { 0.3 0.6 0.1 }
+
+		male_names = {
+			Acsád Adony Ajtony Apor Becse Berény Bese Bod Bogát Bojta Bors Bot Botond Botos Buda Bulcsu Bánk Bátur Béla Bókony Bökény Csaba Csanád Csege Cseka Décse Décso Elmér Elod Ete Ezelek Falicsi Farkas Forkos Gyeicsa Gyejcsa Gyeücsa Gyécso Hetény Hollós Huba Hódos Jutocsa Jutos Kadocsa Kaplony Kartal Karád Katapán Kecsen Keled Kerecse Kerecsen Ketel Keve Kond Kortol Kuppány Kurszán Kál Kölpény Küzsdég Levedi Levente Livünti Lél Makó Mike Mikán Miske Móg Nyárád Obus Ond Pozsony Szabolcs Szecsod Szerénd Szolnok Szoárd Súr Taksony Tarcal Tarkacsu Tas Tasi Teveli Tormacsu Turda Töhötöm Uros Vajk Vata Vál Zolta Zoltán Zombor Zsolt Zsombor Ákus Álmus Árpád Ócsád Öden Örkény Örkönd Özséb
+			}
+		female_names = {
+			Ajnácska Ajándék Arany Arika Barót Bogárd Bolda Buga Bíbur Csente Cseperka Csepke Csikó Csillag Csuda Delin Déva Emese Emoke Enéh Fehéra Gilvád Gyöngy Hajna Havadi Hete Hitvánd Jóleán Karold Kecse Krabocsa Köncse Lelle Lente Mag Manga Mikolt Nyesta Piriska Rázdi Réka Sarolt Somocska Szecsoke Szépa Sáfély Virág Áldáska Örsi Öte
+			}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+		}		
+
+	kvellig = {
+		graphical_culture = cumangfx
+	#Turkish
+		color = { 0.5 0.6 0.8 }
+
+		male_names = {
+			Çagri Çaka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp Arslan" "Alp Yurek" Alptigin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin Böru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend
+			Davud_David Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan Hizir Ibrahim Ilgazi Inal Iskender_Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun Kemal Kiliç Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan Söbuk Sökmen Sönmez Suleyman Saim Saltuk Saruca Savtekin Savur Sehinsah Selçuk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Uluç Umur Yakut Yaman Yinal Yunus
+		}
+		female_names = {
+			Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu Bozçin Canan Ceylan Dunya Dilber Dilek Emine
+			Esin Fatma Firuze Gulçiçek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge
+			Karacik Lale Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica Sati Sehnaz Serap Serife Sevilay
+			Sevindik Sibel_Sibylla Sirin Sirma Songul Sumru Tekçe Tura Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal
+		}
+		
+		from_dynasty_prefix = "ve "
+		
+		male_patronym = "oglu"
+		prefix = no
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+		}		
+
+	tahmak = {
+		graphical_culture = cumangfx
+	#Aghbanian
+		color = { 0.2 0.4 0.7 }
+
+		male_names = {
+			Abas Abul Abuset Aghbugha Aneroghogis Aratan Arches Armayel Asay Aswagen Atrnerseh_Atrnerseh Awag Bab Baguran Bakur Benjamin Bndoy Dawit_David Eghisha_Elisha Enibay Esuaghen 
+			Gadvshnasp Germanosan Ghazar Grigor_Gregory Grigoris_Gregory Haykaz Ishxananun Javanshir_Javanshir Juankoy Juanshir_Javanshir Kiwrike_Kiurike Mamkan Mankik Marut Matte_Matthew Merhawan Mihr 
+			Mirdazat Mirhavan Mirhorik Movses_Moses Mutsik Nerseh Patrik_Patrick Peroz_Peroz Pillipe_Phillip Rahat Rostom_Rustam Sahak Sanatruk Sargis_Sergius Satoy Shahnshah_Shahanshah 
+			Shama Shat Shergir Sheroy Shuphaghishoy Smbat_Smbat Spandarat Sparakos Stepannos_Stephen Tiran Tirazd Trdat Urnayr Uxtanes Vachagan Vache Vagharshak Vahan Vahram Vanakan 
+			Varaz-Grigor Varaz-Peroz Varaz-Trdat Varazman Varazoy Vard Vardan_Vartan Vaxtank_Vakhtang Viro Viroy Vrtanes Vstam Xochkorik Xosken Xosrov_Khosrow Xurs Yakob_Jacob Yawchagan 
+			Yeremia Yezut-Xosrov Yovhannes_John Yovnatan_Johnathan Yovxan_John Yusik Zakaria
+		}
+		female_names = {
+			Aghavni Alitz_Alice Almasd Anahid Anna_Anna Anoush Aprsamik Arda Arevig Arin Baydzar Berjanoush Berjouhi Dalita Datevig Eliz_Eloise Gadar Gayane Gorandoukht Goriduxt Hasmig 
+			Heghine Houri Hranoush Hripsime Hripsimeh Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid_Margaret Maria_Maria Mariyam Meghranoush Nane Nazani Ovsanna 
+			Pounig Razmouhi Rita Satenik_Satenik Seta Shoushanig Shushik Siran Sirvart Srpouhi Taguhi_Takouhi Tamar Vardanuhi Vartanoush Vartouhi Vosgi Xnchik Xosrovanush Yeva 
+			Zabel_Elizabeth Zmroukhd
+		}
+
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 40
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+		}		
+
+	tokmar = {
+		graphical_culture = cumangfx
+	#Khazar and Hunnic
+		color = { 0.5 0.9 0.7 }
+
+		male_names = {
+			Alp Baghatur Balgitzi Bälgiçi Barjik Bastu Bashtwa Bihor Bugha Bulan Bulçan Buzer Çat Çat'n Çorpan Iltäbär Itakh Kayghalagh Kayqalagh Khatir Khadir Khuterkin
+			Kibar Kisa Kundaçiq Kundaç Mänär Mänäs Mënümarót Ötemis Papaçyz Samsam Simsam Täbär Tabghaç Tarkhan Tarmaç Tuzniq Yabghu Yilig 
+			Akhad Alburia Alypbi Askungur Attila Aybat Balamber Belk Bleda Bu-Timer Bu-Urgan Chelbir Dengizich Djilka Djurash Ellec Ermak Gazan Gostun Hernach Khinialon Kurbat Kutrigur Labertam Octar Rugila Sandlikh Shambat Sinnion Sulabi Tat-Ugek Tat-Utyak Tatra Tingiz Tuldila Uldin Uturgur Vund Zabergan
+		}
+		female_names = {
+			Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
+			Ildico N'Kara
+		}
+		
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		
+		modifier = default_culture_modifier
+		}
+
+	yusak = {
+		graphical_culture = cumangfx
+	#Utigur and Kutrigur and Volga Bulgar
+		color = { 0.6 0.9 0.6 }
+
+
+		male_names = {
+			Almish Almush Alzek Anzi Apskhih Araslan Asparukh Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boris Boyan Bulger Buzan Chepa Chinialus Dizeng Dometa 
+			Dristar Drong Dukum Elemag Ernakh Eskhach Goleda Gostun Grigora Grod Guar Houdbaad Hudbaad Iani Iratais Isbul Isperikh Ispor Kano 
+			Karan Kardam Khinialon Khudbard Kordil Kormesiy Kormisosh Korsis Kotrag Krovat Krum Kuber Kubrat Kurt Kuvrat Magotin Malamir Marmais 
+			Mugel Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Praksa Pressian Rassate Sabin Sandil Sandilch 
+			Savin Sevar Shilki Sigritsis Silki Sinnion Slavnas Sondoke Stazis Synion Tarasiy Taridin Telec Telerig Tervel Tiradin Toktu Tsog Tsul 
+			Tuk Turdacis Umor Uturgur Vanand Vardan Venda Vetam Vinekh Yani Zabergan Zenti Zvinitsis
+			Dengisich Dengizik Eskhach Irnek Kutrigur Labertam Tatra Tingiz 
+			Alim Almas Almis Arslan Aydar Aynur Ayrat Azat Elbrus Färit Ildar Ildus Ilgiz Ilyas Ilsat Irek Iskändär Kamil Kazbek Kärim Nail Radiq Rail Ramil Rawil Risat Rustam Rusan Räsit Röstäm Tahir Timer Timur Zöfär Ämir Äxmät Çiñgiz Gabdulla Gädel Gäskär Samil
+
+
+		}
+		
+		female_names = {
+			Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
+			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
+			Aida Alsu Asiä Aygöl Aysilu Dinara Färidä Gölnara Gölnaz Gölçäçäk Güzäl Güzäliä Liana Liä Lälä Miläwsä Märyäm Tañsilu Zemfira Zöhrä Älfiä Äliä Çulpan Gäliä
+
+		}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		
+		modifier = default_culture_modifier
+	}		
+}
+

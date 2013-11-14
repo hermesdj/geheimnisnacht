@@ -1,0 +1,8 @@
+2010.1.1=
+{
+liege="d_black_fortress"
+}
+
+2010.1.1 = {
+	holder = 1100023
+}

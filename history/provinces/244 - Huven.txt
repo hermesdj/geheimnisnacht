@@ -1,0 +1,17 @@
+# 244 Huven
+
+# County Title
+title = c_huven
+
+# Settlements
+max_settlements = 3
+b_krausnick = castle
+b_bokenhof = city
+b_huven = city
+
+# Misc
+culture = ostlander
+religion = ulrican
+
+
+# History

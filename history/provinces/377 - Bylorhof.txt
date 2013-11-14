@@ -1,0 +1,18 @@
+# 377 - Bylorhof
+
+# County Title
+title = c_bylorhof
+
+# Settlements
+max_settlements = 4
+b_bylorhof = castle
+b_swartzhafen = city
+b_dechstein = temple
+b_hillesheim = castle
+
+# Misc
+culture = sylvanian
+religion = vampiric
+
+
+# History

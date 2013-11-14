@@ -1,0 +1,18 @@
+# 268 Scheinfeld
+
+# County Title
+title = c_scheinfeld
+
+# Settlements
+max_settlements = 4
+b_scheinfeld = castle
+b_calden = city
+b_uder = castle
+b_nupstedt = temple
+
+# Misc
+culture = drakwalder
+religion = sigmarite
+
+
+# History

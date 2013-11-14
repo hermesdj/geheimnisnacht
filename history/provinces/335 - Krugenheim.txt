@@ -1,0 +1,20 @@
+# 335 Krugenheim
+
+# County Title
+title = c_krugenheim
+
+# Settlements
+max_settlements = 6
+b_krugenheim = castle
+b_trautenan = temple
+b_tauer = castle
+b_bissendorf = temple
+b_sabritz = castle
+b_gersdorf = temple
+
+# Misc
+culture = talabeclander
+religion = taalite
+
+
+# History

@@ -1,0 +1,203 @@
+old_world_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	pacifist = yes
+		
+		male_names = {
+		Mannslieb Seiger Sigfried Sieghard Siegschild Sigmarsen Sigmund Sighast Sighelden Sigslieb Talbert Talecht Ulrich Wolf Wolfgang Wolfram
+		}
+		
+		female_names = {
+		Sigismunda Signe Sigourney Sigrid Ulrica Vera Verena
+		}
+		
+		###Heresies & groups
+		#Ahalt - Evil forest god
+		#Sybarite - Slaaneshi cover cult
+		#Ariasan - Says Sigmar is a Chaos puppet
+		#True Sigmarite - Says Sigmar was just a man
+		#Brass Sisters - Mercenaries for Imperial Khornates
+		
+		
+	sigmarite = {
+		graphical_culture = westerngfx
+
+		icon = 5
+		color = { 0.9 0.3 0.1 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_DEEDS_OF_SIGMAR
+		god_names = {
+			GOD_SIGMAR GOD_LORD_SIGMAR
+		}
+		
+		priests_can_marry = no
+		allow_rivermovement = yes
+		female_temple_holders = no
+		
+		can_call_crusade = yes
+
+		intermarry = classical_gods
+		intermarry = ulrican
+		intermarry = northern_gods
+		intermarry = taalite
+		intermarry = old_faith
+	}
+			
+	classical_gods = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		color = { 0.8 0.8 0.2 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_BELLONA_MYRMIDIA
+		god_names = {
+			GOD_GODS GOD_MYRMIDIA GOD_VERENA
+		}
+
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+
+		intermarry = sigmarite
+		intermarry = ulrican
+		intermarry = northern_gods
+		intermarry = taalite
+		intermarry = old_faith		
+	}
+
+	lady_of_the_lake = {
+		graphical_culture = westerngfx
+
+		icon = 10
+		color = { 0.2 0.7 0.9 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_CHANSONS
+		god_names = {
+			GOD_LADY 
+		}
+
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_hold_temples = yes			
+	}	
+	
+	ulrican = {
+		graphical_culture = westerngfx
+
+		icon = 7
+		color = { 0.1 0.1 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_LIBER_LUPUS
+		god_names = {
+			GOD_GODS GOD_ULRIC GOD_TAAL
+		}
+
+		priests_can_marry = no
+		allow_rivermovement = yes
+		female_temple_holders = no	
+
+		can_call_crusade = yes
+		
+		intermarry = classical_gods
+		intermarry = sigmarite
+		intermarry = northern_gods
+		intermarry = taalite
+		intermarry = old_faith
+	}
+	
+	taalite = {
+		graphical_culture = westerngfx
+
+		icon = 7
+		color = { 0.5 0.9 0.5 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_LIBER_LUPUS
+		god_names = {
+			GOD_GODS GOD_ULRIC GOD_TAAL
+		}
+
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes	
+
+		intermarry = classical_gods
+		intermarry = sigmarite
+		intermarry = northern_gods
+		intermarry = ulrican
+		intermarry = old_faith
+	}
+	
+	northern_gods = {
+		graphical_culture = westerngfx
+
+		icon = 8
+		color = { 0.4 0.4 0.8 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_GREAT_BOOK
+		god_names = {
+			GOD_GODS GOD_FIREBRINGER GOD_TOR GOD_DAZH GOD_URSUN GOD_BEARLORD GOD_THUNDERER 
+		}
+		
+		priests_can_marry = yes
+		allow_rivermovement = yes
+
+		intermarry = classical_gods
+		intermarry = ulrican
+		intermarry = sigmarite
+		intermarry = taalite
+		intermarry = old_faith		
+	}
+	
+	old_faith = {
+		graphical_culture = westerngfx
+
+		icon = 9
+		color = { 0.1 0.5 0.1 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_ELDERS
+		god_names = {
+			GOD_MOTHER GOD_SPIRITS
+		}
+		
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+
+		intermarry = classical_gods
+		intermarry = ulrican
+		intermarry = northern_gods
+		intermarry = taalite
+		intermarry = sigmarite		
+	}
+	
+	stromfels = {
+		graphical_culture = westerngfx
+
+		icon = 9
+		color = { 0.3 0.5 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_STORMS
+		god_names = {
+			GOD_STROMFELS
+		}
+		
+		
+		priests_can_marry = yes
+		aggression = 1.8 
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes	
+	}	
+	
+}

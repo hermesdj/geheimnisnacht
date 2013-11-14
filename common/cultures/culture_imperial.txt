@@ -1,0 +1,1055 @@
+
+imperial_group = {
+	graphical_culture = westerngfx
+
+	averlander = {
+		graphical_culture = westerngfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore			
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Sigfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Talbert Talecht_Talecht Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Veit Viktor Vilfred Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yngvar_Ingvar Yohann_John Yves_Ivo
+			Zecharias
+		}	
+
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Ellinor_Eleanor Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Ester Estrid_Astrid Etti Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Freja Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Kirsten Klara Klementia_Clementia Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Lise_Elisabeth Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Maren Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Rikarda_Ricarda Rikissa Robin Romilda Rosa Rosina Rosemarie Runa Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda_Sigismunda Signe_Signe Sigourney_Sigourney Sigrid_Sigrid Silje Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	drakwalder = {
+		graphical_culture = westerngfx
+	#Thuringian
+
+		color = { 0.3 0.6 0.1 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Amalafred Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baderich Baldemar Baldewin_Baldwin Balthazar Basil Basin Bedwig Beowinus Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthachar Berthar Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bisinus Bonifaz Boris Bruno_Bruno Buchard Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Egino Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Eomaer Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Fin Folkhard Folkmar Frank Franz_Francis Frealaf Freawine Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Frithuwald Frithuwulf Fritz
+			Geata Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Godwulf Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gozbert Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hamalafred Hammond Harland Hannes Hans Hansel Hanzi Hardrad Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Heremod Hermann_Herman Hermenefried Herrand Herschel Hesso Hetan Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hrathra Hugo_Hugh Humbert_Humbert Hwala
+			Ingmar_Ingmar Ignaz Ingo Itermon Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radegund Radulf Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Scyld Seskef Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Taetwa Talbert_Talbert Talecht_Talecht Thachulf Thadius Theotbald Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Vaskers Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner WibaldWideph Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wod Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Bisina Bithild Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Geilana Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Radegund Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Rodelinda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodrada Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	hochlander = {
+		graphical_culture = westerngfx
+
+		color = { 0.2 0.8 0.1 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Talbert Talecht_Talecht Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Vaskers Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	middenlander = {
+		graphical_culture = westerngfx
+
+		color = { 0.3 0.3 0.9 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Talbert Talecht_Talecht Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Vaskers Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	nordlander = {
+		graphical_culture = westerngfx
+	#Danish
+		color = { 0.1 0.1 0.6 }
+
+		male_names = {
+			Abel Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Amleth Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Asger Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bjørn_Beorn Bo Bonifaz Boris Bruno_Bruno 
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Edvard_Edward Ehrenfried Einar Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Esben Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederik_Frederick Friard Fritz Frode
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Glum Gnupa Gorm Gotfred_Godfrey Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregers_Gregory Gunnar Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hafdan_Halfdan Halfdan_Halfdan Halvor Hammond Harland Hannes Hans Hansel Hanzi Harald_Harold Hardeknut Hårik Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Helge_Helge Helmut Hemming Henri Henrik_Henry Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hjalmar Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Horwendill Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ingolf Ivan Ivo_Ivo
+			Jakob_Jacob Jens Johann_John Johannes_John Joakim_Joachim Jokim_Joachim Jonas Jörg Jørgen Jørn Josef_Joseph Josias
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leif Lennart Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Mads_Matthew Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Meinhard Meinhart Meinward Mikkel_Michael Mogens
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Niels_Nils Nikolaus_Nicholas Norbert Norman 
+			Olav_Olaf Oluf_Olaf Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Peder_Peter Pieter_Peter Poul_Paul Poppo Pridbjørn
+			Ragnar Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Rune Ruy
+			Saxo Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Severin Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Sigtryg Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Sivard Steen Sven_Sven Svend_Sven Sweyn_Sven
+			Thadius Theodor_Theodore Theodoric_Theodore Thietmar Thomas_Thomas Thorgil Thorkel Thorvald Torben Torbjørn Torgils_Torkel Ture
+			Ubbe Udo_Otto Uffe Ulf_Ulf Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Valdemar_Vladimir Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vaskers Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	ostermarker = {
+		graphical_culture = westerngfx
+		#
+		color = { 0.9 0.3 0.7 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Ales_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Bores Borijov_Borijov Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Castolov Cenek_Vincent Christoph_Christopher Christopher_Christopher Chval Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanus_John Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Havel_Gallus Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Heralt Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jan_John Jens Jesek Jindrich_Henry Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Karel_Charles Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Litold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Markvart Mark Markus Markwald Markward Matthias_Matthew Matous_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Milic Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Oldrich_Ulrich Ondrej_Andrew Olfin Ordulf Ota_Otto Otakar
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Siegfried_Siegfried Sieghard_Sieghard Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Silvester Simon_Simon Smil Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Tobiás  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Vaskers Veit Viktor Vítek_Guy Vladimir_Vladimir
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias Zikmund_Sigmund
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbora Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorota_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemie_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gertruda_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstancie_Constance Kornelia Kriemhild Kristin_Christine 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Olga Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Veronika Viktoria Viola_Yolanda
+			Wertha Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}		
+
+	ostlander = {
+		graphical_culture = westerngfx
+	
+		color = { 0.4 0.6 0.6 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Oleg Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Talbert Talecht_Talecht Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Valmir Vaskers Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	reiklander = {
+		graphical_culture = westerngfx
+	#German
+		color = { 0.9 0.9 0.9 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Arnold_Arnold Arnulf_Arnulf Artur_Arthur Augustin
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chobry Clemons
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Talbert Talecht_Talecht Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+
+	sollander = {
+		graphical_culture = westerngfx
+	
+		color = { 0.8 0.7 0.3 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Talbert Talecht_Talecht Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	stirlander = {
+		graphical_culture = westerngfx
+		#Sachsen
+		
+		color = { 0.6 0.9 0.6 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalbero_Albert Adalard Adalbert_Albert Adalbrand_Alebrand Adaldag Adalgar Adalgod_Adalgot Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alebrand_Alebrand Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Altfrid Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Arnd_Arnold Anschar_Ansgar Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur Asig_Asig Axel_Alexander
+			Baldemar Balduin_Baldwin Balthasar_Balthasar Beneke_Benedict Benno_Bernard Burchard_Burchard Buchard_Burchard Buthred_Burchard_Burchard Buchard_Burchard Buthred Behmen Benard Berengar_Berengar Bernd Bernfried_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bertram_Bertram Bonifaz Boris Brun_Bruno Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Cobbo Conrad_Konrad Conradin_Konrad Cosmas Cord_Konrad Cyprian_Cyprian Cyrillus
+			Dago_Dag Dahlbert Dedo_Dedo Dethard Detleff_Detlef Dettel_Detlef Detmar_Dietmar Diederik_Thierry Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbert_Engelbert Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engelhard_Engelhart Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erp_Albert Erwin Erzbet Esiko_Asig Ethelbert Etzel Eugen Ewald Everd_Eberhard Ewald Ezzo 
+			Fedor Felix Florian Floribert_Floribert Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Gehrke_Gerard Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Gero Gerold_Gerald Gevert_Gamalbert Gebhard_Gerald Ghert_Gerard Giselbert_Gilbert Giseler_Gilbert Gödke_Godfrey Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gosschalk_Gottschalk Goswin Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gunzelin_Gunther Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heideke Heiko Heiner Heinz Helmut Henneke_Henry Henri Herberd_Herbert Heriman_Herbet Herman_Herman Herrand Herschel Hesso Hinrich_Henry Hinrik_Henry Hoger Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Immed Ingo Isidor_Isidor Ivan Ivo_Ivo
+			Jakob_Jacob Jaspar_Gaspar Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin Juries
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Kersten_Christian Klaus Knud_Knud Konrad_Konrad Kristof Köpke_Jacob Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurentz_Laurence Laurent_Laurent Laurenz_Laurent Lembert_Lambert Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Leuderich Liawizo Liemar Liudger Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Luder Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Marquard_Markwart Mathias_Matthew Mathieu_Matthew Max_Max Meinhard Meinhart Meinward Meinwerk Melchior Merten_Martin Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radke_Ralph Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reginbern_Reinbern Reinbern_Reinbern Reineke_Reinhard Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Reymer_Reinmar Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy 
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert Sigfrid_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Steffen_Stephen 
+			Talbert Talecht_Talecht Thadius Thankmar Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thimo_Timotheos Thomas_Thomas Tobe_Tobias Tymmeke_Dietmar
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe Unwan
+			Valentin_Valentin Veit Viktor Volker
+			Walbert Waldbert_Waldbert Wadar Waldemar_Vladimir Waldered Waltard Walarik Waldo Walram_Walram Waltram_Walram Warin_Werner Welf Wendel Wenzel_Vaclav Werneke_Werner Wichbert_Wigbert Wichmann Wicho_Guy Widukind Wigerich Wilbrand_Wilbrand Willem_William Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf Wolter_Walter Wulff
+			Xaver
+			Yohann_John Volkwin Volrad Yves_Ivo
+			Zecharias
+		}
+
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Julianne
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	sylvanian = {
+		graphical_culture = westerngfx
+	
+		color = { 0.5 0.4 0.6 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Talbert Talecht_Talecht Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	talabeclander = {
+		graphical_culture = westerngfx
+	
+		color = { 1.0 0.4 0.5 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Talbert Talecht_Talecht Talgris Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talgris Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+
+	westerlander = {
+		graphical_culture = westerngfx
+
+		color = { 0.7 0.7 1.0 }
+
+		male_names = {
+			Aacht Aad Aadje Aai Aaie Aaike Aalbert Aalbrecht Aalderik Aaldert Aaldrik Aalrik Aard Aardse Aäron Aart Aat Abe Abel Abeltje Abraham Acco Achiel Ad Adaemkin Adalmar Adam_Adam Adelmar Adelwijn Adelwin Adolf Adri Adriaan Adriaen Adrie Aernoud_Arnold Aernout_Arnold Alaerd Albert Albrecht_Albert Aldemar Alex Alexander Alfons Almar Alonso Alonzo Alwin Ambroos André Andreas Andries Andries_Andrew Antheunis Antone_Antonius Antonius Antoon Arend Arie Armando Arnold_Arnold Arnoud Arnout Arnulf_Arnulf Arthur Atte 
+			Balderik Barend Barnaerd_Bernard Bart Bartholomeus_Bartolomeus Bartolomeus_Bartolomeus Basiel Bavo Benedictus Bert Bertold Bo Bonifatius Boudewijn_Baldwin Boudewyn_Baldwin Bram 
+			Casin Cees Claes_Nicholas Claeuwaert Clais_Nicholas Clement_Clement Colaert Colard Constantijn Cor Cornelis_Cornelius Crispijn 
+			Daan Daas Daevit_David Dagobert Damaes Daniël Daniel_Daniel David Dick Diederic_Thierry Diederick_Thierry Dirk_Thierry Dobbe Donaes Dortmund Douwe 
+			Eduard_Edward Egbert Egmond Egmund Ekbert Ellhard Emmo Engelbert_Engelmar Engelbrecht_Engelmar Engelhard_Engelmar Engelmar_Engelmar Erasmus Erik Ernst Erwin Evert 
+			Ferdinand Filips_Philip Floris Folbert Folkert Francis Francois_Francis Frans_Francis Frederik_Frederick Friard 
+			Gabriel_Gabriel Gerard_Gerard Gerardus Gerolt Gerrit Gert Gerulf Gheeraert Gheleyn Ghyselbrecht Gijs Gijsbert Gijsbrecht Gillis Giselbert_Gilbert Gjalt Godfried_Godfrey Godschalk Govaert Gozewijn Guido Guij_Guy Guillaume_William Gustaaf Gustaaf Gwijde_Guy 
+			Hannekin Hans Hansel Harm Hendrick Hendrik_Henry Henryk_Henry Herman_Herman Heyndric_Henry Hildebrand Hubert Hubrecht Hugo_Hugh Huybrecht Hylke 
+			Ijsbrand Ijsbrecht 
+			Jaap Jacco_Jacob Jacob_Jacob Jacobus Jakob Jan Jan_John Jaques_Jacob Jelle Jeroen Jeronimus Jodocus Johan Johannes Jokko Jolle Jooris_George Joos_Joseph Joost Joris Joris_George Jozef Julius Justus 
+			Karel_Charles Kees Koenraad_Konrad Koos Krijn Kristof_Christopher 
+			Lambert_Lambert Lämmerslint Laureyns_Laurence Lauwers Leo Lieven Lievin Lodewijk_Louis Lodewyk_Louis Louis_Louis Loy Lucas Ludewijn Luk Lukas_Luke Luke_Luke Lutbert_Lutbert Luthard Luther 
+			Maarten Maertijn_Martin Marc_Marcus Marcellus Marinus Mark Marquart Marten_Martin Martijn Martinus Mathys_Matthew Matthias Maurits Maximiliaan Menno Michel Michiel_Michael 
+			Niclaes_Nicholas Nicolaas Noel Norbert Oldrik Olivier_Oliver Ollie Onno Oste Otto_Otto Otwin 
+			Paulus Pauwel_Paul Pauwels_Paul Pepijn Peter Philips_Philip Piet Pieter_Peter Pim Pol 
+			Radboud Reginar Reier Reinaerd Reinaut Reinbert Reinier Reinoud_Reinhold Rembrand Remeeus Renaat Reynier Rhijnvis Rien Rik Rikkert Rinus Robert_Robert Robrecht_Robert Roderick Rodulf Roeland_Roland Roelof Rogier_Roger Roland Rolf Romaan Rombout Ronald Ruben Rudolf Rutger Ruud 
+			Salomon Samuel Sander Sanne Sebastiaen_Sebastian Sicco Sieme Siemon Simon_Simon Sjaak Sjef Stalin Stefan_Stephen Stefanus Steven_Stephen Stevin_Stephen Steyn_Sten Stijn 
+			Theo Theodolf Thijs Thomas_Thomas Tijn Timo Timotheus Titus Titus Tobias Tom Tomas Tonny Valentijn Victor Vincent_Vincent 
+			Waelram Walewijn Walter Walter_Walter Watze Webbe Wessel Wicher Wieb Wiebrand Wilbertus Wilfred Willem_William Willibrord Wim Wolfard Wouder Wouter_Walter 
+			Zacharias Zegher 
+		}
+		
+		female_names = {
+			Aad Aafje Aagje Aagtje Abelone Ada Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adriana Adrie Aechte Agaete Agnes_Agnes Aleid Aleit_Adelaide Alida Alijse_Alice Aliken Amber Anna_Anna Annagret Anne Anneke Annelies Anneloes Annemarie Annemarie Annemieke Anouk Astrid 
+			Badeloge Barbara Bava Beatrijs_Beatrice Beatrix_Beatrice Becka Bellina Benedicta_Benedicta Bep Berlinda Berta Birgitte Blanca_Blanche Blanceflore Bregje 
+			Catharijne Catharina Cecily_Cecilia Cille Clara_Clara Clementia_Clementia Co Cor Cora Corine Cornelia Corrie 
+			Daria Debora Denise Diede Dirkje 
+			Eefje Eleonora Eliene Elisabeth_Elisabeth Ellen Ellijnore_Eleanor Emilie Emma_Emma Enda Erica Ermen Ermingarde_Ermengarde Esmée Eveline 
+			Femke Fenne Filippa_Philippa Frida 
+			Geertruida Gerda Gertrud_Gertrude Gheertrude_Gertrude Godelieve Godila Goedele Goele Gudula 
+			Haduwijn Heilwich Helena_Helen Helga Herlinda Hilligonda Hylke 
+			Ida_Ida Ide_Ida Ieneke Ienje Imagina Imogen Ineke Ines Ingrid Irene_Irene Isabelle_Elisabeth Isold Iudith 
+			Jaccobijn Jacoba Jannetje Jaquemine Jasmijn Jasminne Jo Johanna_Joan Joke Jolanda Joossine Josefien Josepha Josephine Josian Josien Josina Juliana_Juliana Julianne Jute_Judith Jutta_Judith Jutte_Judith 
+			Karen Karin Kathelyne_Catherine Kathrijne_Catherine Katrien_Catherine Kim 
+			Leentje Leontine Lia Lidewij Liedwin Lies Liesbeth Lieve Linda Lisebet_Elisabeth Loes Lore Loretta Lote Lotte Lydia 
+			Maartje Mabelie_Mabel Machtelt Madelief Magdalena_Magdalena Magritta_Margaret Margareta_Margaret Margreet Margriet Maria_Maria Marianne Marie Mariëlle Marietje Maritje Marjolein Martha Martina Mathild_Matilda Mathilde Mathilde_Matilda Mie Miek Mieke Miep Mies Mine Miranda Miriam Mirjam Monica 
+			Nadia Nadine Neeltje Nel Nienke Nora 
+			Oda_Ute Odelt Odilia Ofrah Olda Olga Olinde Onna 
+			Penelope Pien Pieternelle_Petronilla Pom 
+			Rauke Regina Renate Reynilde Rie Ritske Roosje Rosa 
+			Saartje Sabine Sanne Sara_Sarah Saskia Sientje Sigerda Silvia Sophie_Sophia Swanhildis 
+			Tatjana Tessa Thetburga_Tiburge Tina Titia Tonny Torie Trees Trijntje Truus Truusje Veerle Veerletje Vera 
+			Waltrud Wandelina Wendela Wendelmoet Wenna Wila Wilhelmina Willemijn Willemine Wilma 
+			Yonefij Yvonne_Yvonne 
+			Zäzilia Zensi Zoe Zoete Zofie_Sophia Zora Zwane 
+		}
+
+		from_dynasty_prefix = "van "
+
+		male_patroynm = "szoon"
+		female_patronym = "sdochter"
+		prefix = no
+
+		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 40
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+
+	wissenlander = {
+		graphical_culture = westerngfx
+	
+		color = { 0.7 0.7 0.7 }
+
+		male_names = {
+			Abelard Achim_Joachim Adalard Adalbert_Albert Adam_Adam Adolf_Adolf Adolphus_Adolf Aelfric Agobard Albrecht_Albert Alexander_Alexander Aldred Alfons Alfred Almerich_Amalric Alaric Alois Amadeus Ammianus Ammon Anders Andreas_Andrew Anno Ansbert Anselm Anton_Antoninus Archibald Armin Arnim Arnold_Arnold Arnulf_Arnulf Artur_Arthur August_August Augustin_August Augustus_August Axel_Alexander
+			Baldemar Baldewin_Baldwin Balthazar Basil Behmen Benard Berengar_Berengar Bernard_Bernard Bernd Bernfried Bernhard_Bernard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno_Bruno Burchard_Burchard Buchard_Burchard Buthred 
+			Caspar_Kaspar Christoph_Christopher Christopher_Christopher Chedwic Chobry Clemons Claus Conrad_Konrad Conradin_Konrad Cosmas Cyrillus
+			Dahlbert Detlef_Detlef Dettel_Detlef Dieter_Dieter Diether_Dieter Dietmar_Dieter Dietpold Dietrich_Thierry Dietwin Dirk_Thierry Dortmund 
+			Eberhard_Erberhardt Eberhardt_Erberhardt Eckard_Eckhard Eckehard_Eckhard Eckhard_Eckhard Edgard Egbert Eggerd_Eckhard Egilmar_Egilmar Eduard_Edward Ehrenfried Eginolf Egolf Egon Ekbert Ellhard Emelrich_Aymeric Emich Emil Engelbrecht_Engelmar Engelbert_Engelmar Engelhard_Engelmar Engelmar_Engelmar Engmar_Ingmar Eorpwald Erich_Erik Erik_Erik Ernst_Ernest Ernulf Erwin Erzbet Ethelbert Etzel Eugen Ewald Ezzo 
+			Fedor Felix Florian Folkhard Folkmar Frank Franz_Francis Frederick_Frederick Frederik_Frederick Friard Friedrich_Frederick Fritz
+			Gamalbert Gebhard_Gerald Georg_George Gerald_Gerald Geralt_Gerald Gerard_Gerald Gerbert_Gerald Gerhardt_Gerald Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert_Gilbert Godric_Godfric Goderick_Godfric Godfric_Godfric Godfried_Godfric Gotelind Gottfried_Godfrey Gotthard Gottschalk Gotthilm Gotz Gotzelo Gozwin Gregor_Gregory Guenther Gundechar Gundulf Gunter Gunther Gunthram Guntram Günzel Gustaf_Gustav Gustav_Gustav Gustavus_Gustav
+			Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich_Henry Heinz Heironymus Helmut Henri Herbert_Herbert Heriman_Herbet Hermann_Herman Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugo_Hugh Humbert_Humbert
+			Ingmar_Ingmar Ignaz Ingo Ivan Ivo_Ivo
+			Jakob_Jacob Jens Jerome Joachim_Joachim Jochim_Joachim Johann_John Johannes_John Jonas Jörg Josef_Joseph Josias Jozef_Joseph Jürgen Justin
+			Kai Kail Karl_Charles Karl-Franz Karloman Kaspar_Kaspar Kaster Klaus Knud_Knud Konrad_Konrad Kristof Kuno_Konrad Kurt Kyle
+			Lambert_Lambert Lämmerslint Laurent_Laurent Laurenz_Laurent Leo_Leonard Leonard_Leonard Leonhard_Leonard Leopold Linus Lodeweik_Louis Lodewik_Louis Lorenzo Lothar_Lothaire Lou Lubert_Lutbert Ludolf Ludwig_Louis Luidgard_Luitpold Luidolf_Luitpold Luitpold_Luitpold Luitprand_Luitpold Luke_Luke Lukas_Luke Lutbert_Lutbert Luther Lutz
+			Magnus_Magnus Malekai Manfred_Manfred Mannfred_Manfred Mannricht Mannslieb_Mannslieb Marius Mark Markus Markwald Markward Martin_Martin Mathias_Matthew Mathieu_Matthew Matthias_Matthew Max_Max Maximillian_Max Maynard Meinhard Meinhart Meinward Melchior Michael_Michael Mies Mikhail_Michael Moritz Mortmore 
+			Nathaniel Nicholas_Nicholas Nicholaus_Nicholas Nicolaes_Nicholas Niedhart Nikola_Nicholas Niklaus_Nicholas Nikolaus_Nicholas Norbert Norman 
+			Olfin Ordulf Ortolf Oswald Oswin Otho Otto_Otto 
+			Paul_Paul Paulus_Paul Peter_Peter Petrus_Peter Philipp_Philip Pieter_Peter Poppo
+			Radulf Rahewin Rainer_Rainer Rainfred Rainulf Ranelf Rannalt Ranulf Raymond Reiner_Rainer Reinhold Renard Roald Robert Roderick Roland Rolf Rudger_Roger Rudi Rudiger Rudolf Ruprecht_Robert Rudolf_Rudolph Rudolph_Rudolph Rupert Ruy
+			Sabor Sander Sebastian Seifried_Sigfried Seiger_Seiger Sepp Siegfried_Siegfried Sieghard_Sieghard Siegschild_Siegschild Sigmarsen_Sigmarsen Siegmund_Sigmund Sigbert_Sigibert Sigfried_Sigfried Sighast_Sighast Sigibert_Sigibert Sigismund_Sigmund Sigmund_Sigmund Sigshelden_Sigshelden Sigslieb_Sigslieb Silvester Simon_Simon Stanislaus Stefan_Stephen Svigerus Sylvester 
+			Talbert Talecht_Talecht Thadius Theodor_Theodore Theodoric_Theodore Theodorich_Theodore Theodulf Thietmar Thomas_Thomas Titus Tobias  
+			Udo_Otto Ude Ugo Ulf Ulfred Ulli Ulrich_Ulrich Ulricht_Ulrich Ulrike_Ulrich Uri Ursmar Uwe
+			Valentin_Valentin Veit Viktor Volker
+			Wadar Waldemar_Vladimir Walarik Waldo Walram_Walram Waltram_Walram Walther_Walter Warner Welf Wendel Wenzel_Vaclav Werner_Werner Wernhard_Werner Wernher_Werner Wibald Widukind Wigerich Wilfrid_Wilfrid Wilfried_Wilfrid Wilfred_Wilfried Wilhelm_William Willi_William Willbrond_Willibrond Willibrord_Willibrond Wim Wolf_Wolf Wolfdietrich Wolfgang_Wolfgang Wolfhelm Wolfram_Wolfram Wulf_Wolf
+			Xaver
+			Yohann_John Yves_Ivo
+			Zecharias
+		}
+		
+		female_names = {
+			Addila_Adela Adela_Adela Adele_Adela Adelheid_Adelaide Adelinde Agathe_Agatha Agnes_Agnes Aileen_Eileen Alberade Albina Alecto Alexa Alexandra Alfrida Amalberga Amanda Amalie_Amelia Andrea Anita Anjelika Anna_Anna Annagret Annalise Anne_Anna Anneliese Annemarie Annette Aranka Astrid Athela
+			Barbara Beate Beatrix_Beatrice Beatrick_Beatrice Becka Benedicta_Benedicta Bellina Berchte Berta_Berta Bertha_Berta Bertrada_Bertrada Bia_Beatrice Bianka Binhilde Birgit Brigid_Brigid Brigida_Brigid Brigit_Brigid Brigitte_Brigid Britta_Brigid Brunhilde_Brunhilda 
+			Cacilie Camilla Carlott_Charlotte Carlotta_Charlotte Catarina_Catherine Cecilie_Cecilia Celeste Charlotte_Charlotte Christina_Christine Clementine Cothilda_Clotilde Christine_Christina Cora Cordula
+			Dagmar Dana Danielle Daria Debora Diedke Dietlinde Dora Doris Dorothea_Dorothy Dorthe_Dorothy Dorthea_Dorothy 
+			Eav Edda Edith Eileen_Eileen Eilika Eivind Elfrida Elga Elisabeth_Elisabeth Elie Elinand Elise Elixabet_Elisabeth Elizabeth_Elisabeth Elke Ellen Else Elvira Emilie Emma_Emma Enda Engeltraud Erika Erin Erma Ermengard_Ermengarde Ermtraud Erna Etti Eufemia_Euphemia Eva
+			Felicitas_Felicitas Felizitas_Felicitas Frances Francesca_Francesca Franka Franza_Francesca Fränze_Francesca Franzi_Francesca Franziska_Francesca Frauke Frederikke_Frederique Frederuna Frieda Friedrica_Frederique Frida 
+			Gabrielle Gaby Gerberga_Gerberga Gerd Gerhild Gerta Gertrud_Gertrude Gertrude_Gertrude Gisela_Gisela Gitte_Brigid Glismod Gloria Gretchen Grettel Gudrun_Gudrun Gunhilda_Gunhild 
+			Hadwig_Hedwig Hanna_Hannah Hannah_Hannah Hannath Hannelore Hanni Harriet Hedwig_Hedwig Heidi Heilwiva Heilwig Heike Helena_Helen Helene_Helen Helga Helma Henriette_Henrietta Henrietta_Henrietta Henrike Hildeburg Hildegard_Hildegard 
+			Ida_Ida Ilsa Imma_Emma Inge_Inge Ingeborg Ingeld Ingrid Irma Irmele Irmeltrud Irmgard_Ermengarde Irmingard_Ermengarde Irminburg Isolde Isentrude
+			Jarla Joanne Johanna Judith_Judith Julianne Jutta_Judith Jutte_Judith 
+			Katarina_Catherine Kathe Katrin Karen_Catherine Karin_Catherine Karina Karlotte_Charlotte Karol Katharina_Catherine Käthe_Catherine Klara Klementia_Clementia Konstanze_Constance Kornelia Kriemhild Kristin_Christine Kunigunde_Kunigunde 
+			Lara Laura Lauren Lauretta Lea Lena Leslie Lile Liesel Lili Lilian Lina Lisa Liv Lois Lore Loretta Ludmilla Luis Luitgard_Luitgard Luna Luzi Luzia Lydia Lykke
+			Magdalena_Magdalene Magdalene_Magdalene Magrit Margarete_Margaret Margarethe_Margaret Margit Margret_Margaret Maria_Maria Mariann_Marianne Marianne_Marianne Marie Marion_Marianne Marlena_Marlena Marlene_Marlene Marta Martha Marthe Mathilde_Matilda Mechtild_Matilda Megan Melanie Melitta Mellory Milda Monika Morgan
+			Nadia_Nadia Nadin Nadine Nadja_Nadia Natali_Natalie Natalie_Natalie Natascha_Natascha Nathalie_Natalie Nastassja_Natascha Neele Nele Nicola_Nicole Nicole_Nicole Nina Noemi Nora
+			Oda_Ute Ofrah Oliva Osterhild Othelindis Otthild_Ottilia Ottila_Ottilia Ottilia_Ottilia Ottilie_Ottilia
+			Paula Paulina Penelope Petra
+			Ragnhild Rebeka_Rebecca Rebekka_Rebecca Regina Reginlint Rena Renata_Renate Renate_Renate Richara_Ricarda Richardis_Ricarda Richenza Richwara Rikarda_Ricarda Robin Romilda Rosa Rosina Rosemarie Ruth
+			Sabine Samantha Sanna Sandra Sara Serhilda Sigismunda Sigourney_Sigourney Sigrid_Sigrid Sofie_Sophia Solveig Sophia_Sophia Stefanie_Stephanie Stefi_Stephani Suanhilde_Swanahild Swanahild_Swanahild Sybille_Sibylla 
+			Talima Tatjana Teresa Theodora Therese Thiedburga Thyra Tora_Thora Trude
+			Ulli Ulrica_Ulrica Ulrike_Ulrica Ursula Ute_Ute 
+			Valentina Vera_Vera Verena_Verena Veronika Viktoria
+			Walpurga Wertha Wienke Wilhelmina_Wilhelmina Wilhelminia_Wilhelmina Wilhemina_Wilhelmina Wiltrud Winifred_Winfrida Winfrida_Winfrida Winnie_Winfrida Wolfhilda_Wolfhilda Wulfhild_Wolfhilda Wulfhilde_Wolfhilda Wulfila_Wolfhilda
+			Yella Yseult Yvette
+			Zäzilia Zensi Zoe Zofie_Sophia Zora			
+		}
+		
+		from_dynasty_prefix = "von "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+}

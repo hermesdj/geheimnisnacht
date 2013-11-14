@@ -1,0 +1,214 @@
+old_imperial_group = {
+	graphical_culture = westerngfx
+
+	unberogen = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+
+	brigundian = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	thuringian = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	cherusen = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	teutogen = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	ostagoth = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	udose = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	menogoth = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	asoborn = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	taleuten = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	endal = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	merogen = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	fennone = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+	juton = {
+		graphical_culture = norsegfx
+
+		color = { 0.9 0.9 0.1 }
+
+		male_names = {
+		
+		}
+		female_names = {
+		
+		}
+
+		modifier = default_culture_modifier
+	}
+	
+}

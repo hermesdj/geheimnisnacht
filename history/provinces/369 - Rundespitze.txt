@@ -1,0 +1,17 @@
+# 369 - Rundespitze
+
+# County Title
+title = c_rundespitze
+
+# Settlements
+max_settlements = 3
+b_rundespitze = city
+b_bassum = city
+b_aichach = castle
+
+# Misc
+culture = ostermarker
+religion = taalite
+
+
+# History

@@ -1,0 +1,444 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ca_dwarf_keep_1;Dwarf Settlement;;;;;;;;;;;;;x
+ca_dwarf_keep_1_desc;Dwarf stone and Dwarf arms guard the heart of the fortress.;;;;;;;;;;;;;x
+ca_dwarf_keep_2;Dwarf Settlement;;;;;;;;;;;;;x
+ca_dwarf_keep_3;Dwarf Settlement;;;;;;;;;;;;;x
+ca_dwarf_keep_4;Dwarf Settlement;;;;;;;;;;;;;x
+ca_dwarf_keep_5;Dwarf Settlement;;;;;;;;;;;;;x
+ca_dwarf_fort_1;Dwarf Stronghold;;;;;;;;;;;;;x
+ca_dwarf_fort_1_desc;Dwarf stone and Dwarf arms guard the heart of the fortress.;;;;;;;;;;;;;x
+ca_dwarf_fort_2;Dwarf Stronghold;;;;;;;;;;;;;x
+ca_dwarf_fort_3;Dwarf Stronghold;;;;;;;;;;;;;x
+ca_dwarf_fort_4;Dwarf Stronghold;;;;;;;;;;;;;x
+ca_dwarf_fort_5;Dwarf Stronghold;;;;;;;;;;;;;x
+ca_dwarf_barracks_1;Dwarf Fortifications;;;;;;;;;;;;;x
+ca_dwarf_barracks_1_desc;A strong bulwark against the outside world provides the first line of Dwarf defences.;;;;;;;;;;;;;x
+ca_dwarf_barracks_2;Dwarf Fortifications;;;;;;;;;;;;;x
+ca_dwarf_barracks_3;Dwarf Fortifications;;;;;;;;;;;;;x
+ca_dwarf_barracks_4;Dwarf Fortifications;;;;;;;;;;;;;x
+ca_dwarf_barracks_5;Dwarf Fortifications;;;;;;;;;;;;;x
+ca_dwarf_cannon_1;Dwarf Cannon Foundry;;;;;;;;;;;;;x
+ca_dwarf_cannon_1_desc;Great smelting furnaces and casting molds allow for the production of the legendary Dwarf cannons.;;;;;;;;;;;;;x
+ca_dwarf_cannon_2;Dwarf Cannon Foundry;;;;;;;;;;;;;x
+ca_dwarf_cannon_3;Dwarf Cannon Foundry;;;;;;;;;;;;;x
+ca_dwarf_cannon_4;Dwarf Cannon Foundry;;;;;;;;;;;;;x
+ca_dwarf_cannon_5;Dwarf Cannon Foundry;;;;;;;;;;;;;x
+ca_dwarf_workshop_1;Dwarf Workshops;;;;;;;;;;;;;x
+ca_dwarf_workshop_1_desc;A manufacturing centre attracts artisans and merchants.;;;;;;;;;;;;;x
+ca_dwarf_workshop_2;Dwarf Workshops;;;;;;;;;;;;;x
+ca_dwarf_workshop_3;Dwarf Workshops;;;;;;;;;;;;;x
+ca_dwarf_workshop_4;Dwarf Workshops;;;;;;;;;;;;;x
+ca_dwarf_workshop_5;Dwarf Workshops;;;;;;;;;;;;;x
+ca_dwarf_mine_1;Dwarf Mines;;;;;;;;;;;;;x
+ca_dwarf_mine_1_desc;Exploratory mine shafts provide small amounts of valuable metal ores and stone.;;;;;;;;;;;;;x
+ca_dwarf_mine_2;Dwarf Mines;;;;;;;;;;;;;x
+ca_dwarf_mine_3;Dwarf Mines;;;;;;;;;;;;;x
+ca_dwarf_mine_4;Dwarf Mines;;;;;;;;;;;;;x
+ca_dwarf_mine_5;Dwarf Mines;;;;;;;;;;;;;x
+ca_dwarf_missile_1;Dwarf Missile Range;;;;;;;;;;;;;x
+ca_dwarf_missile_1_desc;Quarrelers practice their aim at this small range.;;;;;;;;;;;;;x
+ca_dwarf_missile_2;Dwarf Missile Range;;;;;;;;;;;;;x
+ca_dwarf_missile_3;Dwarf Missile Range;;;;;;;;;;;;;x
+ca_dwarf_missile_4;Dwarf Missile Range;;;;;;;;;;;;;x
+ca_dwarf_missile_5;Dwarf Missile Range;;;;;;;;;;;;;x
+ca_dwarf_temple_1;Ancestor Shrine;;;;;;;;;;;;;x
+ca_dwarf_temple_1_desc;A shrine to the ancestors is a necessity for any Dwarf hold.;;;;;;;;;;;;;x
+ca_dwarf_temple_2;Ancestor Shrine;;;;;;;;;;;;;x
+ca_dwarf_temple_3;Ancestor Shrine;;;;;;;;;;;;;x
+ca_dwarf_temple_4;Ancestor Shrine;;;;;;;;;;;;;x
+ca_dwarf_temple_5;Ancestor Shrine;;;;;;;;;;;;;x
+ca_human_fort_1;Fortifications;;;;;;;;;;;;;x
+ca_human_fort_1_desc;The castle is dedicated to resisting attacks with strong walls and a solid garrison.;;;;;;;;;;;;;x
+ca_human_fort_2;Fortifications;;;;;;;;;;;;;x
+ca_human_fort_3;Fortifications;;;;;;;;;;;;;x
+ca_human_fort_4;Fortifications;;;;;;;;;;;;;x
+ca_human_fort_5;Fortifications;;;;;;;;;;;;;x
+ca_human_castletown_1;Town;;;;;;;;;;;;;x
+ca_human_castletown_1_desc;A small town is allowed to form around the castle, encompassed by curtain walls. The increased population and sprawl makes the castle harder to hold in a siege, but the settlement provides additional tax income and levies.;;;;;;;;;;;;;x
+ca_human_castletown_2;Town;;;;;;;;;;;;;x
+ca_human_castletown_3;Town;;;;;;;;;;;;;x
+ca_human_castletown_4;Town;;;;;;;;;;;;;x
+ca_human_castletown_5;Town;;;;;;;;;;;;;x
+ca_human_seafort_1;Port Fortifications;;;;;;;;;;;;;x
+ca_human_seafort_1_desc;The castle fortifications are extended around a dedicated shipyard and port.;;;;;;;;;;;;;x
+ca_human_seafort_2;Port Fortifications;;;;;;;;;;;;;x
+ca_human_seafort_3;Port Fortifications;;;;;;;;;;;;;x
+ca_human_seafort_4;Port Fortifications;;;;;;;;;;;;;x
+ca_human_seafort_5;Port Fortifications;;;;;;;;;;;;;x
+ca_human_seacastletown_1;Port Town;;;;;;;;;;;;;x
+ca_human_seacastletown_1_desc;A small port town is allowed to form around the castle, encompassed by curtain walls. The increased population and sprawl makes the castle harder to hold in a siege, but the settlement provides additional tax income and levies.;;;;;;;;;;;;;x
+ca_human_seacastletown_2;Port Town;;;;;;;;;;;;;x
+ca_human_seacastletown_3;Port Town;;;;;;;;;;;;;x
+ca_human_seacastletown_4;Port Town;;;;;;;;;;;;;x
+ca_human_seacastletown_5;Port Town;;;;;;;;;;;;;x
+ca_steppe_fort_1;Light Fortifications;;;;;;;;;;;;;x
+ca_steppe_fort_1_desc;The hold is reinforced to resist attack.;;;;;;;;;;;;;x
+ca_steppe_fort_2;Light Fortifications;;;;;;;;;;;;;x
+ca_steppe_fort_3;Light Fortifications;;;;;;;;;;;;;x
+ca_steppe_fort_4;Light Fortifications;;;;;;;;;;;;;x
+ca_steppe_fort_5;Light Fortifications;;;;;;;;;;;;;x
+ca_steppe_castletown_1;Encampments;;;;;;;;;;;;;x
+ca_steppe_castletown_1_desc;Small settlements are encouraged to be built around the main holding.;;;;;;;;;;;;;x
+ca_steppe_castletown_2;Encampments;;;;;;;;;;;;;x
+ca_steppe_castletown_3;Encampments;;;;;;;;;;;;;x
+ca_steppe_castletown_4;Encampments;;;;;;;;;;;;;x
+ca_steppe_castletown_5;Encampments;;;;;;;;;;;;;x
+ca_human_keep_1;Human Settlement;;;;;;;;;;;;;x
+ca_human_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_human_keep_2;Human Settlement;;;;;;;;;;;;;x
+ca_human_keep_3;Human Settlement;;;;;;;;;;;;;x
+ca_human_keep_4;Human Settlement;;;;;;;;;;;;;x
+ca_human_keep_5;Human Settlement;;;;;;;;;;;;;x
+ca_imperial_keep_1;Imperial Hold;;;;;;;;;;;;;x
+ca_imperial_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_imperial_keep_2;Imperial Hold;;;;;;;;;;;;;x
+ca_imperial_keep_3;Imperial Hold;;;;;;;;;;;;;x
+ca_imperial_keep_4;Imperial Hold;;;;;;;;;;;;;x
+ca_imperial_keep_5;Imperial Hold;;;;;;;;;;;;;x
+ca_kislevite_keep_1;Kislevite Hold;;;;;;;;;;;;;x
+ca_kislevite_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_kislevite_keep_2;Kislevite Hold;;;;;;;;;;;;;x
+ca_kislevite_keep_3;Kislevite Hold;;;;;;;;;;;;;x
+ca_kislevite_keep_4;Kislevite Hold;;;;;;;;;;;;;x
+ca_kislevite_keep_5;Kislevite Hold;;;;;;;;;;;;;x
+ca_estalian_keep_1;Estalian Hold;;;;;;;;;;;;;x
+ca_estalian_keep_2;Estalian Hold;;;;;;;;;;;;;x
+ca_estalian_keep_3;Estalian Hold;;;;;;;;;;;;;x
+ca_estalian_keep_4;Estalian Hold;;;;;;;;;;;;;x
+ca_estalian_keep_5;Estalian Hold;;;;;;;;;;;;;x
+ca_myken_keep_1;Myken Hold;;;;;;;;;;;;;x
+ca_myken_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_myken_keep_2;Myken Hold;;;;;;;;;;;;;x
+ca_myken_keep_3;Myken Hold;;;;;;;;;;;;;x
+ca_myken_keep_4;Myken Hold;;;;;;;;;;;;;x
+ca_myken_keep_5;Myken Hold;;;;;;;;;;;;;x
+ca_bretonnian_keep_1;Bretonnian Hold;;;;;;;;;;;;;x
+ca_bretonnian_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_bretonnian_keep_2;Bretonnian Hold;;;;;;;;;;;;;x
+ca_bretonnian_keep_3;Bretonnian Hold;;;;;;;;;;;;;x
+ca_bretonnian_keep_4;Bretonnian Hold;;;;;;;;;;;;;x
+ca_bretonnian_keep_5;Bretonnian Hold;;;;;;;;;;;;;x
+ca_tilean_keep_1;Tilean Hold;;;;;;;;;;;;;x
+ca_tilean_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_tilean_keep_2;Tilean Hold;;;;;;;;;;;;;x
+ca_tilean_keep_3;Tilean Hold;;;;;;;;;;;;;x
+ca_tilean_keep_4;Tilean Hold;;;;;;;;;;;;;x
+ca_tilean_keep_5;Tilean Hold;;;;;;;;;;;;;x
+ca_sartosan_keep_1;Sartosan Hold;;;;;;;;;;;;;x
+ca_sartosan_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_sartosan_keep_2;Sartosan Hold;;;;;;;;;;;;;x
+ca_sartosan_keep_3;Sartosan Hold;;;;;;;;;;;;;x
+ca_sartosan_keep_4;Sartosan Hold;;;;;;;;;;;;;x
+ca_sartosan_keep_5;Sartosan Hold;;;;;;;;;;;;;x
+ca_sanguine_keep_1;Sanguine Hold;;;;;;;;;;;;;x
+ca_sanguine_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_sanguine_keep_2;Sanguine Hold;;;;;;;;;;;;;x
+ca_sanguine_keep_3;Sanguine Hold;;;;;;;;;;;;;x
+ca_sanguine_keep_4;Sanguine Hold;;;;;;;;;;;;;x
+ca_sanguine_keep_5;Sanguine Hold;;;;;;;;;;;;;x
+ca_arabyan_keep_1;Arabyan Hold;;;;;;;;;;;;;x
+ca_arabyan_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_arabyan_keep_2;Arabyan Hold;;;;;;;;;;;;;x
+ca_arabyan_keep_3;Arabyan Hold;;;;;;;;;;;;;x
+ca_arabyan_keep_4;Arabyan Hold;;;;;;;;;;;;;x
+ca_arabyan_keep_5;Arabyan Hold;;;;;;;;;;;;;x
+ca_cathayan_keep_1;Cathayan Hold;;;;;;;;;;;;;x
+ca_cathayan_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_cathayan_keep_2;Cathayan Hold;;;;;;;;;;;;;x
+ca_cathayan_keep_3;Cathayan Hold;;;;;;;;;;;;;x
+ca_cathayan_keep_4;Cathayan Hold;;;;;;;;;;;;;x
+ca_cathayan_keep_5;Cathayan Hold;;;;;;;;;;;;;x
+ca_hung_keep_1;Hung Hold;;;;;;;;;;;;;x
+ca_hung_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_hung_keep_2;Hung Hold;;;;;;;;;;;;;x
+ca_hung_keep_3;Hung Hold;;;;;;;;;;;;;x
+ca_hung_keep_4;Hung Hold;;;;;;;;;;;;;x
+ca_hung_keep_5;Hung Hold;;;;;;;;;;;;;x
+ca_kurgan_keep_1;Kurgan Hold;;;;;;;;;;;;;x
+ca_kurgan_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_kurgan_keep_2;Kurgan Hold;;;;;;;;;;;;;x
+ca_kurgan_keep_3;Kurgan Hold;;;;;;;;;;;;;x
+ca_kurgan_keep_4;Kurgan Hold;;;;;;;;;;;;;x
+ca_kurgan_keep_5;Kurgan Hold;;;;;;;;;;;;;x
+ca_norscan_keep_1;Norscan Hold;;;;;;;;;;;;;x
+ca_norscan_keep_1_desc;This castle is populated primarily by humans.;;;;;;;;;;;;;x
+ca_norscan_keep_2;Norscan Hold;;;;;;;;;;;;;x
+ca_norscan_keep_3;Norscan Hold;;;;;;;;;;;;;x
+ca_norscan_keep_4;Norscan Hold;;;;;;;;;;;;;x
+ca_norscan_keep_5;Norscan Hold;;;;;;;;;;;;;x
+ca_talabheim_2;Talabheim;;;;;;;;;;;;;x
+ca_talabheim_2_desc;The city of Talabheim is exceptionally well defended thanks to its location inside the Taalbaston walls built atop the crater rim.;;;;;;;;;;;;;x
+ca_middenheim_2;Middenheim;;;;;;;;;;;;;x
+ca_middenheim_2_desc;The city of Middenheim is exceptionally well defended thanks to its location atop the Fauschlag spire.;;;;;;;;;;;;;x
+ca_norse_militia_1;Norse Warrior Cult;;;;;;;;;;;;;x
+ca_norse_militia_1_desc;Warriors are encouraged to join bloody contests and rituals to prove their bravery and might.;;;;;;;;;;;;;x
+ca_norse_militia_2;Norse Warrior Cult;;;;;;;;;;;;;x
+ca_norse_militia_2_desc;Warriors are encouraged to join bloody contests and rituals to prove their bravery and might.;;;;;;;;;;;;;x
+ca_norse_militia_3;Norse Warrior Cult;;;;;;;;;;;;;x
+ca_norse_militia_3_desc;Warriors are encouraged to join bloody contests and rituals to prove their bravery and might.;;;;;;;;;;;;;x
+ca_norse_militia_4;Norse Warrior Cult;;;;;;;;;;;;;x
+ca_norse_militia_4_desc;Warriors are encouraged to join bloody contests and rituals to prove their bravery and might.;;;;;;;;;;;;;x
+ca_norse_militia_5;Norse Warrior Cult;;;;;;;;;;;;;x
+ca_norse_militia_5_desc;Warriors are encouraged to join bloody contests and rituals to prove their bravery and might.;;;;;;;;;;;;;x
+ca_human_peasant_1;Peasant Farmlands;;;;;;;;;;;;;x
+ca_human_peasant_1_desc;Large tracts of land are turned over for village charters, with oversight and investment from the upper classes. Small settlements will invariably form, supporting the population used to work the expansive farmlands. Mining, forestry and light industry are also not uncommon depending on the region.;;;;;;;;;;;;;x
+ca_human_peasant_2;Peasant Farmlands;;;;;;;;;;;;;x
+ca_human_peasant_2_desc;Large tracts of land are turned over for village charters, with oversight and investment from the upper classes. Small settlements will invariably form, supporting the population used to work the expansive farmlands. Mining, forestry and light industry are also not uncommon depending on the region.;;;;;;;;;;;;;x
+ca_human_peasant_3;Peasant Farmlands;;;;;;;;;;;;;x
+ca_human_peasant_3_desc;Large tracts of land are turned over for village charters, with oversight and investment from the upper classes. Small settlements will invariably form, supporting the population used to work the expansive farmlands. Mining, forestry and light industry are also not uncommon depending on the region.;;;;;;;;;;;;;x
+ca_human_peasant_4;Peasant Farmlands;;;;;;;;;;;;;x
+ca_human_peasant_4_desc;Large tracts of land are turned over for village charters, with oversight and investment from the upper classes. Small settlements will invariably form, supporting the population used to work the expansive farmlands. Mining, forestry and light industry are also not uncommon depending on the region.;;;;;;;;;;;;;x
+ca_human_peasant_5;Peasant Farmlands;;;;;;;;;;;;;x
+ca_human_peasant_5_desc;Large tracts of land are turned over for village charters, with oversight and investment from the upper classes. Small settlements will invariably form, supporting the population used to work the expansive farmlands. Mining, forestry and light industry are also not uncommon depending on the region.;;;;;;;;;;;;;x
+ca_human_noble_1;Noble Estates;;;;;;;;;;;;;x
+ca_human_noble_1_desc;Large tracts of the surrounding land are turned over to the minor nobility. This is invariably used for manors, minor fortifications, hunting grounds and the support of household retainers.;;;;;;;;;;;;;x
+ca_human_noble_2;Noble Estates;;;;;;;;;;;;;x
+ca_human_noble_2_desc;Large tracts of the surrounding land are turned over to the minor nobility. This is invariably used for manors, minor fortifications, hunting grounds and the support of household retainers.;;;;;;;;;;;;;x
+ca_human_noble_3;Noble Estates;;;;;;;;;;;;;x
+ca_human_noble_3_desc;Large tracts of the surrounding land are turned over to the minor nobility. This is invariably used for manors, minor fortifications, hunting grounds and the support of household retainers.;;;;;;;;;;;;;x
+ca_human_noble_4;Noble Estates;;;;;;;;;;;;;x
+ca_human_noble_4_desc;Large tracts of the surrounding land are turned over to the minor nobility. This is invariably used for manors, minor fortifications, hunting grounds and the support of household retainers.;;;;;;;;;;;;;x
+ca_human_noble_5;Noble Estates;;;;;;;;;;;;;x
+ca_human_noble_5_desc;Large tracts of the surrounding land are turned over to the minor nobility. This is invariably used for manors, minor fortifications, hunting grounds and the support of household retainers.;;;;;;;;;;;;;x
+ca_steppe_barracks_1;Steppe Riding Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_1_desc;Future warriors gain experience by participating in hunting and scouting. This is only buildable on Steppe terrain.;;;;;;;;;;;;;x
+ca_steppe_barracks_2;Steppe Riding Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_2_desc;A great parade and assembly ground is cleared so that riders can be gathered in great numbers and practice maneuvers. This is only buildable on Steppe terrain.;;;;;;;;;;;;;x
+ca_steppe_barracks_3;Steppe Riding Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_3_desc;A great communal structure is built to house the soldiers. This is only buildable on Steppe terrain.;;;;;;;;;;;;;x
+ca_steppe_barracks_4;Steppe Riding Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_4_desc;All manner of labourers and craftsmen are brought togeher to outfit and supply the growing war host. This is only buildable on Steppe terrain.;;;;;;;;;;;;;x
+ca_steppe_barracks_5;Steppe Riding Lodge;;;;;;;;;;;;;x
+ca_steppe_barracks_5_desc;Many structures and tents are built to house the great mass of mounted soldiers. This is only buildable on Steppe terrain.;;;;;;;;;;;;;x
+ca_chaos_herdstone_1;Herdstone;;;;;;;;;;;;;x
+ca_chaos_herdstone_1_desc;The presence of a herdstone draws beastmen from across the land.;;;;;;;;;;;;;x
+ca_chaos_herdstone_2;Herdstone;;;;;;;;;;;;;x
+ca_chaos_herdstone_3;Herdstone;;;;;;;;;;;;;x
+ca_chaos_herdstone_4;Herdstone;;;;;;;;;;;;;x
+ca_chaos_herdstone_5;Herdstone;;;;;;;;;;;;;x
+ca_chaos_champion_1;Chaos Champion Retinue;;;;;;;;;;;;;x
+ca_chaos_champion_1_desc;Aspiring warriors are gifted with daemonic weapons and armour.;;;;;;;;;;;;;x
+ca_chaos_champion_2;Chaos Champion Retinue;;;;;;;;;;;;;x
+ca_chaos_champion_3;Chaos Champion Retinue;;;;;;;;;;;;;x
+ca_chaos_champion_4;Chaos Champion Retinue;;;;;;;;;;;;;x
+ca_chaos_champion_5;Chaos Champion Retinue;;;;;;;;;;;;;x
+ca_imperial_barracks_1;State Barracks;;;;;;;;;;;;;x
+ca_imperial_barracks_1_desc;A professional core of soldiers are trained and quartered for the service of their lord.;;;;;;;;;;;;;x
+ca_imperial_barracks_2;State Barracks;;;;;;;;;;;;;x
+ca_imperial_barracks_3;State Barracks;;;;;;;;;;;;;x
+ca_imperial_barracks_4;State Barracks;;;;;;;;;;;;;x
+ca_imperial_barracks_5;State Barracks;;;;;;;;;;;;;x
+ca_imperial_militia_1;Free Company;;;;;;;;;;;;;x
+ca_imperial_militia_1_desc;The local militia are combined with sellswords and adventurers, creating a cheap yet effective army that can be raised at a moments notice. The high proportion of 'former' bandits, pirates, and criminals seeking gold for blood means the levies are bolstered with some tested skill and courage.;;;;;;;;;;;;;x
+ca_imperial_militia_2;Free Company;;;;;;;;;;;;;x
+ca_imperial_militia_3;Free Company;;;;;;;;;;;;;x
+ca_imperial_militia_4;Free Company;;;;;;;;;;;;;x
+ca_imperial_militia_5;Free Company;;;;;;;;;;;;;x
+ca_bretonnian_barracks_1;Knightly Service;;;;;;;;;;;;;x
+ca_bretonnian_barracks_1_desc;In exchange for generous landed estates and legal privilages, the minor nobility are required to volunteer their swords and lances when called upon. In addition to the typical peasant levy, a significant number of knights and squires form the core of the army, unmatched in training and equipment.;;;;;;;;;;;;;x
+ca_bretonnian_barracks_2;Knightly Service;;;;;;;;;;;;;x
+ca_bretonnian_barracks_3;Knightly Service;;;;;;;;;;;;;x
+ca_bretonnian_barracks_4;Knightly Service;;;;;;;;;;;;;x
+ca_bretonnian_barracks_5;Knightly Service;;;;;;;;;;;;;x
+ca_bretonnian_militia_1;Tenement Conscription;;;;;;;;;;;;;x
+ca_bretonnian_militia_1_desc;The peasants form the vast bulk of the army. While the majority are simply herded en-masse to the battle with whatever weapons they can find, the best and most trustworthy are provided with some training and equipment. Mounted yeomen are deployed as scouts and skirmishers, while stubborn men-at-arms are sent to anchor the infantry in place.;;;;;;;;;;;;;x
+ca_bretonnian_militia_2;Tenement Conscription;;;;;;;;;;;;;x
+ca_bretonnian_militia_3;Tenement Conscription;;;;;;;;;;;;;x
+ca_bretonnian_militia_4;Tenement Conscription;;;;;;;;;;;;;x
+ca_bretonnian_militia_5;Tenement Conscription;;;;;;;;;;;;;x
+ca_estalian_barracks_1;Tercio Barracks;;;;;;;;;;;;;x
+ca_estalian_barracks_1_desc;.;;;;;;;;;;;;;x
+ca_estalian_barracks_2;Tercio Barracks;;;;;;;;;;;;;x
+ca_estalian_barracks_3;Tercio Barracks;;;;;;;;;;;;;x
+ca_estalian_barracks_4;Tercio Barracks;;;;;;;;;;;;;x
+ca_estalian_barracks_5;Tercio Barracks;;;;;;;;;;;;;x
+ca_estalian_militia_1;Cabarello Grounds;;;;;;;;;;;;;x
+ca_estalian_militia_1_desc;.;;;;;;;;;;;;;x
+ca_estalian_militia_2;Cabarello Grounds;;;;;;;;;;;;;x
+ca_estalian_militia_3;Cabarello Grounds;;;;;;;;;;;;;x
+ca_estalian_militia_4;Cabarello Grounds;;;;;;;;;;;;;x
+ca_estalian_militia_5;Cabarello Grounds;;;;;;;;;;;;;x
+ca_tilean_barracks_1;Elite Guard;;;;;;;;;;;;;x
+ca_tilean_barracks_1_desc;.;;;;;;;;;;;;;x
+ca_tilean_barracks_2;Elite Guard;;;;;;;;;;;;;x
+ca_tilean_barracks_3;Elite Guard;;;;;;;;;;;;;x
+ca_tilean_barracks_4;Elite Guard;;;;;;;;;;;;;x
+ca_tilean_barracks_5;Elite Guard;;;;;;;;;;;;;x
+ca_tilean_militia_1;Merchant Militia;;;;;;;;;;;;;x
+ca_tilean_militia_1_desc;.;;;;;;;;;;;;;x
+ca_tilean_militia_2;Merchant Militia;;;;;;;;;;;;;x
+ca_tilean_militia_3;Merchant Militia;;;;;;;;;;;;;x
+ca_tilean_militia_4;Merchant Militia;;;;;;;;;;;;;x
+ca_tilean_militia_5;Merchant Militia;;;;;;;;;;;;;x
+ca_sartosan_barracks_1;Sartosan Guard;;;;;;;;;;;;;x
+ca_sartosan_barracks_1_desc;.;;;;;;;;;;;;;x
+ca_sartosan_barracks_2;Sartosan Guard;;;;;;;;;;;;;x
+ca_sartosan_barracks_3;Sartosan Guard;;;;;;;;;;;;;x
+ca_sartosan_barracks_4;Sartosan Guard;;;;;;;;;;;;;x
+ca_sartosan_barracks_5;Sartosan Guard;;;;;;;;;;;;;x
+ca_sartosan_militia_1;Sartosan Militia;;;;;;;;;;;;;x
+ca_sartosan_militia_1_desc;.;;;;;;;;;;;;;x
+ca_sartosan_militia_2;Sartosan Militia;;;;;;;;;;;;;x
+ca_sartosan_militia_3;Sartosan Militia;;;;;;;;;;;;;x
+ca_sartosan_militia_4;Sartosan Militia;;;;;;;;;;;;;x
+ca_sartosan_militia_5;Sartosan Militia;;;;;;;;;;;;;x
+ca_kislevite_barracks_1;Lancer Rota;;;;;;;;;;;;;x
+ca_kislevite_barracks_1_desc;.;;;;;;;;;;;;;x
+ca_kislevite_barracks_2;Lancer Rota;;;;;;;;;;;;;x
+ca_kislevite_barracks_3;Lancer Rota;;;;;;;;;;;;;x
+ca_kislevite_barracks_4;Lancer Rota;;;;;;;;;;;;;x
+ca_kislevite_barracks_5;Lancer Rota;;;;;;;;;;;;;x
+ca_kislevite_militia_1;Kossar Levy;;;;;;;;;;;;;x
+ca_kislevite_militia_1_desc;.;;;;;;;;;;;;;x
+ca_kislevite_militia_2;Kossar Levy;;;;;;;;;;;;;x
+ca_kislevite_militia_3;Kossar Levy;;;;;;;;;;;;;x
+ca_kislevite_militia_4;Kossar Levy;;;;;;;;;;;;;x
+ca_kislevite_militia_5;Kossar Levy;;;;;;;;;;;;;x
+ca_norscan_barracks_1;Huskarl Barracks;;;;;;;;;;;;;x
+ca_norscan_barracks_1_desc;.;;;;;;;;;;;;;x
+ca_norscan_barracks_2;Huskarl Barracks;;;;;;;;;;;;;x
+ca_norscan_barracks_3;Huskarl Barracks;;;;;;;;;;;;;x
+ca_norscan_barracks_4;Huskarl Barracks;;;;;;;;;;;;;x
+ca_norscan_barracks_5;Huskarl Barracks;;;;;;;;;;;;;x
+ca_norscan_militia_1;Freeman Militia;;;;;;;;;;;;;x
+ca_norscan_militia_1_desc;.;;;;;;;;;;;;;x
+ca_norscan_militia_2;Freeman Militia;;;;;;;;;;;;;x
+ca_norscan_militia_3;Freeman Militia;;;;;;;;;;;;;x
+ca_norscan_militia_4;Freeman Militia;;;;;;;;;;;;;x
+ca_norscan_militia_5;Freeman Militia;;;;;;;;;;;;;x
+ca_kurgan_barracks_1;Court Riders;;;;;;;;;;;;;x
+ca_kurgan_barracks_1_desc;.;;;;;;;;;;;;;x
+ca_kurgan_barracks_2;Court Riders;;;;;;;;;;;;;x
+ca_kurgan_barracks_3;Court Riders;;;;;;;;;;;;;x
+ca_kurgan_barracks_4;Court Riders;;;;;;;;;;;;;x
+ca_kurgan_barracks_5;Court Riders;;;;;;;;;;;;;x
+ca_kurgan_militia_1;Skirmisher Camps;;;;;;;;;;;;;x
+ca_kurgan_militia_1_desc;.;;;;;;;;;;;;;x
+ca_kurgan_militia_2;Skirmisher Camps;;;;;;;;;;;;;x
+ca_kurgan_militia_3;Skirmisher Camps;;;;;;;;;;;;;x
+ca_kurgan_militia_4;Skirmisher Camps;;;;;;;;;;;;;x
+ca_kurgan_militia_5;Skirmisher Camps;;;;;;;;;;;;;x
+ca_hung_barracks_1;Hung Retinue;;;;;;;;;;;;;x
+ca_hung_barracks_1_desc;.;;;;;;;;;;;;;x
+ca_hung_barracks_2;Hung Retinue;;;;;;;;;;;;;x
+ca_hung_barracks_3;Hung Retinue;;;;;;;;;;;;;x
+ca_hung_barracks_4;Hung Retinue;;;;;;;;;;;;;x
+ca_hung_barracks_5;Hung Retinue;;;;;;;;;;;;;x
+ca_hung_militia_1;Raider Camps;;;;;;;;;;;;;x
+ca_hung_militia_1_desc;.;;;;;;;;;;;;;x
+ca_hung_militia_2;Raider Camps;;;;;;;;;;;;;x
+ca_hung_militia_3;Raider Camps;;;;;;;;;;;;;x
+ca_hung_militia_4;Raider Camps;;;;;;;;;;;;;x
+ca_hung_militia_5;Raider Camps;;;;;;;;;;;;;x
+ca_arabyan_barracks_1;Arabyan Stables;;;;;;;;;;;;;x
+ca_arabyan_barracks_1_desc;.;;;;;;;;;;;;;x
+ca_arabyan_barracks_2;Arabyan Stables;;;;;;;;;;;;;x
+ca_arabyan_barracks_3;Arabyan Stables;;;;;;;;;;;;;x
+ca_arabyan_barracks_4;Arabyan Stables;;;;;;;;;;;;;x
+ca_arabyan_barracks_5;Arabyan Stables;;;;;;;;;;;;;x
+ca_arabyan_militia_1;Common Levy;;;;;;;;;;;;;x
+ca_arabyan_militia_1_desc;.;;;;;;;;;;;;;x
+ca_arabyan_militia_2;Common Levy;;;;;;;;;;;;;x
+ca_arabyan_militia_3;Common Levy;;;;;;;;;;;;;x
+ca_arabyan_militia_4;Common Levy;;;;;;;;;;;;;x
+ca_arabyan_militia_5;Common Levy;;;;;;;;;;;;;x
+ca_oldworld_library_1;Library;;;;;;;;;;;;;x
+ca_oldworld_library_1_desc;A small collection of books are kept in the castle for the enjoyment of the family and their esteemed guests. They are mostly historical and theological in nature, although there are some purely fictional works and essays on practical subjects.;;;;;;;;;;;;;x
+ca_oldworld_library_2;Library;;;;;;;;;;;;;x
+ca_oldworld_library_2_desc;The library is enhanced by the presence of a dedicated scribe. This fellow spends all his time copying texts with exact accuracy, which are then sold or exchanged for other books.;;;;;;;;;;;;;x
+ca_oldworld_library_3;Library;;;;;;;;;;;;;x
+ca_oldworld_library_3_desc;The library has grown in musty size, presenting a impressive body of knowledge and risk of fire. A number of rare and valuable works have been obtained at great cost, protected by a small team of clerks and scribes.;;;;;;;;;;;;;x
+ca_oldworld_library_4;Library;;;;;;;;;;;;;x
+ca_oldworld_library_4_desc;Scholars now occasionally request access to the library, seeking to use your resources for their research. One can find a text on almost any subject, provided you can get directions!;;;;;;;;;;;;;x
+ca_oldworld_library_5;Library;;;;;;;;;;;;;x
+ca_oldworld_library_5_desc;The library is an impressive edifice of civilisation. There are more books than anyone could read in a lifetime, and there are rumours of a lost colony of scribes that inhabit the dark recesses at the back.;;;;;;;;;;;;;x
+ca_oldworld_workshops_1;Workshops;;;;;;;;;;;;;x
+ca_oldworld_workshops_1_desc;The courtyard and outbuildings are dominated by various workshops and warehouses. The castle is kept well-stocked with provisions, and the resident specialists keep the garrison's equipment in fine condition.;;;;;;;;;;;;;x
+ca_oldworld_workshops_2;Workshops;;;;;;;;;;;;;x
+ca_oldworld_workshops_2_desc;The courtyard and outbuildings are dominated by various workshops and warehouses. The castle is kept well-stocked with provisions, and the resident specialists keep the garrison's equipment in fine condition.;;;;;;;;;;;;;x
+ca_oldworld_workshops_3;Workshops;;;;;;;;;;;;;x
+ca_oldworld_workshops_3_desc;The courtyard and outbuildings are dominated by various workshops and warehouses. The castle is kept well-stocked with provisions, and the resident specialists keep the garrison's equipment in fine condition.;;;;;;;;;;;;;x
+ca_oldworld_workshops_4;Workshops;;;;;;;;;;;;;x
+ca_oldworld_workshops_4_desc;The courtyard and outbuildings are dominated by various workshops and warehouses. The castle is kept well-stocked with provisions, and the resident specialists keep the garrison's equipment in fine condition.;;;;;;;;;;;;;x
+ca_oldworld_workshops_5;Workshops;;;;;;;;;;;;;x
+ca_oldworld_workshops_5_desc;The courtyard and outbuildings are dominated by various workshops and warehouses. The castle is kept well-stocked with provisions, and the resident specialists keep the garrison's equipment in fine condition.;;;;;;;;;;;;;x
+ca_chaos_temple_1;Shrine of Chaos;;;;;;;;;;;;;x
+ca_chaos_temple_1_desc;A twisted shrine to Chaos. The masses come to venerate the Dark Gods and recieve their blessings.;;;;;;;;;;;;;x
+ca_chaos_temple_2;Shrine of Chaos;;;;;;;;;;;;;x
+ca_chaos_temple_2_desc;.;;;;;;;;;;;;;x
+ca_chaos_temple_3;Shrine of Chaos;;;;;;;;;;;;;x
+ca_chaos_temple_3_desc;.;;;;;;;;;;;;;x
+ca_chaos_temple_4;Shrine of Chaos;;;;;;;;;;;;;x
+ca_chaos_temple_4_desc;.;;;;;;;;;;;;;x
+ca_chaos_temple_5;Shrine of Chaos;;;;;;;;;;;;;x
+ca_chaos_temple_5_desc;.;;;;;;;;;;;;;x
+ca_slaanesh_temple_1;Den of Excess;;;;;;;;;;;;;x
+ca_slaanesh_temple_1_desc;.;;;;;;;;;;;;;x
+ca_slaanesh_temple_2;Den of Excess;;;;;;;;;;;;;x
+ca_slaanesh_temple_2_desc;.;;;;;;;;;;;;;x
+ca_slaanesh_temple_3;Den of Excess;;;;;;;;;;;;;x
+ca_slaanesh_temple_3_desc;.;;;;;;;;;;;;;x
+ca_slaanesh_temple_4;Den of Excess;;;;;;;;;;;;;x
+ca_slaanesh_temple_4_desc;.;;;;;;;;;;;;;x
+ca_slaanesh_temple_5;Den of Excess;;;;;;;;;;;;;x
+ca_slaanesh_temple_5_desc;.;;;;;;;;;;;;;x
+ca_khorne_temple_1;Blood Ring;;;;;;;;;;;;;x
+ca_khorne_temple_1_desc;.;;;;;;;;;;;;;x
+ca_khorne_temple_2;Blood Ring;;;;;;;;;;;;;x
+ca_khorne_temple_2_desc;.;;;;;;;;;;;;;x
+ca_khorne_temple_3;Blood Ring;;;;;;;;;;;;;x
+ca_khorne_temple_3_desc;.;;;;;;;;;;;;;x
+ca_khorne_temple_4;Blood Ring;;;;;;;;;;;;;x
+ca_khorne_temple_4_desc;.;;;;;;;;;;;;;x
+ca_khorne_temple_5;Blood Ring;;;;;;;;;;;;;x
+ca_khorne_temple_5_desc;.;;;;;;;;;;;;;x
+ca_tzeentch_temple_1;Sorceror Cabal;;;;;;;;;;;;;x
+ca_tzeentch_temple_1_desc;.;;;;;;;;;;;;;x
+ca_tzeentch_temple_2;Sorceror Cabal;;;;;;;;;;;;;x
+ca_tzeentch_temple_2_desc;.;;;;;;;;;;;;;x
+ca_tzeentch_temple_3;Sorceror Cabal;;;;;;;;;;;;;x
+ca_tzeentch_temple_3_desc;.;;;;;;;;;;;;;x
+ca_tzeentch_temple_4;Sorceror Cabal;;;;;;;;;;;;;x
+ca_tzeentch_temple_4_desc;.;;;;;;;;;;;;;x
+ca_tzeentch_temple_5;Sorceror Cabal;;;;;;;;;;;;;x
+ca_tzeentch_temple_5_desc;.;;;;;;;;;;;;;x
+ca_nurgle_temple_1;Plague Cult;;;;;;;;;;;;;x
+ca_nurgle_temple_1_desc;.;;;;;;;;;;;;;x
+ca_nurgle_temple_2;Plague Cult;;;;;;;;;;;;;x
+ca_nurgle_temple_2_desc;.;;;;;;;;;;;;;x
+ca_nurgle_temple_3;Plague Cult;;;;;;;;;;;;;x
+ca_nurgle_temple_3_desc;.;;;;;;;;;;;;;x
+ca_nurgle_temple_4;Plague Cult;;;;;;;;;;;;;x
+ca_nurgle_temple_4_desc;.;;;;;;;;;;;;;x
+ca_nurgle_temple_5;Plague Cult;;;;;;;;;;;;;x
+ca_nurgle_temple_5_desc;.;;;;;;;;;;;;;x
+ca_sigmarite_temple_1;Temple of Sigmar;;;;;;;;;;;;;x
+ca_sigmarite_temple_1_desc;The keep gains a shrine to Sigmar, patron of humanity and the Empire. The appearance of an observant and pious liege is enough to inspire some minor moral improvements in the locals.;;;;;;;;;;;;;x
+ca_sigmarite_temple_2;Temple of Sigmar;;;;;;;;;;;;;x
+ca_sigmarite_temple_2_desc;A small, dedicated temple of Sigmar is built for the castle inhabitants. The resident firebrand gives the troops a sense of fervour and martial glory, even if their training and equipment may be lacking.;;;;;;;;;;;;;x
+ca_sigmarite_temple_3;Temple of Sigmar;;;;;;;;;;;;;x
+ca_sigmarite_temple_3_desc;The keep's shrine is expanded and improved. Some conservative figures say it is needlessly ostentatious and gaudy, the exact extravagance that a true Sigmarite would avoid. The majority agree that the gold filligree is a key part in understanding Sigmar's deeds.;;;;;;;;;;;;;x
+ca_sigmarite_temple_4;Temple of Sigmar;;;;;;;;;;;;;x
+ca_sigmarite_temple_4_desc;The public temple is rebuilt to better serve the needs of the community. Children are educated in both literacy and proper morals by ancient texts, and itinerant flagellants plan marches to nearby lands.;;;;;;;;;;;;;x
+ca_sigmarite_temple_5;Temple of Sigmar;;;;;;;;;;;;;x
+ca_sigmarite_temple_5_desc;The grandeur of the soul grows with the reverence of Sigmar, and the impressive structures built indicate that both spiritual and material worlds are well satisfied. A reliquary has been installed, attracting a regular stream of pilgrims and and wretches hoping for a miracle.;;;;;;;;;;;;;x
+ca_grail_temple_1;Grail Hold;;;;;;;;;;;;;x
+ca_grail_temple_1_desc;Wandering knights and pilgrims are lodged here, if only to prevent them from being a nuisance elsewhere. When battle is called, they eagerly join the greater host for a chance to gain glory and honour.;;;;;;;;;;;;;x
+ca_grail_temple_2;Grail Hold;;;;;;;;;;;;;x
+ca_grail_temple_2_desc;.;;;;;;;;;;;;;x
+ca_grail_temple_3;Grail Hold;;;;;;;;;;;;;x
+ca_grail_temple_3_desc;.;;;;;;;;;;;;;x
+ca_grail_temple_4;Grail Hold;;;;;;;;;;;;;x
+ca_grail_temple_4_desc;.;;;;;;;;;;;;;x
+ca_grail_temple_5;Grail Hold;;;;;;;;;;;;;x
+ca_grail_temple_5_desc;.;;;;;;;;;;;;;x
+ca_trade_center_1;Trade Centre;;;;;;;;;;;;;x
+ca_trade_center_1_desc;This settlement is not a particularly large one, but acts as a local point of entry for merchants.;;;;;;;;;;;;;x
+ca_trade_center_2;Trade Centre;;;;;;;;;;;;;x
+ca_trade_center_2_desc;This city is a regional trade hub.;;;;;;;;;;;;;x
+ca_trade_center_3;Trade Centre;;;;;;;;;;;;;x
+ca_trade_center_3_desc;This city is enriched by a constant stream of merchants and travellers from around the world.;;;;;;;;;;;;;x
+ca_trade_center_4;Trade Centre;;;;;;;;;;;;;x
+ca_trade_center_4_desc;This is a truely great city, sitting on one of the world's largest trade routes.;;;;;;;;;;;;;x
+ca_trade_center_5;Trade Centre;;;;;;;;;;;;;x
+ca_trade_center_5_desc;This is undoubtedly one of the greatest cities in the world, and recieves an unparalleled amount of traffic.;;;;;;;;;;;;;x

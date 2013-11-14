@@ -1,0 +1,142 @@
+ # Triggers are in Province scope. The From Scope contains the settlement holder (character)
+ # start trigger is in title scope.
+ 
+ #<tag> = {
+ #	desc = description used in the tooltip of the building
+ #	trigger = used for tech requirement of the building, set to 0 if no requirement so it can be build automatically on new games
+ #	build_cost = cost to build the building
+ #	build_time = time to build, in days
+ #	
+ #	ai_creation_factor = weight that the AI uses to determine what building to build
+ #	extra_tech_building_start = when starting a new game this building will be pre-built if the province has higher tech than the requirement + this + random 0-1
+ #}
+ 
+ # City
+city = {
+	
+	###Trade Center
+	
+	ca_trade_center_1 = {
+		desc = ca_trade_center_1_desc
+		potential = {
+
+			FROMFROM = {
+				OR = {
+					title = b_hiolvoiska
+					title = b_saimaakild
+					title = b_avalot
+					title = b_reikmarkt
+					title = b_winkelmarkt
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		build_cost = 50
+		build_time = 365
+		fort_level = 0.25
+		tax_income = 1.0
+		galleys = 1
+		tech_growth_modifier = 0.10
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 0.0	
+	}
+	
+	ca_trade_center_2 = {
+		desc = ca_trade_center_2_desc
+		potential = {
+
+			FROMFROM = { 
+				OR = {
+					title = b_saimaakild
+					title = b_avalot
+					title = b_reikmarkt
+					title = b_winkelmarkt
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		upgrades_from = ca_trade_center_1
+		build_cost = 50
+		build_time = 365
+		fort_level = 0.25
+		tax_income = 0.5
+		galleys = 1
+		tech_growth_modifier = 0.10
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 0.0	
+	}
+	
+	ca_trade_center_3 = {
+		desc = ca_trade_center_3_desc
+		potential = {
+
+			FROMFROM = { 
+				OR = {
+					title = b_avalot
+					title = b_reikmarkt
+					title = b_winkelmarkt
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		upgrades_from = ca_trade_center_2
+		build_cost = 50
+		build_time = 365
+		fort_level = 0.25
+		tax_income = 0.5
+		galleys = 1
+		tech_growth_modifier = 0.10
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 0.0	
+	}
+	
+	ca_trade_center_4 = {
+		desc = ca_trade_center_4_desc
+		potential = {
+
+			FROMFROM = { 
+				OR = {
+					title = b_reikmarkt
+					title = b_winkelmarkt
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		upgrades_from = ca_trade_center_3
+		build_cost = 50
+		build_time = 365
+		fort_level = 0.25
+		tax_income = 0.5
+		galleys = 1
+		tech_growth_modifier = 0.10
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 0.0	
+	}
+	
+	ca_trade_center_5 = {
+		desc = ca_trade_center_5_desc
+		potential = {
+
+			FROMFROM = { 
+				OR = {
+					title = b_winkelmarkt
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		upgrades_from = ca_trade_center_4
+		build_cost = 50
+		build_time = 365
+		fort_level = 0.25
+		tax_income = 0.5
+		galleys = 1
+		tech_growth_modifier = 0.10
+		ai_creation_factor = 80
+
+		extra_tech_building_start = 0.0	
+	}
+}

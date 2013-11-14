@@ -1,0 +1,17 @@
+# 283 - Bergendorf
+
+# County Title
+title = c_bergendorf
+
+# Settlements
+max_settlements = 3
+b_bergendorf = castle
+b_esk = temple
+b_laubach = castle
+
+# Misc
+culture = hochlander
+religion = ulrican
+
+
+# History

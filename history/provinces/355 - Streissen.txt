@@ -1,0 +1,18 @@
+# 355 Streissen
+
+# County Title
+title = c_streissen
+
+# Settlements
+max_settlements = 4
+b_streissen = castle
+b_gorlitz = city
+b_kerpen = city
+b_romrod = temple
+
+# Misc
+culture = averlander
+religion = sigmarite
+
+
+# History

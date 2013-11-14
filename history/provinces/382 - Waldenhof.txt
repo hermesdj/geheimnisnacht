@@ -1,0 +1,18 @@
+# 382 - Waldenhof
+
+# County Title
+title = c_waldenhof
+
+# Settlements
+max_settlements = 4
+b_waldenhof = castle
+b_hundham = city
+b_thyrnan = temple
+b_jenzwalden = city
+
+# Misc
+culture = sylvanian
+religion = vampiric
+
+
+# History

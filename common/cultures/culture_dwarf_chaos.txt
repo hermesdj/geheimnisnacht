@@ -1,0 +1,147 @@
+dwarf_chaos_group = {
+	graphical_culture = westerngfx
+
+		dwarf_chaos = {
+		graphical_culture = iberiangfx
+		
+		color = { 0.6 0.2 0.5 }
+
+		male_names = {
+			Abgal Abzu Adapar Addad Adrar'meloch Ahur Alnun Annun Ansar Antor Anur Anzar Anzur Apkall Apsur Argel Armahand Ash'azel Asher Asrid Astragoth Avas Azakil Azel 
+			Bakthet Balav Baldrick Barag Barensus Barin Barukh Batal Belakhost Bethek Boga Bultar Bzaark Carazad Carthar Chemo Core 
+			Dagran Dakseen Dammaz Damor Damu Dargah Dario Darquas Dathor Doav Dourgrim Drazh Dron Dthar Dugud Dum Dumuzi Duniun Durgal Dwor 
+			Ekalim El'gram El'graz Enil Enk'kidu Enka Enum'elish Etan 
+			Fineous Fonhajus Fonras Fonsu Fontar Furgul 
+			Gakroth Galgann Garz Gazn Geggus Ghal Ghorth Ghull Gibil Gilgl'rmesh Ginit Gorfal Gorran Goruz Grebmar Grimaz Grimdur Grint Grizal Growler Groz Grumabak Grumabaki Gurarra 
+			Haddad Hadkova Hadvas Hakka Halgir Hamu Har Haraz Hardgrab Hengist Hokajak Horkaj Hthark Huwaz Huz 
+			Iamhu Iku Ilsept Irra Iskur 
+			Javhor Jezreel 
+			Kaaos Kabus Kajtis Kalak Kanlu Kantuuz Karg Karz Kava Kazk Khardang Khrum Kirgund Kisar Komdar Korthis Kro Krut Krutim Kukanto Kulthak Kultkosis Kumar 
+			Lararra Lardar Lartab Lotam Lufin Lumtur Luuddav Luudrid Luudrith 
+			Makaz Malik Maraz Marduk Martun Matadar Mataisis Matakan Matan Matatoru Matojun Mhornar Milluk Mizpal Moakdon Molus Mordian Morjat Morkan Morras Morsar Mothensu Mothgam Mottha Muzdam Muzkh'grum 
+			Nai Nak'nar Namtir Narga Naurthang Nimrok Ningizzid Ninurt Norn Nutseen Nuuf 
+			Odro Oensus Ofgut Ok Onin Ori Origol Oruud 
+			Partlu Pelver Phaklak Phakova Pharas Phdorg Ptarra 
+			Qingus 
+			Radblast Ragarin Rainhard Rash'nuel Rastur Rhun Rhunki Rhyn Rikkazen Rorkaz Runk Rutz Ruvalk Rykarth 
+			Sardor Scarsol Sephar Shamaz Shkajak Shlak Shurtur Sine Sithan Skaz Skazi Skraat Skree Skrund Skruuf Skuf Slotch Smark Soran Soth Stok Stormez 
+			Tabman Talar Taltal Talvan Tammaz Tantor Tanud Tarddav Tardtar Targ Tariokova Tariovast Telar Telegrim Thabphor Thag Thaggoraki Thagi Thorkar Thraag Thrakbal Thuensu Thurgar Thymbrin Tromm Turlak Turtak Turthar 
+			Ufdi Ulfo Umanar Umgak Unbak Unbaraki Ungrim Urk Urkk Urtgam Urttai Utna'parshun Utok Uzgul Uzkul Uzkular 
+			Vaim Vangor Varag Varf Varn Varr Varrkhulg Varzhnak Vasdon Vikram Virkova Vlag Vongal Vorkhul Vorlak Vurlu 
+			Wanaz Wattock Wazzok Werit Wovan Wyr 
+			Zadrian Zagaz Zaki Zakk Zelazad Zhatan Zhatan Zhorgrath Zhrazak Zimrel Zorin Zunthrum Zur Zygrad Zzharg 
+		}
+		
+		female_names = {
+			Afka Altu Amauz'umgal Annam'meloch Anu Anun Asha Asherar Ashi Azya Ardaoja Ardatai Ardatok 
+			Ba'bar Belet Belit'ser
+			Dilum Din'macht Dumuzi Dumuz'azbu Dumuz'amauz Dejaah Dejaália Dejaar Dejah Dejahah Dejahália Dejahbis Dejahdor Dejahmina Dejahor Dejahus Dejaja Dejalla Dejaoja Dejar Dejaria Dejath Dejaus Dejavia Dejbis Dejla Dejoja Dejth Dejthor Dejtina Diaália Diala Diaor Diaria Diaseen Diatina Diaus 
+			Enugi Era Ergal Erish Ersh'kigal
+			Florália Florbis Flormina Florseen Florth 
+			Galena Gesh Gesh'tinan Gula Gursu
+			Igigi Imogen Inara Innann Ishkur Ishtaz Istar Isja Isra Isria Issdor Issla Issria Isstai Issthor Isstok Isthor Isus 
+			Káli Kella Kigal Kishar Kizar Kimah Kimália Kimdor 
+			Likki Lilli Lillitu Lurri Lanar Lanbis Lania Lanja Lanla Lanra Lantai Lanth Lanthor Lantina Lantok Lanvia Lualia Lumalia Lumar Lumina Lumja Lumra Lumth Luria Lutai Luth Lutok 
+			Macht Mameth Mammitu Mannit Massara Militta Modgud Myrah Myrar Myrdor Myrlla Myrtai Myrtina Myrus 
+			Nagmara Nanze Navi Nebi Ninazu Ninli Ninmaar Ninshbar Nin'suun Nusku
+			Olar Olla Olmina Oloja Oltok Olus 
+			Phaiah Phaiália Phaibis Phaija Phaila Phaira Phaitai Phaith Phanbis Phania Phanria Phanseen Phanthor Pimbis Pimoja Pimria Pimseen Pimth Pimus 
+			Saga Seri Shamaz Shiri Shubi Surgul Surta Sabis Saia Saria Sarkbis Sarkdor Sarkor Sarkth Sarkthor Sarkus Satai Satina Savia Shaah Shaália Shaar Shala Shalla Shaor Shaor Sharia Shaseen Shatai Shavia Silmina Silus Silvia Soália Sobis Sora Sorar Sorbis Sordor Soria Sorlla Sorseen Sorth Sorth Sorus Sothor Sovia 
+			Teshi Tiamay Tilum Tinnana Taah Tabis Tamina Taria Tavar Tavia Tavja Tavoja Telália Telbis Teloja Telra Teltai Telth Thaiah Thaiar Thaija Thailla Thaior Thaith Thaitina Thuah Thubis Thuia Thuja Thumina Thura Thuria Thurlla Thurmina Thurra Thurria Thurseen Thurtai Thurth Thurthor Thurtok Thuthor Thuvla Thuvmina Thuvra Thuvth Thuvtok Thuvus Tigia Tigria Tigthor Tigtina Tigvia 
+			Ulli Umbra Upell Ulah Uldor Ulia Ulla Ulor Ulthor 
+			Vaália Vaia Vaoja Vaor Vatai Vathor Voria Voroja Vorth Vorthor Vorus 
+			Zaki Zida Zum'galena
+
+
+		}
+		
+		male_patronym = "sson"
+		female_patronym = "dottir"
+		prefix = no
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 10
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+		dukes_called_kings = yes
+		
+		modifier = default_culture_modifier
+	}
+
+	dwarf_chaos_norse = {
+		graphical_culture = iberiangfx
+		
+		color = { 0.6 0.2 0.5 }
+
+		male_names = {
+			Abgal Abzu Adapar Addad Adrar'meloch Ahur Alnun Ansar Annun Anur Anzar Anzur Apkall Apsur Argel Asher Ash'azel Astragoth Azel Avas Asrid 
+			Bakthet Barag Bethek Boga Balav Barensus Batal 
+			Chemo Core Carthar
+			Dagran Dammaz Damu Dumuzi Drazh Dron Dugud Dum Dwor Dakseen Damor Dargah Dario Darquas Dathor Doav Dthar 
+			El'gram El'graz Enil Enka Enk'kidu Enum'elish Etan
+			Fonhajus Fonras Fonsu Fontar 
+			Galgann Garz Gazn Ghal Ghull Gibil Gilgl'rmesh Ginit Goruz Grebmar Grimaz Grint Grizal Groz Grumabak Grumabaki Gorfal Gorran Gurarra 
+			Haddad Hakka Hamu Har Haraz Huwaz Huz Hadkova Hadvas Hokajak Horkaj 
+			Iamhu Iku Irra Iskur Ilsept 
+			Javhor
+			Kantuuz Karg Karz Kazk Khrum Kisar Kro Krut Krutim Kumar Kabus Kajtis Kalak Kanlu Kava Komdar Korthis Kukanto Kulthak Kultkosis 
+			Lotam Lararra Lardar Lartab Lumtur Luuddav Luudrid Luudrith 
+			Makaz Málik Maraz Marduk Martun Mhornar Milluk Mizpal Molus Muzdam Muzkh'grum Matadar Mataisis Matakan Matan Matatoru Matojun Moakdon Morjat Morkan Morras Morsar Mothensu Mothgam Mottha 
+			Nai Nak'nar Namtir Narga Nimrok Ningizzid Ninurt Norn Nuuf Nutseen
+			Odro Ofgut Ok Onin Ori Oruud Oensus
+			Pelver Partlu Phaklak Phakova Pharas Phdorg Ptarra 
+			Qingus
+			Ragarin Rash'nuel Rhun Rhunki Rhyn Rikkazen Rorkaz Runk Rutz Ruvalk Rastur
+			Sephar Shamaz Shurtur Sine Skaz Skazi Skraat Skree Skruuf Skrund Skuf Slotch Smark Stok Stormez Sardor Shkajak Shlak Soran Soth 
+			Tammaz Thag Thaggoraki Thagi Thraag Tromm Tabman Talar Taltal Talvan Tantor Tanud Tarddav Tardtar Tariokova Tariovast Telar Thabphor Thorkar Thuensu Thurgar Turlak Turtak Turthar  
+			Ufdi Umanar Umgak Unbak Unbaraki Ungrim Urk Urkk Utna'parshun Uzgul Uzkul Uzkular Urtgam Urttai Utok
+			Vaim Varag Varf Varn Varr Varrkhulg Vlag Vongal Vorkhul Vangor Vasdon Virkova Vorlak Vurlu 
+			Wanaz Wattock Wazzok Werit Wyr Wovan
+			Zagaz Zakk Zaki Zhatan Zimrel Zorin Zunthrum Zur Zadrian
+
+		}
+		female_names = {
+			Afka Altu Amauz'umgal Annam'meloch Anu Anun Asha Asherar Ashi Azya Ardaoja Ardatai Ardatok 
+			Ba'bar Belet Belit'ser
+			Dilum Din'macht Dumuzi Dumuz'azbu Dumuz'amauz Dejaah Dejaália Dejaar Dejah Dejahah Dejahália Dejahbis Dejahdor Dejahmina Dejahor Dejahus Dejaja Dejalla Dejaoja Dejar Dejaria Dejath Dejaus Dejavia Dejbis Dejla Dejoja Dejth Dejthor Dejtina Diaália Diala Diaor Diaria Diaseen Diatina Diaus 
+			Enugi Era Ergal Erish Ersh'kigal
+			Florália Florbis Floria Flormina Florseen Florth 
+			Galena Gesh Gesh'tinan Gula Gursu
+			Igigi Imogen Inara Innann Ishkur Ishtaz Istar Isja Isra Isria Issdor Issla Issria Isstai Issthor Isstok Isthor Isus 
+			Káli Kella Kigal Kishar Kizar Kimah Kimália Kimdor 
+			Likki Lilli Lillitu Lurri Lanar Lanbis Lania Lanja Lanla Lanra Lantai Lanth Lanthor Lantina Lantok Lanvia Luália Lumália Lumar Lumina Lumja Lumra Lumth Luria Lutai Luth Lutok 
+			Macht Mameth Mammitu Mannit Massara Militta Modgud Myrah Myrar Myrdor Myrlla Myrtai Myrtina Myrus 
+			Nagmara Nanze Navi Nebi Ninazu Ninli Ninmaar Ninshbar Nin'suun Nusku
+			Olar Olla Olmina Oloja Oltok Olus 
+			Phaiah Phaiália Phaibis Phaija Phaila Phaira Phaitai Phaith Phanbis Phania Phanria Phanseen Phanthor Pimbis Pimoja Pimria Pimseen Pimth Pimus 
+			Saga Seri Shamaz Shiri Shubi Surgul Surta Sabis Saia Saria Sarkbis Sarkdor Sarkor Sarkth Sarkthor Sarkus Satai Satina Savia Shaah Shaália Shaar Shala Shalla Shaor Shaor Sharia Shaseen Shatai Shavia Silmina Silus Silvia Soália Sobis Sora Sorar Sorbis Sordor Soria Sorlla Sorseen Sorth Sorth Sorus Sothor Sovia 
+			Teshi Tiamay Tilum Tinnana Taah Tabis Tamina Taria Tavar Tavia Tavja Tavoja Telália Telbis Teloja Telra Teltai Telth Thaiah Thaiar Thaija Thailla Thaior Thaith Thaitina Thuah Thubis Thuia Thuja Thumina Thura Thuria Thurlla Thurmina Thurra Thurria Thurseen Thurtai Thurth Thurthor Thurtok Thuthor Thuvla Thuvmina Thuvra Thuvth Thuvtok Thuvus Tigia Tigria Tigthor Tigtina Tigvia 
+			Ulli Umbra Upell Ulah Uldor Ulia Ulla Ulor Ulthor 
+			Vaália Vaia Vaoja Vaor Vatai Vathor Voria Voroja Vorth Vorthor Vorus 
+			Zaki Zida Zum'galena
+
+
+		}
+		
+		male_patronym = "sson"
+		female_patronym = "dottir"
+		prefix = no
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 10
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+
+		dukes_called_kings = yes
+		
+		modifier = default_culture_modifier
+	}	
+	
+}

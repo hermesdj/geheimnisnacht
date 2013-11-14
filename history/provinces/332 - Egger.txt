@@ -1,0 +1,20 @@
+# 332 Egger
+
+# County Title
+title = c_egger
+
+# Settlements
+max_settlements = 5
+b_hermdorf = castle
+b_ragenhof = temple
+b_gostahof = temple
+b_raddis = temple
+b_lieske = city
+b_radische = castle
+
+# Misc
+culture = talabeclander
+religion = taalite
+
+
+# History

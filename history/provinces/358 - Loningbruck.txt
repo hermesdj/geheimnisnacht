@@ -1,0 +1,18 @@
+# 358 Loningbruck
+
+# County Title
+title = c_loningbruck
+
+# Settlements
+max_settlements = 4
+b_loningbruck = castle
+b_agheiten = city
+b_hammelburg = temple
+b_geseke = castle
+
+# Misc
+culture = averlander
+religion = sigmarite
+
+
+# History

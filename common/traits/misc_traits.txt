@@ -1,0 +1,135 @@
+
+############################
+# HARD STATUS - DO NOT REMOVE!
+############################
+
+crusader = {
+	potential = {
+		religion_group = christian
+	}
+
+	customizer = no	
+	martial = 2
+	
+	church_opinion = 25
+	same_opinion_if_same_religion = 30
+	
+	ai_zeal = 10
+}
+
+bastard = {
+	diplomacy = -1
+	same_opinion = 10
+	
+	customizer = no
+}
+twin = {
+	twin_opinion = 30
+	
+	customizer = no
+}
+legit_bastard = {
+	diplomacy = -1
+}
+pregnant = {
+	spouse_opinion = 25
+	
+	customizer = no
+}
+excommunicated = {
+	diplomacy = -5
+	same_religion_opinion = -30
+}
+kinslayer = {
+	diplomacy = -3
+	
+	dynasty_opinion = -25
+}
+homosexual = {
+	sex_appeal_opinion = 30 # Only to those of the same sex
+	vassal_opinion = -10
+	
+	fertility = -0.15
+	
+	cost = -10
+}
+
+child_of_consort = {
+	diplomacy = -1
+
+	customizer = no
+}
+
+peasant_leader = {
+	diplomacy = -5
+	
+	same_opinion = 50
+	
+	vassal_opinion = -20
+
+	rebel_inherited = yes
+	customizer = no
+}
+
+heresiarch = {
+	infidel_opinion = -30
+	
+	same_religion_opinion = 50
+	
+	rebel_inherited = yes
+	customizer = no
+	religious = yes
+}
+
+berserker = {
+	potential = {
+		OR = {
+			religion = norse_pagan
+			religion = norse_pagan_reformed
+		}
+	}
+	martial = 4
+	diplomacy = -2
+	
+	same_opinion = 20
+	
+	ai_rationality = -5
+}
+
+varangian = {
+	martial = 2
+	diplomacy = 1
+	
+	same_opinion = 20
+	
+	customizer = no
+}
+
+saoshyant = {
+	zoroastrian_opinion = 20
+	
+	customizer = no
+}
+
+saoshyant_descendant = {
+	agnatic = yes # Always inherited from fathers
+	
+	zoroastrian_opinion = 10
+	
+	customizer = no
+}
+
+viking = {
+	potential = {
+		OR = {
+			religion = norse_pagan
+			religion = norse_pagan_reformed
+		}
+	}
+	martial = 1
+	monthly_character_prestige = 0.3
+	same_religion_opinion = 15
+	
+	same_opinion = 10
+	religious = yes
+}

@@ -1,0 +1,163 @@
+1650000={
+name = "Katarin" #Tsarina of Kislev
+female = yes
+dynasty = 31005
+culture = kislevite
+religion = northern_gods
+military = 8
+diplomacy = 6
+stewardship = 4
+intrigue = 7
+learning = 10
+father = 1650001
+add_trait = "creature_human"
+add_trait = "mystic"
+add_trait = "brilliant_tactician"
+add_trait = "tall"
+add_trait = "cruel"
+add_trait = "fair"
+add_trait = "patient"
+add_trait = "quick"
+
+2499.2.12={birth=yes}
+2556.8.22={death=yes}
+}
+
+1650001={
+name = "Boris" #Tsar of Kislev
+dynasty = 31005
+culture = kislevite
+religion = northern_gods
+military = 8
+diplomacy = 6
+stewardship = 4
+intrigue = 4
+learning = 5
+father = 1650002
+add_trait = "creature_human"
+add_trait = "falconer"
+add_trait = "brilliant_tactician"
+add_trait = "tall"
+add_trait = "strong"
+add_trait = "wroth"
+
+2465.1.28={birth=yes}
+2517.2.19={death=yes}
+}
+
+1650002={
+name = "Vladimir" #Tsar of Kislev
+dynasty = 31005
+culture = kislevite
+religion = northern_gods
+military = 8
+diplomacy = 6
+stewardship = 4
+intrigue = 4
+learning = 5
+father = 1650003
+add_trait = "creature_human"
+add_trait = "charismatic_negotiator"
+add_trait = "tall"
+add_trait = "fair"
+add_trait = "patient"
+
+2439.1.28={birth=yes}
+2492.2.10={death=yes}
+}
+
+1650003={
+name = "Pavel" #Tsar of Kislev
+dynasty = 31005
+culture = kislevite
+religion = northern_gods
+military = 8
+diplomacy = 6
+stewardship = 4
+intrigue = 4
+learning = 5
+mother = 1650012
+add_trait = "creature_human"
+add_trait = "charismatic_negotiator"
+add_trait = "proud"
+add_trait = "envious"
+add_trait = "diligent"
+
+2415.1.28={birth=yes}
+2484.8.17={death=yes}
+}
+
+
+
+1650012={
+name = "Kattarin" #Vampire Tsarina of Kislev
+female = yes
+dynasty = 31005
+dna = "ahkfabhcaag"
+culture = kislevite
+religion = northern_gods
+military = 8
+diplomacy = 6
+stewardship = 4
+intrigue = 4
+learning = 5
+add_trait = "creature_human"
+add_trait = "charismatic_negotiator"
+add_trait = "vampire_lahmian_hidden"
+add_trait = "proud"
+add_trait = "envious"
+add_trait = "patient"
+add_trait = "fair"
+add_trait = "tall"
+add_trait = "strong"
+
+2289.5.8={birth=yes}
+2471.7.30={death=yes}
+}
+
+
+
+
+1650013={
+name = "Alexis" #Tsar of Kislev
+dynasty = 73299
+culture = kislevite
+religion = northern_gods
+military = 8
+diplomacy = 6
+stewardship = 4
+intrigue = 4
+learning = 5
+add_trait = "creature_human"
+add_trait = "charismatic_negotiator"
+add_trait = "proud"
+
+2256.12.28={birth=yes}
+2315.3.10={death=yes}
+}
+
+
+
+
+1650020={
+name = "Ivana" #Graf Valmir's wife
+female = yes
+dynasty = 73105
+culture = kislevite
+religion = northern_gods
+military = 5
+diplomacy = 6
+stewardship = 4
+intrigue = 2
+learning = 1
+add_trait = "creature_human"
+add_trait = "gardener"
+add_trait = "underhanded_rogue"
+add_trait = "kind"
+add_trait = "fair"
+add_trait = "gregarious"
+
+2478.6.25={birth=yes}
+1998.6.19 = {add_spouse=800062}
+2520.2.20={death=yes}
+}

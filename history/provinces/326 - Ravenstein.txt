@@ -1,0 +1,20 @@
+# 326 Ravenstein
+
+# County Title
+title = c_ravenstein
+
+# Settlements
+max_settlements = 5
+b_ravenstein = castle
+b_klepzig = city
+b_volgen = city
+b_guttow = temple
+b_kortlheim = castle
+b_priestlicheim = temple
+
+# Misc
+culture = talabeclander
+religion = taalite
+
+
+# History

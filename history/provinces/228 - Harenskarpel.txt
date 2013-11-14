@@ -1,0 +1,18 @@
+# 228 Harenskarpel
+
+# County Title
+title = c_harenskarpel
+
+# Settlements
+max_settlements = 4
+b_fort_solace = castle
+b_harenskarpel = city
+b_kriel = castle
+b_muiden = city
+
+# Misc
+culture = westerlander
+religion = sigmarite
+
+
+# History

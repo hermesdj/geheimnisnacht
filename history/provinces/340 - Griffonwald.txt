@@ -1,0 +1,17 @@
+# 340 Griffonwald
+
+# County Title
+title = c_griffonwald
+
+# Settlements
+max_settlements = 3
+b_rugenbuttle = castle
+b_velden = temple
+b_weilheim = city
+
+# Misc
+culture = ostermarker
+religion = taalite
+
+
+# History

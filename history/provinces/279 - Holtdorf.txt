@@ -1,0 +1,18 @@
+# 279 Holtdorf
+
+# County Title
+title = c_holtdorf
+
+# Settlements
+max_settlements = 4
+b_holtdorf = castle
+b_kehl = city
+b_leonberg = city
+b_boxberg = temple
+
+# Misc
+culture = middenlander
+religion = ulrican
+
+
+# History
