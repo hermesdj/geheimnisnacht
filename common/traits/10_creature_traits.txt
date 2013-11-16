@@ -1,64 +1,3 @@
-#Chaos Cultist
-
-chaos_undivided_cultist_hidden = {
-}
-
-khorne_cultist_hidden = {
-}
-
-nurgle_cultist_hidden = {
-}
-
-slaanesh_hidden_hidden = {
-}
-
-tzeentch_cultist_hidden = {
-}
-
-#Renegade Chaos Cultist
-
-zuvassin_cultist_hidden = {
-}
-
-malal_cultist_hidden = {
-}
-
-necoho_cultist_hidden = {
-}
-
-#Yellow Fang Cultist
-
-yellow_fang_cultist_hidden = {
-}
-
-#Vampire Cultist
-
-vampire_cultist_hidden = {
-}
-
-#Ahalt Cultist
-
-ahalt_cultist_hidden = {
-}
-
-#Vylmar Cultist
-
-vylmar_cultist_hidden = {
-}
-
-#True Grail Cultist
-
-true_grail_cultist_hidden = {
-}
-
-#Necromancer
-
-necromancer_cultist_hidden = {
-}
-
-
-
-
 creature_human = {
 	inherit_chance = 100
 }
@@ -68,9 +7,9 @@ creature_elf = {
 	immortal = yes
 	fertility = -10.0
 	opposites = {
-	trait = creature_dwarf
+		trait = creature_dwarf
 	}
-	opposite_opinion = -30
+	opposite_opinion = -10
 }
 
 creature_dwarf = {
@@ -78,11 +17,11 @@ creature_dwarf = {
 	immortal = yes
 	fertility = -10.0
 	opposites = {
-	trait = creature_chaos_dwarf
-	trait = creature_goblin
-	trait = creature_snotling
-	trait = creature_orc
-	trait = creature_skaven
+		trait = creature_chaos_dwarf
+		trait = creature_goblin
+		trait = creature_snotling
+		trait = creature_orc
+		trait = creature_skaven
 	}
 
 	opposite_opinion = -100
@@ -100,7 +39,6 @@ creature_halfling = {
 
 creature_orc = {
 	inherit_chance = 100
-	immortal = yes
 	fertility = -10.0
 	cannot_marry = yes
 	ai_rationality = -20
@@ -151,42 +89,6 @@ creature_beastman = {
 	ai_rationality = -20
 	vassal_opinion = -50
 }
-
-#Dwarf
-
-dwarf_infant = {
-#0-16 Navnsded
-}
-
-dwarf_youth = {
-#16-30 Garazi 
-}
-
-dwarf_adult = {
-#30-70 Gnutrommi 
-}
-
-dwarf_fullbeard = {
-#70-120 Altrommi 
-}
-
-dwarf_longbeard = {
-#120-150 Langktrommi 
-}
-
-dwarf_elder = {
-#150-200 Throngrink 
-}
-
-dwarf_greatbeard = {
-#200-400 Gormtrommi 
-}
-
-dwarf_ancestor = {
-#400+ Karugromthi 
-}
-
-
 
 #Greenskins
 
@@ -314,7 +216,7 @@ goblin_massive = {
 	ai_zeal = 80
 }
 
-#Vampires
+#Vampires every vampire trait should have religious = yes modifier 
 
 vampire_lahmian_visible = {
 
@@ -429,6 +331,9 @@ vampire_mahtmasi_visible = {
 	ai_rationality = -100 
 }
 
+# Special chars (i don't know why bother with that kind of traits)
+# is there not enough regular traits to presonalize person?
+
 special_char_nefereta = {
 
 	monthly_character_piety = 5
@@ -529,25 +434,3 @@ special_char_nagash = {
 	ai_ambition = 30
 	ai_rationality = 50 
 }
-
-nehekharan_child = {
-}
-
-nagarythi_elf = {
-}
-
-sylvanian_human = {
-}
-
-mousillonian_human = {
-}
-
-strigany_human = {
-}
-
-reclaimed_druchi_elf = {
-}
-
-reclaimed_asur_elf = {
-}
-

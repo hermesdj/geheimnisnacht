@@ -1,0 +1,174 @@
+#
+# Here should be the events responisble for mutations
+# Mutation gaining mechanism is base on second edition of WFRP
+# and skype discussions
+#
+#
+# Ways to get mutated (all mentioned in book)
+# Handled in this event
+# 1.Bad location 
+# 2.Relics of chaos (books etc)
+#
+# Handled by other evnet chains
+# 3.Using magic [magicengine]
+# 4.From birth [on_action_event]
+# 5.Nurgle's rotv [health_events]
+# 6.Possession [possession_engine]
+#
+namespace = mutations
+#
+# Main event for getting random mutations
+#
+character_event = {
+    id = mutations.1
+    hide_window = yes
+
+    # things which exclude mutations
+    trigger = {
+        NOT = { trait = creature_elf }
+        # maybe put here elves and greenskins and dwarves i don't know
+    }
+    # here is the meat 
+    mean_time_to_happen = {
+        years = 300
+
+        # Cosmic modifers not geography or trait dependent
+        #
+        # Morrslieb presence
+        modifier = {
+            factor = 0.4
+            has_global_flag = morrslieb_full # this is more important in birth events
+        }
+        # Chaos counter modifier
+        modifier = {
+            factor = 0.9
+            has_global_flag = doom_low
+        }
+        modifier = {
+            factor = 0.6
+            has_global_flag = doom_medium
+        }
+        modifier = {
+            factor = 0.5
+            has_global_flag = doom_high
+        }
+        modifier = {
+            factor = 0.4
+            has_global_flag = doom_very_high
+        }
+        modifier = {
+            factor = 0.3
+            has_global_flag = doom
+        }
+        #
+        # Trait dependent modifiers
+        #
+        modifier = {
+            factor = 10
+            trait = creature_dwarf 
+        }
+        modifier = {
+            factor = 5
+            trait = creature_chaos_dwarf 
+        }
+        modifier = {
+            factor = 4
+            trait = creature_halfling
+        }
+  
+        # Getting mutated by by nurgle illness (this should be placed in nurgle's disease effct
+        # maybe?
+        #
+        # Religion dependent modifier (obviously service under darks gods banner increase chance)
+        # basic modifer 
+        modifier = {
+            factor = 0.1 # one mutation per 30 years
+            OR = {
+                religion_group = chaos_gods_group
+                religion_group = beastman_gods_groups
+                religion_group = horened_rat_god_groups
+            }
+        }
+        # modifier for more zealous guys
+        modifier = {
+            factor = 0.7
+            AND = {
+                OR = {
+                    religion_group = chaos_gods_group
+                    religion_group = beastman_gods_groups
+                    religion_group = horened_rat_god_groups
+                }
+                piety = 50
+            }
+        }
+        modifier = {
+            factor = 0.8
+            AND = {
+                religion_group = chaos_gods_group
+                OR = {
+                    religion_group = chaos_gods_group
+                    religion_group = horened_rat_god_groups
+                    religion_group = beastman_gods_groups
+                }
+                piety = 200
+            }
+        }
+        modifier = {
+            factor = 0.8
+            AND = {
+                OR = {
+                    religion_group = chaos_gods_group
+                    religion_group = horened_rat_god_groups
+                    religion_group = beastman_gods_groups
+                }
+                piety = 500
+            }
+        }
+        modifier = {
+            factor = 0.8
+            AND = {
+                OR = {
+                    religion_group = chaos_gods_group
+                    religion_group = horened_rat_god_groups
+                    religion_group = beastman_gods_groups
+                }
+                piety = 500
+            }
+        }
+        # Location dependent modifiers
+        # to be done in empire only Sylvany gets modifer
+        modifier = {
+            factor = 0.5
+            OR = {
+                location = { kingdom = k_sylvania }
+            }   
+        }
+    }
+    # trigger an actual mutation event depending on 
+    # the amount of mutations
+    immediate = {
+        character_event = { id = mutation.2 }
+    }
+}
+#
+# Actual mutation gaining event to be done after you guys decide
+# how the mutation trait will work
+# character_event = {
+#    id = mutations.2
+#    desc = "TODO"
+#    picture = ""
+#    is_triggered_only = yes
+#    
+#    # first mutation
+#    option = {
+#        trigger = {
+#            NOT = {
+#            
+#            }
+#        }
+#        name = "TODO"
+#        random_list = {
+#            25 = 
+#        }
+#    }
+#}

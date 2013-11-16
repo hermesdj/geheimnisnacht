@@ -24,11 +24,11 @@
 #
 #
 #
-namespace = armageddonengine
+namespace = doomengine
 #
 # Periodical event
 province_event = {
-    id = armageddonengine.0
+    id = doomengine.0
     hide_window = yes
      
     trigger = {
@@ -56,12 +56,12 @@ province_event = {
             limit = {
                 NOT = { check_variable = { which = "doom_counter" value = 20 }}
             }
-            set_global_flag = armageddon_no
+            set_global_flag = doom_no
             # clear rest of flags
-            clr_global_flag = armageddon_low
-            clr_global_flag = armageddon_medium
-            clr_global_flag = armageddon_high
-            clr_global_flag = armageddon_very_high
+            clr_global_flag = doom_low
+            clr_global_flag = doom_medium
+            clr_global_flag = doom_high
+            clr_global_flag = doom_very_high
         }
         # 20-39
         if = {
@@ -69,12 +69,12 @@ province_event = {
                 check_variable = { which = "doom_counter" value = 20 }
                 NOT = { check_variable = { which = "doom_counter" value = 40 }}
             }
-            set_global_flag = armageddon_low
+            set_global_flag = doom_low
             # clear rest of flags
-            clr_global_flag = armageddon_no
-            clr_global_flag = armageddon_medium
-            clr_global_flag = armageddon_high
-            clr_global_flag = armageddon_very_high
+            clr_global_flag = doom_no
+            clr_global_flag = doom_medium
+            clr_global_flag = doom_high
+            clr_global_flag = doom_very_high
         }
         # 40-59
         if = {
@@ -82,12 +82,12 @@ province_event = {
                 check_variable = { which = "doom_counter" value = 40 }
                 NOT = { check_variable = { which = "doom_counter" value = 60 }}
             }
-            set_global_flag = armageddon_medium
+            set_global_flag = doom_medium
             # clear rest of flags
-            clr_global_flag = armageddon_no
-            clr_global_flag = armageddon_low
-            clr_global_flag = armageddon_high
-            clr_global_flag = armageddon_very_high
+            clr_global_flag = doom_no
+            clr_global_flag = doom_low
+            clr_global_flag = doom_high
+            clr_global_flag = doom_very_high
         } 
         # 60-79 # chaos incrusion
         if = {
@@ -95,12 +95,12 @@ province_event = {
                 check_variable = { which = "doom_counter" value = 60 }
                 NOT = { check_variable = { which = "doom_counter" value = 80 }}
             }
-            set_global_flag = armageddon_high
+            set_global_flag = doom_high
             # clear rest of flags
-            clr_global_flag = armageddon_no
-            clr_global_flag = armageddon_low
-            clr_global_flag = armageddon_medium
-            clr_global_flag = armageddon_very_high
+            clr_global_flag = doom_no
+            clr_global_flag = doom_low
+            clr_global_flag = doom_medium
+            clr_global_flag = doom_very_high
         }
         # 80-99 # world is flooded by chaos
         if = {
@@ -108,25 +108,25 @@ province_event = {
                 check_variable = { which = "doom_counter" value = 80 }
                 NOT = { check_variable = { which = "doom_counter" value = 100 }}
             }
-            set_global_flag = armageddon_very_high
+            set_global_flag = doom_very_high
             # clear rest of flags
-            clr_global_flag = armageddon_no
-            clr_global_flag = armageddon_low
-            clr_global_flag = armageddon_medium
-            clr_global_flag = armageddon_high
+            clr_global_flag = doom_no
+            clr_global_flag = doom_low
+            clr_global_flag = doom_medium
+            clr_global_flag = doom_high
         }
         # 100 - the Doom
         if = {
             limit = {
                 check_variable = { which = "doom_counter" value = 100 }
             }
-            clr_global_flag = armageddon_no
-            clr_global_flag = armageddon_low
-            clr_global_flag = armageddon_medium
-            clr_global_flag = armageddon_high
-            clr_global_flag = armageddon_very_high
+            clr_global_flag = doom_no
+            clr_global_flag = doom_low
+            clr_global_flag = doom_medium
+            clr_global_flag = doom_high
+            clr_global_flag = doom_very_high
             # end game (somehow: maybe kill all pc characters dynasty)
-            set_global_flag = armageddon
+            set_global_flag = doom
         }
     }
     # no options this is hidden event
