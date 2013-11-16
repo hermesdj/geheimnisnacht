@@ -1,0 +1,135 @@
+# THE DOOM ENGINE
+#
+# Those events are responsible for maintaining the balance of forces in 
+# WH world they compute the doom counter which 
+# is the number used to describe how bad world is corrupted by chaos (1-100)
+#
+#
+# Armaggedon counter:
+# 1-19  : the forces of order are at peak of their strength
+# 20-39 : cultists activity minor beastmen attack
+# 40-59 : severe cultists activity, disease, wars etc are spreading
+# 60-79 : chaos invasion
+# 80-99 : fate of world hangs in the balance, last time it was that bad in time of Anaerion the Defender
+# 100 : ultimate destruction - game over
+#
+#
+# Due the work of elven vortex which is sucking the chaos energies 
+# the counter wents down each two months (-3)
+#
+# However every bad thing that happen in world increase a counter a little bit
+# 
+#
+#
+#
+#
+#
+namespace = armageddonengine
+#
+# Periodical event
+province_event = {
+    id = armageddonengine.0
+    hide_window = yes
+     
+    trigger = {
+        province_id = 1 # here should be id of some chosen province
+    }
+    mean_time_to_happen = {
+        months = 2
+    }
+    immediate = {
+        #  initialisation
+        if = { limit = { NOT = { check_variable = { which = "doom_counter" value = 4 }}}
+            set_variable = { which = "doom_counter" value = 4 }
+        }
+        # changing due to the vortex existence
+        if = { 
+            limit = { 
+                has_global_flag = vortex_exists  
+                check_variable = { which = "doom_counter" value = 4 }
+            }
+               
+            change_variable = { which = "doom_counter" value = -3 }
+        }
+        # 
+        if = {
+            limit = {
+                NOT = { check_variable = { which = "doom_counter" value = 20 }}
+            }
+            set_global_flag = armageddon_no
+            # clear rest of flags
+            clr_global_flag = armageddon_low
+            clr_global_flag = armageddon_medium
+            clr_global_flag = armageddon_high
+            clr_global_flag = armageddon_very_high
+        }
+        # 20-39
+        if = {
+            limit = {
+                check_variable = { which = "doom_counter" value = 20 }
+                NOT = { check_variable = { which = "doom_counter" value = 40 }}
+            }
+            set_global_flag = armageddon_low
+            # clear rest of flags
+            clr_global_flag = armageddon_no
+            clr_global_flag = armageddon_medium
+            clr_global_flag = armageddon_high
+            clr_global_flag = armageddon_very_high
+        }
+        # 40-59
+        if = {
+            limit = {
+                check_variable = { which = "doom_counter" value = 40 }
+                NOT = { check_variable = { which = "doom_counter" value = 60 }}
+            }
+            set_global_flag = armageddon_medium
+            # clear rest of flags
+            clr_global_flag = armageddon_no
+            clr_global_flag = armageddon_low
+            clr_global_flag = armageddon_high
+            clr_global_flag = armageddon_very_high
+        } 
+        # 60-79 # chaos incrusion
+        if = {
+            limit = {
+                check_variable = { which = "doom_counter" value = 60 }
+                NOT = { check_variable = { which = "doom_counter" value = 80 }}
+            }
+            set_global_flag = armageddon_high
+            # clear rest of flags
+            clr_global_flag = armageddon_no
+            clr_global_flag = armageddon_low
+            clr_global_flag = armageddon_medium
+            clr_global_flag = armageddon_very_high
+        }
+        # 80-99 # world is flooded by chaos
+        if = {
+            limit = {
+                check_variable = { which = "doom_counter" value = 80 }
+                NOT = { check_variable = { which = "doom_counter" value = 100 }}
+            }
+            set_global_flag = armageddon_very_high
+            # clear rest of flags
+            clr_global_flag = armageddon_no
+            clr_global_flag = armageddon_low
+            clr_global_flag = armageddon_medium
+            clr_global_flag = armageddon_high
+        }
+        # 100 - the Doom
+        if = {
+            limit = {
+                check_variable = { which = "doom_counter" value = 100 }
+            }
+            clr_global_flag = armageddon_no
+            clr_global_flag = armageddon_low
+            clr_global_flag = armageddon_medium
+            clr_global_flag = armageddon_high
+            clr_global_flag = armageddon_very_high
+            # end game (somehow: maybe kill all pc characters dynasty)
+            set_global_flag = armageddon
+        }
+    }
+    # no options this is hidden event
+}
+#
+# 
