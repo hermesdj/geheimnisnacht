@@ -5,6 +5,12 @@ creature_human = {
 creature_elf = {
 	inherit_chance = 100
 	immortal = yes
+	learning = 2
+	diplomacy = 2
+	martial = 2
+	intrigue = 1
+	stewardship = 1
+
 	fertility = -10.0
 	opposites = {
 		trait = creature_dwarf

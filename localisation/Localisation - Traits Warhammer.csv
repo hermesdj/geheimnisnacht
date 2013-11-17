@@ -573,19 +573,28 @@ has_ochre_pox_desc;This character suffers from the Ochre Pox, a deadly and virul
 has_neiglish_rot;Has Neiglsh Rot;;;;;;;;;;;;;x
 has_neiglish_rot_desc;This character suffers from the dreaded Neiglish Rot. Neiglish Rot torments the victim and leaves them in wracking pain, often driving them to suicide or insanity. It can also cause the victim to mutate uncontrollably, so survivors will often find themselves condemned for corruption.;;;;;;;;;;;;;x
 # MAGIC TRAITS
-lore_fire;This character can manipulate Aqshy the red wind of magic.;;;;;;;;;;;;;x
-lore_beasts;This character can manipulate Ghur the amber wind of magic.;;;;;;;;;;;;;x
-lore_light;This character can manipulate Hysh the white wind of magic.;;;;;;;;;;;;;x
-lore_life;This character can manipulate Ghyran the green wind of magic.;;;;;;;;;;;;;x
-lore_heavens;This character can manipulate Azyr the blue wind of magic.;;;;;;;;;;;;;x
-lore_death;This character can manipulate Shyish the purple wind of magic.;;;;;;;;;;;;;x
-lore_shadows;This character can manipulate Ulgu the gray wind of magic.;;;;;;;;;;;;;x
-#
-#
+lore_fire;Lore of Fire;;;;;;;;;;;;;x
+lore_beasts;Lore of Beasts;;;;;;;;;;;;;x
+lore_light;Lore of Light;;;;;;;;;;;;;x
+lore_life;Lore of life;;;;;;;;;;;;;x
+lore_heavens;Lore of Heavens;;;;;;;;;;;;;x
+lore_death;Lore of Death.;;;;;;;;;;;;;x
+lore_shadows;Lore of Shadows;;;;;;;;;;;;;x
+lore_high_magic;High Magic;;;;;;;;;;;;;x
+lore_dark_magic;Dark Magic;;;;;;;;;;;;;x
+lore_nurgle;Lore - Nurgle;;;;;;;;;;;;;x
+lore_slaanesh;Lore - Slaanesh;;;;;;;;;;;;;x
+lore_tzeenth;Lore - Tzeenth.;;;;;;;;;;;;;x
+# descriptions
+lore_fire_desc;This character can manipulate Aqshy the red wind of magic.;;;;;;;;;;;;;x
+lore_beasts_desc;This character can manipulate Ghur the amber wind of magic.;;;;;;;;;;;;;x
+lore_light_desc;This character can manipulate Hysh the white wind of magic.;;;;;;;;;;;;;x
+lore_life_desc;This character can manipulate Ghyran the green wind of magic.;;;;;;;;;;;;;x
+lore_heavens_desc;This character can manipulate Azyr the blue wind of magic.;;;;;;;;;;;;;x
+lore_death_desc;This character can manipulate Shyish the purple wind of magic.;;;;;;;;;;;;;x
+lore_shadows_desc;This character can manipulate Ulgu the gray wind of magic.;;;;;;;;;;;;;x
 lore_high_magic;This character knows the most refined and powerfull magic - High Magic [This.GetSheHe] is able to control all magical winds in the same time.;;;;;;;;;;;;;x
-#
 lore_dark_magic;This character knows the most  and destructive magic - Dark Magic [This.GetSheHe] is able to twist and mix all of magical winds in [This.GetHerHis] spells.;;;;;;;;;;;;;x
-#
 lore_nurgle;Nurgle gifted the character with special spells.;;;;;;;;;;;;;x
 lore_slaanesh;Slaanesh gifted the character with special spells.;;;;;;;;;;;;;x
 lore_tzeenth;Tzeenth gifted the character with special spells.;;;;;;;;;;;;;x

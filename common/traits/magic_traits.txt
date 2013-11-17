@@ -1,24 +1,24 @@
-#Magic Power
-magic_power_initiate = {
-	opposites = {
-		magic_power_adept
-		magic_power_archmaster
-		magic_power_magister
-	}
-}
+# Magic Power
 magic_power_adept = {
 	opposites = {
-		magic_power_initiate
+		magic_power_lord
 		magic_power_archmaster
 		magic_power_magister
 	}
-	monthly_character_prestige = 0.1
 }
 magic_power_magister = {
 	opposites = {
 		magic_power_adept
 		magic_power_archmaster
-		magic_power_initiate
+		magic_power_lord
+	}
+	monthly_character_prestige = 0.1
+}
+magic_power_lord = {
+	opposites = {
+		magic_power_adept
+		magic_power_archmaster
+		magic_power_magister
 	}
 	monthly_character_prestige = 0.3
 	health = 0.5	# magic prolongs life nobody knows why
@@ -26,7 +26,7 @@ magic_power_magister = {
 magic_power_archmaster = {
 	opposites = {
 		magic_power_adept
-		magic_power_initiate
+		magic_power_lord
 		magic_power_magister
 	}
 	health = 1	# magic prolongs life nobody knows why
@@ -49,10 +49,11 @@ lore_death = {
 }
 lore_shadows = {
 }
-# High elven
-lore_high_magic
-
+# High elven magic
+lore_high_magic = {
+}
 #Lores of Chaos
+
 lore_dark_magic = {
 }
 lore_nurgle = {

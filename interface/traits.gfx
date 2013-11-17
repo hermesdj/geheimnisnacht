@@ -1272,4 +1272,127 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+        # Magic traits
+        spriteType = {
+		name = "GFX_trait_magic_power_adept"
+		texturefile = "gfx/traits/magic_power_adept.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_magic_power_magister"
+		texturefile = "gfx/traits/magic_power_magister.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_magic_power_lord"
+		texturefile = "gfx/traits/magic_power_lord.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_magic_power_archmaster"
+		texturefile = "gfx/traits/magic_power_archmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        # Magic lores
+        spriteType = {
+		name = "GFX_trait_lore_high_magic"
+		texturefile = "gfx/traits/lore_high_magic.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_light"
+		texturefile = "gfx/traits/lore_hysh.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_beasts"
+		texturefile = "gfx/traits/lore_ghur.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_fire"
+		texturefile = "gfx/traits/lore_aqshy.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_death"
+		texturefile = "gfx/traits/lore_shyish.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_life"
+		texturefile = "gfx/traits/lore_ghyran.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_shadows"
+		texturefile = "gfx/traits/lore_ulgu.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_metal"
+		texturefile = "gfx/traits/lore_chamon.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_heavens"
+		texturefile = "gfx/traits/lore_azur.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_dark_magic"
+		texturefile = "gfx/traits/lore_dhar.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_slaanesh"
+		texturefile = "gfx/traits/lore_slaanesh.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_nurgle"
+		texturefile = "gfx/traits/lore_nurgle.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_lore_tzeenth"
+		texturefile = "gfx/traits/lore_tzeenth.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+
 }

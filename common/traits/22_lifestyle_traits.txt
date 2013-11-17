@@ -91,20 +91,6 @@ falconer = {
 }
 
 # Those are added traits
-fashionista = {
-	lifestyle = yes
-	
-	diplomacy = 1
-	martial = -1
-
-	sex_appeal_opinion = 5
-	
-	monthly_character_prestige = 0.5
-	
-	same_opinion = 20
-}
-
-
 socialite = {
 	lifestyle = yes
 	
@@ -112,6 +98,7 @@ socialite = {
 	intrigue = 1
 
 	sex_appeal_opinion = 5
+	monthly_character_prestige = 0.01
 	
 	same_opinion = 20
 }
@@ -181,14 +168,6 @@ monster_hunter = {
 	martial = 2
 	
 	monthly_character_prestige = 0.5
-	
-	same_opinion = 20
-}
-
-sailor = {
-	lifestyle = yes
-	
-	stewardship = 1
 	
 	same_opinion = 20
 }
