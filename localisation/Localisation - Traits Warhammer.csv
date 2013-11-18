@@ -475,9 +475,9 @@ massively_scarred_desc;This character's body is a diary of battles and adventure
 mutation_minor;Minor Mutation;;;;;;;;;;;;;x
 mutation_minor_desc;This character possess a small mutation that has little effect.;;;;;;;;;;;;;x
 mutation_major;Major Mutation;;;;;;;;;;;;;x
-mutation_major_desc;This character possess a large mutation that radically changes [GetHerHis] body.;;;;;;;;;;;;;x
+mutation_major_desc;This character possess a large mutation that radically changes [This.GetHerHis] body.;;;;;;;;;;;;;x
 mutation_massive;Massive Mutation;;;;;;;;;;;;;x
-mutation_massive_desc;This character is so mutated [GetSheHe] is barely recognizable.;;;;;;;;;;;;;x
+mutation_massive_desc;This character is so mutated [This.GetSheHe] is barely recognizable.;;;;;;;;;;;;;x
 # MAGIC TRAITS
 lore_fire;Lore of Fire;;;;;;;;;;;;;x
 lore_beasts;Lore of Beasts;;;;;;;;;;;;;x
