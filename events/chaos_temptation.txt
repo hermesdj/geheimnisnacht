@@ -28,7 +28,7 @@ character_event = {
         }
         modifier = {
             factor = 0.7
-            trait = slouthful
+            trait = slothful
         }
         modifier = {
             factor = 0.9
