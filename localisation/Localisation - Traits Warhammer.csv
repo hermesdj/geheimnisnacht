@@ -1,6 +1,4 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-fashionista;Fashionista;;;;;;;;;;;;;x
-fashionista_desc;This character is always setting the latest fashions and styles, exploring the bounds of social convention and establishing the standards of the day.;;;;;;;;;;;;;x
 socialite;Socialite;;;;;;;;;;;;;x
 socialite_desc;This character is a social butterfly, planning and attending events which allow them to make advantageous friendships and gather rumours.;;;;;;;;;;;;;x
 alchemist;Alchemist;;;;;;;;;;;;;x
@@ -17,18 +15,12 @@ engineer;Engineer;;;;;;;;;;;;;x
 engineer_desc;This character experiments with simple and complex machinery.;;;;;;;;;;;;;x
 monster_hunter;Monster Hunter;;;;;;;;;;;;;x
 monster_hunter_desc;This character seeks the most dangerous game.;;;;;;;;;;;;;x
-sailor;Sailor;;;;;;;;;;;;;x
-sailor_desc;This character has a love of sailing and the sea.;;;;;;;;;;;;;x
 flagellant;Flagellant;;;;;;;;;;;;;x
 flagellant_desc;This character believes strongly in mortification of the flesh.;;;;;;;;;;;;;x
 benefactor;Benefactor;;;;;;;;;;;;;x
 benefactor_desc;This character devotes a great deal of effort to benefiting the poor and needy.;;;;;;;;;;;;;x
 slaver;Slaver;;;;;;;;;;;;;x
 slaver_desc;This character is an enthusiastic participant in the slave trade, involving themselves whenever possible.;;;;;;;;;;;;;x
-withdrawn;Withdrawn;;;;;;;;;;;;;x
-withdrawn_desc;This character is unenthusiastic at best regarding social interaction. They would much rather delegate to assistants and avoid unnecessary contact with the outside world.;;;;;;;;;;;;;x
-reclusive;Reclusive;;;;;;;;;;;;;x
-reclusive_desc;This character is rarely seen, having shut themselves away from all others. They are incapable of administering effectively and must employ a regent, while fanciful rumours run rampant.;;;;;;;;;;;;;x
 # CREATURE TRAITS
 creature_human;Human;;;;;;;;;;;;;x
 creature_human_desc;This character is a Human.;;;;;;;;;;;;;x
@@ -479,6 +471,10 @@ mutation_major_desc;This character possess a large mutation that radically chang
 mutation_massive;Massive Mutation;;;;;;;;;;;;;x
 mutation_massive_desc;This character is so mutated [This.GetSheHe] is barely recognizable.;;;;;;;;;;;;;x
 # MAGIC TRAITS
+magic_power_adept;Adept;;;;;;;;;;;;;x
+magic_power_magister;Magister;;;;;;;;;;;;;x
+magic_power_lord;Wizard Lord;;;;;;;;;;;;;x
+magic_power_archmaster;Arch-wizard;;;;;;;;;;;;;x
 lore_fire;Lore of Fire;;;;;;;;;;;;;x
 lore_beasts;Lore of Beasts;;;;;;;;;;;;;x
 lore_metal;Lore of Metal;;;;;;;;;;;;;x
@@ -493,6 +489,10 @@ lore_nurgle;Lore of Nurgle;;;;;;;;;;;;;x
 lore_slaanesh;Lore of Slaanesh;;;;;;;;;;;;;x
 lore_tzeenth;Lore of Tzeenth.;;;;;;;;;;;;;x
 # MAGIC TRAITS Descriptions
+magic_power_adept_desc;This character shows an affinity in the use of magic.;;;;;;;;;;;;;x
+magic_power_magister_desc;This character is capable in the use of magic.;;;;;;;;;;;;;x
+magic_power_lord_desc;This character is extremely skilled in the use of magic.;;;;;;;;;;;;;x
+magic_power_archmaster_desc;This character is one of the world's most talented practitioners of magic.;;;;;;;;;;;;;x
 lore_fire_desc;This character can manipulate Aqshy the red wind of magic.;;;;;;;;;;;;;x
 lore_beasts_desc;This character can manipulate Ghur the brown wind of magic.;;;;;;;;;;;;;x
 lore_light_desc;This character can manipulate Chamon the yellow wind of magic.;;;;;;;;;;;;;x
