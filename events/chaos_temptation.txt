@@ -67,6 +67,15 @@ character_event = {
         # Lifestyle depedent modifier
         # none for nurgle
         #
+        # Mutations
+        modifier = {
+            factor = 0.4
+            OR = {
+                trait = mutation_minor
+                trait = mutation_major
+                trait = mutation_massive
+            }
+        }
         # situation dependent ill characters are Nurgle's favourites
         modifier = {
             factor = 0.2
@@ -117,14 +126,14 @@ character_event = {
         }
         modifier = {
             factor = 0.9
-            trait = enviouus
+            trait = envious
         }
         modifier = {
             factor = 0.7
             trait = proud
         }
         modifier = {
-            factor = 0.9
+            factor = 0.7
             trait = gluttonous
         }
 
@@ -166,9 +175,17 @@ character_event = {
             factor = 0.8
             trait = impaler
         }
- 
+        # Mutations
+        modifier = {
+            factor = 0.4
+            OR = {
+                trait = mutation_minor
+                trait = mutation_major
+                trait = mutation_massive
+            }
+        }
 
-        # External influence
+
     }
     immediate = {
         # Make SW test ( writes output to sw_test)
@@ -197,8 +214,8 @@ character_event = {
 
         # Virtue dependent modifers 
         modifier = {
-            factor = 0.6
-            trait = enviouus
+            factor = 0.8
+            trait = envious
         }
         # Personality dependent modifiers    
         modifier = {
@@ -232,7 +249,15 @@ character_event = {
         }
  
         
-        # External influence
+        # Mutation
+        modifier = {
+            factor = 0.4
+            OR = {
+                trait = mutation_minor
+                trait = mutation_major
+                trait = mutation_massive
+            }
+        }
     }
     immediate = {
         # Make SW test ( writes output to sw_test)
@@ -307,7 +332,6 @@ character_event = {
         factor = 0.6
             trait = impaler
         }
- 
 
         
         # External influence
