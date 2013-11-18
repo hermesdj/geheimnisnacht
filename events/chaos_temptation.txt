@@ -1,0 +1,328 @@
+#
+#
+# Here should be events governing the falling into chaos mechanics
+#
+#
+namespace = temptation
+#
+#
+# First chaos temptation - general event
+# used to mark character as object of temptation
+#
+#
+# Temptation by Nurgle
+character_event = {
+    id = temptation.1
+    desc = "" #TODO
+    #picture = "" #TODO
+    trigger = {
+        is_capable = yes
+    }
+    mean_time_to_happen = {
+        years = 120
+
+        # Virtue dependent modifers 
+        modifier = {
+            factor = 0.8
+            trait = envious
+        }
+        modifier = {
+            factor = 0.7
+            trait = slouthful
+        }
+        modifier = {
+            factor = 0.9
+            trait = greedy
+        }
+        modifier = {
+            factor = 0.9
+            trait = gluttonous
+        }
+
+        # Personality dependent modifiers    
+        modifier = {
+            factor = 0.8
+            trait = content
+        }
+        modifier = {
+            factor = 0.8
+            trait = cruel
+        }
+        modifier = {
+            factor = 0.9
+            trait = deceitful
+        }
+        modifier = {
+            factor = 0.9
+            trait = arbitrary
+        }
+        modifier = {
+            factor = 0.9
+            trait = cynical
+        }
+        modifier = {
+            factor = 0.6
+            trait = craven
+        }
+        # Lifestyle depedent modifier
+        # none for nurgle
+        #
+        # situation dependent ill characters are Nurgle's favourites
+        modifier = {
+            factor = 0.2
+            OR = {
+                trait = ill
+                trait = pneumonic
+                trait = syphilitic
+                trait = has_green_pox
+                trait = has_red_pox
+                trait = has_nurgles_rot
+                trait = has_tomb_rot
+                trait = has_creeping_buboes
+                trait = has_rattlelung
+            }
+        }
+ 
+        
+    }
+    immediate = {
+        # Make SW test ( writes output to sw_test)
+        character_event = { id = dicethrow.1 }
+    }
+    # Temptation by some chosen god
+    option = {
+        name = "Oh yeess" #TODO
+    }
+    # Resist the chaos if you SW test went correctly
+    option = {
+        name = "No i can resist" #TODO
+        trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
+    }
+}
+# Temptation Slaanesh
+character_event = {
+    id = temptation.2
+    desc = "slannesh first temptation" #TODO
+    #picture = ""
+    trigger = {
+        is_capable = yes
+    }
+    mean_time_to_happen = {
+        years = 120
+
+        # Virtue dependent modifers 
+        modifier = {
+            factor = 0.4
+            trait = lustful
+        }
+        modifier = {
+            factor = 0.9
+            trait = enviouus
+        }
+        modifier = {
+            factor = 0.7
+            trait = proud
+        }
+        modifier = {
+            factor = 0.9
+            trait = gluttonous
+        }
+
+        # Personality dependent modifiers    
+        modifier = {
+            factor = 0.9
+            trait = brave
+        }
+        modifier = {
+            factor = 0.9
+            trait = ambitious
+        }
+        modifier = {
+            factor = 0.7
+            trait = cruel
+        }
+        modifier = {
+            factor = 0.9
+            trait = deceitful
+        }
+        modifier = {
+            factor = 0.9
+            trait = arbitrary
+        }
+        modifier = {
+            factor = 0.9
+            trait = cynical
+        }
+        # Lifestyle depedent modifier
+        modifier = {
+            factor = 0.6
+            trait = hedonist
+        }
+        modifier = {
+            factor = 0.9
+            trait = poet
+        }
+        modifier 
+            factor = 0.8
+            trait = impaler
+        }
+ 
+
+        # External influence
+    }
+    immediate = {
+        # Make SW test ( writes output to sw_test)
+        character_event = { id = dicethrow.1 }
+    }
+    # Temptation by some chosen god
+    option = {
+        name = "Nooo" #TODO
+    }
+    # Resist the chaos if you SW test went correctly
+    option = {
+        name = "No i can resist" #TODO
+        trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
+    }
+}
+# Temptation Tzeenth
+character_event = {
+    id = temptation.3
+    desc = "" #TODO
+    #picture = ""
+    trigger = {
+        is_capable = yes
+    }
+    mean_time_to_happen = {
+        years = 120
+
+        # Virtue dependent modifers 
+        modifier = {
+            factor = 0.6
+            trait = enviouus
+        }
+        # Personality dependent modifiers    
+        modifier = {
+            factor = 0.7
+            trait = ambitious
+        }
+        modifier = {
+            factor = 0.7
+            trait = cruel
+        }
+        modifier = {
+            factor = 0.5
+            trait = deceitful
+        }
+        modifier = {
+            factor = 0.9
+            trait = arbitrary
+        }
+        modifier = {
+            factor = 0.9
+            trait = cynical
+        }
+        # Lifestyle depedent modifier
+        modifier = {
+            factor = 0.8
+            trait = scholar
+        }
+        modifier = {
+            factor = 0.8
+            trait = mystic
+        }
+ 
+        
+        # External influence
+    }
+    immediate = {
+        # Make SW test ( writes output to sw_test)
+        character_event = { id = dicethrow.1 }
+    }
+    # Temptation by some chosen god
+    option = {
+        name = "Oh yeess" #TODO
+    }
+    # Resist the chaos if you SW test went correctly
+    option = {
+        name = "No i can resist"
+        trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
+    }
+}
+# Temptation Khorne
+character_event = {
+    id = temptation.4
+    desc = "" #TODO
+    #picture = ""
+    trigger = {
+        is_capable = yes
+    }
+    mean_time_to_happen = {
+        years = 120
+
+        # Virtue dependent modifers 
+        modifier = {
+            factor = 0.9
+            trait = enviouus
+        }
+        modifier = {
+            factor = 0.8
+            trait = proud
+        }
+        modifier = {
+            factor = 0.5
+            trait = wroth
+        }
+
+        # Personality dependent modifiers    
+        modifier = {
+            factor = 0.9
+            trait = ambitious
+        }
+        modifier = {
+            factor = 0.6
+            trait = cruel
+        }
+        modifier = {
+            factor = 0.9
+            trait = arbitrary
+        }
+        modifier = {
+            factor = 0.8
+            trait = cynical
+        }
+        # Lifestyle depedent modifier
+        modifier = {
+            factor = 0.8
+            trait = monster_hunter
+        }
+        modifier = {
+            factor = 0.8
+            trait = hunter
+        }
+        modifier = {
+            factor = 0.7
+            trait = duelist
+        }
+        modifier = {
+        factor = 0.6
+            trait = impaler
+        }
+ 
+
+        
+        # External influence
+    }
+    immediate = {
+        # Make SW test ( writes output to sw_test)
+        character_event = { id = dicethrow.1 }
+    }
+    # Temptation by some chosen god
+    option = {
+        name = "Oh yeess"
+    }
+    # Resist the chaos if you SW test went correctly
+    option = {
+        name = "No i can resist"
+        trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
+    }
+}

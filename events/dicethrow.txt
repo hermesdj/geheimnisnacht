@@ -1,0 +1,145 @@
+#
+# Here is the set of events resonsible for making different random test
+# against some values
+#
+#
+namespace = dicethrow
+#
+# 1 - sw test: k10 - max( learning,martial, diplomacy,intrigue) < 0
+#
+# SW ROLL 
+# output variable sw_test
+# 
+character_event = {
+    id = dicethrow.1
+    hide_window = yes
+    is_triggered_only = yes
+
+    immediate = {
+        random_list = {
+            10 = { set_variable = { which = "sw_test" value  = 1 }}
+            10 = { set_variable = { which = "sw_test" value  = 2 }}
+            10 = { set_variable = { which = "sw_test" value  = 3 }}
+            10 = { set_variable = { which = "sw_test" value  = 4 }}
+            10 = { set_variable = { which = "sw_test" value  = 5 }}
+            10 = { set_variable = { which = "sw_test" value  = 6 }}
+            10 = { set_variable = { which = "sw_test" value  = 7 }}
+            10 = { set_variable = { which = "sw_test" value  = 8 }}
+            10 = { set_variable = { which = "sw_test" value  = 9 }}
+            10 = { set_variable = { which = "sw_test" value  = 10 }}
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 3
+                    diplomacy = 3
+                    intrigue = 3
+                    martial = 3
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 6
+                    diplomacy = 6
+                    intrigue = 6
+                    martial = 6
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 9
+                    diplomacy = 9
+                    intrigue = 9
+                    martial = 9
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 12
+                    diplomacy = 12
+                    intrigue = 12
+                    martial = 12
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 15
+                    diplomacy = 15
+                    intrigue = 15
+                    martial = 15
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 18
+                    diplomacy = 18
+                    intrigue = 18
+                    martial = 18
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 21
+                    diplomacy = 21
+                    intrigue = 21
+                    martial = 21
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 24
+                    diplomacy = 24
+                    intrigue = 24
+                    martial = 24
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 27
+                    diplomacy = 27
+                    intrigue = 27
+                    martial = 27
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        if = {
+            limit = {
+                OR = {
+                    learning = 30
+                    diplomacy = 30
+                    intrigue = 30
+                    martial = 30
+                }
+            }
+            change_variable = { which = "sw_test" value = -1 }
+        }
+        # OK now we have computed k10 - "SW"
+        # so success output < 0
+    }
+
+}

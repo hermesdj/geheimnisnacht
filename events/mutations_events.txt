@@ -12,7 +12,7 @@
 # Handled by other evnet chains
 # 3.Using magic [magicengine]
 # 4.From birth [on_action_event]
-# 5.Nurgle's rotv [health_events]
+# 5.Nurgle's rot [health_events]
 # 6.Possession [possession_engine]
 #
 namespace = mutations
@@ -75,7 +75,15 @@ character_event = {
             factor = 4
             trait = creature_halfling
         }
-  
+        modifier = {
+            factor = 0.7
+            OR = {
+                trait =  mutation_minor
+                trait =  mutation_massive
+                trait =  mutation_major
+            }
+        }
+        
         # Getting mutated by by nurgle illness (this should be placed in nurgle's disease effct
         # maybe?
         #
