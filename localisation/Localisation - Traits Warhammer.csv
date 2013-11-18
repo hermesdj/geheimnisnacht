@@ -29,6 +29,7 @@ withdrawn;Withdrawn;;;;;;;;;;;;;x
 withdrawn_desc;This character is unenthusiastic at best regarding social interaction. They would much rather delegate to assistants and avoid unnecessary contact with the outside world.;;;;;;;;;;;;;x
 reclusive;Reclusive;;;;;;;;;;;;;x
 reclusive_desc;This character is rarely seen, having shut themselves away from all others. They are incapable of administering effectively and must employ a regent, while fanciful rumours run rampant.;;;;;;;;;;;;;x
+# CREATURE TRAITS
 creature_human;Human;;;;;;;;;;;;;x
 creature_human_desc;This character is a Human.;;;;;;;;;;;;;x
 creature_elf;Elf;;;;;;;;;;;;;x
@@ -55,6 +56,7 @@ creature_ogre;Ogre;;;;;;;;;;;;;x
 creature_ogre_desc;This character is an Ogre.;;;;;;;;;;;;;x
 creature_beastman;Beastman;;;;;;;;;;;;;x
 creature_beastman_desc;This character is a Beastman.;;;;;;;;;;;;;x
+# MOUNT TRAITS
 mount_dragon;Dragon;;;;;;;;;;;;;x
 mount_dragon_desc;This character possesses the services of a dragon.;;;;;;;;;;;;;x
 mount_dragon_undead;Undead Dragon;;;;;;;;;;;;;x
@@ -123,6 +125,7 @@ mount_thundertusk;Thundertusk;;;;;;;;;;;;;x
 mount_thundertusk_desc;This character possesses the services of a thundertusk.;;;;;;;;;;;;;x
 mount_stonehorn;Stonehorn;;;;;;;;;;;;;x
 mount_stonehorn_desc;This character possesses the services of a stonehorn.;;;;;;;;;;;;;x
+# ARMOUR TRAITS
 armour_chaos;Armour of Chaos;;;;;;;;;;;;;x
 armour_chaos_desc;This suit of cursed armour bears the taint of the warp, bonding to the flesh and whispering to the mind.;;;;;;;;;;;;;x
 armour_khorne;Armour of Khorne;;;;;;;;;;;;;x
@@ -137,11 +140,11 @@ armour_gromril;Gromril Armour;;;;;;;;;;;;;x
 armour_gromril_desc;This armour is forged from Gromril star-metal, providing excellent protection for the fortunate owner.;;;;;;;;;;;;;x
 armour_rune;Rune Armour;;;;;;;;;;;;;x
 armour_rune_desc;This armour possesses runes of strength and protection.;;;;;;;;;;;;;x
-mount_stonehorn;Stonehorn;;;;;;;;;;;;;x
 armour_enchanted;Enchanted Armour;;;;;;;;;;;;;x
 armour_enchanted_desc;This armour has been enchanted by wizardry to be stronger and tougher than regular armour.;;;;;;;;;;;;;x
 armour_blessed;Blessed Armour;;;;;;;;;;;;;x
 armour_blessed_desc;This armour has been blessed by divine power to be stronger and tougher than regular armour.;;;;;;;;;;;;;x
+# WEAPON TRAITS
 weapon_chaos;Weapon of Chaos;;;;;;;;;;;;;x
 weapon_chaos_desc;This weapon thirsts for slaughter and seeks to influence the mind of the wielder.;;;;;;;;;;;;;x
 weapon_khorne;Weapon of Khorne;;;;;;;;;;;;;x
@@ -160,6 +163,7 @@ weapon_enchanted;Enchanted Weapon;;;;;;;;;;;;;x
 weapon_enchanted_desc;This weapon has been enchanted by wizardry to be deadlier than regular weapons.;;;;;;;;;;;;;x
 weapon_blessed;Blessed Weapon;;;;;;;;;;;;;x
 weapon_blessed_desc;This weapon has been blessed by divine power to be deadlier than regular weapons.;;;;;;;;;;;;;x
+# WORSHIPPER TRAITS
 worshipper_of_elder_gods;Worshipper of the Elder Gods;;;;;;;;;;;;;x
 worshipper_of_elder_gods_desc;This character is not devoted to any particular god, instead paying reverence to the entire pantheon of elder gods.;;;;;;;;;;;;;x
 worshipper_of_classical_gods;Worshipper of the Classical Gods;;;;;;;;;;;;;x
@@ -344,6 +348,7 @@ worshipper_of_self;Worshipper of Self;;;;;;;;;;;;;x
 worshipper_of_self_desc;This character is devoted to nothing but themselves, regarding the patronage of a deity below them.;;;;;;;;;;;;;x
 worshipper_of_sigmars_saints;Worshipper of Sigmar's Saints;;;;;;;;;;;;;x
 worshipper_of_sigmars_saints_desc;This character is devoted to one or more of the saints of Sigmar, the champions and legends of ages past.;;;;;;;;;;;;;x
+# GREENSKIN TRAITS
 small_orc;Small Orc;;;;;;;;;;;;;x
 small_orc_desc;This orc is downright titchy and should only think about bossing even smaller things, like squigs and snotlings.;;;;;;;;;;;;;x
 average_orc;Average Orc;;;;;;;;;;;;;x
@@ -364,6 +369,7 @@ huge_goblin;Huge Goblin;;;;;;;;;;;;;x
 huge_goblin_desc;This goblin is huge, a clear sign of proper bossfulness.;;;;;;;;;;;;;x
 massive_goblin;Massive Goblin;;;;;;;;;;;;;x
 massive_goblin_desc;This goblin is massive, making them the rightful boss of every sensible goblin.;;;;;;;;;;;;;x
+# BRETONNIAN TRAITS
 virtue_of_chivalry;Virtue of Chivalry;;;;;;;;;;;;;x
 virtue_of_chivalry_desc;This Knight pursues the Virtue of Chivalry. Every knight must follow a wide-reaching code of conduct.;;;;;;;;;;;;;x
 virtue_of_audacity;Virtue of Audacity;;;;;;;;;;;;;x
@@ -400,14 +406,16 @@ knight_grail;Grail Knight;;;;;;;;;;;;;x
 knight_grail_desc;This Knight has found the Grail.;;;;;;;;;;;;;x
 knight_questing;Questing Knight;;;;;;;;;;;;;x
 knight_questing_desc;This Knight is actively searching for the Grail.;;;;;;;;;;;;;x
+# ELF TRAITS
 nagarythi_elf;Nagarythi;;;;;;;;;;;;;x
 nagarythi_elf_desc;This elf is from the Shadowlands, or Nagarythe. They are distrusted despite their actions.;;;;;;;;;;;;;x
+# VAMPIRE TRAITS
 vampire_lahmian_visible;Lahmian Vampire;;;;;;;;;;;;;x
 vampire_lahmian_visible_desc;This character is a Vampire of the Lahmian Bloodline. The Lahmian Vampires are known for being sensual as well as vicious. Their beauty often blinds their foes to the danger that lurks behind the mask.;;;;;;;;;;;;;x
 vampire_lahmian_hidden;Hidden Lahmian Vampire;;;;;;;;;;;;;x
 vampire_lahmian_hidden_desc;This character is unusually beautiful and their pale skin makes them look like a marble statue. It is not surprising then that they are most active at evening dinner parties.;;;;;;;;;;;;;x
 vampire_carstein_visible;Carstein Vampire;;;;;;;;;;;;;x
-vampire_carstein_visible_desc;This character is a vampire of the von Carstein bloodline.;;;;;;;;;;;;;x"
+vampire_carstein_visible_desc;This character is a vampire of the von Carstein bloodline.;;;;;;;;;;;;;x
 vampire_carstein_hidden;Hidden Carstein Vampire;;;;;;;;;;;;;x
 vampire_carstein_hidden_desc;What a nice fellow.;;;;;;;;;;;;;x
 vampire_blood_visible;Blood Dragon Vampire;;;;;;;;;;;;;x
@@ -430,6 +438,7 @@ vampire_mahtmasi_visible;Mahtmasi Vampire;;;;;;;;;;;;;x
 vampire_mahtmasi_visible_desc;Mahtmasi vampires are strange and mysterious things. It would be disingenuous to apply generalisations to such a diverse people.;;;;;;;;;;;;;x
 vampire_mahtmasi_hidden;Hidden Mahtmasi Vampire;;;;;;;;;;;;;x
 vampire_mahtmasi_hidden_desc;This character can't seem to decide what they want in life.;;;;;;;;;;;;;x
+# SPECIAL CHARACTER TRAITS
 special_char_nefereta;Nefereta;;;;;;;;;;;;;x
 special_char_nefereta_desc;Nefereta, the first vampire and founder of the Lahmian bloodline.;;;;;;;;;;;;;x
 special_char_vashanesh;Vashanesh;;;;;;;;;;;;;x
@@ -448,8 +457,10 @@ special_char_red_duke;The Red Duke;;;;;;;;;;;;;x
 special_char_red_duke_desc;The Red Duke should have died in battle with the Arabyans hundreds of years ago, but was driven mad by eternal life. Now the only name he remembers is the title given by his old enemies, 'El Syf ash-Shml', 'The Sword of the North'.;;;;;;;;;;;;;x
 special_char_nagash;Nagash;;;;;;;;;;;;;x
 special_char_nagash_desc;Once a grand and terrible wizard of Nehekhara, Nagash is now a monstrous undead form possessing somewhat diminished powers. His mind is ancient, but has not forgotten any of his enemies.;;;;;;;;;;;;;x
+# NEHEKHARAN TRAITS
 nehekharan_child;Nehekharan Child;;;;;;;;;;;;;x
 nehekharan_child_desc;This Nehekharan died and was entombed as a child. Despite their small and frail body, they are just as cunning and ambitious as their peers.;;;;;;;;;;;;;x
+# ADDITIONAL TRAITS
 tall;Tall;;;;;;;;;;;;;x
 tall_desc;This character is exceptionally tall.;;;;;;;;;;;;;x
 hideous;Hideous;;;;;;;;;;;;;x
@@ -460,121 +471,17 @@ heavily_scarred;Heavily Scarred;;;;;;;;;;;;;x
 heavily_scarred_desc;This character has recieved a great number of wounds and survived them all.;;;;;;;;;;;;;x
 massively_scarred;Massively Scarred;;;;;;;;;;;;;x
 massively_scarred_desc;This character's body is a diary of battles and adventures, each one leaving their mark.;;;;;;;;;;;;;x
-mutation_mark_chaos;Mark of Chaos;;;;;;;;;;;;;x
-mutation_mark_chaos_desc;This character is marked by the brand of Chaos. All who look upon them will know that they bear the favour of the Dark Gods.;;;;;;;;;;;;;x
-mutation_mark_khorne;Mark of Khorne;;;;;;;;;;;;;x
-mutation_mark_khorne_desc;This character is marked by the brand of Khorne. All who look upon them will know that they bear the favour of the Dark God.;;;;;;;;;;;;;x
-mutation_mark_nurgle;Mark of Nurgle;;;;;;;;;;;;;x
-mutation_mark_nurgle_desc;This character is marked by the brand of Nurgle. All who look upon them will know that they bear the favour of the Dark God.;;;;;;;;;;;;;x
-mutation_mark_slaanesh;Mark of Slaanesh;;;;;;;;;;;;;x
-mutation_mark_slaanesh_desc;This character is marked by the brand of Slaanesh. All who look upon them will know that they bear the favour of the Dark God.;;;;;;;;;;;;;x
-mutation_mark_tzeentch;Mark of Tzeentch;;;;;;;;;;;;;x
-mutation_mark_tzeentch_desc;This character is marked by the brand of Tzeentch. All who look upon them will know that they bear the favour of the Dark God.;;;;;;;;;;;;;x
-mutation_fishlegs_one;Mercreature;;;;;;;;;;;;;x
-mutation_fishlegs_one_desc;This character's lower body has been replaced with a scaly, fishlike tail. In addition to this, functional gills appear, allowing breathing underwater. The tail is handy for swimming but makes unaided land travel a labourious challenge.;;;;;;;;;;;;;x
-mutation_snakelegs_one;Snaketailed;;;;;;;;;;;;;x
-mutation_snakelegs_one_desc;This character's lower body has been replaced with a scaly, snakelike tail. This is wonderfully efficient at moving quickly and crushing enemies, though they may always miss their old legs.;;;;;;;;;;;;;x
-mutation_sluglegs_one;Slimetailed;;;;;;;;;;;;;x
-mutation_sluglegs_one_desc;This character's lower body has been replaced with a slimey, sluglike tail. This is slow, hideous and quite undignified compared to most major mutations, and the stinking slime is a hazard for anyone crossing the trail unawares.;;;;;;;;;;;;;x
-mutation_tentaclelegs_one;Tentacled Mass;;;;;;;;;;;;;x
-mutation_tentaclelegs_one_desc;This character's lower body has been replaced with a writhing mass of octopus-like tentacles. This frightening collection is quiet adept at moving across land and through water, and is certainly a novelty to have in a fight.;;;;;;;;;;;;;x
-mutation_arachnidlegs_one;Arachne;;;;;;;;;;;;;x
-mutation_arachnidlegs_one_desc;This character's lower body has been replaced with the body of a huge spider. The collection of spindly legs and chitinous plates make for a terrifying and swift form.;;;;;;;;;;;;;x
-mutation_centaurlegs_one;Centauroid;;;;;;;;;;;;;x
-mutation_centaurlegs_one_desc;This character's lower body has been replaced with the body of some manner of four-legged beast, such as a horse, deer or bull. Strong, swift hooves are useful for travel and combat, even if the mismatched owner finds it awkward.;;;;;;;;;;;;;x
-mutation_beastlegs_one;Bestial Legs;;;;;;;;;;;;;x
-mutation_beastlegs_one_desc;This character's legs have been replaced with furry, bestial ones, often resembling those of a goat. There is no guarantee that they will be anything but itchy and clumsy, and hooves are certain to ruin footwear.;;;;;;;;;;;;;x
-mutation_birdlegs_one;Birdlike Legs;;;;;;;;;;;;;x
-mutation_birdlegs_one_desc;This character's legs have been replaced with scaley, clawed ones, resembling those of a bird. There is no guarantee that they will be anything but clumsy, and talons are certain to ruin footwear.;;;;;;;;;;;;;x
-mutation_wings_one;Small Wings;;;;;;;;;;;;;x
-mutation_wings_one_desc;This character has sprouted a small set of wings from their back. They are too small and weak to provide any function, but do get in the way at inopportune moments.;;;;;;;;;;;;;x
-mutation_wings_two;Wings;;;;;;;;;;;;;x
-mutation_wings_two_desc;This character has sprouted a set of wings from their back. They are large and strong enough to hold the owner aloft for some time, but persistant directed flight is not possible.;;;;;;;;;;;;;x
-mutation_wings_three;Large Wings;;;;;;;;;;;;;x
-mutation_wings_three_desc;This character has sprouted a large set of wings from their back. They are large, powerful and very impressive, allowing the owner to leap into the air at will.;;;;;;;;;;;;;x
-mutation_were_one;Were;;;;;;;;;;;;;x
-mutation_were_one_desc;When they enter the thick of combat, this character can't help but transform in body and mind to a ferocious beast, usually a wolf.;;;;;;;;;;;;;x
-mutation_skinless_one;Skinless;;;;;;;;;;;;;x
-mutation_skinless_one_desc;This character has shed their skin like a snake, but did not grow a new layer. Their raw and bloody form is now a testament to the random cruelty inherent in the world.;;;;;;;;;;;;;x
-mutation_skeleton_one;Skeletal;;;;;;;;;;;;;x
-mutation_skeleton_one_desc;This character's skin and flesh has abandoned them, leaving them a viscera-dripping skeleton clutching their remaining organs.;;;;;;;;;;;;;x
-mutation_boneless_one;Boneless;;;;;;;;;;;;;x
-mutation_boneless_one_desc;This character's bones have leapt out the mouth and fled the body to pursue a life of crime. The victim has been left a collapsed heap of quivering flesh, but are otherwise healthy.;;;;;;;;;;;;;x
-mutation_tail_one;Short Tail;;;;;;;;;;;;;x
-mutation_tail_one_desc;A short fleshy tail has sprouted from this character's spine, providing no real benefit but requiring additional tailoring to accomodate.;;;;;;;;;;;;;x
-mutation_tail_two;Prehensile Tail;;;;;;;;;;;;;x
-mutation_tail_two_desc;A long and well-muscled tail has grown from this character's spine, strong and dextrous enough to be of real use, especially in combat.;;;;;;;;;;;;;x
-mutation_tail_three;Great Tail;;;;;;;;;;;;;x
-mutation_tail_three_desc;This character has grown a large and powerful tail equipped with some deadly implement, such as a venomous stinger or ravenous maw.;;;;;;;;;;;;;x
-mutation_fur_one;Fur Patches;;;;;;;;;;;;;x
-mutation_fur_one_desc;This character is partially covered in short, thick fur.;;;;;;;;;;;;;x
-mutation_fur_two;Furry Skin;;;;;;;;;;;;;x
-mutation_fur_two_desc;This character is entirely covered in short but thick fur, granting them something of a bestial appearance.;;;;;;;;;;;;;x
-mutation_fur_three;Furry Hide;;;;;;;;;;;;;x
-mutation_fur_three_desc;This character is covered in thick, shaggy fur, making them a savage and menacing figure.;;;;;;;;;;;;;x
-mutation_growth_one;Growth;;;;;;;;;;;;;x
-mutation_growth_one_desc;This character has increased substantially in size. They now tower over their peers, regardless of their natural height.;;;;;;;;;;;;;x
-mutation_growth_two;Great Growth;;;;;;;;;;;;;x
-mutation_growth_two_desc;This character has grown to a great size, at least twice their natural height.;;;;;;;;;;;;;x
-mutation_growth_three;Massive Growth;;;;;;;;;;;;;x
-mutation_growth_three_desc;This character has grown to towering proportions, approximately three times as tall and wide as they were originally.;;;;;;;;;;;;;x
-mutation_shrunken_one;Shrunken;;;;;;;;;;;;;x
-mutation_shrunken_one_desc;This character has diminished somewhat in all areas.;;;;;;;;;;;;;x
-mutation_shrunken_two;Greatly Shrunken;;;;;;;;;;;;;x
-mutation_shrunken_two_desc;This character has shrunk to a very small size indeed, having lost over half of their height.;;;;;;;;;;;;;x
-mutation_shrunken_three;Intensely Shrunken;;;;;;;;;;;;;x
-mutation_shrunken_three_desc;This character has reduced to such a size that it seems plausible that they will simply disappear from sight one day.;;;;;;;;;;;;;x
-mutation_immense_one;Immensity;;;;;;;;;;;;;x
-mutation_immense_one_desc;This character has bloated to an immense size, filled with foul gas and sludge. They exude a stench of rot and death.;;;;;;;;;;;;;x
-mutation_emaciated_one;Emaciated;;;;;;;;;;;;;x
-mutation_emaciated_one_desc;This character has lost all of their fat and a good deal of muscle in a rather disgusting episode, leaving them with a skeletal, gaunt appearance.;;;;;;;;;;;;;x
-mutation_pseudodaemon_one;Pseudodaemon;;;;;;;;;;;;;x
-mutation_pseudodaemon_one_desc;This character has taken the form of a fearsome daemon, gaining glowing eyes, a scaly hide, horns and other daemonlike features. Despite this appearance, they are still as mortal and vulnerable as ever, though their new appendages function well enough.;;;;;;;;;;;;;x
-mutation_wingarms_one;Winged Arms;;;;;;;;;;;;;x
-mutation_wingarms_one_desc;This character has gained a new and interesting form for their arms, developing membranes, feathers and bones in such a way that they resemble wings.;;;;;;;;;;;;;x
-mutation_extraarm_one;Extra Arm;;;;;;;;;;;;;x
-mutation_extraarm_one_desc;This character has an extra arm, functional and strong, but hardly in the correct place.;;;;;;;;;;;;;x
-mutation_extraarm_two;Two Extra Arms;;;;;;;;;;;;;x
-mutation_extraarm_two_desc;This character has two additional arms.;;;;;;;;;;;;;x
-mutation_extraarm_three;Three Extra Arms;;;;;;;;;;;;;x
-mutation_extraarm_three_desc;This character has three additional arms.;;;;;;;;;;;;;x
-mutation_extraarm_four;Four Extra Arms;;;;;;;;;;;;;x
-mutation_extraarm_four_desc;This character has four additional arms.;;;;;;;;;;;;;x
-mutation_tentaclearm_one;Tentacle Arm;;;;;;;;;;;;;x
-mutation_tentaclearm_one_desc;This character has a tentacle in place of an arm.;;;;;;;;;;;;;x
-mutation_tentaclearm_two;Tentacle Arms;;;;;;;;;;;;;x
-mutation_tentaclearm_two_desc;This character has tentacles in place of both arms.;;;;;;;;;;;;;x
-mutation_extratentaclearm_one;Extra Tentacle Arm;;;;;;;;;;;;;x
-mutation_extratentaclearm_one_desc;This character has a tentacle growing from their body.;;;;;;;;;;;;;x
-mutation_extratentaclearm_two;Two Extra Tentacle Arms;;;;;;;;;;;;;x
-mutation_extratentaclearm_two_desc;This character has two tentacles growing from their body.;;;;;;;;;;;;;x
-mutation_extratentaclearm_three;Three Extra Tentacle Arms;;;;;;;;;;;;;x
-mutation_extratentaclearm_three_desc;This character has three tentacles growing from their body.;;;;;;;;;;;;;x
-mutation_extratentaclearm_four;Four Extra Tentacle Arms;;;;;;;;;;;;;x
-mutation_extratentaclearm_four_desc;This character has four tentacles growing from their body.;;;;;;;;;;;;;x
-mutation_horn_one;Small Horn;;;;;;;;;;;;;x
-mutation_horn_one_desc;This character has a small horn growing from their head.;;;;;;;;;;;;;x
-mutation_horn_two;Horn;;;;;;;;;;;;;x
-mutation_horn_two_desc;This character has a horn growing from their head.;;;;;;;;;;;;;x
-mutation_horn_three;Large Horn;;;;;;;;;;;;;x
-mutation_horn_three_desc;This character has a large horn growing from their head.;;;;;;;;;;;;;x
-mutation_hornpair_one;Small Horns;;;;;;;;;;;;;x
-mutation_hornpair_one_desc;This character has a pair of small horns growing from their head.;;;;;;;;;;;;;x
-mutation_hornpair_two;Horns;;;;;;;;;;;;;x
-mutation_hornpair_two_desc;This character has a pair of small horns growing from their head.;;;;;;;;;;;;;x
-mutation_hornpair_three;Large Horns;;;;;;;;;;;;;x
-mutation_hornpair_three_desc;This character has a pair of small horns growing from their head.;;;;;;;;;;;;;x
-mutation_cyclopean_one;Cyclopean Eye;;;;;;;;;;;;;x
-mutation_cyclopean_one_desc;This character has grown a single large eye in the center of their face.;;;;;;;;;;;;;x
-has_bone_ague;Has Bone Ague;;;;;;;;;;;;;x
-has_bone_ague_desc;This character has contracted Bone Ague, a highly infectious plague that causes the victim's bones to twist and malform. Survivors are usually crippled for life.;;;;;;;;;;;;;x
-has_ochre_pox;Has Ochre Pox;;;;;;;;;;;;;x
-has_ochre_pox_desc;This character suffers from the Ochre Pox, a deadly and virulent pox.;;;;;;;;;;;;;x
-has_neiglish_rot;Has Neiglsh Rot;;;;;;;;;;;;;x
-has_neiglish_rot_desc;This character suffers from the dreaded Neiglish Rot. Neiglish Rot torments the victim and leaves them in wracking pain, often driving them to suicide or insanity. It can also cause the victim to mutate uncontrollably, so survivors will often find themselves condemned for corruption.;;;;;;;;;;;;;x
+#MUTATION TRAITS
+mutation_minor;Minor Mutation;;;;;;;;;;;;;x
+mutation_minor_desc;This character possess a small mutation that has little effect.;;;;;;;;;;;;;x
+mutation_major;Major Mutation;;;;;;;;;;;;;x
+mutation_major_desc;This character possess a large mutation that radically changes [GetHerHis] body.;;;;;;;;;;;;;x
+mutation_massive;Massive Mutation;;;;;;;;;;;;;x
+mutation_massive_desc;This character is so mutated [GetSheHe] is barely recognizable.;;;;;;;;;;;;;x
 # MAGIC TRAITS
 lore_fire;Lore of Fire;;;;;;;;;;;;;x
 lore_beasts;Lore of Beasts;;;;;;;;;;;;;x
+lore_metal;Lore of Metal;;;;;;;;;;;;;x
 lore_light;Lore of Light;;;;;;;;;;;;;x
 lore_life;Lore of life;;;;;;;;;;;;;x
 lore_heavens;Lore of Heavens;;;;;;;;;;;;;x
@@ -582,20 +489,21 @@ lore_death;Lore of Death.;;;;;;;;;;;;;x
 lore_shadows;Lore of Shadows;;;;;;;;;;;;;x
 lore_high_magic;High Magic;;;;;;;;;;;;;x
 lore_dark_magic;Dark Magic;;;;;;;;;;;;;x
-lore_nurgle;Lore - Nurgle;;;;;;;;;;;;;x
-lore_slaanesh;Lore - Slaanesh;;;;;;;;;;;;;x
-lore_tzeenth;Lore - Tzeenth.;;;;;;;;;;;;;x
-# descriptions
+lore_nurgle;Lore of Nurgle;;;;;;;;;;;;;x
+lore_slaanesh;Lore of Slaanesh;;;;;;;;;;;;;x
+lore_tzeenth;Lore of Tzeenth.;;;;;;;;;;;;;x
+# MAGIC TRAITS Descriptions
 lore_fire_desc;This character can manipulate Aqshy the red wind of magic.;;;;;;;;;;;;;x
-lore_beasts_desc;This character can manipulate Ghur the amber wind of magic.;;;;;;;;;;;;;x
+lore_beasts_desc;This character can manipulate Ghur the brown wind of magic.;;;;;;;;;;;;;x
+lore_light_desc;This character can manipulate Chamon the yellow wind of magic.;;;;;;;;;;;;;x
 lore_light_desc;This character can manipulate Hysh the white wind of magic.;;;;;;;;;;;;;x
 lore_life_desc;This character can manipulate Ghyran the green wind of magic.;;;;;;;;;;;;;x
 lore_heavens_desc;This character can manipulate Azyr the blue wind of magic.;;;;;;;;;;;;;x
 lore_death_desc;This character can manipulate Shyish the purple wind of magic.;;;;;;;;;;;;;x
 lore_shadows_desc;This character can manipulate Ulgu the gray wind of magic.;;;;;;;;;;;;;x
-lore_high_magic;This character knows the most refined and powerfull magic - High Magic [This.GetSheHe] is able to control all magical winds in the same time.;;;;;;;;;;;;;x
-lore_dark_magic;This character knows the most  and destructive magic - Dark Magic [This.GetSheHe] is able to twist and mix all of magical winds in [This.GetHerHis] spells.;;;;;;;;;;;;;x
-lore_nurgle;Nurgle gifted the character with special spells.;;;;;;;;;;;;;x
-lore_slaanesh;Slaanesh gifted the character with special spells.;;;;;;;;;;;;;x
-lore_tzeenth;Tzeenth gifted the character with special spells.;;;;;;;;;;;;;x
+lore_high_magic_desc;This character can use Qhaysh and manipulate the entire spectrum of magic at once.;;;;;;;;;;;;;x
+lore_dark_magic_desc;This character can use Dhar and uses all winds in their most raw form.;;;;;;;;;;;;;x
+lore_nurgle_desc;This character can use spells specially crafted by Nurgle.;;;;;;;;;;;;;x
+lore_slaanesh_desc;This character can use spells specially crafted by Slaanesh.;;;;;;;;;;;;;x
+lore_tzeenth_desc;This character can use spells specially crafted by Tzeenth.;;;;;;;;;;;;;x
 
