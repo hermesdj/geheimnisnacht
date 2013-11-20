@@ -639,3 +639,36 @@ reclusive = {
 	stewardship = -2
 	learning = -2
 }
+
+
+monk = {
+	potential = {
+		is_ruler = no
+		is_female = no
+	}
+	
+	monthly_character_piety = 0.3
+	same_religion_opinion = 10
+	
+	religious = yes # Lost immediately on religion change
+	cannot_marry = yes
+	cannot_inherit = yes
+	customizer = no
+	random = no
+}
+
+nun = {
+	potential = {
+		is_ruler = no
+		is_female = yes
+	}
+	
+	monthly_character_piety = 0.3
+	same_religion_opinion = 10
+	
+	religious = yes # Lost immediately on religion change
+	cannot_marry = yes
+	cannot_inherit = yes
+	customizer = no
+	random = no
+}
