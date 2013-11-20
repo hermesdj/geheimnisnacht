@@ -10,7 +10,7 @@ b_dreizack = city
 b_zweedorf = temple
 b_manaansheim = castle
 b_heiligdorf = city
-b_pugsblatter = city
+b_neues_emskrank = city
 
 # Misc
 culture = nordlander
@@ -18,3 +18,7 @@ religion = sigmarite
 
 
 # History
+
+2462.5.22 = { capital = b_neues_emskrank }
+
+2467.11.6 = { capital = b_dietershafen }

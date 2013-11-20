@@ -1,0 +1,17 @@
+# 65 Durfang
+
+# County Title
+title = c_durfang
+
+# Settlements
+max_settlements = 3
+b_durfang = castle
+b_jykalvik = city
+b_thurilheim = city
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

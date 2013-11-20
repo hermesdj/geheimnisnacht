@@ -1,0 +1,18 @@
+# 718 Odris
+
+# County Title
+title = c_odris
+
+# Settlements
+max_settlements = 4
+b_odris = castle
+b_parysat = city
+b_greendel = temple
+b_cilla = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

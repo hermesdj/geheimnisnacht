@@ -1,0 +1,16 @@
+#527 Azuara
+#County Title
+title = c_azuara
+
+#Settlements
+max_settlements = 4
+b_azuara = city
+b_hamasollo = city
+b_ratona = temple
+b_nunido = city
+
+#Misc
+culture = norteno
+religion = classical_gods
+
+#History

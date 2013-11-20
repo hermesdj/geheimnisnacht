@@ -1,0 +1,19 @@
+# 597 Varieno
+
+# County Title
+title = c_varieno
+
+# Settlements
+max_settlements = 5
+b_varieno = castle
+b_monte_gia = city
+b_cappoletto = temple
+b_tibalto = castle
+b_amatore = city
+
+# Misc
+culture = reman
+religion = classical_gods
+
+
+# History

@@ -1,0 +1,17 @@
+# 782 Charan
+
+# County Title
+title = c_charan
+
+# Settlements
+max_settlements = 3
+b_charan = castle
+b_direcaster = city
+b_varlav = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

@@ -9,7 +9,11 @@ beastman_gods_group = {
 		icon = 11
 		color = { 1.0 1.0 0.3 }
 		god_names = {
-			GOD_AL_ALNON GOD_THE_PROPHETS GOD_FATE GOD_ORMAZD
+			GOD_THE_DARK_GODS
+		}
+		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
 		}
 		
 		crusade_name = "HOLY_WAR"

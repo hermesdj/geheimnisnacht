@@ -1,0 +1,18 @@
+# 858 Anjarlac
+
+# County Title
+title = c_anjarlac
+
+# Settlements
+max_settlements = 4
+b_anjarre = castle
+b_derrevin = city
+b_ladamme = castle
+b_grisances = city
+
+# Misc
+culture = gascon
+religion = lady_of_the_lake
+
+
+# History

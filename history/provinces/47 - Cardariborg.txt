@@ -1,0 +1,18 @@
+# 47 - Cardariborg
+
+# County Title
+title = c_cardariborg
+
+# Settlements
+max_settlements = 4
+b_cardariborg = castle
+b_irtyshkvik = city
+b_iivashkvik = temple
+b_kunbyrul = castle
+
+# Misc
+culture = varg
+religion = dark_norse
+
+
+# History

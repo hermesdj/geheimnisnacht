@@ -1,0 +1,16 @@
+# 150 Bolensk
+
+# County Title
+title = c_bolensk
+
+# Settlements
+max_settlements = 2
+b_lebyla = castle
+b_bolenskborg = castle
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

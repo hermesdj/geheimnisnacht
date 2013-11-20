@@ -1,0 +1,18 @@
+# 852 Beaix
+
+# County Title
+title = c_beaix
+
+# Settlements
+max_settlements = 4
+b_chateauclair = castle
+b_lourde_de_lys = city
+b_tous = castle
+b_coix = temple
+
+# Misc
+culture = bourgon
+religion = lady_of_the_lake
+
+
+# History

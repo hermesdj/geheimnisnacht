@@ -1,0 +1,20 @@
+# 794 Lyonesse
+
+# County Title
+title = c_lyonesse
+
+# Settlements
+max_settlements = 4
+b_lyonesse = castle
+b_avalot = city
+b_ellys = temple
+b_reynes = castle
+b_scilly = castle
+b_charybde = temple
+
+# Misc
+culture = armoric
+religion = lady_of_the_lake
+
+
+# History

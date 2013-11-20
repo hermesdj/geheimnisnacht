@@ -1,0 +1,68 @@
+# Types:
+# 0 - Light Infantry
+# 1 - Heavy Infantry
+# 2 - Pikemen
+# 3 - Light Cavalry
+# 4 - Heavy Cavalry
+# 5 - Archers
+# 6 - Horse Archers
+
+RETTYPE_CUL_IMP =
+{
+	first_type = 1
+	first_amount = 100
+	second_type = 2
+	second_amount = 100
+	
+	culture_group = imperial_group
+	
+	modifier = {
+		pikemen_defensive = 0.4
+		heavy_infantry_defensive = 0.2
+	}
+}
+
+RETTYPE_CUL_IMP2 =
+{
+	first_type = 0
+	first_amount = 100
+	second_type = 5
+	second_amount = 100
+	
+	culture_group = imperial_group
+	
+	modifier = {
+		archers_defensive = 0.4
+		light_infantry_defensive = 0.2
+	}
+}
+
+RETTYPE_CUL_BRET =
+{
+	first_type = 1
+	first_amount = 100
+	second_type = 2
+	second_amount = 100
+	
+	culture_group = bretonnian_group
+	
+	modifier = {
+		pikemen_defensive = 0.4
+		heavy_infantry_defensive = 0.2
+	}
+}
+
+RETTYPE_CUL_BRET2 =
+{
+	first_type = 0
+	first_amount = 100
+	second_type = 5
+	second_amount = 100
+	
+	culture_group = bretonnian_group
+	
+	modifier = {
+		archers_defensive = 0.4
+		light_infantry_defensive = 0.2
+	}
+}

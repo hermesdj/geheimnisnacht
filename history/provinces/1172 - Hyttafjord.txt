@@ -1,0 +1,19 @@
+# 1172 Hyttafjord
+
+# County Title
+title = c_hyttafjord
+
+# Settlements
+max_settlements = 5
+b_hyttaholm = castle
+b_gnistvag = temple
+b_volsbaek = city
+b_grexragi = castle
+b_strindaherad = city
+
+# Misc
+culture = skaeling
+religion = norse
+
+
+# History

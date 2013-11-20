@@ -1,0 +1,18 @@
+# 48 Narvaash
+
+# County Title
+title = c_narvaash
+
+# Settlements
+max_settlements = 4
+b_arothburg = castle
+b_narvaash = city
+b_fyjorum = city
+b_raknyl = temple
+
+# Misc
+culture = varg
+religion = dark_norse
+
+
+# History

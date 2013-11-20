@@ -12,6 +12,10 @@ nehekharan_gods_group = {
 			GOD_THE_SPIRITS GOD_THE_GODS GOD_THE_WATCHER GOD_THE_JUDGE
 		}
 		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		crusade_name = "HOLY_WAR"
 		scripture_name = THE_RITES
 		

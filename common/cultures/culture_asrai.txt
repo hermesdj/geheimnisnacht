@@ -3,21 +3,19 @@ asrai_group = {
 	graphical_culture = westerngfx
 
 	loren = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
 		male_names = {
-		Legolas
+			Finavar Jokleel Mauro Mormo Thuralin Caorann Beldeas Hauran Eremon Atolmis Olachas Kariath Ilaruss Selva Sephian Elatior Arthron Khoron Alioth Salicis Orion Cyanos Elpenor Singas Haldus Scarloc Gavra
 		}
 		female_names = {
-		
+			Alhena Ordaana Asphalia Isere Ariel Anel Laelia Naileth Glorana Aefa Tethea Naestra Arahan Sylvanus Belidae
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -35,7 +33,7 @@ asrai_group = {
 
 
 	laurelornalim = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -46,10 +44,8 @@ asrai_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.

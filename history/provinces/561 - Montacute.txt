@@ -1,0 +1,16 @@
+#561 Montacute
+#County Title
+title = c_montacute
+
+#Settlements
+max_settlements = 4
+b_montacute = castle
+b_invoca = temple
+b_amita = temple
+b_labro = city
+
+#Misc
+culture = astur
+religion = classical_gods
+
+#History

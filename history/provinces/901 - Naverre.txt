@@ -1,0 +1,18 @@
+# 901 Naverre
+
+# County Title
+title = c_naverre
+
+# Settlements
+max_settlements = 4
+b_agden = castle
+b_pampelune = city
+b_sorneige = temple
+b_baynal = temple
+
+# Misc
+culture = carcassian
+religion = lady_of_the_lake
+
+
+# History

@@ -1,0 +1,18 @@
+# 822 Mortagne
+
+# County Title
+title = c_mortagne
+
+# Settlements
+max_settlements = 4
+b_mortagne = castle
+b_martel = castle
+b_graudesange = temple
+b_aramis = city
+
+# Misc
+culture = mousillonian
+religion = lady_of_the_lake
+
+
+# History

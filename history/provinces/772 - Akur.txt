@@ -1,0 +1,17 @@
+# 772 Akur
+
+# County Title
+title = c_akur
+
+# Settlements
+max_settlements = 3
+b_akur = castle
+b_kutara = city
+b_sinipa = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

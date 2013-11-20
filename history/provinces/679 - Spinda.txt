@@ -1,0 +1,17 @@
+# 679 Spinda
+
+# County Title
+title = c_spinda
+
+# Settlements
+max_settlements = 3
+b_spinda = castle
+b_burcanda = city
+b_chersotar = temple
+
+# Misc
+culture = armoric
+religion = lady_of_the_lake
+
+
+# History

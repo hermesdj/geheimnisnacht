@@ -1,0 +1,18 @@
+# 545 Alboran
+
+#County Title
+title = c_alboran
+
+#Settlements
+max_settlements = 5
+b_hippoloto = castle
+b_bejaca = city
+b_sedara = castle
+b_natroal = temple
+b_medica = castle
+
+#Misc
+culture = astur
+religion = classical_gods
+
+#History

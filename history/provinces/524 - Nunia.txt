@@ -1,0 +1,16 @@
+#524 Nunia
+#County Title
+title = c_nunia
+
+#Settlements
+max_settlements = 4
+b_nuna = castle
+b_tradona = city
+b_hablana = temple
+b_repanto = castle
+
+#Misc
+culture = tigarrese
+religion = classical_gods
+
+#History

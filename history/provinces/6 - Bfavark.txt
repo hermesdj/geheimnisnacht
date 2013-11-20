@@ -1,0 +1,18 @@
+# 6 - Bfavark
+
+# County Title
+title = c_bfavark
+
+# Settlements
+max_settlements = 3
+b_bfavark = castle
+b_yulatuk = castle
+b_harzuum = city
+
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

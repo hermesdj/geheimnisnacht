@@ -1,0 +1,17 @@
+# 79 Kaldr
+
+# County Title
+title = c_kaldr
+
+# Settlements
+max_settlements = 3
+b_kjoleheim = castle
+b_jardensleit = city
+b_sinuvik = castle
+
+# Misc
+culture = varg
+religion = dark_norse
+
+
+# History

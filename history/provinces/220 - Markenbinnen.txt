@@ -5,8 +5,8 @@ title = c_markenbinnen
 
 # Settlements
 max_settlements = 3
-b_markenbinnen = castle
-b_oudesluis = city
+b_oudesluis = castle
+b_markenbinnen = city
 b_wijdenes = temple
 
 # Misc
@@ -15,3 +15,5 @@ religion = sigmarite
 
 
 # History
+
+2302.7.23 = { capital = b_markenbinnen }

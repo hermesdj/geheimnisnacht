@@ -1,0 +1,17 @@
+# 615 Pelua
+
+# County Title
+title = c_pelua
+
+# Settlements
+max_settlements = 3
+b_pelua = castle
+b_averza = city
+b_magnando = temple
+
+# Misc
+culture = lucian
+religion = classical_gods
+
+
+# History

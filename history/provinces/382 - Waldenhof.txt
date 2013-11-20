@@ -4,14 +4,15 @@
 title = c_waldenhof
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_waldenhof = castle
-b_hundham = city
+b_hundham = castle
 b_thyrnan = temple
-b_jenzwalden = city
+b_egling = city
+b_seppel = temple
 
 # Misc
-culture = sylvanian
+culture = ostermarker
 religion = vampiric
 
 

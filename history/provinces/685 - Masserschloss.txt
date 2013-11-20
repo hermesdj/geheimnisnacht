@@ -1,0 +1,17 @@
+# 685 Masserschloss
+
+# County Title
+title = c_masserschloss
+
+# Settlements
+max_settlements = 3
+b_masserschloss = castle
+b_gongilo = city
+b_medok = temple
+
+# Misc
+culture = stirlander
+religion = sigmarite
+
+
+# History

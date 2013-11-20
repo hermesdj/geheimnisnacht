@@ -1,0 +1,18 @@
+# 863 Lusidreux
+
+# County Title
+title = c_lusidreux
+
+# Settlements
+max_settlements = 4
+b_lusidreux = castle
+b_corvignan = city
+b_maux = castle
+b_la_verenee = castle
+
+# Misc
+culture = gascon
+religion = lady_of_the_lake
+
+
+# History

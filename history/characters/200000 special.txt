@@ -17,7 +17,32 @@ add_trait="gregarious"
 
 add_trait="celibate"
 
--27.5.13={birth="-27.5.13"}
+1.1.1={birth="1.1.1"}
 1.1.1={give_nickname = nick_heldenhammer}
 50.1.1={death="50.1.1"}
 }
+
+200001={
+name = "Maruviel"
+female = yes
+dynasty = 0
+dna = "hnkdobmkijo"
+culture = eataini
+religion = cadai
+military = 1
+diplomacy = 5
+stewardship = 4
+intrigue = 4
+learning = 4
+add_trait = "creature_elf"
+add_trait = "charismatic_negotiator"
+add_trait="celibate"
+add_trait = "kind"
+add_trait = "just"
+add_trait = "honest"
+add_trait = "content"
+2496.1.1={birth=yes}
+2018.1.21 = {add_spouse=800088}
+2529.9.20={death=yes}
+}
+

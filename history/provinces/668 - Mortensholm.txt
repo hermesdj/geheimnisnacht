@@ -1,0 +1,18 @@
+# 668 Mortensholm
+
+# County Title
+title = c_mortensholm
+
+# Settlements
+max_settlements = 4
+b_mortensholm = castle
+b_syldavia = city
+b_borduritsa = temple
+b_dacs = castle
+
+# Misc
+culture = breton
+religion = lady_of_the_lake
+
+
+# History

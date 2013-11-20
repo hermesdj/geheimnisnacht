@@ -4,12 +4,11 @@
 title = c_falkenhaus
 
 # Settlements
-max_settlements = 6
-b_the_watchtower = castle
+max_settlements = 5
+b_sigmaringen = castle
 b_brigstadt = city
 b_mittlenburg = temple
 b_pappenheim = castle
-b_sigmaringen = temple
 b_falkenhausen = city
 
 # Misc

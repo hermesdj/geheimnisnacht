@@ -1,0 +1,18 @@
+# 760 Rhothira
+
+# County Title
+title = c_rhothira
+
+# Settlements
+max_settlements = 4
+b_rhothira = castle
+b_soli = city
+b_xerenos = temple
+b_asine = city
+
+# Misc
+culture = myken
+religion = classical_gods
+
+
+# History

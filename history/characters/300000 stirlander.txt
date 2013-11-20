@@ -693,3 +693,23 @@ add_trait = "zealous"
 2544.2.23={death=yes}
 }
 
+300034={
+name = "Martin" #Graf Martin von Krystallbach
+dynasty = 20082
+dna = "cpflfaknlco"
+culture = stirlander
+religion = sigmarite
+military = 4
+diplomacy = 4
+stewardship = 1
+intrigue = 4
+learning = 5
+add_trait = "thrifty_clerk"
+add_trait = "poet"
+add_trait = "chaste"
+add_trait = "proud"
+add_trait = "zealous"
+2125.1.1={birth=yes}
+2179.10.25={death=yes}
+}
+

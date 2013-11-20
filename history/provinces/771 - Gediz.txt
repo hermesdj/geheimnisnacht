@@ -1,0 +1,16 @@
+# 771 Gediz
+
+# County Title
+title = c_gediz
+
+# Settlements
+max_settlements = 2
+b_gediz = castle
+b_diavarder = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

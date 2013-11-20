@@ -1,0 +1,16 @@
+#530 Edeta
+#County Title
+title = c_edeta
+
+#Settlements
+max_settlements = 4
+b_edeta = temple
+b_san_luiz = castle
+b_tollada = city
+b_odalana = castle
+
+#Misc
+culture = galice
+religion = classical_gods
+
+#History

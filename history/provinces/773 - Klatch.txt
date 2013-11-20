@@ -1,0 +1,17 @@
+# 773 Klatch
+
+# County Title
+title = c_klatch
+
+# Settlements
+max_settlements = 3
+b_klatch = castle
+b_vani = city
+b_granite_hill = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

@@ -1,0 +1,17 @@
+# 69 Staardholm
+
+# County Title
+title = c_staardholm
+
+# Settlements
+max_settlements = 3
+b_staardholm = city
+b_nuravik = temple
+b_wurkel = castle
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

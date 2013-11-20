@@ -6,7 +6,13 @@ liege="k_ostland"
 	holder = 800004
 }
 
-2478.5.2 = {
+2462.5.22 = {
+	liege="e_the_empire"
+	holder = 800087
+}
+
+2467.11.6 = {
+	liege="k_ostland"
 	holder = 800081
 }
 

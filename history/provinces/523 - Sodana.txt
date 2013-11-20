@@ -1,0 +1,16 @@
+#523 Sodana
+#County Title
+title = c_sodana
+
+#Settlements
+max_settlements = 4
+b_sodana = castle
+b_taferana = castle
+b_anterna = city
+b_belica = temple
+
+#Misc
+culture = tigarrese
+religion = classical_gods
+
+#History

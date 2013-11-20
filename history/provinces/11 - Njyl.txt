@@ -1,0 +1,17 @@
+# 11 Njyl 
+
+# County Title
+title = c_njyl
+
+# Settlements
+max_settlements = 3
+b_durakul = castle
+b_durakil = temple
+b_durakal = city
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

@@ -10,7 +10,7 @@ liege="d_ferlangen"
 liege="k_ostland"
 }
 
-2478.5.2 = {
+2467.11.6 = {
 	holder = 800081
 }
 

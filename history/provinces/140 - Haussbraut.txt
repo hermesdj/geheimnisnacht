@@ -1,0 +1,17 @@
+# 140 Haussbraut
+
+# County Title
+title = c_haussbraut
+
+# Settlements
+max_settlements = 3
+b_hausslidha = castle
+b_artenirans_vale = city
+b_kulum = city
+
+# Misc
+culture = baersonling
+religion = norse
+
+
+# History

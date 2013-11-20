@@ -1,0 +1,18 @@
+# 610 Portomaggiore
+
+# County Title
+title = c_portomaggiore
+
+# Settlements
+max_settlements = 4
+b_portomaggiore = city
+b_amalfo = castle
+b_croscio = temple
+b_pentelone = castle
+
+# Misc
+culture = reman
+religion = classical_gods
+
+
+# History

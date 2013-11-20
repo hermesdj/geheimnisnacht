@@ -1,0 +1,19 @@
+#520 Bilbali
+#County Title
+title = c_bilbali
+
+#Settlements
+max_settlements = 7
+b_santiago = temple
+b_bilbali = castle
+b_sahagun = castle
+b_san_juan = city
+b_carodi = city
+b_morro = castle
+b_mirazza = city
+
+#Misc
+culture = tigarrese
+religion = classical_gods
+
+#History

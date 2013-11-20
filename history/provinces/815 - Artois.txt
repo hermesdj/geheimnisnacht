@@ -1,0 +1,19 @@
+# 815 Artois
+
+# County Title
+title = c_artois
+
+# Settlements
+max_settlements = 4
+b_castel_artois = castle
+b_arnimes = city
+b_tarjou = castle
+b_the_bitter_convent = temple
+b_la_montremouille = city
+
+# Misc
+culture = armoric
+religion = lady_of_the_lake
+
+
+# History

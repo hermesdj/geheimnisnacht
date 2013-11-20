@@ -1,0 +1,18 @@
+# 877 Giennois
+
+# County Title
+title = c_giennois
+
+# Settlements
+max_settlements = 4
+b_gien = castle
+b_veneve = city
+b_salone = castle
+b_sallee = temple
+
+# Misc
+culture = breton
+religion = lady_of_the_lake
+
+
+# History

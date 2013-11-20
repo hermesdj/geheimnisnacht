@@ -1,6 +1,6 @@
 650000={
 name = "Karl"
-dynasty = 14031
+dynasty = 14021
 culture = nordlander
 religion = sigmarite
 military = 8
@@ -501,6 +501,8 @@ diplomacy = 8
 stewardship = 7
 intrigue = 11
 learning = 9
+father = 650058
+mother = 650060
 add_trait = "creature_human"
 add_trait = "scholar"
 add_trait = "grey_eminence"
@@ -508,13 +510,13 @@ add_trait="craven"
 add_trait="honest"
 add_trait="greedy"
 
-1909.4.16={birth=yes}
+1938.4.16={birth=yes}
 1979.5.16={death=yes}
 }
 
 650024={
 name = "Hewald"
-dynasty = 14031
+dynasty = 14021
 dna = "gaibmhlebdn"
 culture = nordlander
 religion = sigmarite
@@ -554,7 +556,7 @@ add_trait = "misguided_warrior"
 
 650026={
 name = "Wim"
-dynasty = 14031
+dynasty = 14021
 dna = "gdofhonoimg"
 culture = nordlander
 religion = sigmarite
@@ -601,7 +603,7 @@ add_trait = "envious"
 
 650028={
 name = "Thorvald"
-dynasty = 14031
+dynasty = 14021
 dna = "akaeeipeekh"
 culture = nordlander
 religion = sigmarite
@@ -625,7 +627,7 @@ add_trait = "depressed"
 650029={
 name = "Diedke"
 female = yes
-dynasty = 14031
+dynasty = 14021
 dna = "okkfjpdcnhn"
 culture = nordlander
 religion = sigmarite
@@ -666,7 +668,7 @@ add_trait = "cruel"
 
 650031={
 name = "Wolfdietrich"
-dynasty = 14031
+dynasty = 14021
 dna = "mbdfdldcfhp"
 culture = nordlander
 religion = sigmarite
@@ -687,7 +689,7 @@ add_trait = "content"
 650032={
 name = "Anjelika"
 female = yes
-dynasty = 14031
+dynasty = 14021
 dna = "emhlnpbcbii"
 culture = nordlander
 religion = sigmarite
@@ -707,7 +709,7 @@ add_trait = "just"
 
 650033={
 name = "Sweyn"
-dynasty = 14031
+dynasty = 14021
 dna = "celicjgcilc"
 culture = nordlander
 religion = sigmarite
@@ -1250,7 +1252,7 @@ add_trait = "ill"
 
 650058={
 name = "Karl"
-dynasty = 14031
+dynasty = 14021
 dna = "aepmkjgdeef"
 culture = nordlander
 religion = sigmarite
@@ -1259,6 +1261,7 @@ diplomacy = 2
 stewardship = 6
 intrigue = 7
 learning = 2
+father = 650079
 add_trait = "creature_human"
 add_trait = "grey_eminence"
 add_trait = "just"
@@ -1266,7 +1269,7 @@ add_trait = "lustful"
 add_trait = "craven"
 1911.11.17={birth=yes}
 1935.3.22 = {add_spouse=650060}
-1977.11.17={death=yes}
+1947.2.21={death=yes}
 }
 
 650059={
@@ -1552,7 +1555,7 @@ add_trait = "cruel"
 
 650072={
 name = "Thietmar"
-dynasty = 14031
+dynasty = 14021
 dna = "jomhdkndpcj"
 culture = nordlander
 religion = sigmarite
@@ -1624,7 +1627,7 @@ diplomacy = 3
 stewardship = 5
 intrigue = 4
 learning = 5
-add_trait = "dutiful_cleric"
+add_trait = "grey_eminence"
 add_trait = "gregarious"
 add_trait = "kind"
 
@@ -1685,7 +1688,7 @@ diplomacy = 3
 stewardship = 5
 intrigue = 4
 learning = 5
-add_trait = "dutiful_cleric"
+add_trait = "tough_soldier"
 add_trait = "gregarious"
 add_trait = "kind"
 
@@ -1693,3 +1696,277 @@ add_trait = "kind"
 2596.12.1={death=yes}
 }
 ###
+
+
+650079={
+name = "Bjorn"
+dynasty = 14021
+dna = "cigedoghdfh"
+culture = nordlander
+religion = sigmarite
+military = 4
+diplomacy = 2
+stewardship = 5
+intrigue = 5
+learning = 7
+add_trait = "creature_human"
+add_trait = "misguided_warrior"
+add_trait = "proud"
+add_trait = "brave"
+1869.5.14={birth=yes}
+1911.11.17={death=yes}
+}
+
+650080={
+name = "Sigfried"
+dynasty = 14003
+culture = nordlander
+religion = sigmarite
+military = 3
+diplomacy = 5
+stewardship = 6
+intrigue = 3
+learning = 5
+add_trait = "grey_eminence"
+add_trait = "duelist"
+add_trait = "greedy"
+
+1901.3.27={birth=yes}
+1964.4.21={death=yes}
+}
+
+650081={
+name = "Wilhelm"
+dynasty = 14003
+culture = nordlander
+religion = sigmarite
+military = 5
+diplomacy = 4
+stewardship = 4
+intrigue = 7
+learning = 3
+father = 650080
+add_trait = "tough_soldier"
+add_trait = "kind"
+add_trait = "proud"
+
+1947.9.21={birth=yes}
+2002.8.10={death=yes}
+}
+
+650082={
+name = "Albrecht"
+dynasty = 14003
+culture = nordlander
+religion = sigmarite
+military = 2
+diplomacy = 4
+stewardship = 5
+intrigue = 4
+learning = 5
+father = 650081
+add_trait = "intricate_webweaver"
+add_trait = "shy"
+add_trait = "cruel"
+
+1973.6.23={birth=yes}
+2042.10.15={death=yes}
+}
+
+650083={
+name = "Wilhelm"
+dynasty = 14003
+culture = nordlander
+religion = sigmarite
+military = 3
+diplomacy = 5
+stewardship = 2
+intrigue = 6
+learning = 4
+father = 650082
+add_trait = "dutiful_cleric"
+add_trait = "greedy"
+add_trait = "proud"
+
+1993.6.23={birth=yes}
+2054.10.15={death=yes}
+}
+
+650084={
+name = "Wilhelm"
+dynasty = 14003
+culture = nordlander
+religion = sigmarite
+military = 5
+diplomacy = 7
+stewardship = 2
+intrigue = 3
+learning = 6
+father = 650083
+add_trait = "tough_soldier"
+add_trait = "brave"
+add_trait = "kind"
+
+2025.2.14={birth=yes}
+2078.9.19={death=yes}
+}
+
+
+650085={
+name = "Friğgerğr"
+female = yes
+dynasty = 56034
+dna = "hlfebpbgjlf"
+culture = nordlander
+religion = sigmarite
+military = 2
+diplomacy = 4
+stewardship = 6
+intrigue = 2
+learning = 5
+father = 1350022
+add_trait = "intricate_webweaver"
+add_trait = "paranoid"
+1082.5.1={birth=yes}
+1144.7.18={death=yes}
+}
+
+650086={
+name = "Thangbrandr"
+dynasty = 56034
+dna = "gnpflpgbjdm"
+culture = nordlander
+religion = norse
+military = 6
+diplomacy = 8
+stewardship = 5
+intrigue = 8
+learning = 5
+father = 1350022
+add_trait = "elusive_shadow"
+add_trait = "celibate"
+add_trait = "gregarious"
+add_trait = "deceitful"
+1087.5.1={birth=yes}
+1134.12.9={death=yes}
+}
+
+650087={
+name = "Gunnvor"
+female = yes
+dynasty = 56034
+dna = "llcghkeacem"
+culture = nordlander
+religion = ulrican
+military = 2
+diplomacy = 5
+stewardship = 2
+intrigue = 2
+learning = 6
+mother = 1350023
+add_trait = "naive_appeaser"
+add_trait = "arbitrary"
+add_trait = "zealous"
+add_trait = "wroth"
+add_trait = "trusting"
+1081.1.1={birth=yes}
+1142.12.11={death=yes}
+}
+
+650088={
+name = "Thomas" #Neues Merchant
+dynasty = 14083
+dna = "ghdfingkikd"
+culture = nordlander
+religion = sigmarite
+military = 4
+diplomacy = 0
+stewardship = 3
+intrigue = 4
+learning = 4
+add_trait = "midas_touched"
+add_trait = "patient"
+add_trait = "cruel"
+add_trait = "wounded"
+2442.7.1={birth=yes}
+2491.4.12={death=yes}
+}
+
+650089={
+name = "Rahewin" #Neues Merchant
+dynasty = 14084
+dna = "oiphkomaaii"
+culture = nordlander
+religion = ulrican
+military = 1
+diplomacy = 2
+stewardship = 1
+intrigue = 4
+learning = 3
+add_trait = "intricate_webweaver"
+add_trait = "trusting"
+2431.5.1={birth=yes}
+2477.8.11={death=yes}
+}
+
+650090={
+name = "Suanhilde"
+female = yes
+dynasty = 14033
+dna = "hmgmeifdick"
+culture = nordlander
+religion = ulrican
+military = 3
+diplomacy = 5
+stewardship = 5
+intrigue = 3
+learning = 3
+add_trait = "creature_human"
+add_trait = "underhanded_rogue"
+add_trait = "patient"
+add_trait = "content"
+2443.10.7={birth=yes}
+2511.10.7={death=yes}
+}
+
+650091={
+name = "Jutte"
+female = yes
+dynasty = 14033
+dna = "ddkaimogajj"
+culture = nordlander
+religion = ulrican
+military = 1
+diplomacy = 2
+stewardship = 5
+intrigue = 6
+learning = 5
+mother = 650090
+add_trait = "skilled_tactician"
+add_trait = "charitable"
+2464.1.1={birth=yes}
+2525.8.10={death=yes}
+}
+
+650092={
+name = "Lilian"
+female = yes
+dynasty = 14033
+dna = "hgflkpiknji"
+culture = nordlander
+religion = ulrican
+military = 1
+diplomacy = 8
+stewardship = 7
+intrigue = 6
+learning = 0
+mother = 650091
+add_trait = "indulgent_wastrel"
+add_trait = "proud"
+add_trait = "ambitious"
+add_trait = "shy"
+add_trait = "slothful"
+2495.1.1={birth=yes}
+2548.7.17={death=yes}
+}
+

@@ -1,0 +1,18 @@
+# 142 Graennae
+
+# County Title
+title = c_graennae
+
+# Settlements
+max_settlements = 4
+b_graennae = castle
+b_jaarpen = city
+b_gharzum = city
+b_hartel = temple
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

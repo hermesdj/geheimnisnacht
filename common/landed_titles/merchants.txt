@@ -1,0 +1,302 @@
+
+#Merchant Houses of Grande Charte
+
+b_du_casse = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+b_lafitte = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+b_wynn = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+b_ordronaux = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+b_le_bec = {
+	culture = gascon
+	religion = lady_of_the_lake
+}
+
+#Merchant Houses of Ambacht
+
+b_hoegaarden = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_de_raamsdonk = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_daalen = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_de_peppel = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_veenstra = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+
+#Merchant Houses of Texelhaven
+
+b_batenburg = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_de_kooij = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_noordhoek = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_breedveld = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_ravensberg = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+
+#Merchant Houses of Bogenhafen
+
+b_olmstadt = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+b_steinhager = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+b_ruggbroder = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+b_teugen = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+b_haagen = {
+	culture = reiklander
+	religion = sigmarite
+}
+
+#Merchant Houses of Marienburg
+
+b_van_onderzoeker = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_koopmans = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_winkler = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_vijfswinkel = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_smeele = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_de_kuypers = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_de_roelef = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_haagen = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_scheldt = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_van_raemerswijk = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_fooger = {
+	culture = dwarf_imperial
+	religion = ancestor_gods
+}
+
+b_van_den_nijmenk = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_den_euwe = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_rothemuur = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+b_akkerman = {
+	culture = westerlander
+	religion = sigmarite
+}
+
+#Merchant Houses of Neues Emskrank  Societas Mercatoria Septentrionalis
+
+
+b_riemanns = {
+	culture = ostlander
+	religion = ulrican
+}
+
+b_von_schweinfass = {
+	culture = nordlander
+	religion = sigmarite
+}
+
+b_von_holzmarkt = {
+	culture = hochlander
+	religion = ulrican
+}
+
+b_kaimeister = {
+	culture = nordlander
+	religion = ulrican
+}
+
+
+b_schutzman = {
+	culture = ostlander
+	religion = sigmarite
+}
+
+
+
+
+#Merchant Houses of Erengrad
+
+b_shein = {
+	culture = gospodar
+	religion = northern_gods
+}
+
+b_orlov = {
+	culture = gospodar
+	religion = northern_gods
+}
+
+b_pyhaniemi = {
+	culture = ungol
+	religion = northern_gods
+}
+
+b_fingerpori = {
+	culture = ungol
+	religion = northern_gods
+}
+
+b_padaste = {
+	culture = ropsmann
+	religion = northern_gods
+}
+
+# Reman Merchant Houses
+
+
+b_di_sorrento = {
+	culture = reman
+	religion = classical_gods
+}
+
+b_de_sica = {
+	culture = reman
+	religion = classical_gods
+}
+
+b_minnoli = {
+	culture = reman
+	religion = classical_gods
+}
+
+b_remi = {
+	culture = reman
+	religion = classical_gods
+}
+
+b_garrani = {
+	culture = reman
+	religion = classical_gods
+}
+
+
+# Verezzo Merchant Houses
+
+b_lanese = {
+	culture = umbrian
+	religion = classical_gods
+}
+
+b_biagi = {
+	culture = umbrian
+	religion = classical_gods
+}
+
+b_ducati = {
+	culture = umbrian
+	religion = classical_gods
+}
+
+b_rustici = {
+	culture = umbrian
+	religion = classical_gods
+}
+
+b_aurino = {
+	culture = umbrian
+	religion = classical_gods
+}

@@ -1,0 +1,18 @@
+# 1167 Viksjoergsberg
+
+# County Title
+title = c_viksjoergsberg
+
+# Settlements
+max_settlements = 4
+b_fortress_of_viksjoergsberg = castle
+b_ulrikshamm = city
+b_grotti = castle
+b_fimmborg = city
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

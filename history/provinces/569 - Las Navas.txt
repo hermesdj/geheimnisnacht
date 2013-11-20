@@ -1,0 +1,16 @@
+#569 Las Navas
+#County Title
+title = c_las_navas
+
+#Settlements
+max_settlements = 4
+b_navaz = castle
+b_altona = city
+b_caberno = city
+b_rosales = temple
+
+#Misc
+culture = montanese
+religion = classical_gods
+
+#History

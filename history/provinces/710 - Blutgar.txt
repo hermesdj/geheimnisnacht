@@ -1,0 +1,16 @@
+# 710 Blutgar
+
+# County Title
+title = c_blutgar
+
+# Settlements
+max_settlements = 2
+b_blutgar = castle
+b_the_blacktor = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

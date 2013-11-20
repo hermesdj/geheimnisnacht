@@ -1,0 +1,18 @@
+# 838 Cabernet
+
+# County Title
+title = c_cabernet
+
+# Settlements
+max_settlements = 4
+b_chateau_caberne = castle
+b_javert = city
+b_valjean = temple
+b_thenardier = city
+
+# Misc
+culture = gascon
+religion = lady_of_the_lake
+
+
+# History

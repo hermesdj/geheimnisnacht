@@ -1,0 +1,29 @@
+horned_rat_god_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	pacifist = no
+	
+	horned_rat = {
+		graphical_culture = westerngfx
+
+		icon = 18
+		color = { 0.4 0.1 0.1 }
+		
+		crusade_name = "BLACK_CRUSADE"
+		scripture_name = LIBER_CHAOTICA
+		god_names = {
+			GOD_THE_GODS GOD_THE_DARK_ONES GOD_CHAOS_INCARNATE GOD_THE_RUINOUS_POWERS GOD_CHAOS
+ 		}
+		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = no
+		can_hold_temples = yes
+	}
+}

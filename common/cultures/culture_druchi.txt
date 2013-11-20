@@ -3,21 +3,60 @@ druchi_group = {
 	graphical_culture = westerngfx
 
 	naggarondi = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
 		male_names = {
-		Legolas
+			Akrana Alondir Arishok Atar 
+			Baromad 
+			Citae Corrus Coru Crucum 
+			Devak Drai Drazek Duris 
+			Eniko Erax 
+			Festuc Fueris 
+			Garek Ghaunadaur Girathon Gloreir 
+			Hakazin Harodir Hathdror Hyethan 
+			Ilries Inpuric 
+			Kaltarn Karbo Karithan Kesida Khaeleth Khalaeth Kolith Koridrel Kossith Krartil Krathar Krellian Kulvorath Kyaran 
+			Leiaceus Livor Lokhir 
+			Maefyr Maelthraen Malagurn Malefic Malek Malekith Malign Malik Malo Manarith Metruor Metus Morelan 
+			Nyethan 
+			Perduc 
+			Ralkuth Riakahd Rindhor 
+			Saril Scalus Scelus Selvetarm Sicar Skarus Skrumar 
+			Taraj Taromir Telurna Thalyn Thandros Torrath Trepis Typhoth 
+			Urian Uzoe 
+			Valensyl Velathor Vereor Vex Vexo Vexos 
+			Vhaeraun Vilkareth Yldrian 
+			Zural 
 		}
 		female_names = {
-		
+			Aelfil Aenesintryan Aenrenasar Aethlas Alba Alyth Argenfys Astoniella 
+			Balaniell 
+			Caethsol Camilet Celo Chorane Cornix Crinis Crucia 
+			Deprava 
+			Eilistraee Elrelsar Elthfannith Ersfen 
+			Fae Faerie Fandenfelle Fel Ferfys Finirryeth Foram 
+			Gesulrell Glorrorys Glorrose Gracilia 
+			Hasilsothyn Hel Hellebron Hellis Helsiine 
+			Igniax Illanolthyn Inlica Ithsalaa Ithselroi Iyralsinath 
+			Kathandris Keress Kiaransalee Korana Krinis Kyroldet 
+			Lafenorys Lamina Lanfanona Lanfenronneth Lanselrali Larathryn Laresenther Leti Letum Lilasaira Liliath Lilroit Limfina Limrolisa Limroth Lolth Lothtrys 
+			Malifyr Malsefynn Melthirolnem Morag Morathi Moridyth Morithia Morotir Morrega Morsi 
+			Nenassela Norsor 
+			Orsula 
+			Pelicai 
+			Rapina Raptua Ridolraam Riellaeys Riilsoneleth Riinerai 
+			Sanik Sarava Seleis Shar Sharr Shazamel Sicara Skari Sprite 
+			Taenia Taluolieth Tanarashar Tanesoa Tarsisa Telsanys Tenuis Toxi Toxika 
+			Uleneleann Ulseeltar 
+			Vasti Venen Venum Vexo Viri Virik 
+			Yrrensasar 
+			Zinzerena 
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -34,7 +73,7 @@ druchi_group = {
 	}
 
 	ghrondari = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -45,10 +84,8 @@ druchi_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -65,7 +102,7 @@ druchi_group = {
 	}	
 
 	elthrai = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -76,10 +113,8 @@ druchi_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -96,7 +131,7 @@ druchi_group = {
 	}
 
 	ganethi = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -107,10 +142,8 @@ druchi_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -127,7 +160,7 @@ druchi_group = {
 	}
 	
 	khlari = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -138,10 +171,8 @@ druchi_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -158,7 +189,7 @@ druchi_group = {
 	}
 
 	kynthi = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -169,10 +200,8 @@ druchi_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.

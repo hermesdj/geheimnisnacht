@@ -1,0 +1,17 @@
+# 42 Tolum
+
+# County Title
+title = c_tolum
+
+# Settlements
+max_settlements = 3
+b_tolum = city
+b_harkyl = castle
+b_olurmer = city
+
+# Misc
+culture = varg
+religion = dark_norse
+
+
+# History

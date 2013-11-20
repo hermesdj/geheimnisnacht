@@ -1,0 +1,19 @@
+# 51 Serulborg
+
+# County Title
+title = c_serulborg
+
+# Settlements
+max_settlements = 5
+b_serulborg = castle
+b_blodig = city
+b_argreinheim = temple
+b_yurunheim = city
+b_haralagar = castle
+
+# Misc
+culture = varg
+religion = dark_norse
+
+
+# History

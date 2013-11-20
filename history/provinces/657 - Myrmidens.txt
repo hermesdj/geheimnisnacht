@@ -1,0 +1,20 @@
+# 657 Myrmidens
+
+# County Title
+title = c_myrmidens
+
+# Settlements
+max_settlements = 6
+b_heraclaia = castle
+b_myrmidens = city
+b_port_piratea = city
+b_thakos = temple
+b_sophira = castle
+b_clydastium = temple
+
+# Misc
+culture = myken
+religion = classical_gods
+
+
+# History

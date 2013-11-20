@@ -59,6 +59,10 @@ amazon_group = {
 			Yacine Yeshi Zayb Zeina Zeynab Zorah Zuzu Pentheselia Xena Lysippe Melandra Azura Lwaxana Thalestris
 		}
 
+		male_patroynm = ""
+		female_patronym = ""
+		prefix = no
+		
 		pat_grf_name_chance = 40
 		mat_grf_name_chance = 0
 		father_name_chance = 0

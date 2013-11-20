@@ -279,6 +279,40 @@ succession_laws = {
 		}			
 	}
 	
+	
+	succ_papal_succession = {
+		potential = {
+			title = k_papal_state
+		}
+		
+		effect = {
+			succession = papal_succession
+		}
+		revoke_allowed = {
+			always = no
+		}		
+	}
+	
+	# Titles revert back to the liege on death
+	succ_appointment = {
+		potential = {
+			holder_scope = {
+				is_feudal = yes
+				independent = no
+				any_liege = {
+					holy_order = yes
+				}
+				is_merchant_republic = no
+			}
+		}
+		effect = {
+			succession = appointment
+		}
+		revoke_allowed = {
+			always = no
+		}		
+	}
+	
 	succ_open_elective = {
 		potential = {
 			OR = {

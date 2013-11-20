@@ -1,0 +1,17 @@
+# 93 Ergren's Peninsula
+
+# County Title
+title = c_ergrens_peninsula
+
+# Settlements
+max_settlements = 3
+b_ergrenvik = castle
+b_tyloks_point = temple
+b_port_of_erevum = city
+
+# Misc
+culture = varg
+religion = chaos
+
+
+# History

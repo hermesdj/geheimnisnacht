@@ -1,0 +1,17 @@
+# 67 - Everthunder
+
+# County Title
+title = c_everthunder
+
+# Settlements
+max_settlements = 3
+b_thunder_peak = castle
+b_tors_hammer = castle
+b_kalid = city
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

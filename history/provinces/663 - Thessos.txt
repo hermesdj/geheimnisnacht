@@ -1,0 +1,17 @@
+# 663 Thessos
+
+# County Title
+title = c_thessos
+
+# Settlements
+max_settlements = 3
+b_thessos = castle
+b_olvia = city
+b_gla = temple
+
+# Misc
+culture = reman
+religion = classical_gods
+
+
+# History

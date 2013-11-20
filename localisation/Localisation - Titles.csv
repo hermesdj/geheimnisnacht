@@ -4374,8 +4374,8 @@ b_winkel;Winkel;;;;;;;;;;;;;x
 b_winkelmarkt;Winkelmarkt;;;;;;;;;;;;;x
 b_winsen;Winsen;;;;;;;;;;;;;x
 b_wissenberg;Wissenberg;;;;;;;;;;;;;x
-b_wittendorf;Wittendorf;;;;;;;;;;;;;x
 b_wittenhausen;Wittenhausen;;;;;;;;;;;;;x
+b_wittgendorf;Wittgendorf;;;;;;;;;;;;;x
 b_wizna;Wizna;;;;;;;;;;;;;x
 b_wojttaszyce;Wojttaszyce;;;;;;;;;;;;;x
 b_woldegsk;Woldegsk;;;;;;;;;;;;;x
@@ -4537,7 +4537,7 @@ d_barduila;Barduila;;;;;;;;;;;;;x
 d_barodrin;Barodrin;;;;;;;;;;;;;x
 d_bastonne;Bastonne;;;;;;;;;;;;;x
 d_bebrikia;Bebrikia;;;;;;;;;;;;;x
-d_bechen;Bechen;;;;;;;;;;;;;x
+d_bechafen;Bechafen;;;;;;;;;;;;;x
 d_bergrisi;Bergrisi;;;;;;;;;;;;;x
 d_bhagar;Bhagar;;;;;;;;;;;;;x
 d_bilbali;Bilbali;;;;;;;;;;;;;x
@@ -4823,7 +4823,7 @@ d_rugard;Rugard;;;;;;;;;;;;;x
 d_ruinmarch;Ruinmarch;;;;;;;;;;;;;x
 d_saimaakild;Saimaakild;;;;;;;;;;;;;x
 d_sakatchi_alay;Sakatchi-Alay;;;;;;;;;;;;;x
-d_salzen;Salzen;;;;;;;;;;;;;x
+d_salz;Salz;;;;;;;;;;;;;x
 d_santa_clair;Santa Clair;;;;;;;;;;;;;x
 d_saponatheim;Saponatheim;;;;;;;;;;;;;x
 d_sarif;Sarif;;;;;;;;;;;;;x
@@ -5218,3 +5218,83 @@ b_khaz_bryn_karaz;Khaz-Bryn Karaz;;;;;;;;;;;;;x
 b_karak_bryngil;Karak Bryngil;;;;;;;;;;;;;x
 b_jordikar;Jordikar;;;;;;;;;;;;;x
 b_ungol_bryni;Ungol Bryni;;;;;;;;;;;;;x
+d_ubersreik;Ubersreik;;;;;;;;;;;;;x
+b_brandenburg;Brandenburg;;;;;;;;;;;;;x
+b_castle_wittgendorf;Castle Wittgendorf;;;;;;;;;;;;;x
+d_geisterforst;Geisterforst;;;;;;;;;;;;;x
+d_black_fire_defenders;Black Fire Defenders;;;;;;;;;;;;;x
+d_deathjacks;Deathjacks;;;;;;;;;;;;;x
+d_grundels_defenders;Grundel's Defenders;;;;;;;;;;;;;x
+d_riders_of_the_mark;Riders of the Mark;;;;;;;;;;;;;x
+d_nordsee_marines;Nordsee Marines;;;;;;;;;;;;;x
+d_fireloques_of_ferlangen;Fireloques of Ferlangen;;;;;;;;;;;;;x
+b_van_onderzoeker;an Onderzoeker;;;;;;;;;;;;;x
+b_koopmans;Koopmans;;;;;;;;;;;;;x
+b_winkler;Winkler;;;;;;;;;;;;;x
+b_vijfswinkel;Vijfswinkel;;;;;;;;;;;;;x
+b_smeele;Smeele;;;;;;;;;;;;;x
+b_neues_emskrank;Neues Emskrank;;;;;;;;;;;;;x
+d_societas_mercatoria_septentrionalis;Societas Mercatoria Septentrionalis;;;;;;;;;;;;;x
+b_van_de_kuypers;Smeele;;;;;;;;;;;;;x
+b_de_roelef;de Roelef;;;;;;;;;;;;;x
+b_van_haagen;van Haagen;;;;;;;;;;;;;x
+b_van_scheldt;van Scheldt;;;;;;;;;;;;;x
+b_fooger;Fooger;;;;;;;;;;;;;x
+b_van_den_nijmenk;van den Nijmenk;;;;;;;;;;;;;x
+b_den_euwe;den Euwe;;;;;;;;;;;;;x
+b_rothemuur;Rothemuur;;;;;;;;;;;;;x
+b_akkerman;Akkerman;;;;;;;;;;;;;x
+b_riemanns;Riemanns;;;;;;;;;;;;;x
+b_von_schweinfass;von schweinfass;;;;;;;;;;;;;x
+b_von_holzmarkt;von Holzmarkt;;;;;;;;;;;;;x
+b_kaimeister;Kaimeister;;;;;;;;;;;;;x
+b_schutzman;Schutzman;;;;;;;;;;;;;x
+d_company_of_the_red_claws;Company of the Red Claws;;;;;;;;;;;;;x
+b_schutzman;Schutzman;;;;;;;;;;;;;x
+d_pirazzos_lost_legion;Lost Legion;;;;;;;;;;;;;x
+d_finterra_tercios;Finterra Tercios;;;;;;;;;;;;;x
+d_red_company;Red Company;;;;;;;;;;;;;x
+d_fighting_cocks;Fighting Cocks;;;;;;;;;;;;;x
+b_almshoven;Almshoven;;;;;;;;;;;;;x
+b_broekwater;Broekwater;;;;;;;;;;;;;x
+b_bussum;Bussum;;;;;;;;;;;;;x
+d_heideland;Heideland;;;;;;;;;;;;;x
+d_fauligmere;Fauligmere;;;;;;;;;;;;;x
+d_la_marche;La Marche;;;;;;;;;;;;;x
+b_pfaffbach;Pfaffbach;;;;;;;;;;;;;x
+b_senkehof;Senkehof;;;;;;;;;;;;;x
+b_nachtschlosse;Nachtschlosse;;;;;;;;;;;;;x
+d_verbogenwald;Verbogenwald;;;;;;;;;;;;;x
+d_the_veldt;The Veldt;;;;;;;;;;;;;x
+b_vorderbergen;Vorderbergen;;;;;;;;;;;;;x
+b_steinbachthal;Steinbachthal;;;;;;;;;;;;;x
+b_zipf;Zipf;;;;;;;;;;;;;x
+b_van_raemerswijk;van Raemerswijk;;;;;;;;;;;;;x
+b_seppel;Seppel;;;;;;;;;;;;;x
+k_west_mark;West Mark;;;;;;;;;;;;;x
+k_lichtenburg;Lichtenburg;;;;;;;;;;;;;x
+d_knights_mariner;Knights Mariner;;;;;;;;;;;;;x
+d_sons_of_manann;Sons of Manann;;;;;;;;;;;;;x
+d_horned_hunters;Horned Hunters;;;;;;;;;;;;;x
+d_longshanks;Longshanks;;;;;;;;;;;;;x
+d_order_of_sword_and_scale;Order of Sword and Scale;;;;;;;;;;;;;x
+d_order_of_fury;Oder of Fury;;;;;;;;;;;;;x
+d_sisters_of_faith_and_chastity;Sisters of Faith and Chastity;;;;;;;;;;;;;x
+d_templars_of_sigmar;Templars of Sigmar;;;;;;;;;;;;;x
+d_order_of_the_howling_wolf;Order of the Howling Wolf;;;;;;;;;;;;;x
+d_order_of_the_winter_throne;Order of the Winter Throne;;;;;;;;;;;;;x
+b_flussberg;Flussberg;;;;;;;;;;;;;x
+b_hupeberg;Hupeberg;;;;;;;;;;;;;x
+b_lachenbad;Lachenbad;;;;;;;;;;;;;x
+b_castle_wittgenstein;Castle Wittgenstein;;;;;;;;;;;;;x
+b_gemusenbad;Gemusenbad;;;;;;;;;;;;;x
+b_grissenwald;Grissenwald;;;;;;;;;;;;;x
+b_lilahalle;Lilahalle;;;;;;;;;;;;;x
+b_holgau;Holgau;;;;;;;;;;;;;x
+b_pfeiffer;Pfeiffer;;;;;;;;;;;;;x
+d_vorbergland;Vorbergland;;;;;;;;;;;;;x
+b_dunkelberg;Dunkelberg;;;;;;;;;;;;;x
+d_blitzfelsen;Blitzfelsen;;;;;;;;;;;;;x
+d_wissetal;Wissetal;;;;;;;;;;;;;x
+b_tierhugel;Tierhugel;;;;;;;;;;;;;x
+b_weilerberg;Weilerburg;;;;;;;;;;;;;x

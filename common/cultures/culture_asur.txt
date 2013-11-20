@@ -3,21 +3,58 @@ asur_group = {
 	graphical_culture = westerngfx
 
 	yvressi = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
 		male_names = {
-		Legolas
+			Aeddriel Aekisnel Aeldith Aelthyan Aen Aenarma Aenethis Aenil Aerandir Aestar Aethis Agnor Ainares Alem Alith Alnar Altios Aluthol Amendil Amhas Amras Anar Anarion Andalian Angran Antali Ar-Earandur Ardaer Arduval Arhain Arhalien Arithan Arnien Arthaes Arthien Asdalis Ashnari Assani Atharion Athilean Avel'Firrodeth 
+			Balthinal Baraskan Belaeg Belaeg Belannaer Berliol Braen 
+			Caduin Caerndan Caerntharn Caethsetir Caladrath Calarion Caleth Camling Camring Caradryan Caradryel Cavindel Cedasof Celanar Celendor Celorn Ceylín Cirdale Cirribhir Cirroniol Curufor Curuthin 
+			Dalos Darinol Dekindes Dinen Dolwen Dolwen Drinien 
+			Eldargar Eldillor Eldrion Elithaen Elrahil Elror Elthair Eltharion Elthilas Elthossar Elured Endanar Endhil Enthardon Eralion Erefor Eshkas Esperanza Estinok Etherion Ethrihil 
+			Falandar Farinar Farnoth Felars Feradeth Findecano Finreir Finuval Firithas Fistakin Foros 
+			Galathalas Galdith Garadehl Gildiril Gilgalion Gilleriad Giltoniel Glaciandar Glorfindel Gloringwe Gofnek Guderk 
+			Haelynar Halin Hallar Harrond Hasana Helidain Helisaf Hithandror 
+			Iaurnaurion Ielthan Illidial Imhol Imnorai Imrik Indronlil Ingmir Inharion Irathir Irithok Ithas Ithiloen Ithlaen 
+			Jelisoh Jhoril 
+			Kaelis Kaelys Kheral Khorian Korhil Koros Koros-Dar Kyrinn 
+			Larandar Lasinon Lasira Lathien Laurenor Legosul Liradean Lonolor 
+			Malvegil Masader Mathrin Mearoseagh Mellion Meltinir Mendeli Mentheus Menuthil Mesilhin Moradrin Mormacar Morvael 
+			Nael Naideth Nalrothel Narien Nenthuil Ninathar Nirnaeth Nirthan Nuirathil Numeki 
+			Olanis 
+			Quarion 
+			Rana Ravandil Regulus Rethias Riandys 
+			Saelir Salandilar Sareth Seladon Serkendil Sethril Shannar Si'Anelle Silontol Singal Sullandiel 
+			Talar Talorith Teclis Tethren Thalos Therais Therial Thiladan Thoronthol Thralion Thrandule Torendil Tyrion 
+			Urdithane 
+			Valahuir Valanduil Valentyr Valin Vil-Hatarn Vilideso 
+			Yavandir Yavandir Yrtle 
 		}
 		female_names = {
-		
+			Airwen Alane Alarielle Altronia Aluthra Angaliel Ardana Arethel Arwen Assani Auriour 
+			Bariela Bariela 
+			Celena Ciritha Corathine 
+			Dariena Davandrel 
+			Eldril Elenwe Eliren Ellisae Eltanin Elwine Eponia 
+			Fanriel Filamir Finduilas 
+			Galadwen Gallina 
+			Halion Halthala Hatisha 
+			Idlil Idrin Ilfuwyr Iludil Iludir Ingwe Ionor 
+			Laurre Laurre Lessa Liessa Lilar Lilianelle Lindara Lorandara Loryn 
+			M'naina Marienna Maruviel Melathien Morithwen 
+			Nali Nalthin Nessa Nianna Niniour 
+			Pelgrana 
+			Rilia 
+			Sadrilil Selenoa Shenassa Siluvaine Sylvanus Syrine 
+			Tallana Tirial 
+			Ulliana 
+			V'ana Valaromra Valianol Valkana Vana Vanedra Virian Vivandrel 
+			Yalanna Yuviel 
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -33,7 +70,7 @@ asur_group = {
 		modifier = default_culture_modifier
 	}
 	sapherian = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -44,10 +81,8 @@ asur_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -64,7 +99,7 @@ asur_group = {
 	}
 	
 	ellyrian = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -75,10 +110,8 @@ asur_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -95,7 +128,7 @@ asur_group = {
 	}	
 	
 	tiranoci = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -106,10 +139,8 @@ asur_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -126,7 +157,7 @@ asur_group = {
 	}	
 			
 	cothiq = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -137,10 +168,8 @@ asur_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -157,7 +186,7 @@ asur_group = {
 	}	
 				
 	eataini = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -168,10 +197,8 @@ asur_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -189,7 +216,7 @@ asur_group = {
 	
 	
 	nagarythi = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -200,10 +227,8 @@ asur_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -221,7 +246,7 @@ asur_group = {
 	
 
 	chracian = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -232,10 +257,8 @@ asur_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -253,7 +276,7 @@ asur_group = {
 
 	
 	avelorni = {
-		graphical_culture = norsegfx
+		graphical_culture = westerngfx
 
 		color = { 1.0 0.4 0.1 }
 
@@ -264,10 +287,8 @@ asur_group = {
 		
 		}
 
-		from_dynasty_prefix = "af "
-
-		male_patroynm = "sson"
-		female_patronym = "sdotter"
+		male_patroynm = ""
+		female_patronym = ""
 		prefix = no
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
@@ -282,4 +303,34 @@ asur_group = {
 		
 		modifier = default_culture_modifier
 	}
+	
+	asthoi = {
+		graphical_culture = westerngfx
+
+		color = { 1.0 0.4 0.1 }
+
+		male_names = {
+		Legolas
+		}
+		female_names = {
+		
+		}
+
+		male_patroynm = ""
+		female_patronym = ""
+		prefix = no
+
+		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 40
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}	
+	
 }

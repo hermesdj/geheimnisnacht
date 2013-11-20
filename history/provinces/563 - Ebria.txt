@@ -1,0 +1,16 @@
+#563 Ebria
+#County Title
+title = c_ebria
+
+#Settlements
+max_settlements = 4
+b_elchencia = castle
+b_hegiza = temple
+b_criona = castle
+b_gezia = city
+
+#Misc
+culture = astur
+religion = classical_gods
+
+#History

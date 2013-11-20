@@ -1,0 +1,17 @@
+# 776 Gernach
+
+# County Title
+title = c_gernach
+
+# Settlements
+max_settlements = 3
+b_gernach = castle
+b_milfords_mendicance = city
+b_pendrove = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

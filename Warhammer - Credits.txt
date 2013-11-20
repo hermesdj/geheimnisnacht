@@ -62,14 +62,20 @@ SWMH
 		Utiger names
 		Kutriger names
 	
-	Ofaloaf	
-		Old Frankish names
-	
 	Chlodio		
 		Finnish names
 		Føroyingar names
 		Karjalainen names
 		Lappish names
+		
+	cybrxkhan
+		Azerbaijian names
+		Chinese names
+		Crimean Tartar names
+		Chagatai names
+		Uzbek names
+		Ancient Egyptian names
+		Sicilian-Arabic names
 		
 	duinnin
 		Nakh names
@@ -79,6 +85,12 @@ SWMH
 		Volga Bulgar names
 		Caucasian Avar names
 		
+	fargoniac
+		Japanese names
+	
+	Ofaloaf	
+		Old Frankish names
+	
 	Thure
 		Icelandic names
 		Arpitan names
@@ -89,10 +101,3 @@ SWMH
 		Walloon names
 		Surfranco names
 		
-	cybrxkhan
-		Azerbaijian names
-		Crimean Tartar names
-		Chagatai names
-		Uzbek names
-		Ancient Egyptian names
-		Sicilian-Arabic names

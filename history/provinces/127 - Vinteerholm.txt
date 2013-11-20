@@ -1,0 +1,17 @@
+# 127 Vinteerholm
+
+# County Title
+title = c_vinteerholm
+
+# Settlements
+max_settlements = 3
+b_vinteerholm = castle
+b_skogenberg = castle
+b_kzarla = castle
+
+# Misc
+culture = baersonling
+religion = norse
+
+
+# History

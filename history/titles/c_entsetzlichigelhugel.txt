@@ -4,5 +4,5 @@ liege="d_laurelorn"
 }
 
 1066.1.1 = {
-	holder = 8500009
+	holder = 850009
 }

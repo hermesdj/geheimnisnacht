@@ -1,0 +1,16 @@
+#521 Varda
+#County Title
+title = c_varda
+
+#Settlements
+max_settlements = 4
+b_varda = castle
+b_ragestros = temple
+b_defundos = city
+b_calpas = castle
+
+#Misc
+culture = galice
+religion = classical_gods
+
+#History

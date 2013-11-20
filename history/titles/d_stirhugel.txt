@@ -7,6 +7,10 @@ liege="e_westerland"
 	holder = 300000
 }
 
+2133.5.19 = {
+	holder = 300034
+}
+
 2304.12.5 = {
 liege="e_the_empire"
 }

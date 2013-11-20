@@ -1,0 +1,16 @@
+# 110 Barak Vordhr
+
+# County Title
+title = c_barak_vordhr
+
+# Settlements
+max_settlements = 2
+b_kraka_durandel = castle
+b_grung_atolivik = temple
+
+# Misc
+culture = dwarf_norse
+religion = ancestor_gods
+
+
+# History

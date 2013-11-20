@@ -1,0 +1,18 @@
+# 693 Mirke
+
+# County Title
+title = c_mirke
+
+# Settlements
+max_settlements = 4
+b_mirkenhof = castle
+b_arachnadorf = city
+b_grunewichthugel = temple
+b_letzten_stand = castle
+
+# Misc
+culture = nortagnese
+religion = lady_of_the_lake
+
+
+# History

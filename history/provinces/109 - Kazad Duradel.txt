@@ -1,0 +1,16 @@
+# 109 Kazad Duradel
+
+# County Title
+title = c_kazad_duradel
+
+# Settlements
+max_settlements = 2
+b_kazad_duradel = castle
+b_whittling_peak = castle
+
+# Misc
+culture = dwarf_norse
+religion = ancestor_gods
+
+
+# History

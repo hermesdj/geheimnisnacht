@@ -494,7 +494,153 @@ add_trait = "humble"
 2514.4.7={death=yes}
 }
 
-750024={
+750025={
+name = "Thietmar"
+dynasty = 21042
+dna = "enbidfpccjk"
+culture = ostermarker
+religion = taalite
+military = 5
+diplomacy = 2
+stewardship = 3
+intrigue = 3
+learning = 6
+add_trait = "detached_priest"
+add_trait = "cruel"
+1860.1.1={birth=yes}
+1922.7.26={death=yes}
+}
+
+750026={
+name = "Stanislaus"
+dynasty = 21042
+dna = "jlhdcedeemj"
+culture = ostermarker
+religion = taalite
+military = 2
+diplomacy = 3
+stewardship = 8
+intrigue = 3
+learning = 7
+add_trait = "elusive_shadow"
+add_trait = "deceitful"
+add_trait = "craven"
+1882.9.1={birth=yes}
+1939.9.1={death=yes}
+}
+
+750027={
+name = "Wolfdietrich"
+dynasty = 21038
+dna = "hkaoihlogbe"
+culture = ostermarker
+religion = taalite
+military = 6
+diplomacy = 4
+stewardship = 7
+intrigue = 1
+learning = 5
+add_trait = "grey_eminence"
+1906.9.1={birth=yes}
+1942.1.13={death=yes}
+}
+
+750028={
+name = "Catarina"
+female = yes
+dynasty = 21042
+dna = "onpiddfgpmd"
+culture = ostermarker
+religion = taalite
+military = 5
+diplomacy = 1
+stewardship = 0
+intrigue = 4
+learning = 5
+add_trait = "skilled_tactician"
+add_trait = "scholar"
+add_trait = "lustful"
+1879.11.1={birth=yes}
+1947.5.17={death=yes}
+}
+
+750029={
+name = "Wernher"
+dynasty = 21064
+dna = "hnhllooldfp"
+culture = ostermarker
+religion = taalite
+military = 3
+diplomacy = 4
+stewardship = 6
+intrigue = 3
+learning = 6
+add_trait = "charismatic_negotiator"
+add_trait = "ambitious"
+add_trait = "gregarious"
+add_trait = "wounded"
+1921.5.1={birth=yes}
+1952.5.22={death=yes}
+}
+
+750030={
+name = "Athela"
+female = yes
+dynasty = 21038
+dna = "onlbnjhofck"
+culture = ostermarker
+religion = taalite
+military = 6
+diplomacy = 7
+stewardship = 3
+intrigue = 1
+learning = 1
+add_trait = "tough_soldier"
+add_trait = "patient"
+add_trait = "arbitrary"
+add_trait = "content"
+1901.11.1={birth=yes}
+1968.9.8={death=yes}
+}
+
+750031={
+name = "Gustav"
+dynasty = 21032
+dna = "ppoeheacjbl"
+culture = ostermarker
+religion = taalite
+military = 0
+diplomacy = 4
+stewardship = 4
+intrigue = 4
+learning = 3
+add_trait = "indulgent_wastrel"
+add_trait = "trusting"
+add_trait = "wounded"
+1922.9.1={birth=yes}
+1982.4.3={death=yes}
+}
+
+750032={
+name = "Chedwic"
+dynasty = 21064
+dna = "acldjdigkpk"
+culture = ostermarker
+religion = taalite
+military = 3
+diplomacy = 5
+stewardship = 6
+intrigue = 6
+learning = 5
+add_trait = "flamboyant_schemer"
+add_trait = "cynical"
+add_trait = "slothful"
+add_trait = "greedy"
+1947.3.1={birth=yes}
+1997.5.10={death=yes}
+}
+
+750033={
 name = "Oswald" # Oswald von Konigswald
 dynasty = 21109
 culture = ostermarker
@@ -512,4 +658,3 @@ add_trait = "humble"
 2471.3.15={birth=yes}
 2534.5.27={death=yes}
 }
-

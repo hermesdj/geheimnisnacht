@@ -93,8 +93,6 @@ diplomacy = 7
 stewardship = 4
 intrigue = 8
 learning = 9
-father=800086
-mother=800087
 add_trait = "creature_human"
 add_trait = "duelist"
 add_trait = "brilliant_strategist"
@@ -1266,49 +1264,6 @@ add_trait = "cruel"
 2009.4.6={death=yes}
 }
 
-800056={
-name = "Mikhail"
-dynasty = 18022
-dna = "peblnlcplik"
-culture = ostlander
-religion = ulrican
-military = 3
-diplomacy = 2
-stewardship = 3
-intrigue = 7
-learning = 4
-add_trait = "creature_human"
-add_trait = "midas_touched"
-add_trait = "cynical"
-add_trait = "brave"
-father = 800056
-mother = 800057
-1988.5.28={birth=yes}
-2032.5.28={death=yes}
-}
-
-800057={
-name = "Klara"
-female = yes
-dynasty = 18022
-dna = "ldllajfopon"
-culture = ostlander
-religion = ulrican
-military = 3
-diplomacy = 3
-stewardship = 3
-intrigue = 5
-learning = 3
-father = 800056
-mother = 800057
-add_trait = "creature_human"
-add_trait = "intricate_webweaver"
-add_trait = "poet"
-add_trait = "gluttonous"
-1992.2.13={birth=yes}
-2052.2.13={death=yes}
-}
-
 800058={
 name = "Harold"
 dynasty = 18061
@@ -1830,7 +1785,7 @@ add_trait = "kind"
 add_trait = "fair"
 add_trait = "shy"
 
-2469.2.12={birth=yes}
+2461.2.12={birth=yes}
 2531.11.19={death=yes}
 }
 
@@ -1912,3 +1867,107 @@ add_trait = "brave"
 2401.12.2={birth=yes}
 2461.2.9={death=yes}
 }
+
+800086={
+name = "Boemus" #Neues Merchant
+dynasty = 18108
+dna = "idieleajoon"
+culture = ostlander
+religion = sigmarite
+military = 5
+diplomacy = 1
+stewardship = 5
+intrigue = 5
+learning = 5
+add_trait = "creature_human"
+add_trait = "flamboyant_schemer"
+add_trait = "gluttonous"
+add_trait = "brave"
+2439.9.1={birth=yes}
+2493.7.5={death=yes}
+}
+
+800087={
+name = "Jens-Peter" #Neues Merchant founder
+dynasty = 18109
+dna = "nmdiniaimhe"
+culture = ostlander
+religion = ulrican
+military = 6
+diplomacy = 4
+stewardship = 5
+intrigue = 6
+learning = 4
+add_trait = "creature_human"
+add_trait = "skilled_tactician"
+add_trait = "chaste"
+add_trait = "ambitious"
+add_trait = "diligent"
+2441.5.1={birth=yes}
+2487.1.3={death=yes}
+}
+
+800088={
+name = "Piotr"
+dynasty = 18110
+dna = "kmlgkomekbg"
+culture = ostlander
+religion = ulrican
+military = 2
+diplomacy = 3
+stewardship = 4
+intrigue = 4
+learning = 3
+add_trait = "creature_human"
+add_trait = "intricate_webweaver"
+add_trait = "hunter"
+add_trait = "gregarious"
+add_trait = "quick"
+2495.11.19={birth=yes}
+2018.1.21 = {add_spouse=200001}
+2562.2.5={death=yes}
+}
+
+800089={
+name = "Mikhail"
+dynasty = 18022
+dna = "peblnlcplik"
+culture = ostlander
+religion = ulrican
+military = 3
+diplomacy = 2
+stewardship = 3
+intrigue = 7
+learning = 4
+add_trait = "creature_human"
+add_trait = "midas_touched"
+add_trait = "cynical"
+add_trait = "brave"
+father = 800056
+mother = 800057
+1988.5.28={birth=yes}
+2032.5.28={death=yes}
+}
+
+800090={
+name = "Klara"
+female = yes
+dynasty = 18022
+dna = "ldllajfopon"
+culture = ostlander
+religion = ulrican
+military = 3
+diplomacy = 3
+stewardship = 3
+intrigue = 5
+learning = 3
+father = 800056
+mother = 800057
+add_trait = "creature_human"
+add_trait = "intricate_webweaver"
+add_trait = "poet"
+add_trait = "gluttonous"
+1992.2.13={birth=yes}
+2052.2.13={death=yes}
+}
+

@@ -1,0 +1,17 @@
+#535 Olissipo
+#County Title
+title = c_olissipo
+
+#Settlements
+max_settlements = 5
+b_alcazaba = castle
+b_avada = castle
+b_himolosa = temple
+b_varbasa = castle
+b_trigala = temple
+
+#Misc
+culture = avilian
+religion = classical_gods
+
+#History

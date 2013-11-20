@@ -7,19 +7,16 @@ beastman_group = {
 		color = { 1.0 0.4 0.1 }
 
 		male_names = {
-		
+			Ankarth Ar-Krar Borzhar Brutal Cygar Cygath Cyngor Darkar Darkgave Doomhorn Duorar Duorkar Felgor Felhorn Felox Gar-Gor Gargor Garn Garok Gartharn Garthor Ghaar-Gor Ghaaraz Ghar Gore Goreh Gorehorn Gorsqualor Gorthor Gorthorn Graktar Granthor Greygave Grim Grimar Grimgash Grimox Grizz Guriz Kalagor Kar-Gor Kar-Rak Karkor Kartok Kazgrar Kharaz Kharr Khazarn Khazrak Khorok Klorgar Kloven Korthar Korthu Kragaz Lorgrith Magok Malagor Margrak Margriz Molokh Morghur Morgrim Morgum Mugrar Mund Murgiz Narl Norgrim Porgrim Ragush Rar-Gash Rurkhar Skar Skar-Gor Skarr Slaar Slaargor Slar-Gor Tartail Taurox Thagrim Thargor Ulgor Ungrar Ungrol Urgar Urgri Urzar Uzzira Zar Zar-Gharr Zargox Zargri Zargrim Zargul Zarox Zarr Zerr Zortar 
 		}
 		female_names = {
-		
+			Lovos
 		}
 
-
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
 		pat_grf_name_chance = 40
 		mat_grf_name_chance = 0
 		father_name_chance = 0
 
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 5
 		mat_grm_name_chance = 40
 		mother_name_chance = 0

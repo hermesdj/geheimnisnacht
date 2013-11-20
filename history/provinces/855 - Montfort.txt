@@ -1,0 +1,19 @@
+# 855 Montfort
+
+# County Title
+title = c_montfort
+
+# Settlements
+max_settlements = 5
+b_montfort = castle
+b_montjoie = city
+b_occam = castle
+b_bergereux = temple
+b_cantauban = castle
+
+# Misc
+culture = bourgon
+religion = lady_of_the_lake
+
+
+# History

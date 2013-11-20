@@ -1,0 +1,20 @@
+# 39 Ulfsland
+
+# County Title
+title = c_ulfsland
+
+# Settlements
+max_settlements = 6
+b_ulfsland = castle
+b_tulkirivik = city
+b_hardaborg = city
+b_laussland = castle
+b_kedelvik = castle
+b_vardahus = castle
+
+# Misc
+culture = skaeling
+religion = norse
+
+
+# History

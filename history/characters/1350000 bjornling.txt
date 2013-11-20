@@ -405,3 +405,83 @@ add_trait="cruel"
 2040.5.18={death="2040.5.18"}
 }
 
+1350020={
+name = "Bjorn"
+dynasty = 56034
+dna = "anacjbckklf"
+culture = bjornling
+religion = norse
+military = 5
+diplomacy = 6
+stewardship = 2
+intrigue = 3
+learning = 4
+add_trait = "fortune_builder"
+add_trait = "trusting"
+add_trait = "slothful"
+add_trait = "brave"
+1023.1.1={birth=yes}
+1048.4.7 = {add_spouse=1350021}
+1092.9.21={death=yes}
+}
+
+1350021={
+name = "Hallbiorg"
+female = yes
+dynasty = 56035
+dna = "nfkchlchnln"
+culture = bjornling
+religion = norse
+military = 4
+diplomacy = 3
+stewardship = 3
+intrigue = 4
+learning = 1
+add_trait = "tough_soldier"
+add_trait = "patient"
+add_trait = "humble"
+1031.2.11={birth=yes}
+1048.4.7 = {add_spouse=1350020}
+1109.10.4={death=yes}
+}
+
+1350022={
+name = "Kolskeggr"
+dynasty = 56034
+dna = "gfofpoafgel"
+culture = bjornling
+religion = norse
+military = 6
+diplomacy = 3
+stewardship = 5
+intrigue = 7
+learning = 5
+father = 1350020
+mother = 1350021
+add_trait = "intricate_webweaver"
+add_trait = "hunter"
+add_trait = "envious"
+1049.1.1={birth=yes}
+1111.9.29={death=yes}
+}
+
+1350023={
+name = "Vilborg"
+female = yes
+dynasty = 56034
+dna = "pkfdhnhdfdb"
+culture = bjornling
+religion = norse
+military = 0
+diplomacy = 2
+stewardship = 6
+intrigue = 7
+learning = 5
+father = 1350020
+mother = 1350021
+add_trait = "elusive_shadow"
+add_trait = "patient"
+1054.5.14={birth=yes}
+1122.3.4={death=yes}
+}
+

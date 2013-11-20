@@ -1,0 +1,18 @@
+# 929 Hundsheimerwald
+
+# County Title
+title = c_hundsheimerwald
+
+# Settlements
+max_settlements = 4
+b_marburg = castle
+b_steinbachthal = city
+b_vorderbergen = castle
+b_zipf = temple
+
+# Misc
+culture = stirlander
+religion = taalite
+
+
+# History

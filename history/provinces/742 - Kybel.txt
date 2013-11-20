@@ -1,0 +1,17 @@
+# 742 Kybel
+
+# County Title
+title = c_kybel
+
+# Settlements
+max_settlements = 3
+b_kybel = castle
+b_dhorrensburg = city
+b_lambracs = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

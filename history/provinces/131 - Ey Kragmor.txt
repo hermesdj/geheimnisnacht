@@ -1,0 +1,18 @@
+# 131 Ey Kragmor
+
+# County Title
+title = c_ey_kragmor
+
+# Settlements
+max_settlements = 4
+b_kragmors_stand = castle
+b_gazrevik = city
+b_port_of_thex = city
+b_hezjul = temple
+
+# Misc
+culture = baersonling
+religion = chaos
+
+
+# History

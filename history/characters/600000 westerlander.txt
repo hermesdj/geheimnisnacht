@@ -528,7 +528,7 @@ add_trait="gregarious"
 add_trait="kind"
 
 1617.4.24={birth=yes}
-1981.1.30={death=yes}
+1681.1.30={death=yes}
 }
 
 600025={
@@ -2775,5 +2775,598 @@ add_trait = "gregarious"
 2341.2.25={death=yes}
 }
 
+600129={
+name = "Wikus" # van de Kuypers Starting patriarch of mercantile Marienburg
+dynasty = 13008
+culture = westerlander
+religion = sigmarite
+military = 3
+diplomacy = 9
+stewardship = 7
+intrigue = 5
+learning = 4
+add_trait = "creature_human"
+add_trait = "creature_human"
+add_trait = "underhanded_rogue"
+add_trait = "deceitful"
+add_trait = "proud"
+add_trait = "cynical"
+add_trait = "gregarious"
+2262.2.21={birth=yes}
+2325.3.22={death=yes}
+}
 
+600130={
+name = "Thijs" #van Onderzoeker Patrician of 2512
+dynasty = 13009
+dna = "pkmpcpmincj"
+culture = westerlander
+religion = sigmarite
+military = 3
+diplomacy = 4
+stewardship = 4
+intrigue = 5
+learning = 5
+add_trait = "creature_human"
+add_trait = "flamboyant_schemer"
+add_trait = "charitable"
+add_trait = "honest"
+2485.11.1={birth=yes}
+2549.3.17={death=yes}
+}
+
+600131={
+name = "Jaan" #van de Kuypers Patrician of 2512
+dynasty = 13008
+dna = "heipgcjpoob"
+culture = westerlander
+religion = sigmarite
+military = 2
+diplomacy = 5
+stewardship = 3
+intrigue = 4
+learning = 6
+father = 600151
+mother = 600152
+add_trait = "creature_human"
+add_trait = "misguided_warrior"
+add_trait = "content"
+add_trait = "trusting"
+add_trait = "arbitrary"
+add_trait = "craven"
+2455.1.1={birth=yes}
+2533.6.21={death=yes}
+}
+
+600132={
+name = "Clotilde" #de Roelef matriarch of 2512
+female = yes
+dynasty = 13010
+dna = "cfhdhcgkhad"
+culture = westerlander
+religion = sigmarite
+military = 4
+diplomacy = 1
+stewardship = 4
+intrigue = 3
+learning = 2
+father = 600136
+add_trait = "creature_human"
+add_trait = "midas_touched"
+add_trait = "mystic"
+add_trait = "wroth"
+add_trait = "brave"
+add_trait = "lustful"
+add_trait = "just"
+2465.3.1={birth=yes}
+2519.8.19={death=yes}
+}
+
+600133={
+name = "Leo" # van Haagen patrician of 2512
+dynasty = 13011
+dna = "ohlgacadond"
+culture = westerlander
+religion = sigmarite
+military = 4
+diplomacy = 4
+stewardship = 3
+intrigue = 3
+learning = 4
+add_trait = "creature_human"
+add_trait = "grey_eminence"
+add_trait = "brave"
+add_trait = "content"
+2445.7.1={birth=yes}
+2519.8.19={death=yes}
+}
+
+600134={
+name = "Wessel" #van Scheldt patrician of 2512
+dynasty = 13012
+dna = "bfidchakcgo"
+culture = westerlander
+religion = sigmarite
+military = 7
+diplomacy = 7
+stewardship = 1
+intrigue = 6
+learning = 3
+add_trait = "creature_human"
+add_trait = "thrifty_clerk"
+add_trait = "proud"
+add_trait = "paranoid"
+add_trait = "ambitious"
+2432.3.1={birth=yes}
+2517.11.28={death=yes}
+}
+
+600135={
+name = "Luitpold" #van Raemerswijk patrician of 2512
+dynasty = 13013
+dna = "hheejmeeief"
+culture = westerlander
+religion = sigmarite
+military = 3
+diplomacy = 3
+stewardship = 2
+intrigue = 3
+learning = 5
+add_trait = "creature_human"
+add_trait = "intricate_webweaver"
+add_trait = "ambitious"
+add_trait = "brave"
+add_trait = "content"
+
+2450.5.1={birth=yes}
+2521.5.6={death=yes}
+}
+
+600136={
+name = "Oldrik" #Clotilde's father
+dynasty = 13010
+dna = "fbedhbpmipm"
+culture = westerlander
+religion = sigmarite
+military = 0
+diplomacy = 5
+stewardship = 5
+intrigue = 1
+learning = 6
+add_trait = "creature_human"
+add_trait = "fortune_builder"
+add_trait = "cruel"
+add_trait = "proud"
+add_trait = "craven"
+add_trait = "diligent"
+2332.5.2={birth=yes}
+2486.10.10={death=yes}
+}
+
+600137={
+name = "Sasha" #van den Nijmenk Marienburg patrician of 2512
+dynasty = 13015
+dna = "mmjepfbbanh"
+culture = westerlander
+religion = sigmarite
+military = 6
+diplomacy = 2
+stewardship = 3
+intrigue = 5
+learning = 5
+add_trait = "creature_human"
+add_trait = "intricate_webweaver"
+add_trait = "hedonist"
+add_trait = "diligent"
+add_trait = "gregarious"
+2469.1.1={birth=yes}
+2530.10.22={death=yes}
+}
+
+600138={
+name = "Karl" #den Euwe Marienburg patriarch of 2512
+dynasty = 13016
+dna = "hlfgljiccmb"
+culture = westerlander
+religion = sigmarite
+military = 2
+diplomacy = 4
+stewardship = 3
+intrigue = 6
+learning = 3
+add_trait = "creature_human"
+add_trait = "skilled_tactician"
+add_trait = "hedonist"
+add_trait = "gregarious"
+2453.11.1={birth=yes}
+2532.5.21={death=yes}
+}
+
+600139={
+name = "Maximilian" #Rothemuur Marienburg patriarch of 2512
+dynasty = 13017
+dna = "cefajemnboo"
+culture = westerlander
+religion = sigmarite
+military = 6
+diplomacy = 7
+stewardship = 1
+intrigue = 4
+learning = 1
+add_trait = "creature_human"
+add_trait = "fortune_builder"
+add_trait = "honest"
+add_trait = "chaste"
+add_trait = "paranoid"
+add_trait = "patient"
+2446.1.1={birth=yes}
+2529.3.12={death=yes}
+}
+
+600140={
+name = "Pieter" #van Onderzoeker heir of 2512
+dynasty = 13009
+dna = "hcjmeijfkhg"
+culture = westerlander
+religion = sigmarite
+military = 1
+diplomacy = 2
+stewardship = 1
+intrigue = 6
+learning = 0
+father = 600130
+add_trait = "creature_human"
+add_trait = "midas_touched"
+add_trait = "gardener"
+add_trait = "craven"
+add_trait = "cynical"
+2416.7.1={birth=yes}
+2561.5.26={death=yes}
+}
+
+600141={
+name = "Koenraad" #van de Kuypers heir of 2512
+dynasty = 13008
+dna = "kgnmfbcggoc"
+culture = westerlander
+religion = sigmarite
+military = 6
+diplomacy = 8
+stewardship = 5
+intrigue = 6
+learning = 8
+father = 600131
+add_trait = "creature_human"
+add_trait = "brilliant_strategist"
+add_trait = "trusting"
+add_trait = "charitable"
+add_trait = "arbitrary"
+2482.1.1={birth=yes}
+2550.10.17={death=yes}
+}
+
+600142={
+name = "Clara" #de Roelef NIECE heir of 2512
+female = yes
+dynasty = 13010
+dna = "lobhmmiaglb"
+culture = westerlander
+religion = sigmarite
+military = 7
+diplomacy = 8
+stewardship = 3
+intrigue = 2
+learning = 4
+father = 600146
+add_trait = "creature_human"
+add_trait = "charismatic_negotiator"
+add_trait = "poet"
+add_trait = "diligent"
+add_trait = "cynical"
+2497.1.1={birth=yes}
+2547.10.9={death=yes}
+}
+
+600143={
+name = "Crispijn" # van Haagen heir of 2512
+dynasty = 13011
+dna = "efplobpleon"
+culture = westerlander
+religion = sigmarite
+military = 2
+diplomacy = 5
+stewardship = 7
+intrigue = 2
+learning = 6
+father = 600133
+add_trait = "creature_human"
+add_trait = "misguided_warrior"
+add_trait = "drunkard"
+2477.1.1={birth=yes}
+2558.9.12={death=yes}
+}
+
+600144={
+name = "Rudolph" #van Scheldt ADOPTED heir of 2512
+dynasty = 13012
+dna = "mlpcmnfkafm"
+culture = westerlander
+religion = sigmarite
+military = 3
+diplomacy = 4
+stewardship = 5
+intrigue = 0
+learning = 4
+father = 600134
+add_trait = "creature_human"
+add_trait = "indulgent_wastrel"
+add_trait = "ill"
+2484.1.1={birth=yes}
+2541.6.10={death=yes}
+}
+
+600145={
+name = "Anton" #van Raemerswijk heir of 2512
+dynasty = 13013
+dna = "agcdaljdhbb"
+culture = westerlander
+religion = sigmarite
+military = 8
+diplomacy = 4
+stewardship = 2
+intrigue = 4
+learning = 4
+father = 600135
+add_trait = "creature_human"
+add_trait = "flamboyant_schemer"
+add_trait = "charitable"
+add_trait = "shy"
+add_trait = "patient"
+2489.1.1={birth=yes}
+2534.11.6={death=yes}
+}
+
+600146={
+name = "Bram"
+dynasty = 13010
+dna = "kbildnbifek"
+culture = westerlander
+religion = sigmarite
+military = 2
+diplomacy = 4
+stewardship = 4
+intrigue = 4
+learning = 6
+father = 600136
+add_trait = "creature_human"
+add_trait = "flamboyant_schemer"
+add_trait = "just"
+add_trait = "cynical"
+2476.1.1={birth=yes}
+2503.1.13={death=yes}
+}
+
+600147={
+name = "Gillis" #van den Nijmenk Marienburg heir of 2512
+dynasty = 13015
+dna = "ebmgcijpljf"
+culture = westerlander
+religion = sigmarite
+military = 1
+diplomacy = 8
+stewardship = 5
+intrigue = 5
+learning = 6
+father = 600137
+add_trait = "creature_human"
+add_trait = "intricate_webweaver"
+add_trait = "proud"
+add_trait = "trusting"
+add_trait = "arbitrary"
+add_trait = "greedy"
+2416.7.1={birth=yes}
+2548.7.26={death=yes}
+}
+
+600148={
+name = "Egmond" #den Euwe Marienburg heir of 2512
+dynasty = 13016
+dna = "fghakinnlpj"
+culture = westerlander
+religion = sigmarite
+military = 2
+diplomacy = 3
+stewardship = 1
+intrigue = 4
+learning = 2
+father = 600138
+add_trait = "creature_human"
+add_trait = "skilled_tactician"
+add_trait = "content"
+add_trait = "cruel"
+add_trait = "trusting"
+2494.5.2={birth=yes}
+2554.5.22={death=yes}
+}
+
+600149={
+name = "Maximilian" #Rothemuur Marienburg heir of 2512
+dynasty = 13017
+dna = "igkohahifbc"
+culture = westerlander
+religion = sigmarite
+military = 5
+diplomacy = 7
+stewardship = 3
+intrigue = 0
+learning = 2
+father = 600139
+add_trait = "creature_human"
+add_trait = "intricate_webweaver"
+add_trait = "humble"
+add_trait = "chaste"
+add_trait = "diligent"
+add_trait = "patient"
+2495.5.1={birth=yes}
+2551.1.25={death=yes}
+}
+
+
+600150={
+name = "Maarten"
+dynasty = 13008
+dna = "fbbbeldmikg"
+culture = westerlander
+religion = sigmarite
+military = 6
+diplomacy = 5
+stewardship = 5
+intrigue = 3
+learning = 5
+add_trait = "charismatic_negotiator"
+add_trait = "wroth"
+add_trait = "slothful"
+add_trait = "honest"
+add_trait = "content"
+2412.7.1={birth=yes}
+2469.9.30={death=yes}
+}
+
+600151={
+name = "Jacco"
+dynasty = 13008
+dna = "oogamalmmob"
+culture = westerlander
+religion = sigmarite
+military = 4
+diplomacy = 7
+stewardship = 3
+intrigue = 0
+learning = 5
+father = 600150
+add_trait = "tough_soldier"
+add_trait = "temperate"
+add_trait = "lustful"
+2424.5.1={birth=yes}
+2441.5.11 = {add_spouse=600152}
+2485.7.14={death=yes}
+}
+
+600152={
+name = "Annagret"
+female = yes
+dynasty = 13304
+dna = "hbangficeme"
+culture = westerlander
+religion = sigmarite
+military = 3
+diplomacy = 3
+stewardship = 4
+intrigue = 6
+learning = 3
+add_trait = "misguided_warrior"
+add_trait = "greedy"
+add_trait = "greedy"
+add_trait = "cynical"
+2421.9.1={birth=yes}
+2441.5.11 = {add_spouse=600151}
+2485.7.14={death=yes}
+}
+
+600153={
+name = "Lieven"
+dynasty = 13008
+dna = "ajabfgdpclm"
+culture = westerlander
+religion = sigmarite
+military = 4
+diplomacy = 2
+stewardship = 3
+intrigue = 4
+learning = 3
+father = 600151
+mother = 600152
+add_trait = "brilliant_strategist"
+add_trait = "wroth"
+add_trait = "lunatic"
+add_trait = "paranoid"
+2446.1.1={birth=yes}
+2485.7.14={death=yes}
+}
+
+600154={
+name = "Godelieve"
+female = yes
+dynasty = 13008
+dna = "jjccdndepja"
+culture = westerlander
+religion = sigmarite
+military = 4
+diplomacy = 3
+stewardship = 6
+intrigue = 4
+learning = 5
+father = 600151
+mother = 600152
+add_trait = "midas_touched"
+add_trait = "hunter"
+add_trait = "cruel"
+add_trait = "just"
+2457.11.1={birth=yes}
+2485.7.14={death=yes}
+}
+
+600155={
+name = "Roeland"
+dynasty = 13007
+dna = "dengepacnfn"
+culture = westerlander
+religion = sigmarite
+military = 3
+diplomacy = 3
+stewardship = 1
+intrigue = 4
+learning = 4
+add_trait = "tough_soldier"
+add_trait = "charitable"
+2469.1.1={birth=yes}
+2533.10.16={death=yes}
+}
+
+600156={
+name = "Norbert"
+dynasty = 13002
+dna = "pbggadjhkkl"
+culture = westerlander
+religion = sigmarite
+military = 6
+diplomacy = 3
+stewardship = 7
+intrigue = 5
+learning = 2
+add_trait = "tough_soldier"
+add_trait = "mystic"
+add_trait = "just"
+2483.1.1={birth=yes}
+2556.5.17={death=yes}
+}
+
+600157={
+name = "Gustaaf"
+dynasty = 13492
+dna = "ehcglneeimi"
+culture = westerlander
+religion = sigmarite
+military = 0
+diplomacy = 3
+stewardship = 5
+intrigue = 5
+learning = 3
+add_trait = "midas_touched"
+add_trait = "duelist"
+add_trait = "proud"
+add_trait = "kind"
+2481.1.1={birth=yes}
+2542.11.20={death=yes}
+}
 

@@ -1,0 +1,17 @@
+# 836 Feuilly
+
+# County Title
+title = c_feuilly
+
+# Settlements
+max_settlements = 3
+b_feuilly = castle
+b_chateau_eponine = castle
+b_demoise = temple
+
+# Misc
+culture = gascon
+religion = lady_of_the_lake
+
+
+# History

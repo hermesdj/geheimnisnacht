@@ -1,0 +1,18 @@
+# 141 Wulfsiege
+
+# County Title
+title = c_wulfsiege
+
+# Settlements
+max_settlements = 4
+b_selthis_lysk = castle
+b_kaltivik = temple
+b_torungard = city
+b_hjyolivik = castle
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

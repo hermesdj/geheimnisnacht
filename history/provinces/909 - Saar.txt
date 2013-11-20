@@ -1,0 +1,17 @@
+# 909 Saar
+
+# County Title
+title = c_saar
+
+# Settlements
+max_settlements = 3
+b_saar = city
+b_huuzel = castle
+b_sallizes = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

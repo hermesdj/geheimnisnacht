@@ -1,0 +1,16 @@
+#506 Sotomarca
+#County Title
+title = c_sotomarca
+
+#Settlements
+max_settlements = 4
+b_graus = castle
+b_orgal = city
+b_castillo_franco = castle
+b_torolona = city
+
+#Misc
+culture = norteno
+religion = classical_gods
+
+#History

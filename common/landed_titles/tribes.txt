@@ -1,0 +1,363 @@
+
+#Norsca#
+
+d_snaegr = {
+	color = { 171 135 29 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 102 # Snaegrvold
+	culture = aesling
+}
+
+d_sortsvinaer = {
+	color = { 141 55 129 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 84 # Erkum
+	culture = varg
+}
+
+d_ursfjording = {
+	color = { 101 95 89 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 130 # Urslo
+	culture = bjornling
+}
+
+d_varaland = {
+	color = { 181 145 29 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 23 # Trassel
+	culture = skaeling
+}
+
+d_bjorn = {
+	color = { 191 105 79 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 20 # Stavgard
+	culture = bjornling
+}
+
+d_volva = {
+	color = { 61 155 219 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 1 # Endring
+	culture = lettigallish
+}
+
+d_kaamoas = {
+	color = { 81 135 199 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 9 # Kaamoas
+	culture = graeling
+}
+
+d_voltag = {
+	color = { 71 135 210 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 12 # Voltag
+	culture = graeling
+}
+
+d_valfisk = {
+	color = { 156 176 67 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 38 # Hjemsokt Skog
+	culture = skaeling
+}
+
+d_wulf = {
+	color = { 86 100 29 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 141 # Wulfsiege
+	culture = sarl
+}
+
+d_skargi = {
+	color = { 141 70 49 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 96 # Kazad Dumond
+	culture = aesling
+}
+
+d_irtyskh = {
+	color = { 89 45 139 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 47 # Cardariborg
+	culture = varg
+}
+
+d_trolling = {
+	color = { 191 175 39 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 75 # Trollheim
+	culture = sarl
+}
+
+d_saimaakild = {
+	color = { 172 126 10 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 18 # Saimaakild
+	culture = bjornling
+}
+
+
+d_muggelir = {
+	color = { 189 162 109 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 40 # Birka
+	culture = skaeling
+}
+
+
+#Chaos Wastes#
+
+d_koskura = {
+	color = { 71 205 109 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 1203 # Khovd
+	culture = mung
+}
+
+d_subui = {
+	color = { 100 179 132 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 1207 # Khotaan
+	culture = mung
+}
+
+d_khalkara = {
+	color = { 158 89 103 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 1217 # Nur
+	culture = aghol
+}
+
+d_chamsyts = {
+	color = { 142 178 204 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 1222 # Chamsyts
+	culture = kvellig
+}
+
+d_votioi = {
+	color = { 67 42 193 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 1225 # Votioi
+	culture = kvellig
+}
+
+d_ents = {
+	color = { 130 123 205 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 1235 # Ents
+	culture = tahmak
+}
+
+d_nerch = {
+	color = { 89 30 80 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 1212 # Nerchin
+	culture = aghol
+}
+
+d_drago = {
+	color = { 208 156 204 }
+	
+	tribe = yes
+			
+	allow = {
+		always = no
+	}
+	
+	capital	= 393 # Dragoynovo
+	culture = kul
+}
+
+d_rataum = {
+	color = { 230 142 90 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 393 # Rataumyr
+	culture = dolgan
+}
+
+d_zar = {
+	color = { 156 138 143 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 393 # Ossarl
+	culture = dolgan
+}
+
+d_kursh = {
+	color = { 209 32 172 }
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	capital	= 393 # Kurshun
+	culture = dolgan
+}
+
+k_gospodars = {
+	color = { 209 32 172 }
+
+	capital	= 202 #Kislev
+	
+	title = "KHAN_KING"
+	title_female = "KHAN_QUEEN"		
+			
+	short_name = yes	
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	culture = gospodar
+}

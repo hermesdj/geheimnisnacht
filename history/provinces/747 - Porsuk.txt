@@ -1,0 +1,17 @@
+# 747 Porsuk
+
+# County Title
+title = c_porsuk
+
+# Settlements
+max_settlements = 3
+b_porsuk = castle
+b_bicharnos = city
+b_sarabosna = castle
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

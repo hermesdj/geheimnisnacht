@@ -1,0 +1,19 @@
+# 870 Armanie
+
+# County Title
+title = c_armanie
+
+# Settlements
+max_settlements = 5
+b_montparnasse = castle
+b_voltansier = temple
+b_montestaire = castle
+b_astarnic = city
+b_jeanval = temple
+
+# Misc
+culture = bourgon
+religion = lady_of_the_lake
+
+
+# History

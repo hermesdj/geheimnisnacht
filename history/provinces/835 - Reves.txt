@@ -1,0 +1,18 @@
+# 835 Reves
+
+# County Title
+title = c_reves
+
+# Settlements
+max_settlements = 4
+b_turris_vigilans = castle
+b_reves = castle
+b_leurs = temple
+b_alenfront = city
+
+# Misc
+culture = gascon
+religion = lady_of_the_lake
+
+
+# History

@@ -19,7 +19,7 @@ old_world_group = {
 		#Ariasan - Says Sigmar is a Chaos puppet
 		#True Sigmarite - Says Sigmar was just a man
 		#Brass Sisters - Mercenaries for Imperial Khornates
-		
+		#Manneuns - Believe the hammer was divine, not Sigmar
 		
 	sigmarite = {
 		graphical_culture = westerngfx
@@ -33,11 +33,13 @@ old_world_group = {
 			GOD_SIGMAR GOD_LORD_SIGMAR
 		}
 		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		priests_can_marry = no
 		allow_rivermovement = yes
-		female_temple_holders = no
-		
-		can_call_crusade = yes
+		female_temple_holders = no	
 
 		intermarry = classical_gods
 		intermarry = ulrican
@@ -54,10 +56,15 @@ old_world_group = {
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_BELLONA_MYRMIDIA
+		
 		god_names = {
 			GOD_GODS GOD_MYRMIDIA GOD_VERENA
 		}
 
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
@@ -77,10 +84,15 @@ old_world_group = {
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_CHANSONS
+		
 		god_names = {
 			GOD_LADY 
 		}
 
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
@@ -95,16 +107,19 @@ old_world_group = {
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_LIBER_LUPUS
+		
 		god_names = {
-			GOD_GODS GOD_ULRIC GOD_TAAL
+			GOD_GODS GOD_ULRIC
 		}
 
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		priests_can_marry = no
 		allow_rivermovement = yes
 		female_temple_holders = no	
 
-		can_call_crusade = yes
-		
 		intermarry = classical_gods
 		intermarry = sigmarite
 		intermarry = northern_gods
@@ -120,10 +135,15 @@ old_world_group = {
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_LIBER_LUPUS
+		
 		god_names = {
-			GOD_GODS GOD_ULRIC GOD_TAAL
+			GOD_GODS GOD_TAAL
 		}
 
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes	
@@ -143,8 +163,13 @@ old_world_group = {
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_GREAT_BOOK
+		
 		god_names = {
 			GOD_GODS GOD_FIREBRINGER GOD_TOR GOD_DAZH GOD_URSUN GOD_BEARLORD GOD_THUNDERER 
+		}
+		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
 		}
 		
 		priests_can_marry = yes
@@ -165,8 +190,13 @@ old_world_group = {
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_ELDERS
+		
 		god_names = {
 			GOD_MOTHER GOD_SPIRITS
+		}
+		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
 		}
 		
 		priests_can_marry = yes
@@ -180,6 +210,30 @@ old_world_group = {
 		intermarry = sigmarite		
 	}
 	
+	manannite = {
+		graphical_culture = westerngfx
+
+		icon = 9
+		color = { 0.3 0.5 0.6 }
+		
+		crusade_name = "CRUSADE"
+		scripture_name = THE_STORMS
+		
+		god_names = {
+			GOD_MANANN
+		}
+		
+		evil_god_names = {
+			GOD_STROMFELS GOD_THE_DARK_GODS
+		}
+		
+		priests_can_marry = yes
+		aggression = 1.0 
+		allow_looting = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes	
+	}	
+	
 	stromfels = {
 		graphical_culture = westerngfx
 
@@ -188,10 +242,14 @@ old_world_group = {
 		
 		crusade_name = "CRUSADE"
 		scripture_name = THE_STORMS
+		
 		god_names = {
 			GOD_STROMFELS
 		}
 		
+		evil_god_names = {
+			GOD_MANANN GOD_THE_DARK_GODS
+		}
 		
 		priests_can_marry = yes
 		aggression = 1.8 

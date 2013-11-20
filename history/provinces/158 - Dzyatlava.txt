@@ -1,0 +1,18 @@
+# 158 Dzyatlava
+
+# County Title
+title = c_dyzatlava
+
+# Settlements
+max_settlements = 4
+b_dyzatlava = castle
+b_berzovka = city
+b_oshmyany = temple
+b_skidel = city
+
+# Misc
+culture = ropsmann
+religion = northern_gods
+
+
+# History

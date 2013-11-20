@@ -1,0 +1,18 @@
+# 714 Cimmeria
+
+# County Title
+title = c_cimmeria
+
+# Settlements
+max_settlements = 4
+b_cherson = castle
+b_kendills_motte = castle
+b_castelbel = city
+b_greshan = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

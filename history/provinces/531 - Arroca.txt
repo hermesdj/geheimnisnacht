@@ -1,0 +1,17 @@
+#531 Arroca
+#County Title
+title = c_arroca
+
+#Settlements
+max_settlements = 5
+b_balado = city
+b_zuigala = castle
+b_jaimizeda = temple
+b_grelipa = temple
+b_torodana = castle
+
+#Misc
+culture = galice
+religion = classical_gods
+
+#History

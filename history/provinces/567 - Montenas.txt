@@ -1,0 +1,16 @@
+# 567 Montenas
+#County Title
+title = c_montenas
+
+#Settlements
+max_settlements = 4
+b_montarnal = castle
+b_merido = castle
+b_talado = city
+b_garatoz = temple
+
+#Misc
+culture = montanese
+religion = classical_gods
+
+#History

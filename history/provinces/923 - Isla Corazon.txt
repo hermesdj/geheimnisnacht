@@ -1,0 +1,14 @@
+#923 Isla Corazón
+#County Title
+title = c_isla_corazon
+
+#Settlements
+max_settlements = 2
+b_fort_wilheimsdok = castle
+b_assiento = temple
+
+#Misc
+culture = westerlander
+religion = sigmarite
+
+#History

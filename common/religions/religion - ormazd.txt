@@ -12,6 +12,10 @@ ormazd_gods_group = {
 			GOD_AL_ALNON GOD_THE_PROPHETS GOD_FATE GOD_ORMAZD
 		}
 		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		crusade_name = "HOLY_WAR"
 		scripture_name = THE_PROPHETS
 		priests_can_marry = yes
@@ -29,6 +33,10 @@ ormazd_gods_group = {
 			GOD_AL_ALNON GOD_THE_PROPHETS GOD_FATE GOD_ORMAZD
 		}
 		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		crusade_name = "HOLY_WAR"
 		scripture_name = THE_PROPHETS
 		priests_can_marry = yes
@@ -44,6 +52,10 @@ ormazd_gods_group = {
 		color = { 0.7 0.6 0.7 }
 		god_names = {
 			GOD_AL_ALNON GOD_THE_PROPHETS GOD_FATE GOD_ORMAZD
+		}
+		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
 		}
 		
 		crusade_name = "HOLY_WAR"

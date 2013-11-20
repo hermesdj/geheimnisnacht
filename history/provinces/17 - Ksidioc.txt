@@ -1,0 +1,16 @@
+# 17 Ksidioc
+
+# County Title
+title = c_ksidioc
+
+# Settlements
+max_settlements = 2
+b_ksidioc = castle
+b_kilheim = city
+
+# Misc
+culture = skaeling
+religion = norse
+
+
+# History

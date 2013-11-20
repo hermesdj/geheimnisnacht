@@ -1,0 +1,17 @@
+# 129 Icewind Pass
+
+# County Title
+title = c_icewind_pass
+
+# Settlements
+max_settlements = 3
+b_dalesvik = city
+b_hordenborg = castle
+b_odenberg = castle
+
+# Misc
+culture = baersonling
+religion = norse
+
+
+# History

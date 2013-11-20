@@ -1,0 +1,18 @@
+# 868 Enjolras
+
+# County Title
+title = c_enjolras
+
+# Settlements
+max_settlements = 4
+b_grantaire = temple
+b_enjaux = city
+b_estaign = castle
+b_champiagne = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

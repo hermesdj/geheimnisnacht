@@ -1,0 +1,17 @@
+# 41 Thimbulvintr
+
+# County Title
+title = c_thimbulvintr
+
+# Settlements
+max_settlements = 3
+b_ufulriik = castle
+b_kilarghdal = city
+b_pyrial = temple
+
+# Misc
+culture = varg
+religion = chaos
+
+
+# History

@@ -1,0 +1,17 @@
+# 682 Mornell
+
+# County Title
+title = c_mornell
+
+# Settlements
+max_settlements = 3
+b_mornellia = castle
+b_donnigan_moat = city
+b_swyne_point = city
+
+# Misc
+culture = breton
+religion = lady_of_the_lake
+
+
+# History

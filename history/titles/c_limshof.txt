@@ -1,17 +1,25 @@
-1911.11.17 = {
-	holder = 650058
+1.1.1 = {
+	liege="k_nordland"
 }
 
-1977.11.17 = {
-	holder = 650024
+1924.4.21 = {
+	holder = 650079 #Sigfried
 }
 
-1989.10.5 = {
-	holder = 650000
+1964.4.21 = {
+	holder = 650058 #Wilhelm
 }
 
-2304.12.5 = {
-	liege="e_the_empire"
+2002.8.10 = {
+	holder = 650023 #Albrecht
+}
+
+2042.10.15 = {
+	holder = 650024 #Wilhelm
+}
+
+2054.10.15 = {
+	holder = 650000 #Wilhelm
 }
 
 2498.5.3 = {

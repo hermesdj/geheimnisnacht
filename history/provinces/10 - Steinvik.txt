@@ -1,0 +1,17 @@
+# 10 Steinvik
+
+# County Title
+title = c_steinvik
+
+# Settlements
+max_settlements = 3
+b_steinvik = castle
+b_hrakorn = temple
+b_ioravik = city
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

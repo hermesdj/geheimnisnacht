@@ -1,0 +1,16 @@
+#555 Javea
+#County Title
+title = c_javea
+
+#Settlements
+max_settlements = 4
+b_javea = castle
+b_amelga = city
+b_dabatta = city
+b_deragon = temple
+
+#Misc
+culture = astur
+religion = classical_gods
+
+#History

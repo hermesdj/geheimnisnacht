@@ -1,0 +1,16 @@
+#919 Santa Clair
+#County Title
+title = c_santa_clair
+
+#Settlements
+max_settlements = 4
+b_santa_clair = castle
+b_point_de_segundo = castle
+b_santo_de_yuna = city
+b_laguna_au_paix = temple
+
+#Misc
+culture = astur
+religion = classical_gods
+
+#History

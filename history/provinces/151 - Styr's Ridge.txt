@@ -1,0 +1,17 @@
+# 151 Styr's Ridge
+
+# County Title
+title = c_styrs_ridge
+
+# Settlements
+max_settlements = 3
+b_styrvik = city
+b_hedelborg = castle
+b_hcraeum = temple
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

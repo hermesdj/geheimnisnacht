@@ -1,0 +1,17 @@
+# 1169 Bragnir
+
+# County Title
+title = c_bragnir
+
+# Settlements
+max_settlements = 3
+b_bragnir = castle
+b_bergen = city
+b_matrheim = temple
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

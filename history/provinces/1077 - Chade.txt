@@ -1,0 +1,15 @@
+# 1077 Chade
+
+# County Title
+title = c_chade
+
+# Settlements
+max_settlements = 1
+b_chade = castle
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

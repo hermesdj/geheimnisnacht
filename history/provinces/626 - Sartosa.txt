@@ -1,0 +1,19 @@
+# 626 Sartosa
+
+# County Title
+title = c_sartosa
+
+# Settlements
+max_settlements = 5
+b_sartosa = city
+b_castello_degli_pirati = castle
+b_roba = temple
+b_tranaco = castle
+b_corvo = city
+
+# Misc
+culture = sartosan_tilean
+religion = stromfels
+
+
+# History

@@ -1,3 +1,15 @@
+#High elf Asur Dynasties
+#"Adressal" "Aeralithar" "Aeraraiil" "Aerarina" "Aisellion" "Aldaeth" "Aldarina" "Aldaron" "Aldaval" "Aldavel" "Aleanlyth" "Anar" "Andiralis" "Ardagnirhir" "Arefor" "Arefor" "Arhain" "Asuryan" "Athranan" "Augendta" "Auglynnsyr" "Belidae" "Berlaelen" "Bertaneth" "Berthalas" "Birdiir" "Bireme" "Birlithe" "Birmiel" "Birron" "Birvathar" "Birvaul" "Caledor" "Celedhrinil" "Celeethdal" "Celeglinaeil" "Celelithina" "Celelothlhun" "Cetaine" "Cirana" "Cirana" "Corresyn" "Cromdhen" "Cromlond" "Cromviel" "Cuesas" "Cutanlhun" "Cutathina" "Daerl" "Daerleas" "Daerleon" "Dlaragasyr" "Dlartanrin" "Ealoeth" "Ealolond" "Ealorina" "Ealoron" "Ealovathar" "Edrianar" "Elenren" "Elerelon" "Elereth" "Elerlond" "Elerloth" "Elernae" "Elertaur" "Erestir" "Erestirath" "Ethonial" "Faelandalan" "Faerondaerl" "Falaelon" "Falaren" "Feldragil" "Felelenta" "Felraieil" "Feltan" "Feltanthar" "Fenix" "Gaallhun" "Gaelenrin" "Galahern" "Galamirion" "Galaos" "Galatanta" "Galavir" "Galondiir" "Galonmin" "Galonron" "Galonvathar" "Gamirsel" "Gilaeth" "Gloran" "Gloraniel" "Gwaelwa" "Gwalithe" "Gwavaul" "Gwavir" "Hadhrinta" "Haeeth" "Haemin" "Haesume" "Halaian" "Haleril" "Halithil" "Hamirian" "Haran" "Haranath" "Hathaniel" "Hatholthir" "Isilidirseer" "Isiliereonel" "Isiliesryl" "Isilinarta" "Kaeladir" "Kaermarr" "Kaermire" "Kevadragthir" "Kevatathsyr" "Kiesas" "Kilalal" "Kinarelen" "Kitansel" "Kitholdal" "Laeagaar" "Laealdal" "Laediriel" "Laemiriel" "Laemirtinu" "Landhrineth" "Landilineth" "Lanelenthor" "Lanethellyn" "Lardilindren" "Larendhrindren" "Larenerelhun" "Larenethion" "Larethlhun" "Larglinaeil" "Lartandren" "Larthalial" "Larthaneil" "Larvandal" "Lassallal" "Lassaltinu" "Lassdragil" "Lasstaelen" "Levan" "Levaniel" "Lianllach" "Lithelwa" "Lossaryn" "Lothiarn" "Lothreull" "Maeldanis" "Maeseth" "Maldragthor" "Malesthor" "Malethellyn" "Malethil" "Malladal" "Mallothdar" "Malthanas" "Maraieth" "Matathdren" "Matholryl" "Meliane" "Meliane" "Minais" "Minathar" "Mineath" "Mithaleil" "Mithbrindal" "Mitheleniel" "Mithethil" "Mithlaryl" "Naathilam" "Nael" "Nalldiir" "Nalllithe" "Nallnae" "Nallos" "Nallron" "Nardilinellyn" "Narliththir" "Narnareth" "Narraidar" "Neldiril" "Neldirilitha" "Nhaalvatinu" "Nhalata" "Nhalothdren" "Nhayadal" "Norodiir" "Noroeme" "Norovathar" "Norovir" "Ondoron" "Ondotaur" "Ordel" "Orithwyn" "Rhuilond" "Rhuiren" "Rhuiron" "Roloeme" "Rololond" "Rolomin" "Rolominith" "Rundhrinthar" "Runendmyr" "Runereial" "Runtaneth" "Sapherior" "Shalandaerl" "Shalasel" "Sharondaerl" "Sharondalan" "Solbar" "Solbarath" "Talaldren" "Talelon" "Talelwa" "Talendar" "Tallaindeloth" "Tallofel" "Tallynniel" "Talmirthor" "Taltaur" "Taltaurath" "Taltholdar" "Tanereina" "Tanlothsyr" "Tanvanial" "Tathdiir" "Tatheth" "Tathlithe" "Tathmiel" "Telalvaian" "Teldilindar" "Teldirian" "Thalandwire" "Thalandwire" "Tholos" "Tholosath" "Tifwing" "Tifwing" "Tinudiir" "Tinuron" "Toraethial" "Tovliryn" "Turithas" "Undoelon" "Undolond" "Undomiel" "Undotaure" "Valandil" "Valler" "Valleron" "Vandhen" "Vandiir" "Vanloth" "Vanmin" "Vanos" "Vanrina" "Werdhrinar" "Weressyr" "Werlithelen" "Wernaronel" "Wertaniel" "Wertanthir" "Wertanthir" "Yrauloth" "Yraunae" "Yrauval"
+
+#Dark Elf Druchi Dynasties
+#"Aktarn" "Andullis" "Anethin" "Arheirain" "Arkaneth" "Arx" "Aveth" "Certhren" "Cethlan" "Drakanth" "Dreyalan" "Duris" "Garalond" "Glaikoi" "Garneth" "Gryneth" "Helbane" "Kairthus" "Kaliksen" "Kar" "Karana" "Karnific" "Khail" "Kirak" "Klastra" "Laikin" "Lankryss" "Luthinen" "Maglin" "Marr" "Nagrath" "Nauglath" "Noth" "Raan" "Riatil" "Sarath" "Soronil" "Thanlin" "Turrix" "Ullen" "Ulthorin" "Urinath" "Uthorin" "Uxor" "Uxoris" "Vaukhar" "Zaen" "Zaen" "Zakira" "Zornil" 
+
+#Beastman Dynasties
+#"Mankill" "Greathorn" "Greyhorn" "Blackhorn" "Bloodhorn" "Razortusk" "Manslaughter" "Deathclaw" "Deathtusk" "Thunderhoof" "Thundermaw" "Thundertusk" "Slaughterfeast" "Grimhorn" "Darkhorn" "Darkskull" "Blackskull" "Greataxe"
+
+#Skaven Dynasties
+#"Verms" "Sleekit" "Skaul" "Mors" "Skab" "Skaar" "Flem" "Pest" "Skeek" "Skwik" "Rikkik" "Queek" "Man-Kill" "Thing-Kill" "Under-Run" "Quickclaw" "Redfang" "Blacktooth" "Dreg" "Skrawl" "Vermis" "Rattic" "Vectab" "Vekk" "Urntik" "Kurtik" "Flak" "Skreel" "Stormpaw" "Blikk" "Vennom" "Ratlik" "Rattly" "Stikkik" "Ikk" "Putrum" "Maim" "Corruptik"
+
 9000 = {
 	name = "Unberogen"
 	culture = unberogen
@@ -5,7 +17,7 @@
 	coat_of_arms = {
 		template = 0
 		layer = {
-			texture = 6
+			texture = 8
 			texture_internal = 4
 			emblem = 0
 			color = 0
@@ -19,6 +31,18 @@
 10000 = {
 	name = "von Holzkrug"
 	culture = reiklander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10001 = {
@@ -27,13 +51,25 @@
 }
 
 10002 = {
-	name = "Holswig"
+	name = "Zollern"
 	culture = reiklander
 }
 
 10003 = {
 	name = "von Walfen"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10004 = {
@@ -87,8 +123,20 @@
 }
 
 10014 = {
-	name = "von Saponathiem"
+	name = "von Saponatheim"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 24
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10015 = {
@@ -114,6 +162,18 @@
 10019 = {
 	name = "von Jungfreud"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 25
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10020 = {
@@ -129,21 +189,69 @@
 10022 = {
 	name = "Schadelfaust"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 23
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10023 = {
 	name = "Aschaffenberg"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 28
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10024 = {
 	name = "von Bruner"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 27
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10025 = {
 	name = "Trocheim"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 29
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10026 = {
@@ -234,30 +342,90 @@
 10043 = {
 	name = "Heiligson"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 70
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10044 = {
 	name = "Eröffner"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 78
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10045 = {
 	name = "Dusselkopf"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 92
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10046 = {
 	name = "Schilder"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 77
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10047 = {
 	name = "Holswig-Schliestein"
 	culture = reiklander
+	
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10048 = {
-	name = "von Bildhofen"
+	name = "von Hohenzolorin"
 	culture = reiklander
 }
 
@@ -319,6 +487,18 @@
 10061 = {
 	name = "Rapotonen"
 	culture = reiklander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 128
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10062 = {
@@ -443,6 +623,18 @@
 10088 = {
 	name = "Olmstadt" #Bogenhafen Merchant
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10089 = {
@@ -452,7 +644,7 @@
 	coat_of_arms = {
 		template = 0
 		layer = {
-			texture = 6
+			texture = 8
 			texture_internal = 3
 			emblem = 0
 			color = 0
@@ -470,7 +662,7 @@
 	coat_of_arms = {
 		template = 0
 		layer = {
-			texture = 6
+			texture = 8
 			texture_internal = 2
 			emblem = 0
 			color = 0
@@ -488,15 +680,14 @@
 	coat_of_arms = {
 		template = 0
 		layer = {
-			texture = 6
+			texture = 8
 			texture_internal = 0
 			emblem = 0
 			color = 0
 			color = 0
 			color = 0
 		}
-	}	
-	
+	}
 }
 
 10092 = {
@@ -506,7 +697,7 @@
 	coat_of_arms = {
 		template = 0
 		layer = {
-			texture = 6
+			texture = 8
 			texture_internal = 1
 			emblem = 0
 			color = 0
@@ -583,7 +774,7 @@
 }
 
 10106 = {
-	name = "Winkler"
+	name = "Winklerman"
 	culture = reiklander
 }
 
@@ -710,11 +901,75 @@
 10131 = {
 	name = "Reiklander"
 	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 34
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 10132 = {
 	name = "Abenauer"
 	culture = reiklander
+}
+
+10133 = {
+	name = "Wittgendorf"
+	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+10134 = {
+	name = "Landau"
+	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+
+10135 = {
+	name = "Helborg"
+	culture = reiklander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 30
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 
@@ -724,6 +979,18 @@
 11000 = {
 	name = "Untermensch"
 	culture = talabeclander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 11001 = {
@@ -739,6 +1006,18 @@
 11003 = {
 	name = "Taalsen"
 	culture = talabeclander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 81
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 11004 = {
@@ -754,6 +1033,18 @@
 11006 = {
 	name = "Feuerbach"
 	culture = talabeclander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 11007 = {
@@ -952,6 +1243,18 @@
 11049 = {
 	name = "Kaufman"
 	culture = talabeclander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 66
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 11050 = {
@@ -1355,21 +1658,69 @@
 11132 = {
 	name = "von Nebelsfeuer"
 	culture = talabeclander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 11133 = {
 	name = "Grünobstgarten"
 	culture = talabeclander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 96
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 11134 = {
 	name = "Syberg"
 	culture = talabeclander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 72
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 11135 = {
 	name = "Dissel"
 	culture = talabeclander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 83
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 
@@ -1377,15 +1728,39 @@
 12000 = {
 	name = "von Alptraum"
 	culture = averlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 43
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 12001 = {
 	name = "Leitdorf"
 	culture = averlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 44
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 12002 = {
-	name = "von heine"
+	name = "von Heine"
 	culture = averlander
 }
 
@@ -1497,21 +1872,69 @@
 12024 = {
 	name = "Siggurdsunu"
 	culture = averlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 118
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 12025 = {
 	name = "Reiter"
 	culture = averlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 108
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 12026 = {
 	name = "Blutig-Reichte"
 	culture = averlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 102
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 12027 = {
 	name = "von Flusstor"
 	culture = averlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 69
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 12028 = {
@@ -1854,7 +2277,7 @@
 }
 
 12100 = {
-	name = "Dissel"
+	name = "Disselman"
 	culture = averlander
 }
 
@@ -2015,6 +2438,18 @@
 13000 = {
 	name = "van Hoensbroech"
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 79
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13001 = {
@@ -2030,16 +2465,52 @@
 13003 = {
 	name = "van der Maacht"
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 32
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13004 = {
 	name = "van Buik"
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 100
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13005 = {
 	name = "van Daalenmark"
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 117
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13006 = {
@@ -2053,53 +2524,161 @@
 }
 
 13008 = {
-	name = "van de Kuypers"
+	name = "van de Kuypers" #Marienburg Merchant
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 136
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13009 = {
-	name = "van Onderzoeker"
+	name = "van Onderzoeker" #Marienburg merchant
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 133
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13010 = {
 	name = "de Roelef"
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 134
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13011 = {
-	name = "van Haagen"
+	name = "van Haagen" #Marienburg Merchant
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 138
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13012 = {
-	name = "van Scheldt"
+	name = "van Scheldt" #Marienburg Merchant
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 131
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13013 = {
-	name = "van Raemerswijk"
+	name = "van Raemerswijk" #Marienburg Merchant
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 135
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13014 = {
-	name = "Fooger"
+	name = "Rotebar"
 	culture = westerlander
 }
 
 13015 = {
-	name = "van den Nijmenk"
+	name = "van den Nijmenk" #Marienburg Merchant
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 130
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13016 = {
-	name = "den Euwe"
+	name = "den Euwe" #Marienburg Merchant
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 132
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13017 = {
-	name = "Rothemuur"
+	name = "Rothemuur" #Marienburg Merchant
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 139
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13018 = {
@@ -2115,6 +2694,18 @@
 13020 = {
 	name = "van der Witstroom"
 	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 109
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 13021  = {  name = "Graveland" culture = westerlander }
@@ -2129,7 +2720,24 @@
 13030  = {  name = "van der Reijden" culture = westerlander }
 13031  = {  name = "Goedbloed" culture = westerlander }
 13032  = {  name = "den Hertog" culture = westerlander }
-13033  = {  name = "Smeele" culture = westerlander }
+
+13033  = {  
+	name = "Smeele" #Marienburg Merchant
+	culture = westerlander 
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 40
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
 13034  = {  name = "den Boer" culture = westerlander }
 13035  = {  name = "Nieuwpoort" culture = westerlander }
 13036  = {  name = "der Meulen" culture = westerlander }
@@ -2163,17 +2771,62 @@
 13064  = {  name = "van Staalduinen" culture = westerlander }
 13065  = {  name = "Spanjersberg" culture = westerlander }
 13066  = {  name = "Pakvis" culture = westerlander }
-13067  = {  name = "Batenburg" culture = westerlander }
+13067  = {  
+	name = "Batenburg" 
+	culture = westerlander 
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 53
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 13068  = {  name = "Crans" culture = westerlander }
 13069  = {  name = "Schouten" culture = westerlander }
-13070  = {  name = "de Raamsdonk" culture = westerlander }
+13070  = {  
+	name = "de Raamsdonk" 
+	culture = westerlander 
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 47
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 13071  = {  name = "van Ballegooijen" culture = westerlander }
 13072  = {  name = "de van la Worde zu Gazette und Reik" culture = westerlander }
 13073  = {  name = "van Wijk" culture = westerlander }
 13074  = {  name = "den Boogaard" culture = westerlander }
 13075  = {  name = "Valk" culture = westerlander }
 13076  = {  name = "Korpel" culture = westerlander }
-13077  = {  name = "Akkerman" culture = westerlander }
+13077  = {  
+	name = "Akkerman" 
+	culture = westerlander 
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 140
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 13078  = {  name = "Selhorst" culture = westerlander }
 13079  = {  name = "Coenen" culture = westerlander }
 13080  = {  name = "Ouwenbroek" culture = westerlander }
@@ -2289,9 +2942,39 @@
 13190  = {  name = "Teunisse" culture = westerlander }
 13191  = {  name = "Brobbel" culture = westerlander }
 13192  = {  name = "Beekmanhuijsen" culture = westerlander }
-13193  = {  name = "van Daalen" culture = westerlander }
+13193  = {  
+	name = "van Daalen" 
+	culture = westerlander 
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 46
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 13194  = {  name = "Aalders" culture = westerlander }
-13195  = {  name = "Breedveld" culture = westerlander }
+13195  = {  
+	name = "Breedveld" 
+	culture = westerlander 
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 55
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 13196  = {  name = "Roos" culture = westerlander }
 13197  = {  name = "van der Meijs" culture = westerlander }
 13198  = {  name = "Spoelstra" culture = westerlander }
@@ -2338,11 +3021,28 @@
 13239  = {  name = "van Os" culture = westerlander }
 13240  = {  name = "Huibers" culture = westerlander }
 13241  = {  name = "Ringelberg" culture = westerlander }
-13242  = {  name = "van Buuren" culture = westerlander }
+13242  = {  name = "van Burrin" culture = westerlander }
 13243  = {  name = "Haak" culture = westerlander }
-13244  = {  name = "van Haagen" culture = westerlander }
+13244  = {  name = "Veermann" culture = westerlander }
 13245  = {  name = "Verduijn" culture = westerlander }
-13246  = {  name = "Vijfswinkel" culture = westerlander }
+
+13246  = {  
+	name = "Vijfswinkel" #Marienburg Merchant
+	culture = westerlander 
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 74
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
 13247  = {  name = "de Roo" culture = westerlander }
 13248  = {  name = "van Brandwijk" culture = westerlander }
 13249  = {  name = "Oostdijk" culture = westerlander }
@@ -2357,7 +3057,22 @@
 13258  = {  name = "Bloem" culture = westerlander }
 13259  = {  name = "Zagers" culture = westerlander }
 13260  = {  name = "de Rooij" culture = westerlander }
-13261  = {  name = "van de Kooij" culture = westerlander }
+13261  = {  
+	name = "van de Kooij" 
+	culture = westerlander 
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 51
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 13262  = {  name = "Wassenburg" culture = westerlander }
 13263  = {  name = "Does" culture = westerlander }
 13264  = {  name = "de Gier" culture = westerlander }
@@ -2542,7 +3257,22 @@
 13443  = {  name = "Verbaan" culture = westerlander }
 13444  = {  name = "Droppert" culture = westerlander }
 13445  = {  name = "Bijkerk" culture = westerlander }
-13446  = {  name = "Hoegaarden" culture = westerlander }
+13446  = {  
+	name = "Hoegaarden" 
+	culture = westerlander 
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 50
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 13447  = {  name = "Quist" culture = westerlander }
 13448  = {  name = "Verburg" culture = westerlander }
 13449  = {  name = "Roodenburg" culture = westerlander }
@@ -2627,14 +3357,44 @@
 13528  = {  name = "van Teijlingen" culture = westerlander }
 13529  = {  name = "Bruggeman" culture = westerlander }
 13530  = {  name = "Vermaas" culture = westerlander }
-13531  = {  name = "Ravensberg" culture = westerlander }
+13531  = {  
+	name = "Ravensberg" 
+	culture = westerlander 
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 49
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 13532  = {  name = "Westerhof" culture = westerlander }
 13533  = {  name = "van Oeveren" culture = westerlander }
 13534  = {  name = "Nieman" culture = westerlander }
 13535  = {  name = "Arends" culture = westerlander }
 13536  = {  name = "Moerman" culture = westerlander }
 13537  = {  name = "Kok" culture = westerlander }
-13538  = {  name = "Veenstra" culture = westerlander }
+13538  = {  
+	name = "Veenstra" 
+	culture = westerlander 
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 52
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 13539  = {  name = "van Staalduninen" culture = westerlander }
 13540  = {  name = "den Dekker" culture = westerlander }
 13541  = {  name = "Tulp" culture = westerlander }
@@ -2658,7 +3418,24 @@
 13559  = {  name = "de Goede" culture = westerlander }
 13560  = {  name = "Scholten" culture = westerlander }
 13561  = {  name = "Stigter" culture = westerlander }
-13562  = {  name = "Noordhoek" culture = westerlander }
+
+13562  = {  
+	name = "Noordhoek" 
+	culture = westerlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 54
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
 13563  = {  name = "Baas" culture = westerlander }
 13564  = {  name = "van Dam" culture = westerlander }
 13565  = {  name = "Groenewegen" culture = westerlander }
@@ -2674,8 +3451,43 @@
 13575  = {  name = "van den Engel" culture = westerlander }
 13576  = {  name = "van der Wouden" culture = westerlander }
 13577  = {  name = "Vijfwinkel" culture = westerlander }
-13578  = {  name = "Winkler" culture = westerlander }
-13579  = {  name = "Koopmans" culture = westerlander }
+13578  = {  
+	name = "Winkler" #Marienburg Merchant
+	culture = westerlander 
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 83
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+13579  = { 
+	name = "Koopmans" #Marienburg Merchant
+	culture = westerlander 
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 94
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+
+
+
 
 
 14000 = {
@@ -2696,6 +3508,18 @@
 14003 = {
 	name = "Gausser"
 	culture = nordlander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 14004 = {
@@ -2764,33 +3588,93 @@
 }
 
 14017 = {
-	name = "Helborg"
+	name = "Zelburg"
 	culture = nordlander
 }
 
 14018 = {
 	name = "Nikse"
 	culture = nordlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 14019 = {
 	name = "Skibbrud"
 	culture = nordlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 95
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 14020 = {
 	name = "Ruine"
 	culture = nordlander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 110
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 14021 = {
 	name = "von Salzon"
 	culture = nordlander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 14022 = {
 	name = "Maananson"
 	culture = nordlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 121
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 14023 = {
@@ -3023,7 +3907,7 @@
 }
 
 14072 = {
-	name = "Feuerbach"
+	name = "Feuerfurt"
 	culture = nordlander
 }
 
@@ -3077,6 +3961,39 @@
 	culture = nordlander
 }
 
+14083 = {
+	name = "von Schweinfass" #Neues Emskrank Merchant
+	culture = nordlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 147
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+14084 = {
+	name = "Kaimeister" #Neues Emskrank Merchant
+	culture = nordlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 146
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 
 
 
@@ -3125,11 +4042,35 @@
 15008 = {
 	name = "Roterwald"
 	culture = drakwalder
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 124
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 15009 = {
 	name = "Hohenbach"
 	culture = drakwalder
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 127
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 15010 = {
@@ -3311,6 +4252,18 @@
 16000 = {
 	name = "Todbringer"
 	culture = middenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 16001 = {
@@ -3359,7 +4312,7 @@
 }
 
 16010 = {
-	name = "von Bildhofen"
+	name = "von Bilderburg"
 	culture = middenlander
 }
 
@@ -3626,25 +4579,73 @@
 16063 = {
 	name = "von Middenstag"
 	culture = middenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 120
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 16064 = {
-	name = "von Grotkaas"
+	name = "von Zelt"
 	culture = middenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 122
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 16065 = {
 	name = "von Middenheim"
 	culture = middenlander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 93
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 16066 = {
 	name = "Ulricht"
 	culture = middenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 103
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 16067 = {
-	name = "von Zelt"
+	name = "von Grotkaas"
 	culture = middenlander
 }
 
@@ -4013,11 +5014,35 @@
 17003 = {
 	name = "Ludenhof"
 	culture = hochlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 17004 = {
 	name = "Tussen"
 	culture = hochlander
+		
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 17005 = {
@@ -4043,11 +5068,35 @@
 17009 = {
 	name = "Hochberge"
 	culture = hochlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 125
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 17010 = {
 	name = "Waldjäger"
 	culture = hochlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 76
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 17011 = {
@@ -4244,9 +5293,41 @@
 	culture = hochlander
 }
 
+
+17057 = {
+	name = "von Holzmarkt" #Neues Emsrank Merchant
+	culture = hochlander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 148
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+
+
 18000 = {
 	name = "Schäfer"
 	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 38
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 18001 = {
@@ -4307,26 +5388,86 @@
 18012 = {
 	name = "von Dassbutt"
 	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 106
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 18013 = {
 	name = "von Schönfeld"
 	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 82
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 18014 = {
-	name = "von Wolfenstein"
+	name = "von Wolfensteiner"
 	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 104
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 18015 = {
 	name = "Ostschloss"
 	culture = ostlander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 18016 = {
 	name = "Kosak"
 	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 99
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 18017 = {
@@ -4404,6 +5545,18 @@
 18033 = {
 	name = "Pernstein"
 	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 41
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 18034 = {
 	name = "von Schwerin"
@@ -4497,6 +5650,18 @@
 18054 = {
 	name = "von Wartenberg"
 	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 59
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 18055 = {
 	name = "von Wolfach"
@@ -4526,6 +5691,18 @@
 18061 = {
 	name = "Fauster-Unterhalter"
 	culture = ostlander
+		
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 60
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 18062 = {
@@ -4726,6 +5903,18 @@
 18101 = {
 	name = "von Raukov"
 	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 31
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 18102 = {
@@ -4736,6 +5925,18 @@
 18103 = {
 	name = "Borodzo"
 	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 61
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 18104 = {
@@ -4758,13 +5959,74 @@
 	culture = ostlander
 }
 
+18108 = {
+	name = "Schutzman" #Neues Emsrank Merchant
+	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 149
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 
+18109 = {
+	name = "Riemanns" #Neues Emsrank Merchant
+	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 145
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+18110 = {
+	name = "von Stepnitz"
+	culture = ostlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 141
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 
 
 
 19000 = {
 	name = "von Carstein"
 	culture = sylvanian
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 19001 = {
@@ -4780,6 +6042,18 @@
 19003 = {
 	name = "von Drak"
 	culture = sylvanian
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 42
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 19004 = {
@@ -4790,6 +6064,18 @@
 19005 = {
 	name = "von Calauen"
 	culture = sylvanian
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 129
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 19006 = {
@@ -4860,6 +6146,18 @@
 19019 = {
 	name = "Várdai"
 	culture = sylvanian
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 67
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 19020 = {
@@ -4923,6 +6221,18 @@
 19032 = {
 	name = "Loew"
 	culture = sylvanian
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 80
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 19033 = {
@@ -4949,6 +6259,18 @@
 19038 = {
 	name = "von Meran"
 	culture = sylvanian
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 65
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 19039 = {
 	name = "von Treven"
@@ -5195,7 +6517,7 @@
 	culture = sylvanian
 }
 19103 = {
-	name = "von Landau"
+	name = "von Lander"
 	culture = sylvanian
 }
 19104 = {
@@ -5227,6 +6549,22 @@
 	culture = sylvanian
 }
 
+19111 = {
+	name = "von Krähenkopfturm"
+	culture = sylvanian
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 142
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 
 
 
@@ -5238,6 +6576,18 @@
 20001 = {
 	name = "Unfähiger"
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 89
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 20002 = {
@@ -5248,11 +6598,35 @@
 20003 = {
 	name = "Haupt-Anderssen"
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 20004 = {
 	name = "von Krieglitz"
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 33
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 20005 = {
@@ -5311,33 +6685,93 @@
 }
 
 20016 = {
-	name = "von Styr"
+	name = "Panzer-Zertrümmerer"
 	culture = stirlander
 }
 
 20017 = {
 	name = "von Styr"
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 123
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 20018 = {
 	name = "von Wurt"
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 91
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 20019 = {
 	name = "von Königstein"
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 101
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 20020 = {
 	name = "Stadtbauer"
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 73
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 20021 = {
 	name = "Strassenbauer"
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 97
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 20022 = {
@@ -5366,6 +6800,18 @@
 20027 = {
 	name = "Vitek"
 	culture = stirlander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 85
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 20028 = {
 	name = "von Kleve"
@@ -5496,6 +6942,18 @@
 20056 = {
 	name = "von Riesigenesel"
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 68
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 20057 = {
@@ -5625,6 +7083,18 @@
 20082 = {
 	name = "von Krystallbach" #Graf of Stirland who annexed Sylvania
 	culture = stirlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 36
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 
@@ -5718,16 +7188,52 @@
 21017 = {
 	name = "Samsa"
 	culture = ostermarker
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 87
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 21018 = {
 	name = "Gewaltig"
 	culture = ostermarker
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 113
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 21019 = {
 	name = "Kallerson"
 	culture = ostermarker
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 114
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 21020 = {
@@ -5777,7 +7283,7 @@
 }
 
 21031 = {
-	name = "Czernín"
+	name = "Czernin"
 	culture = ostermarker
 }
 21032 = {
@@ -5926,6 +7432,18 @@
 21064 = {
 	name = "von Pabst"
 	culture = ostermarker
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 56
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 21065 = {
@@ -6146,6 +7664,18 @@
 21108 = {
 	name = "Hertwig"
 	culture = ostermarker
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 39
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 21109 = {
@@ -6186,21 +7716,69 @@
 22004 = {
 	name = "Sahson"
 	culture = sollander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 126
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 22005 = {
 	name = "von Sud"
 	culture = sollander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 107
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 22006 = {
 	name = "Wichtwerfer"
 	culture = sollander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 90
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 22007 = {
 	name = "von Toten"
 	culture = sollander
+		
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 98
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 22008 = {
@@ -6448,16 +8026,52 @@
 23000 = {
 	name = "von Blutheim"
 	culture = wissenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 58
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 23001 = {
 	name = "von Bildhofen"
 	culture = wissenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 23002 = {
 	name = "von Liebwitz"
 	culture = wissenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 23003 = {
@@ -6478,6 +8092,18 @@
 23006 = {
 	name = "Toppenheimer"
 	culture = wissenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 44
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 23007 = {
@@ -6608,21 +8234,69 @@
 23032 = {
 	name = "Menovone"
 	culture = wissenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 119
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 23033 = {
 	name = "Wis"
 	culture = wissenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 115
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 23034 = {
 	name = "Stallmeister"
 	culture = wissenlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 111
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 23035 = {
 	name = "Nachtreiter"
 	culture = wissenlander
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 71
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 23036 = {
@@ -8908,6 +10582,18 @@
 29000 = {
 	name = "Leoncoeur"
 	culture = nortagnese
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 9
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 29001 = {
@@ -9797,6 +11483,18 @@
 31005 = {
 	name = "Bokha"
 	culture = gospodar
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 31006 = {
@@ -10555,6 +12253,18 @@
 31174 = {
 	name = "Gospodarin"
 	culture = gospodar
+
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 10
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 31175 = {
@@ -14332,7 +16042,22 @@
 56031 = { name = "Jacobsen" culture = bjornling }
 56032 = { name = "Stibolt" culture = bjornling }
 56033 = { name = "av Barner" culture = bjornling }
-56034 = { name = "Norling" culture = bjornling }
+56034 = { 
+	name = "Nordling" 
+	culture = bjornling 
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
 56035 = { name = "af Povelssen" culture = bjornling }
 56036 = { name = "Harbou" culture = bjornling }
 56037 = { name = "Eld" culture = bjornling }
@@ -16683,7 +18408,7 @@
 }
 
 75004 = {
-	name = "Donarkhun" #Karak Azul
+	name = "Donarkhun" #Karak Azul King Kazador
 	culture = dwarf_main
 }
 
@@ -16693,7 +18418,7 @@
 }
 
 75006 = {
-	name = "Drazhkarak" #Karak Hirn
+	name = "Drazhkarak" #Karak Hirn King Alrik, queen Winnifer
 	culture = dwarf_main
 }
 
@@ -16713,7 +18438,7 @@
 }
 
 75010 = {
-	name = "Angrund" #Karak Eight Peaks
+	name = "Angrund" #Karak Eight Peaks King Belegar, Queen Kemma
 	culture = dwarf_main
 }
 
@@ -17176,6 +18901,45 @@
 75449 = { name = "Thurnok" culture = dwarf_main }
 75450 = { name = "Ongbar" culture = dwarf_main }
 75451 = { name = "Bolgun" culture = dwarf_main }
+75452 = { 
+	name = "Zharrgorog" #Master Brewer of Karaz-a-Karak
+	culture = dwarf_main 
+}
+
+75453 = { 
+	name = "Barakgrund" #Guildmaster of Zhufbar Engineers
+	culture = dwarf_main 
+}
+
+75454 = { 
+	name = "Galazlok" #Master Jeweler of Karaz-a-Karak
+	culture = dwarf_main 
+}
+
+75455 = { 
+	name = "Karangaz" #King Morgrim of Zhufbar, wife Lenka
+	culture = dwarf_main 
+}
+
+75456 = { 
+	name = "Barakundi" #Gatekeeper of Zhufbar
+	culture = dwarf_main 
+}
+
+75457 = { 
+	name = "Khragbrom" #Engineers of Barak Varr
+	culture = dwarf_main 
+}
+
+75458 = { 
+	name = "Funimrik" #Karak Vlag
+	culture = dwarf_main 
+}
+
+75459 = { 
+	name = "Jarlki" #Karak Ungor
+	culture = dwarf_main 
+}
 
 
 
@@ -17203,13 +18967,31 @@
 
 
 
+77000 = {
+	name = "Fooger" #Marienburg Merchant
+	culture = dwarf_imperial
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 137
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+
 79000 = {
 	name = "Ahresdorf"
 	culture = mootlander
 }
 
 79001 = {
-	name = "Bag"
+	name = "Bagger"
 	culture = mootlander
 }
 
@@ -17248,8 +19030,20 @@
 }
 
 79009 = {
-	name = "Lastkahn"
+	name = "Lump-Krooper"
 	culture = mootlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 57
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 79010 = {
@@ -17630,6 +19424,18 @@
 79085 = {
 	name = "Stoutheart"
 	culture = mootlander
+	
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 8
+			texture_internal = 37
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 
 

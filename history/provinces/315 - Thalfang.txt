@@ -4,13 +4,12 @@
 title = c_thalfang
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 b_thalfang = castle
 b_kell = temple
 b_oshausen = city
 b_sonnefurt = city
-b_kreutzhofen = temple
-b_weilerberg = castle
+b_arnis = city
 
 # Misc
 culture = wissenlander

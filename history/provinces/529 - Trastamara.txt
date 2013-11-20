@@ -1,0 +1,16 @@
+#529 Trastamara
+#County Title
+title = c_trastamara
+
+#Settlements
+max_settlements = 4
+b_ligo = castle
+b_visita = temple
+b_fadala = city
+b_el_vegal = temple
+
+#Misc
+culture = galice
+religion = classical_gods
+
+#History

@@ -1,0 +1,19 @@
+# 73 Stromstaad
+
+# County Title
+title = c_stromstaad
+
+# Settlements
+max_settlements = 5
+b_stromstaad = city
+b_stuurumsvik = temple
+b_etid_castle = castle
+b_yornsberg = castle
+b_yolkenson = city
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

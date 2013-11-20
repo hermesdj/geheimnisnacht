@@ -1,0 +1,18 @@
+# 197 Plowce
+
+# County Title
+title = c_plowce
+
+# Settlements
+max_settlements = 4
+b_plowce = castle
+b_brzesc = city
+b_wojttaszyce = temple
+b_nelidovo = city
+
+# Misc
+culture = gospodar
+religion = northern_gods
+
+
+# History

@@ -1,0 +1,17 @@
+# 92 Snara Forest
+
+# County Title
+title = c_snara_forest
+
+# Settlements
+max_settlements = 3
+b_unheim = castle
+b_tylovik = city
+b_jerghstodard = castle
+
+# Misc
+culture = varg
+religion = chaos
+
+
+# History

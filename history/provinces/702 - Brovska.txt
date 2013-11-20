@@ -1,0 +1,17 @@
+# 702 Brovska
+
+# County Title
+title = c_brovska
+
+# Settlements
+max_settlements = 3
+b_brovska = castle
+b_porthos = city
+b_aramilla = temple
+
+# Misc
+culture = avilian
+religion = classical_gods
+
+
+# History

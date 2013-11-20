@@ -1,0 +1,20 @@
+# 799 L'Anguille
+
+# County Title
+title = c_languille
+
+# Settlements
+max_settlements = 6
+b_languille = castle
+b_dauphinac = city
+b_cove = temple
+b_cigognac = city
+b_eret = castle
+b_barran = temple
+
+# Misc
+culture = nortagnese
+religion = lady_of_the_lake
+
+
+# History

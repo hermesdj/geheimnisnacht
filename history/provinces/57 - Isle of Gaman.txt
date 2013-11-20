@@ -1,0 +1,18 @@
+# 57 Isle of Gaman
+
+# County Title
+title = c_isle_of_gaman
+
+# Settlements
+max_settlements = 4
+b_ilsheim = temple
+b_shornaals_reach = temple
+b_ast_pinnacle = castle
+b_elski = city
+
+# Misc
+culture = varg
+religion = slaanesh
+
+
+# History

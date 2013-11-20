@@ -1,0 +1,17 @@
+# 145 Thorshafn
+
+# County Title
+title = c_thorshafn
+
+# Settlements
+max_settlements = 3
+b_thorshafn = castle
+b_ulmsteadvik = city
+b_feordivik = city
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

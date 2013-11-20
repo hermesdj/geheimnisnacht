@@ -1,0 +1,18 @@
+# 680 Moslac
+
+# County Title
+title = c_moslac
+
+# Settlements
+max_settlements = 4
+b_moslac = castle
+b_brasov = city
+b_pestesvar = temple
+b_feheriszod = castle
+
+# Misc
+culture = tobaran
+religion = classical_gods
+
+
+# History

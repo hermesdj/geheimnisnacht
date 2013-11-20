@@ -1,0 +1,17 @@
+# 697 Tanais
+
+# County Title
+title = c_tanais
+
+# Settlements
+max_settlements = 3
+b_tanais = castle
+b_forest_green = city
+b_groverhaus = city
+
+# Misc
+culture = miraglian
+religion = classical_gods
+
+
+# History

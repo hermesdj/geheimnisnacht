@@ -1,0 +1,16 @@
+#564 Siernas
+#County Title
+title = c_siernas
+
+#Settlements
+max_settlements = 4
+b_sierno = castle
+b_retno = city
+b_cortado = castle
+b_orsinal = temple
+
+#Misc
+culture = montanese
+religion = classical_gods
+
+#History

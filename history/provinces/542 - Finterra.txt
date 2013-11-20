@@ -1,0 +1,17 @@
+#542 Finterra
+#County Title
+title = c_finterra
+
+#Settlements
+max_settlements = 5
+b_nerja = castle
+b_los_cabos = city
+b_savalla = temple
+b_brandaga = city
+b_lopeda = city
+
+#Misc
+culture = avilian
+religion = classical_gods
+
+#History

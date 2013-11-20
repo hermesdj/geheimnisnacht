@@ -1,0 +1,18 @@
+# 688 Heiligerberg
+
+# County Title
+title = c_heiligerberg
+
+# Settlements
+max_settlements = 4
+b_heiligerberg = castle
+b_munzig = city
+b_parratt = temple
+b_auspolhaus = city
+
+# Misc
+culture = sollander
+religion = sigmarite
+
+
+# History

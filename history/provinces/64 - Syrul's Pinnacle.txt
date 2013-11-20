@@ -1,0 +1,16 @@
+# 64 Syrul's Pinnacle
+
+# County Title
+title = c_syruls_pinnacle
+
+# Settlements
+max_settlements = 2
+b_syrulheim = castle
+b_minaqilvik = temple
+
+# Misc
+culture = skaeling
+religion = norse
+
+
+# History

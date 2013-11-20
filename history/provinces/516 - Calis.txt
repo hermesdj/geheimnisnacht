@@ -1,0 +1,16 @@
+#516 Calis
+#County Title
+title = c_calis
+
+#Settlements
+max_settlements = 4
+b_campastello = castle
+b_zaopala = temple
+b_celiasto = castle
+b_doacado = castle
+
+#Misc
+culture = tigarrese
+religion = classical_gods
+
+#History

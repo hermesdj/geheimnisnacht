@@ -1,0 +1,17 @@
+# 534 Aguilar
+
+#County Title
+title = c_aguilar
+
+#Settlements
+max_settlements = 4
+b_cebreros = castle
+b_ados = city
+b_san_jorge = city
+b_davalos = castle
+
+#Misc
+culture = obregonese
+religion = classical_gods
+
+#History

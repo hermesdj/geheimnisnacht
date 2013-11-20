@@ -1,0 +1,19 @@
+# 723 Khypris
+
+# County Title
+title = c_khypris
+
+# Settlements
+max_settlements = 5
+b_khypris = castle
+b_cavanal = city
+b_valendra = temple
+b_philany = castle
+b_keltut = city
+
+# Misc
+culture = wissenlander
+religion = sigmarite
+
+
+# History

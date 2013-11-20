@@ -5,7 +5,7 @@ title = c_schilderheim
 
 # Settlements
 max_settlements = 4
-b_schilderheim = city
+b_schilderheim = castle
 b_holthausen = city
 b_verl = castle
 b_neresheim = temple

@@ -7,24 +7,24 @@ dwarf_group = {
 		color = { 0.6 0.3 0.4 }
 
 		male_names = {
-			Agnar Alaric Aldin Alfginnar Algrim Alric Alrik Argam Argam Arik Arngrim Athran Athranbor Azram 
+			Agnar Alaric Aldin Alfginnar Algrim Alric Alrik Argam Argam Arik Arnek Arngrim Athran Athranbor Azram 
 			Bael Balabin Baldrick Balgor Balik Balin Balkrag Balzud Baragor Bardin Bari Barik Barin Belegar Belegol Belegond Belgar Belgol Belgond Belm Bodor Bogni Borgin Borgo Borgus Borin Borm Borri Bradni Bragni Brand Brandur Brann Brogar Brokk Brokki Brond Brondi Bronn Budrik Burlok Buurf 
 			Cranneg 
 			Dadrin Daled Damin Damir Dammin Dank Darbli Dared Darek Dargo Dern Dimgol Dimrond Dimzad Dodrum Dolgr Doragrum Dorin Dorri Drakk Drakki Droki Drokki Drong Drongli Dronglik Drumin Durak Duregar Durgar Durgin Durik Durim Durin Durkin Durrag Durrig Dwalik Dwinbar 
-			Einar Elanlik Elgaroth Elgrom Elmador Enlag 
+			Einar Ekkel Elanlik Elgaroth Elgrom Elmador Enlag 
 			Falagrim Falgrim Falstad Faragrim Fargrim Farin Farnir Felder Fenni Fimbur Finn Flakki Floi Fodrin Foragor Fraggar Frerin Fror Fundin Furagrum Furen Furgil Furtin 
 			Gadrin Gamil Garag Gargrim Garik Garil Garin Gav Gazin Gharth Gimli Glorthal Glugnur Glumi Goddi Golengil Gomrund Gorazin Gorek Gorem Gorim Gorm Gorn Gotrek Gottri Grim Grimand Grimbul Grimdal Grimgor Grimli Grimnir Grimwold Grindol Grodrik Grogan Grogril Groin Grom Grond Gror Groth Grufbad Grum Grumdi Grumdin Grumir Grun Grundi Grung Grunlok Grunni Guddi Gudrun Gumli Gundrik Gurni Guttri 
-			Haakon Hadra Hadrin Haggis Hagrag Haki Halig Hanri Haragin Harakaz Harek Harggan Hargin Hargrim Harkan Harkaz Harlok Harok Hegakin Heganbor Herger Hlom Holgar Horgar Hrungnor Hugen Hugnir Hulfden Hurgar Hurgin 
+			Haakon Hadra Hadrin Haggis Hagrag Haki Halig Hanri Haragin Harakaz Harek Harggan Hargin Hargrim Harkan Harkaz Harlok Harok Haud Hegakin Heganbor Herger Hlom Holgar Horgar Hrungnor Hugen Hugnir Hulfden Hurgar Hurgin 
 			Ibun 
 			Janek 
 			Kadri Kadrin Kallon Kargul Kargun Karmir Karon Kaz Kazadar Kazador Kazgar Kazi Kazran Kazrik Ketil Kettri Khanna Khim Kimril Korbad Korgan Kragdin Kragg Krogan Krom Krorag Krudd Krung Kurgan Kurgaz 
 			Lagnus Largs Logan Logazor Loki Lokki Lokri Loni Lothor Lungni Lunn 
-			Magni Magnund Mak Makai Malakai Mankir Mendri Mim Molatok Morag Moranir Mordin Mordred Morek Morgrim Morgund Morngrim Mundri Murdogh 
+			Magni Magnund Mak Makai Malakai Mankir Mendri Mim Molatok Morag Moranir Mordin Mordred Morek Morgrim Morgund Morngrim Mundri Murdogh Murkan
 			Nain Nali Nar Narvi Nokin Norgrim Norgun Norskin 
-			Odarik Oglaf Oin Okri Oldor Olfgrond Orek Orgri Othos 
-			Rafi Ragnar Ragni Ranulf Rarek Rogni Rogrin Rokiri Rorantok Rordin Rorek Rorgan Rori Rork Rukh Rungni Rutner 
-			Sindri Skaf Skag Skaggi Skaldor Skalf Skalli Skolm Skoragrim Skorri Skudd Skuddi Smakki Snaddri Snarri Snorri Storri Strom Stromni Stumpi Sundrim Sven Svengin 
-			Telchar Therum Thialfi Thingrim Thorbal Thordrin Thorek Thorgrim Thori Thorin Thorlek Thrain Throbin Thror Thrund Thulfram Thungni Thurgrom Thurn Thyk Torbek Truk Trygg 
+			Odarik Oglaf Oin Okri Oldor Olfgrond Oliv Orek Orgri Othos 
+			Rafi Raga Ragnar Ragni Ranulf Rarek Rogni Rogrin Rokiri Rorantok Rordin Rorek Rorgan Rori Rork Rukh Rungni Rutner 
+			Sindri Skaf Skag Skaggi Skaldor Skalf Skalli Skolm Skoragrim Skorri Skudd Skuddi Smakki Snaddri Snarri Snorri Storri Strakerd Strom Stromni Stumpi Sundrim Sven Svengin 
+			Telchar Therum Thialfi Thingrim Thorbal Thordrin Thorek Thorgrim Thori Thorin Thorlek Thrain Throbin Thror Thrund Thulfram Thungni Thurgrom Thurn Thyk Torbek Truk Trygg Tudnak
 			Ulfar Ulfir Ulrik Ultham Ulther Urist 
 			Varmir Vikram Volkin Volkmar Voragor Vragni 
 			Yadri Yanni Yodri Yorg Yorri 
@@ -41,7 +41,7 @@ dwarf_group = {
 			Harga Hegrid Helga Helgar Helge Hergar Hilda Honi Honni Huni Hunni
 			Imli Ingris Iren
 			Jenova Jolyan Juna Jydda
-			Kaita Kalea Káli Karelia Karga Karrina Karstin Katalin Katanya Katlin Katrin Kella Kettra Khara Kragella Krona
+			Kaita Kalea Káli Karelia Karga Karrina Karstin Katalin Katanya Katlin Katrin Kella Kemma Kettra Khara Kragella Krona
 			Lacla Lakin Lallyra Lani Learka Lenka Lina Lorim
 			Magda Magdala Maniver Menni Meraellyra Merrin Merwna Milonna Misti Mistin Modra Moira Morga Muniver Mussa Myrla
 			Nadda Nioma Nissa Nuris Nuryan Nusan Nylyan Nyssa
@@ -52,7 +52,7 @@ dwarf_group = {
 			Tabur Tarni Tefur Tharma Thindra Thoda Throlin Tiza Tossa Truni Trunni
 			Ulla
 			Vala Valma Vanyra Vidra Voignar Voili
-			Wenna
+			Wenna Winnifer
 			Yani Yanni Yarlyn Ysabrylla Ysolla Ysulyan 
 			Zargona Zylra
 		}
@@ -80,15 +80,62 @@ dwarf_group = {
 		male_names = {
 			Andurg Argrum
 			Brandig Brangrimm Breck Brundir Bruor
+			Crom
 			Dargum
 			Faldorf
+			Forseti
+			Haarkom
 			Ivald
+			Karin
+			Logamir
 			Magorn Murdis
 			Narvir
-			Valduran
+			Ottar
+			Thorgard Throrin
+			Treggi
+			Tyr
+			Ulfgar
+			Valduran Vikram
 		}
 		female_names = {
+			Friga
+			Frigg
+			Inga
+			Sifna
 			Valkri
+			Vanyra
+			
+		}
+		
+		male_patronym = "sson"
+		female_patronym = "dottir"
+		prefix = no
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 10
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 25
+		mother_name_chance = 25
+		
+		modifier = default_culture_modifier
+	}
+	
+	dwarf_imperial = {
+		graphical_culture = iberiangfx
+		
+		color = { 0.8 0.8 0.8 }
+
+		male_names = {
+			Arkat
+			Josef
+			Roenekaat
+			Waltonius
+		}
+		female_names = {
+			Rudi
+			Winnifer
 		}
 		
 		male_patronym = "sson"

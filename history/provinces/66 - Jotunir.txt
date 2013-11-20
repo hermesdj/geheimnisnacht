@@ -1,0 +1,17 @@
+# 66 Jotunir
+
+# County Title
+title = c_jotunir
+
+# Settlements
+max_settlements = 3
+b_jotunirvik = castle
+b_durenheim = castle
+b_korelsborg = city
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

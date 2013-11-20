@@ -1,0 +1,18 @@
+# 136 Tívar Peak
+
+# County Title
+title = c_tivar_peak
+
+# Settlements
+max_settlements = 4
+b_fielljebu = castle
+b_tivar_peak = temple
+b_jotunvik = city
+b_karlsuraborg = castle
+
+# Misc
+culture = baersonling
+religion = norse
+
+
+# History

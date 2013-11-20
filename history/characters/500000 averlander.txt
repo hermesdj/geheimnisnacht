@@ -449,7 +449,7 @@ father = 500028
 500021={
 name = "Hilder"
 dynasty = 12024 
-culture = averlander
+culture = brigundian
 religion = sigmarite
 military = 7
 diplomacy = 2
@@ -537,7 +537,7 @@ father = 500054
 name = "Siggurd"
 dynasty = 12024 #Siggurdsunu 
 culture = brigundian
-religion = sigmarite
+religion = ulrican
 
 add_trait = "creature_human"
 
@@ -549,7 +549,7 @@ add_trait = "creature_human"
 name = "Siegrich"
 dynasty = 12024 #Siggurdsunu 
 culture = brigundian
-religion = sigmarite
+religion = ulrican
 father = 500025
 
 add_trait = "creature_human"
@@ -562,7 +562,7 @@ add_trait = "creature_human"
 name = "Herman"
 dynasty = 12024 #Siggurdsunu
 culture = brigundian
-religion = sigmarite
+religion = ulrican
 father = 500026
 
 add_trait = "creature_human"
@@ -575,7 +575,7 @@ add_trait = "creature_human"
 name = "Lutburt"
 dynasty = 12024 #Siggurdsunu
 culture = brigundian
-religion = sigmarite
+religion = ulrican
 father = 500027
 
 add_trait = "creature_human"

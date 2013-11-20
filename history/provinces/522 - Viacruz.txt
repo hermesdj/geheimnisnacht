@@ -1,0 +1,16 @@
+#522 Viacruz
+#County Title
+title = c_viacruz
+
+#Settlements
+max_settlements = 4
+b_viacruz = castle
+b_garaconda = temple
+b_vereat = castle
+b_yaleris = city
+
+#Misc
+culture = tigarrese
+religion = classical_gods
+
+#History
