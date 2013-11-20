@@ -1,0 +1,16 @@
+#525 Baraiz
+#County Title
+title = c_baraiz
+
+#Settlements
+max_settlements = 4
+b_ciela = castle
+b_fadeno = temple
+b_anderona = city
+b_saverola = castle
+
+#Misc
+culture = tigarrese
+religion = classical_gods
+
+#History

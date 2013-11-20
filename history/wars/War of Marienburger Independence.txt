@@ -1,0 +1,20 @@
+name = "War of Marienburger Independence"
+
+# Marienburg seceding
+
+casus_belli = {
+	casus_belli=bid_for_independence
+	actor = 600123
+	recipient = 900039
+	landed_title=k_westerland
+	date=2429.2.10
+}
+
+2429.2.10 = {
+	add_attacker = 600123
+	add_defender = 900039
+}
+
+2429.10.20 = {
+	rem_attacker = 600123
+}

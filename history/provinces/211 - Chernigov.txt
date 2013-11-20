@@ -1,0 +1,17 @@
+# 211 Chernigov
+
+# County Title
+title = c_chernigov
+
+# Settlements
+max_settlements = 3
+b_chernigov = castle
+b_voltsara = city
+b_petergof = temple
+
+# Misc
+culture = gospodar
+religion = northern_gods
+
+
+# History

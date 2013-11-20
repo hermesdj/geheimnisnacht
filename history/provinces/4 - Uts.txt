@@ -1,0 +1,17 @@
+# 4 - Uts
+
+# County Title
+title = c_uts
+
+# Settlements
+max_settlements = 3
+b_uts = castle
+b_itik = temple
+b_uyljik = castle
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

@@ -4,9 +4,9 @@
 title = c_salkalten
 
 # Settlements
-max_settlements = 3
-b_salkalten = castle
-b_verborgenbucht = city
+max_settlements = 4
+b_verborgenbucht = castle
+b_salkalten = city
 b_domitz = temple
 b_peine = castle
 b_quickborn = city
@@ -17,3 +17,7 @@ religion = ulrican
 
 
 # History
+
+2462.5.22 = { capital = b_salkalten }
+
+2467.11.6 = { capital = b_verborgenbucht }

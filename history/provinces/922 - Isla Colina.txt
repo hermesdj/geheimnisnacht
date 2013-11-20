@@ -1,0 +1,15 @@
+#922 Isla Colina
+#County Title
+title = c_isla_colina
+
+#Settlements
+max_settlements = 3
+b_enriquillola = castle
+b_port_djuna = temple
+b_eselbella = city
+
+#Misc
+culture = avilian
+religion = classical_gods
+
+#History

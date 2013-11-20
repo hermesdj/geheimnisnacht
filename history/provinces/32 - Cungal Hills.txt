@@ -1,0 +1,17 @@
+# 32 - Cungal Hills
+
+# County Title
+title = c_cungal_hills
+
+# Settlements
+max_settlements = 3
+b_hyjular = castle
+b_welrstik = temple
+b_opijylmun = city
+
+# Misc
+culture = skaeling
+religion = norse
+
+
+# History

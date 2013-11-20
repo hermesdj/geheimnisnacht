@@ -1,0 +1,18 @@
+# 819 Saintilles
+
+# County Title
+title = c_saintilles
+
+# Settlements
+max_settlements = 4
+b_saintilles = castle
+b_siege_perilous = castle
+b_pompignan = temple
+b_athos = city
+
+# Misc
+culture = armoric
+religion = lady_of_the_lake
+
+
+# History

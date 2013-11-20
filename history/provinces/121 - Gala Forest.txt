@@ -1,0 +1,18 @@
+# 121 Gala Forest
+
+# County Title
+title = c_gala_forest
+
+# Settlements
+max_settlements = 4
+b_gala_spa = castle
+b_mikill_haugr = city
+b_untelyvim = temple
+b_kharsgood = temple
+
+# Misc
+culture = aesling
+religion = chaos
+
+
+# History

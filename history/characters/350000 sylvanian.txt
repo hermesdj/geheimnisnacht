@@ -487,3 +487,42 @@ add_trait="vampire_carstein_hidden"
 1851.8.21={birth="1851.8.21"}
 1895.9.16={death="1895.9.16"}
 }
+
+350024={
+name = "Nikole"
+female = yes
+dynasty = 19111
+dna = "bedhmboahkn"
+culture = sylvanian
+religion = vampiric
+military = 5
+diplomacy = 6
+stewardship = 5
+intrigue = 3
+learning = 7
+add_trait = "flamboyant_schemer"
+add_trait = "diligent"
+add_trait = "kind"
+1992.1.1={birth=yes}
+2098.9.24={death=yes}
+}
+
+350025={
+name = "Nikole"
+female = yes
+dynasty = 19111
+dna = "bedhmboahkn"
+culture = sylvanian
+religion = sigmarite
+military = 4
+diplomacy = 5
+stewardship = 8
+intrigue = 5
+learning = 2
+add_trait = "elusive_shadow"
+add_trait = "hedonist"
+add_trait = "humble"
+2497.1.1={birth=yes}
+2570.7.11={death=yes}
+}
+

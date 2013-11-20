@@ -1,0 +1,19 @@
+# 667 Heldegrad
+
+# County Title
+title = c_heldegrad
+
+# Settlements
+max_settlements = 4
+b_heldegrad = castle
+b_heldegrad = city
+b_drona = temple
+b_neryaslavl = castle
+b_chernimets = city
+
+# Misc
+culture = lucian
+religion = classical_gods
+
+
+# History

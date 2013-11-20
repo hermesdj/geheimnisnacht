@@ -1,0 +1,17 @@
+# 81 Fimbulvintr Wood
+
+# County Title
+title = c_fimbulvintr_wood
+
+# Settlements
+max_settlements = 3
+b_fimbulvintr = castle
+b_yorgenstaal = city
+b_kurns_triumph = castle
+
+# Misc
+culture = aesling
+religion = dark_norse
+
+
+# History

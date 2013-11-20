@@ -1,0 +1,18 @@
+# 882 Langry
+
+# County Title
+title = c_langry
+
+# Settlements
+max_settlements = 4
+b_langry = temple
+b_brierennez = city
+b_maconars = castle
+b_thiars = city
+
+# Misc
+culture = breton
+religion = lady_of_the_lake
+
+
+# History

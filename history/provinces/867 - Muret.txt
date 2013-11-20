@@ -1,0 +1,18 @@
+# 867 Muret
+
+# County Title
+title = c_muret
+
+# Settlements
+max_settlements = 4
+b_muret = temple
+b_peires = temple
+b_toursimon = castle
+b_laigle = city
+
+# Misc
+culture = gascon
+religion = lady_of_the_lake
+
+
+# History

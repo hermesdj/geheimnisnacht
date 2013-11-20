@@ -1,0 +1,18 @@
+# 23 Trassel
+
+# County Title
+title = c_trassel
+
+# Settlements
+max_settlements = 4
+b_trassel = castle
+b_thorkavik = castle
+b_kleitborg = temple
+b_hailkild = city
+
+# Misc
+culture = skaeling
+religion = norse
+
+
+# History

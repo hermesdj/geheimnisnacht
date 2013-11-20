@@ -1,0 +1,18 @@
+# 34 - Eyrir
+
+# County Title
+title = c_eyrir
+
+# Settlements
+max_settlements = 4
+b_eyrirvik = castle
+b_yetriv = city
+b_qugryl = temple
+b_forgard = castle
+
+# Misc
+culture = skaeling
+religion = norse
+
+
+# History

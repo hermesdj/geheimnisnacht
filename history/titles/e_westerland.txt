@@ -2,6 +2,7 @@
 	holder = 600000
 	law = succ_primogeniture
 	law = true_cognatic_succession
+	law = centralization_2
 }
 
 2302.7.23 = {  

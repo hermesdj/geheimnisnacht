@@ -1,0 +1,18 @@
+# 792 Rocheil
+
+# County Title
+title = c_rocheil
+
+# Settlements
+max_settlements = 4
+b_rocheil = castle
+b_suddene = city
+b_lemasson = temple
+b_la_paillade = castle
+
+# Misc
+culture = armoric
+religion = lady_of_the_lake
+
+
+# History

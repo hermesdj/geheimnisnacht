@@ -1,0 +1,17 @@
+# 905 Paillole
+
+# County Title
+title = c_paillole
+
+# Settlements
+max_settlements = 3
+b_paillole = castle
+b_montbelion = temple
+b_bois_gisbert = castle
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

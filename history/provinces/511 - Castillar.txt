@@ -1,0 +1,16 @@
+#511 Castillar
+#County Title
+title = c_castillar
+
+#Settlements
+max_settlements = 4
+b_castillar = castle
+b_lertando = city
+b_ragada = city
+b_fraganza = castle
+
+#Misc
+culture = montanese
+religion = classical_gods
+
+#History

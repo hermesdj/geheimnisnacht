@@ -1,0 +1,18 @@
+# 126 Draksfjord
+
+# County Title
+title = c_draksfjord
+
+# Settlements
+max_settlements = 4
+b_barraka_khagerack = castle
+b_barraka_umokral = city
+b_kraka_tollivick = castle
+b_barraka_hermial = temple
+
+# Misc
+culture = dwarf_norse
+religion = ancestor_gods
+
+
+# History

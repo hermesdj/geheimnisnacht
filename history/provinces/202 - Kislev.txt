@@ -1,0 +1,21 @@
+# 202 Kislev
+
+# County Title
+title = c_kislev
+
+# Settlements
+max_settlements = 7
+b_kislev = castle
+b_turov = city
+b_ardhka = temple
+b_inkodevna = city
+b_sava = castle
+b_suzdal = city
+b_kem = castle
+
+# Misc
+culture = gospodar
+religion = northern_gods
+
+
+# History

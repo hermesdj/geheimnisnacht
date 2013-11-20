@@ -1,0 +1,17 @@
+# 152 Dhazyn
+
+# County Title
+title = c_dhazyn
+
+# Settlements
+max_settlements = 3
+b_dhzayn = castle
+b_hoezyn = temple
+b_untelivik = castle
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

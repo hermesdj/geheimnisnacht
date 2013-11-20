@@ -1054,13 +1054,6 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 	spriteType = {
-		name = "GFX_trait_beautiful"
-		texturefile = "gfx/traits/beautiful.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
 		name = "GFX_trait_tall"
 		texturefile = "gfx/traits/tall.tga"
 		noOfFrames = 1
@@ -1193,41 +1186,6 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}	
 	
-	spriteType = {
-		name = "GFX_trait_mutation_mark_chaos"
-		texturefile = "gfx/traits/mutation_mark_chaos.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
-		name = "GFX_trait_mutation_mark_khorne"
-		texturefile = "gfx/traits/mutation_mark_khorne.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
-		name = "GFX_trait_mutation_mark_nurgle"
-		texturefile = "gfx/traits/mutation_mark_nurgle.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
-		name = "GFX_trait_mutation_mark_slaanesh"
-		texturefile = "gfx/traits/mutation_mark_slaanesh.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
-		name = "GFX_trait_mutation_mark_tzeentch"
-		texturefile = "gfx/traits/mutation_mark_tzeentch.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
 	# Warhammer illnesses
 	# red/green pox, rattlelung, nurgles rot, tombs rot
 	spriteType = {

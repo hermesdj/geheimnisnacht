@@ -1,0 +1,18 @@
+# 808 Normagne
+
+# County Title
+title = c_normagne
+
+# Settlements
+max_settlements = 4
+b_tourroux = castle
+b_sintrac = temple
+b_abbaie_blanche = temple
+b_dampierre = city
+
+# Misc
+culture = nortagnese
+religion = lady_of_the_lake
+
+
+# History

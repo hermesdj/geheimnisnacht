@@ -102,7 +102,7 @@ nagarythi;Nagarythi;;;;;;;;;;;;;x
 asur_group;Asur;;;;;;;;;;;;;x
 lathai;Lathai;;;;;;;;;;;;;x
 arvani;Arvani;;;;;;;;;;;;;x
-asthoi_group;Asthoi;;;;;;;;;;;;;x
+asthoi;Asthoi;;;;;;;;;;;;;x
 naggarondi;Naggarondi;;;;;;;;;;;;;x
 ghrondari;Ghrondari;;;;;;;;;;;;;x
 elthrai;Elthrai;;;;;;;;;;;;;x
@@ -141,9 +141,12 @@ yusak;Yusak;;;;;;;;;;;;;x
 kurgan_group;Kurgan;;;;;;;;;;;;;x
 cathayan;Cathayan;;;;;;;;;;;;;x
 cathayan_group;Cathayan;;;;;;;;;;;;;x
+nipponese;Nipponese;;;;;;;;;;;;;x
+nipponese_group;Nipponese;;;;;;;;;;;;;x
 beastman_main;Beastman;;;;;;;;;;;;;x
 beastman_group;Beastman;;;;;;;;;;;;;x
 dwarf_main;Dwarf;;;;;;;;;;;;;x
+dwarf_imperial;Imperial Dwarf;;;;;;;;;;;;;x
 dwarf_norse;Norse Dwarf;;;;;;;;;;;;;x
 dwarf_group;Dawi;;;;;;;;;;;;;x
 dwarf_chaos;Chaos Dwarf;;;;;;;;;;;;;x
@@ -1032,31 +1035,6 @@ city_county_of_asrai_group;Grand City of;;;;;;;;;;;;;x;
 city_duchy_of_asrai_group;League of;;;;;;;;;;;;;x;
 city_kingdom_of_asrai_group;Principality of;;;;;;;;;;;;;x;
 city_empire_of_asrai_group;Grand Principality of;;;;;;;;;;;;;x;
-baron_asthoi_group;Lord;;;;;;;;;;;;;x;
-baron_female_asthoi_group;Lady;;;;;;;;;;;;;x;
-count_asthoi_group;High Lord;;;;;;;;;;;;;x;
-count_female_asthoi_group;High Lady;;;;;;;;;;;;;x;
-duke_asthoi_group;Prince;;;;;;;;;;;;;x;
-duke_female_asthoi_group;Princess;;;;;;;;;;;;;x;
-king_asthoi_group;High Prince;;;;;;;;;;;;;x;
-king_female_asthoi_group;High Princess;;;;;;;;;;;;;x;
-emperor_asthoi_group;High King;;;;;;;;;;;;;x;
-emperor_female_asthoi_group;High Queen;;;;;;;;;;;;;x;
-barony_of_asthoi_group;Estate of;;;;;;;;;;;;;x;
-county_of_asthoi_group;Course of;;;;;;;;;;;;;x;
-duchy_of_asthoi_group;Marchland of;;;;;;;;;;;;;x;
-kingdom_of_asthoi_group;Kingdom of;;;;;;;;;;;;;x;
-empire_of_asthoi_group;High Kingdom of;;;;;;;;;;;;;x;
-city_baron_asthoi_group;Mayor;;;;;;;;;;;;;x;
-city_count_asthoi_group;Grand Mayor;;;;;;;;;;;;;x;
-city_duke_asthoi_group;Prince;;;;;;;;;;;;;x;
-city_king_asthoi_group;High Prince;;;;;;;;;;;;;x;
-city_emperor_asthoi_group;Grand Prince;;;;;;;;;;;;;x;
-city_barony_of_asthoi_group;City of;;;;;;;;;;;;;x;
-city_county_of_asthoi_group;Grand City of;;;;;;;;;;;;;x;
-city_duchy_of_asthoi_group;League of;;;;;;;;;;;;;x;
-city_kingdom_of_asthoi_group;Principality of;;;;;;;;;;;;;x;
-city_empire_of_asthoi_group;Grand Principality of;;;;;;;;;;;;;x;
 baron_druchi_group;Vaulkhar;;;;;;;;;;;;;x;
 baron_female_druchi_group;Vaulkhar;;;;;;;;;;;;;x;
 count_druchi_group;High Lord;;;;;;;;;;;;;x;

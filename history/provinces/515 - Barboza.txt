@@ -1,0 +1,17 @@
+#515 Barboza
+#County Title
+title = c_barboza
+
+#Settlements
+max_settlements = 5
+b_barboza = castle
+b_leono = temple
+b_alfonza = city
+b_sanchona = city
+b_catallana = castle
+
+#Misc
+culture = tigarrese
+religion = classical_gods
+
+#History

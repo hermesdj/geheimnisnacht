@@ -1,0 +1,17 @@
+# 1086 Korgrim
+
+# County Title
+title = c_korgrim
+
+# Settlements
+max_settlements = 3
+b_korgrim = castle
+b_khazalid_wust = city
+b_karak_gromval = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

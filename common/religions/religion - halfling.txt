@@ -9,7 +9,11 @@ halfling_gods_group = {
 		icon = 16
 		color = { 0.3 0.6 0.3 }
 		god_names = {
-			GOD_THE_GODS GOD_ESMERELDA GOD_THE_HEARTH
+			GOD_THE_GODS GOD_ESMERELDA
+		}
+		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
 		}
 		
 		crusade_name = "HOLY_WAR"

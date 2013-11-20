@@ -1,0 +1,18 @@
+# 13 Frost
+
+# County Title
+title = c_frost
+
+# Settlements
+max_settlements = 4
+b_frost = castle
+b_mironoff = castle
+b_kalevanvik = temple
+b_aura = city
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

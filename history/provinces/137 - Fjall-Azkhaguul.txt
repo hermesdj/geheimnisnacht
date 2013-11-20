@@ -1,0 +1,16 @@
+# 137 Fjall-Azkhaguul
+
+# County Title
+title = c_fjall_azkhaguul
+
+# Settlements
+max_settlements = 2
+b_kappi = castle
+b_halr_braka = castle
+
+# Misc
+culture = baersonling
+religion = norse
+
+
+# History

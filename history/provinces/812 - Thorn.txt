@@ -1,0 +1,18 @@
+# 812 Thorn
+
+# County Title
+title = c_thorn
+
+# Settlements
+max_settlements = 4
+b_thorn = castle
+b_soignac = temple
+b_lisieux = temple
+b_vicaut = city
+
+# Misc
+culture = nortagnese
+religion = lady_of_the_lake
+
+
+# History

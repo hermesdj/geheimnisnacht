@@ -2,6 +2,7 @@
 	holder = 200000 #Sigmar
 	law = succ_feudal_elective
 	law = true_cognatic_succession
+	law = centralization_2
 }
 
 50.4.18={ 

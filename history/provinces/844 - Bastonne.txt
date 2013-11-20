@@ -1,0 +1,20 @@
+# 844 Bastonne
+
+# County Title
+title = c_bastonne
+
+# Settlements
+max_settlements = 6
+b_castle_bastonne = castle
+b_baux = city
+b_marmin = castle
+b_medeme = temple
+b_amargueuse = castle
+b_joyaux = city
+
+# Misc
+culture = breton
+religion = lady_of_the_lake
+
+
+# History

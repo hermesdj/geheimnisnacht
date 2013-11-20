@@ -1,0 +1,17 @@
+# 804 Rennais
+
+# County Title
+title = c_rennais
+
+# Settlements
+max_settlements = 3
+b_rennesse = castle
+b_bruleaux = temple
+b_carette = city
+
+# Misc
+culture = nortagnese
+religion = lady_of_the_lake
+
+
+# History

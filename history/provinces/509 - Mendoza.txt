@@ -1,0 +1,16 @@
+#509 Mendoza
+#County Title
+title = c_mendoza
+
+#Settlements
+max_settlements = 4
+b_pasa = castle
+b_vanado = castle
+b_san_stefano = city
+b_talabro = city
+
+#Misc
+culture = norteno
+religion = classical_gods
+
+#History

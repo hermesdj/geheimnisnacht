@@ -1,0 +1,18 @@
+# 767 Kadesh
+
+# County Title
+title = c_kadesh
+
+# Settlements
+max_settlements = 4
+b_kadesh = castle
+b_ivory_wall = castle
+b_galymbria = city
+b_greenwell = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

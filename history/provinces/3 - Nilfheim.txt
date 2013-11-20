@@ -1,0 +1,18 @@
+# 3 - Nilfheim
+
+# County Title
+title = c_nilfheim
+
+# Settlements
+max_settlements = 4
+b_tiruvok = castle
+b_jorlar = city
+b_nilfheim = temple
+b_larjykvic = castle
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

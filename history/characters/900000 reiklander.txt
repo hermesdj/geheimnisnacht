@@ -16,7 +16,7 @@ add_trait="content"
 father = 900047
 
 1981.8.21={birth=yes}
-2051.7.28={death="2051.7.28"}
+2051.7.28={death=yes}
 }
 
 900001={
@@ -35,8 +35,8 @@ add_trait="greedy"
 
 
 
-1975.5.1={birth="1975.5.1"}
-2040.3.17={death="2040.3.17"}
+1975.5.1={birth=yes}
+2040.3.17={death=yes}
 }
 
 900002={
@@ -55,8 +55,8 @@ add_trait="honest"
 add_trait="tall"
 add_trait="gregarious"
 
-1962.7.24={birth="1962.7.24"}
-2035.2.1={death="2035.2.1"}
+1962.7.24={birth=yes}
+2035.2.1={death=yes}
 }
 
 900003={
@@ -75,8 +75,8 @@ add_trait = "brilliant_strategist"
 add_trait="wroth"
 add_trait="tall"
 
-1966.4.10={birth="1966.4.10"}
-2042.8.24={death="2042.8.24"}
+1966.4.10={birth=yes}
+2042.8.24={death=yes}
 }
 
 900004={
@@ -95,9 +95,9 @@ add_trait="cruel"
 add_trait="humble"
 add_trait="temperate"
 
-1962.8.11={birth="1962.8.11"}
+1962.8.11={birth=yes}
 2002.8.16 = {add_spouse=800028}
-2025.9.5={death="2025.9.5"}
+2025.9.5={death=yes}
 }
 
 900005={
@@ -116,13 +116,13 @@ add_trait="trusting"
 add_trait="chaste"
 add_trait="ill"
 
-1975.8.23={birth="1975.8.23"}
-2069.9.5={death="2069.9.5"}
+1975.8.23={birth=yes}
+2069.9.5={death=yes}
 }
 
 900006={
 name = "Ordulf"
-dynasty = 10010
+dynasty = 10047
 culture = reiklander
 religion = sigmarite
 military = 5
@@ -132,12 +132,12 @@ intrigue = 5
 learning = 0
 add_trait = "hedonist"
 add_trait = "elusive_shadow"
-add_trait="depressed"
-add_trait="stressed"
+add_trait="shy"
+add_trait="proud"
+add_trait="patient"
 
-
-2006.1.7={birth="2006.1.7"}
-2017.9.12={death="2017.9.12"}
+1976.1.7={birth=yes}
+2017.9.12={death=yes}
 }
 
 900007={
@@ -154,10 +154,10 @@ add_trait = "falconer"
 add_trait = "scholarly_theologian"
 add_trait="content"
 add_trait="lustful"
+add_trait="patient"
 
-
-1984.1.21={birth="1984.1.21"}
-2029.4.9={death="2029.4.9"}
+1984.1.21={birth=yes}
+2029.4.9={death=yes}
 }
 
 900008={
@@ -177,8 +177,8 @@ add_trait="legit_bastard"
 add_trait="drunkard"
 add_trait="homosexual"
 
-1986.12.22={birth="1986.12.22"}
-2062.4.3={death="2062.4.3"}
+1986.12.22={birth=yes}
+2062.4.3={death=yes}
 }
 
 900009={
@@ -194,8 +194,8 @@ learning = 1
 add_trait = "gardener"
 add_trait = "naive_appeaser"
 
-1978.12.20={birth="1978.12.20"}
-2012.2.27={death="2012.2.27"}
+1978.12.20={birth=yes}
+2012.2.27={death=yes}
 }
 
 900010={
@@ -214,8 +214,8 @@ add_trait = "misguided_warrior"
 
 add_trait="lisp"
 
-1969.3.18={birth="1969.3.18"}
-2033.7.24={death="2033.7.24"}
+1969.3.18={birth=yes}
+2033.7.24={death=yes}
 }
 
 900011={
@@ -234,8 +234,8 @@ add_trait = "dutiful_cleric"
 add_trait="fair"
 
 
-1984.1.11={birth="1984.1.11"}
-2045.10.13={death="2045.10.13"}
+1984.1.11={birth=yes}
+2045.10.13={death=yes}
 }
 
 900012={
@@ -254,8 +254,8 @@ add_trait="diligent"
 add_trait="strong"
 add_trait="proud"
 
-1986.1.12={birth="1986.1.12"}
-2046.12.1={death="2046.12.1"}
+1986.1.12={birth=yes}
+2046.12.1={death=yes}
 }
 
 900013={
@@ -274,8 +274,8 @@ add_trait = "tough_soldier"
 add_trait="patient"
 add_trait="slothful"
 
-1961.11.29={birth="1961.11.29"}
-2039.9.24={death="2039.9.24"}
+1961.11.29={birth=yes}
+2039.9.24={death=yes}
 }
 
 900014={
@@ -295,7 +295,7 @@ add_trait="arbitrary"
 add_trait="shy"
 
 1999.8.30={birth=yes}
-2021.3.27={death="2021.3.27"}
+2021.3.27={death=yes}
 }
 
 900015={
@@ -314,8 +314,8 @@ add_trait="just"
 add_trait="envious"
 add_trait="cynical"
 
-1957.11.10={birth="1957.11.10"}
-2062.5.28={death="2062.5.28"}
+1957.11.10={birth=yes}
+2062.5.28={death=yes}
 }
 
 900016={
@@ -335,8 +335,8 @@ add_trait="zealous"
 add_trait="gregarious"
 add_trait="kind"
 
-1971.3.9={birth="1971.3.9"}
-2030.7.8={death="2030.7.8"}
+1971.3.9={birth=yes}
+2030.7.8={death=yes}
 }
 
 900017={
@@ -492,7 +492,7 @@ learning = 5
 add_trait = "mystic"
 add_trait = "detached_priest"
 add_trait="lustful"
-add_trait="stressed"
+add_trait="proud"
 
 
 1958.6.24={birth="1958.6.24"}
@@ -798,10 +798,10 @@ diplomacy = 2
 stewardship = 8
 intrigue = 5
 learning = 5
-add_trait = "mystic"
+add_trait = "scholar"
 add_trait = "detached_priest"
-add_trait="lustful"
-add_trait="stressed"
+add_trait="diligent"
+add_trait="proud"
 
 2396.6.24={birth=yes}
 2419.3.22 = {add_spouse=900065}
@@ -1653,4 +1653,117 @@ add_trait = "charitable"
 2151.10.6={death=yes}
 }
 
+900082={
+name = "Robert"
+dynasty = 10017
+dna = "boefjmaooja"
+culture = reiklander
+religion = sigmarite
+military = 2
+diplomacy = 7
+stewardship = 4
+intrigue = 7
+learning = 5
+add_trait = "midas_touched"
+add_trait = "duelist"
+add_trait = "gregarious"
+add_trait = "paranoid"
+2475.1.1={birth=yes}
+2528.12.22={death=yes}
+}
+
+900083={
+name = "Buthred"
+dynasty = 10018
+dna = "ocnihgggikl"
+culture = reiklander
+religion = sigmarite
+military = 6
+diplomacy = 0
+stewardship = 5
+intrigue = 7
+learning = 0
+add_trait = "thrifty_clerk"
+add_trait = "celibate"
+add_trait = "shy"
+add_trait = "cruel"
+add_trait = "greedy"
+2459.1.1={birth=yes}
+2526.6.22={death=yes}
+}
+
+900084={
+name = "Emilie"
+female = yes
+dynasty = 10017
+dna = "kegmmegjjfc"
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 2
+stewardship = 2
+intrigue = 6
+learning = 3
+father = 900082
+add_trait = "midas_touched"
+add_trait = "honest"
+add_trait = "paranoid"
+add_trait = "chaste"
+2501.1.1={birth=yes}
+2588.11.10={death=yes}
+}
+
+900085={
+name = "Heinrich"
+dynasty = 10024
+dna = "mhpaoflfkob"
+culture = reiklander
+religion = sigmarite
+military = 3
+diplomacy = 4
+stewardship = 5
+intrigue = 5
+learning = 7
+add_trait = "underhanded_rogue"
+2472.1.1={birth=yes}
+2536.3.24={death=yes}
+}
+
+900086={
+name = "Ludmilla"
+female = yes
+dynasty = 10024
+dna = "gphanjopcne"
+culture = reiklander
+religion = sigmarite
+military = 8
+diplomacy = 7
+stewardship = 3
+intrigue = 5
+learning = 5
+father = 900085
+add_trait = "tough_soldier"
+add_trait = "genius"
+2499.1.1={birth=yes}
+2549.1.1={death=yes}
+}
+
+900087={
+name = "Steirlich"
+dynasty = 10024
+dna = "blncemhmpkg"
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 4
+stewardship = 4
+intrigue = 4
+learning = 8
+add_trait = "brilliant_strategist"
+add_trait = "ambitious"
+add_trait = "temperate"
+add_trait = "ugly"
+2487.1.1={birth=yes}
+2550.7.10={death=yes}
+}
 

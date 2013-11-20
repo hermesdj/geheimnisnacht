@@ -1,0 +1,18 @@
+# 821 Chautoise
+
+# County Title
+title = c_chautoise
+
+# Settlements
+max_settlements = 4
+b_carbonec = castle
+b_pont_du_graal = temple
+b_chateauneuf = castle
+b_portois = city
+
+# Misc
+culture = mousillonian
+religion = lady_of_the_lake
+
+
+# History

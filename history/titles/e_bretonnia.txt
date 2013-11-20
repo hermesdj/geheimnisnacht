@@ -2,6 +2,7 @@
 	holder = 0 #Gilles le Breton
 	law = succ_feudal_elective
 	law = agnatic_succession
+	law = centralization_2
 }
 
 1001.3.18 = {

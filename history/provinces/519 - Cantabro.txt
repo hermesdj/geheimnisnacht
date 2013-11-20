@@ -1,0 +1,16 @@
+#519 Cantabro
+#County Title
+title = c_cantabro
+
+#Settlements
+max_settlements = 4
+b_toragona = castle
+b_requena = city
+b_gorato = city
+b_crezea = castle
+
+#Misc
+culture = tigarrese
+religion = classical_gods
+
+#History

@@ -1,0 +1,18 @@
+# 823 Dras
+
+# County Title
+title = c_dras
+
+# Settlements
+max_settlements = 4
+b_sigmarsheim = castle
+b_naizon = city
+b_brignac = castle
+b_jardins_du_chagrin = temple
+
+# Misc
+culture = mousillonian
+religion = lady_of_the_lake
+
+
+# History

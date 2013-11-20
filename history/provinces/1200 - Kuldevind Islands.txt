@@ -1,0 +1,17 @@
+# 1200 - Kuldevind Islands
+
+# County Title
+title = c_kuldevind_islands
+
+# Settlements
+max_settlements = 3
+b_funninguur = city
+b_gnaefur = castle
+b_kaupmadhormen = temple
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

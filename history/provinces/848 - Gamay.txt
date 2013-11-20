@@ -1,0 +1,18 @@
+# 848 Gamay
+
+# County Title
+title = c_gamay
+
+# Settlements
+max_settlements = 4
+b_tharravil = castle
+b_gamelin = city
+b_fourier = castle
+b_chateaudreux = castle
+
+# Misc
+culture = bourgon
+religion = lady_of_the_lake
+
+
+# History

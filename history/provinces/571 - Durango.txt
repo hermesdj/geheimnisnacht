@@ -1,0 +1,16 @@
+#571 Durango
+#County Title
+title = c_durango
+
+#Settlements
+max_settlements = 4
+b_durango = castle
+b_guaniar = temple
+b_ogalfa = city
+b_la_tajada = castle
+
+#Misc
+culture = montanese
+religion = classical_gods
+
+#History

@@ -1,0 +1,18 @@
+# 43 Ryval Passage
+
+# County Title
+title = c_ryval_passage
+
+# Settlements
+max_settlements = 4
+b_ryvalvik = castle
+b_tyrumal = castle
+b_urunsal = castle
+b_velkun = castle
+
+# Misc
+culture = varg
+religion = dark_norse
+
+
+# History

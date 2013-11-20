@@ -1,0 +1,19 @@
+# 578 Aquilas
+
+# County Title
+title = c_aquilas
+
+# Settlements
+max_settlements = 4
+b_aquilas = castle
+b_abasco = city
+b_rame = temple
+b_omavi = castle
+b_porto_noresto = city
+
+# Misc
+culture = tobaran
+religion = classical_gods
+
+
+# History

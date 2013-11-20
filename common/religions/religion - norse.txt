@@ -6,7 +6,6 @@ norse_group = {
 	pacifist = yes # Will make Hordes lose their super aggressiveness
 		
 	norse = {
-	
 		graphical_culture = westerngfx
 
 		icon = 3
@@ -15,6 +14,10 @@ norse_group = {
 			GOD_SPIRITS GOD_DARK_ONES GOD_ANCESTORS GOD_GODS
 		}
 
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		
 		priests_can_marry = yes
 		aggression = 2.5 		
@@ -25,7 +28,6 @@ norse_group = {
 	}
 	
 	dark_norse = {
-	
 		graphical_culture = westerngfx
 
 		icon = 2
@@ -34,6 +36,10 @@ norse_group = {
 			GOD_SPIRITS GOD_DARK_ONES GOD_ANCESTORS GOD_GODS
 		}
 
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		
 		priests_can_marry = yes
 		aggression = 2.5 		

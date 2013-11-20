@@ -216,7 +216,7 @@ PROV214;Kalinora;;;;;;;;;;;;;x
 PROV215;Vetluga;;;;;;;;;;;;;x
 PROV216;Flainaut;;;;;;;;;;;;;x
 PROV217;Brabois;;;;;;;;;;;;;x
-PROV218;Tancred;;;;;;;;;;;;;x
+PROV218;Almshoven;;;;;;;;;;;;;x
 PROV219;Landrel Barrow;;;;;;;;;;;;;x
 PROV220;Markenbinnen;;;;;;;;;;;;;x
 PROV221;Noordbeemster;;;;;;;;;;;;;x
@@ -237,7 +237,7 @@ PROV235;Gelnhausen;;;;;;;;;;;;;x
 PROV236;Manaansufer;;;;;;;;;;;;;x
 PROV237;Stavern;;;;;;;;;;;;;x
 PROV238;Kurtwallen;;;;;;;;;;;;;x
-PROV239;Salz;;;;;;;;;;;;;x
+PROV239;Salzenmund;;;;;;;;;;;;;x
 PROV240;Norden;;;;;;;;;;;;;x
 PROV241;Limshof;;;;;;;;;;;;;x
 PROV242;Dorfmark;;;;;;;;;;;;;x
@@ -301,11 +301,11 @@ PROV299;Altdorf;;;;;;;;;;;;;x
 PROV300;Hagercrybs;;;;;;;;;;;;;x
 PROV301;Morlenfurt;;;;;;;;;;;;;x
 PROV302;Reikguard;;;;;;;;;;;;;x
-PROV303;Reikwald;;;;;;;;;;;;;x
-PROV304;Teufel;;;;;;;;;;;;;x
+PROV303;Auerswald;;;;;;;;;;;;;x
+PROV304;Ubersreik;;;;;;;;;;;;;x
 PROV305;Worlitz;;;;;;;;;;;;;x
-PROV306;Blitzfelsen Hills;;;;;;;;;;;;;x
-PROV307;Wittendorf;;;;;;;;;;;;;x
+PROV306;Dunkelberg;;;;;;;;;;;;;x
+PROV307;Wittgendorf;;;;;;;;;;;;;x
 PROV308;Rohrhausen;;;;;;;;;;;;;x
 PROV309;Nuln;;;;;;;;;;;;;x
 PROV310;Wissenberg;;;;;;;;;;;;;x
@@ -383,11 +383,11 @@ PROV381;Mikaldorf;;;;;;;;;;;;;x
 PROV382;Waldenhof;;;;;;;;;;;;;x
 PROV383;Sumpfdorf;;;;;;;;;;;;;x
 PROV384;Wartenhof;;;;;;;;;;;;;x
-PROV385;Cottbus;;;;;;;;;;;;;x
+PROV385;Nachthafen;;;;;;;;;;;;;x
 PROV386;Drakenhof;;;;;;;;;;;;;x
-PROV387;Amonen;;;;;;;;;;;;;x
+PROV387;Fennonhugel;;;;;;;;;;;;;x
 PROV388;Falkenhaus;;;;;;;;;;;;;x
-PROV389;Fennonhugel;;;;;;;;;;;;;x
+PROV389;Auld Ryding;;;;;;;;;;;;;x
 PROV390;Aydemir;;;;;;;;;;;;;x
 PROV391;Sopot;;;;;;;;;;;;;x
 PROV392;Ribaritsa;;;;;;;;;;;;;x
@@ -739,7 +739,7 @@ PROV737;Delium;;;;;;;;;;;;;x
 PROV738;Anaxia;;;;;;;;;;;;;x
 PROV739;Afayan;;;;;;;;;;;;;x
 PROV740;Koganusan;;;;;;;;;;;;;x
-PROV741;Momuzidek;;;;;;;;;;;;;x
+PROV741;Kreutzhofen;;;;;;;;;;;;;x
 PROV742;Kybel;;;;;;;;;;;;;x
 PROV743;Karamandere;;;;;;;;;;;;;x
 PROV744;Panion;;;;;;;;;;;;;x
@@ -927,14 +927,14 @@ PROV925;Fays;;;;;;;;;;;;;x
 PROV926;Umbresco;;;;;;;;;;;;;x
 PROV927;Nucca;;;;;;;;;;;;;x
 PROV928;Helgala;;;;;;;;;;;;;x
-PROV929;Black Chasm;;;;;;;;;;;;;x
-PROV930;Plateau of Zorn Uzkul;;;;;;;;;;;;;x
-PROV931;Ogre Kingdoms;;;;;;;;;;;;;x
-PROV932;Gnoblar Country;;;;;;;;;;;;;x
+PROV929;Hundsheimerwald;;;;;;;;;;;;;x
+PROV930;Zherden;;;;;;;;;;;;;x
+PROV931;Stimmigen;;;;;;;;;;;;;x
+PROV932;Plateau of Zorn Uzkul;;;;;;;;;;;;;x
 PROV933;Mountains of Mourn;;;;;;;;;;;;;x
 PROV934;World's Edge Mountains;;;;;;;;;;;;;x
 PROV935;Marg Be-Mard Desert;;;;;;;;;;;;;x
-PROV936;Southlands;;;;;;;;;;;;;x
+PROV936;Black Chasm;;;;;;;;;;;;;x
 PROV937;Stormrim;;;;;;;;;;;;;x
 PROV938;Chaos Wastes;;;;;;;;;;;;;x
 PROV939;Devil's Backbone;;;;;;;;;;;;;x

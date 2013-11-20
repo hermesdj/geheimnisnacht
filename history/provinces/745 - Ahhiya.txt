@@ -1,0 +1,16 @@
+# 745 Ahhiya
+
+# County Title
+title = c_ahhiya
+
+# Settlements
+max_settlements = 2
+b_ahhiya = castle
+b_tronas = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

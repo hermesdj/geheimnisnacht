@@ -1,0 +1,17 @@
+# 1168 Bjarkavig
+
+# County Title
+title = c_bjarkavig
+
+# Settlements
+max_settlements = 3
+b_bjarkavig = castle
+b_worms = temple
+b_svinborhovit = city
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

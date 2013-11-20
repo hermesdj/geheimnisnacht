@@ -1,0 +1,18 @@
+# 28 Fyodravik
+
+# County Title
+title = c_fyodravik
+
+# Settlements
+max_settlements = 4
+b_fyodravik = castle
+b_lytilvik = city
+b_cadai = temple
+b_cytharai = city
+
+# Misc
+culture = graeling
+religion = chaos
+
+
+# History

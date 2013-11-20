@@ -1,0 +1,17 @@
+# 639 Zvorak
+
+# County Title
+title = c_zvorak
+
+# Settlements
+max_settlements = 3
+b_zvorak = castle
+b_myrmenatus = castle
+b_arcadia = temple
+
+# Misc
+culture = myken
+religion = classical_gods
+
+
+# History

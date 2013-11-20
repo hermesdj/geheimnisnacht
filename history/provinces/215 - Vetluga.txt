@@ -1,0 +1,17 @@
+# 215 Vetluga
+
+# County Title
+title = c_vetluga
+
+# Settlements
+max_settlements = 3
+b_vetluga = castle
+b_stroita = city
+b_pevek = temple
+
+# Misc
+culture = gospodar
+religion = northern_gods
+
+
+# History

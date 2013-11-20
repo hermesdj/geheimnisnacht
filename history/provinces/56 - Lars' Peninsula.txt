@@ -1,0 +1,18 @@
+# 56 Lars' Peninsula
+
+# County Title
+title = c_lars_peninsula
+
+# Settlements
+max_settlements = 1
+b_larsheim = castle
+b_grundelvik = temple
+b_harsheim = city
+b_ogensvik = castle
+
+# Misc
+culture = varg
+religion = slaanesh
+
+
+# History

@@ -12,6 +12,10 @@ necromantic_group = {
 			GOD_THE_BLOOD
 		}
 		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		crusade_name = "HOLY_WAR"
 		scripture_name = THE_BLOOD
 		

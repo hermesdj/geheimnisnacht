@@ -1,0 +1,17 @@
+# 1319 Gringril
+
+# County Title
+title = c_gringril
+
+# Settlements
+max_settlements = 3
+b_khaz_gringril = castle
+b_opular_khar = castle
+b_morhn_grim = temple
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

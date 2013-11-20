@@ -1,0 +1,17 @@
+# 864 Querigord
+
+# County Title
+title = c_querigord
+
+# Settlements
+max_settlements = 3
+b_courfeyrac = castle
+b_montreuil = temple
+b_thier = city
+
+# Misc
+culture = breton
+religion = lady_of_the_lake
+
+
+# History

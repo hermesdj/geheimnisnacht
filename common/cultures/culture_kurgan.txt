@@ -3,7 +3,7 @@ kurgan_group = {
 	graphical_culture = muslimgfx
 
 	aghol = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 	#Bolghar
 		color = { 0.3 0.7 0.2 }
 
@@ -29,7 +29,7 @@ kurgan_group = {
 		}
 
 	dolgan = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 	#Cuman and Pecheneg
 		color = { 0.6 0.9 0.1 }
 
@@ -59,7 +59,7 @@ kurgan_group = {
 	}
 
 	gharhar = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 	#Avar
 		color = { 0.4 0.9 0.5 }
 
@@ -88,7 +88,7 @@ kurgan_group = {
 		}
 
 	hastling = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 	#Old Magyar
 		color = { 0.1 0.7 0.1 }
 
@@ -121,7 +121,7 @@ kurgan_group = {
 		}
 
 	khazag = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 		#Cuman and Hunnic
 		color = { 0.2 0.4 0.9 }
 
@@ -148,7 +148,7 @@ kurgan_group = {
 		}		
 		
 	kul = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 	#Caucasian Avar
 		color = { 0.3 0.6 0.1 }
 
@@ -166,7 +166,7 @@ kurgan_group = {
 		}		
 
 	kvellig = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 	#Turkish
 		color = { 0.5 0.6 0.8 }
 
@@ -193,7 +193,7 @@ kurgan_group = {
 		}		
 
 	tahmak = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 	#Aghbanian
 		color = { 0.2 0.4 0.7 }
 
@@ -230,7 +230,7 @@ kurgan_group = {
 		}		
 
 	tokmar = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 	#Khazar and Hunnic
 		color = { 0.5 0.9 0.7 }
 
@@ -254,7 +254,7 @@ kurgan_group = {
 		}
 
 	yusak = {
-		graphical_culture = cumangfx
+		graphical_culture = mongolgfx
 	#Utigur and Kutrigur and Volga Bulgar
 		color = { 0.6 0.9 0.6 }
 

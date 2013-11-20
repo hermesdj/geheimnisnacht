@@ -68,3 +68,5 @@ DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House von Krystallbach. Afte
 DYN13_DESC;With a score of $SCORE$ you$FAILED$ beat House von Drak. The von Draks of Sylvania were legendary in their ill-governance. Under their rule Sylvania was overrun by monsters and petty nobles abused their vassals with impunity. Their reign of ambivalent terror was only ended by the arrival of Vlad von Carstein.;;;;;;;;;;;;;x
 DYN14_DESC;With a score of $SCORE$ you$FAILED$ beat House Stoutheart. In the 26th century, Hisme Stoutheart achieved a record ten consecutive three-year terms as Elder of the Mootland.;;;;;;;;;;;;;x
 DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Nikse. The Nikse family were a minor noble family in Nordland, and are only known from their ocassional marriages into the Todbringer dynasty.;;;;;;;;;;;;;x
+RETTYPE_CUL_IMP;Imperial Infantry Company.;;;;;;;;;;;;;x
+RETTYPE_CUL_IMP2;Imperial Light Infantry Company.;;;;;;;;;;;;;x

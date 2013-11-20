@@ -418,7 +418,7 @@ mother=550001
 
 550018={
 name = "Edyth"
-female = female
+female = yes
 dynasty = 79011
 culture = mootlander
 religion = halfling_gods

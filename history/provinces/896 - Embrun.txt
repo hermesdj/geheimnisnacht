@@ -1,0 +1,18 @@
+# 896 Embrun
+
+# County Title
+title = c_embrun
+
+# Settlements
+max_settlements = 4
+b_embrun = castle
+b_cassiel = temple
+b_la_maisonrie = castle
+b_marange = temple
+
+# Misc
+culture = carcassian
+religion = lady_of_the_lake
+
+
+# History

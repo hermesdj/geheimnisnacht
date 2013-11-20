@@ -1,0 +1,17 @@
+# 624 Tepanlo
+
+# County Title
+title = c_tepanlo
+
+# Settlements
+max_settlements = 3
+b_tepanlo = castle
+b_petorna = city
+b_arrabbiatta = temple
+
+# Misc
+culture = lucian
+religion = classical_gods
+
+
+# History

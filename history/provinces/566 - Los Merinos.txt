@@ -1,0 +1,16 @@
+#566 Los Merinos
+#County Title
+title = c_los_merinos
+
+#Settlements
+max_settlements = 4
+b_llaquino = castle
+b_romanones = castle
+b_corazon = city
+b_ligadas = castle
+
+#Misc
+culture = montanese
+religion = classical_gods
+
+#History

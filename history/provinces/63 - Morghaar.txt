@@ -1,0 +1,18 @@
+# 63 Morghaar
+
+# County Title
+title = c_morghaar
+
+# Settlements
+max_settlements = 4
+b_morghaar_fortress = castle
+b_helheim = city
+b_heltjald = temple
+b_feiknstafir_lidha = temple
+
+# Misc
+culture = aesling
+religion = chaos
+
+
+# History

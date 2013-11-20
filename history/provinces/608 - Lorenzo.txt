@@ -1,0 +1,17 @@
+# 608 Lorenzo
+
+# County Title
+title = c_lorenzo
+
+# Settlements
+max_settlements = 3
+b_venerato_lorenzo = castle
+b_aquatreno = city
+b_bradio = temple
+
+# Misc
+culture = reman
+religion = classical_gods
+
+
+# History

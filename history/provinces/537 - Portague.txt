@@ -1,0 +1,18 @@
+#537 Portague
+#County Title
+title = c_portague
+
+#Settlements
+max_settlements = 6
+b_portobella = castle
+b_muros = city
+b_lisoba = temple
+b_san_enrique = city
+b_zeba = castle
+b_penhasco = city
+
+#Misc
+culture = avilian
+religion = classical_gods
+
+#History

@@ -1,0 +1,17 @@
+# 786 Seltar
+
+# County Title
+title = c_seltar
+
+# Settlements
+max_settlements = 3
+b_seltar = castle
+b_dubrus = city
+b_the_lone_tower = castle
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

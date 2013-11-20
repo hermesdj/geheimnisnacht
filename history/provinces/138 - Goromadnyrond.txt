@@ -1,0 +1,16 @@
+# 138 Goromadnyrond
+
+# County Title
+title = c_goromadnyrond
+
+# Settlements
+max_settlements = 2
+b_arstul = castle
+b_quirvik = temple
+
+# Misc
+culture = baersonling
+religion = norse
+
+
+# History

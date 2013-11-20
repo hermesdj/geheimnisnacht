@@ -1,0 +1,21 @@
+# 175 Erengrad
+
+# County Title
+title = c_erengrad
+
+# Settlements
+max_settlements = 7
+b_erengrad = city
+b_gomela = castle
+b_klichawa = temple
+b_mstislavlios = city
+b_shklovok = castle
+b_dizna = city
+b_dokshatsyky = castle
+
+# Misc
+culture = gospodar
+religion = northern_gods
+
+
+# History

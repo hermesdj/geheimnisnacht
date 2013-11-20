@@ -1,0 +1,17 @@
+# 665 Arnalos
+
+# County Title
+title = c_arnalos
+
+# Settlements
+max_settlements = 3
+b_arnalos = castle
+b_proxema = temple
+b_calpe = temple
+
+# Misc
+culture = middenlander
+religion = sigmarite
+
+
+# History

@@ -1,0 +1,17 @@
+# 853 Roderre
+
+# County Title
+title = c_roderre
+
+# Settlements
+max_settlements = 3
+b_ux = city
+b_larne = castle
+b_sigorlin = city
+
+# Misc
+culture = bourgon
+religion = lady_of_the_lake
+
+
+# History

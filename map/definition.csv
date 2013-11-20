@@ -304,7 +304,7 @@ province;red;green;blue;x;x
 303;126;57;179;Reikwald Forest;x
 304;168;60;52;Teufel;x
 305;0;63;180;Worlitz;x
-306;42;66;53;Blitzfelsen Hills;x
+306;42;66;53;Dunkelberg;x
 307;84;69;181;Wittendorf;x
 308;126;72;54;Rohrhausen;x
 309;168;75;182;Nuln;x
@@ -383,11 +383,11 @@ province;red;green;blue;x;x
 382;84;81;91;Waldenhof;x
 383;126;84;219;Dark Moor;x
 384;168;87;92;Wartenhof;x
-385;0;90;220;Ghoul Wood;x
+385;0;90;220;Nachthafen;x
 386;42;93;93;Drakenhof;x
-387;84;96;221;Fang Island;x
-388;126;99;94;Fae Marshes;x
-389;168;102;222;Fennonhugel;x
+387;84;96;221;Fennonhugel;x
+388;126;99;94;Falkenhaus;x
+389;168;102;222;Auld Ryding;x
 390;0;105;95;Aydemir;x
 391;42;108;223;Sopot;x
 392;84;111;96;Ribaritsa;x
@@ -739,7 +739,7 @@ province;red;green;blue;x;x
 738;126;84;69;Anaxia;x
 739;168;87;197;Afayan;x
 740;0;90;70;Koganusan;x
-741;42;93;198;Momuzidek;x
+741;42;93;198;Kreutzhofen;x
 742;84;96;71;Kybel;x
 743;126;99;199;Karamandere;x
 744;168;102;72;Panion;x
@@ -927,14 +927,14 @@ province;red;green;blue;x;x
 926;85;174;26;Umbresco;x
 927;2;36;0;Nucca;x
 928;44;39;128;Helgala;x
-929;127;0;94;Black Chasm;x
-930;128;45;129;Plateau of Zorn Uzkul;x
-931;170;48;2;Ogre Kingdoms;x
-932;2;51;130;Gnoblar Country;x
+929;127;0;94;Hundsheimerwald;x
+930;128;45;129;Zherden;x
+931;170;48;2;Stimmigen;x
+932;2;51;130;Plateau of Zorn Uzkul;x
 933;44;54;3;Mountains of Mourn;x
 934;85;210;221;World's Edge Mountains;x
 935;128;60;4;Marg Be-Mard Desert;x
-936;170;63;132;Southlands;x
+936;170;63;132;Black Chasm;x
 937;1;6;95;Stormrim;x
 938;44;69;133;Chaos Wastes;x
 939;86;72;6;Devil's Backbone;x

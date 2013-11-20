@@ -1,0 +1,18 @@
+# 585 Ebino
+
+# County Title
+title = c_ebino
+
+# Settlements
+max_settlements = 4
+b_ebino = castle
+b_orcassa = city
+b_santa_elena = temple
+b_copponi = castle
+
+# Misc
+culture = miraglian
+religion = classical_gods
+
+
+# History

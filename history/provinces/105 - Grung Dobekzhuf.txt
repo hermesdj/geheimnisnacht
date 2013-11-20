@@ -1,0 +1,18 @@
+# 105 Grung Dobekzhuf
+
+# County Title
+title = c_grung_dobekzhuf
+
+# Settlements
+max_settlements = 4
+b_grung_dobekzhuf = castle
+b_kazad_urital = castle
+b_khazid_hungard = temple
+b_kraka_hurivik = castle
+
+# Misc
+culture = dwarf_norse
+religion = ancestor_gods
+
+
+# History

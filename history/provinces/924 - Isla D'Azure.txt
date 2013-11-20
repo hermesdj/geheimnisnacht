@@ -1,0 +1,14 @@
+#924 Isla D'Azure
+#County Title
+title = c_isla_dazure
+
+#Settlements
+max_settlements = 2
+b_porto_sarba = city
+b_culo_trento = castle
+
+#Misc
+culture = astur
+religion = stromfels
+
+#History

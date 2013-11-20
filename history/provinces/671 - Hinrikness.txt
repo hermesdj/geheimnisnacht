@@ -1,0 +1,18 @@
+# 671 Hinrikness
+
+# County Title
+title = c_hinrikness
+
+# Settlements
+max_settlements = 4
+b_hinrikness = castle
+b_golyat = city
+b_ulricstad = temple
+b_tyavit = castle
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

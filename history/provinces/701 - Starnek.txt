@@ -1,0 +1,19 @@
+# 701 Starnek
+
+# County Title
+title = c_starnek
+
+# Settlements
+max_settlements = 5
+b_starnek = castle
+b_orontonas = city
+b_quarteras = city
+b_urkenberg = castle
+b_sineward = temple
+
+# Misc
+culture = astur
+religion = classical_gods
+
+
+# History

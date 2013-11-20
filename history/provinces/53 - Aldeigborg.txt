@@ -1,0 +1,18 @@
+# 53 Aldeigborg
+
+# County Title
+title = c_aldeigborg
+
+# Settlements
+max_settlements = 4
+b_aldeigborg = castle
+b_afenheim = castle
+b_afensvik = castle
+b_oldegar = castle
+
+# Misc
+culture = varg
+religion = dark_norse
+
+
+# History

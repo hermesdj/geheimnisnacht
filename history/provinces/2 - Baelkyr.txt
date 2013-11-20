@@ -1,0 +1,18 @@
+# 2 - Baelkyr
+
+# County Title
+title = c_baelkyr
+
+# Settlements
+max_settlements = 4
+b_baelkyr = castle
+b_norvag = temple
+b_tyrunal = city
+b_jarzul = city
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

@@ -1,0 +1,16 @@
+#556 Villana
+#County Title
+title = c_villana
+
+#Settlements
+max_settlements = 4
+b_israda = castle
+b_lirocana = city
+b_breando = castle
+b_horzima = temple
+
+#Misc
+culture = astur
+religion = classical_gods
+
+#History

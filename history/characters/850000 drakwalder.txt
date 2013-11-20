@@ -15,8 +15,8 @@ add_trait="kind"
 add_trait="craven"
 add_trait="gregarious"
 
-1975.7.14={birth="1975.7.14"}
-2044.2.14={death="2044.2.14"}
+1975.7.14={birth="yes"}
+2044.2.14={death="yes"}
 }
 
 850001={
@@ -36,8 +36,8 @@ add_trait="honest"
 add_trait="greedy"
 
 
-1991.12.22={birth="1991.12.22"}
-2057.7.19={death="2057.7.19"}
+1991.12.22={birth="yes"}
+2057.7.19={death="yes"}
 }
 
 850002={
@@ -56,8 +56,8 @@ add_trait = "thrifty_clerk"
 
 add_trait="weak"
 
-1979.6.26={birth="1979.6.26"}
-2029.1.23={death="2029.1.23"}
+1979.6.26={birth="yes"}
+2029.1.23={death="yes"}
 }
 
 850003={
@@ -76,8 +76,8 @@ add_trait="cruel"
 add_trait="wroth"
 
 
-1951.8.5={birth="1951.8.5"}
-2028.6.21={death="2028.6.21"}
+1951.8.5={birth="yes"}
+2028.6.21={death="yes"}
 }
 
 850004={
@@ -96,13 +96,13 @@ add_trait="tall"
 add_trait="chaste"
 add_trait="content"
 
-1991.3.14={birth="1991.3.14"}
-2012.8.14={death="2012.8.14"}
+1991.3.14={birth="yes"}
+2012.8.14={death="yes"}
 }
 
 850005={
 name = "Ordulf"
-dynasty = 15026
+dynasty = 15032
 culture = drakwalder
 religion = ulrican
 military = 9
@@ -114,10 +114,9 @@ add_trait = "hedonist"
 add_trait = "skilled_tactician"
 add_trait="humble"
 add_trait="ill"
-add_trait="stressed"
 
-1969.10.14={birth="1969.10.14"}
-2014.12.23={death="2014.12.23"}
+1969.10.14={birth="yes"}
+2017.12.23={death="yes"}
 }
 
 850006={
@@ -136,8 +135,8 @@ add_trait="trusting"
 add_trait="temperate"
 add_trait="depressed"
 
-1996.6.22={birth="1996.6.22"}
-2049.12.7={death="2049.12.7"}
+1996.6.22={birth="yes"}
+2049.12.7={death="yes"}
 }
 
 850007={
@@ -156,8 +155,8 @@ add_trait="drunkard"
 
 add_trait="lustful"
 
-1952.5.12={birth="1952.5.12"}
-2021.2.18={death="2021.2.18"}
+1952.5.12={birth="yes"}
+2021.2.18={death="yes"}
 }
 
 850008={
@@ -176,8 +175,8 @@ add_trait = "thrifty_clerk"
 add_trait="legit_bastard"
 add_trait="homosexual"
 
-1990.8.26={birth="1990.8.26"}
-2024.7.17={death="2024.7.17"}
+1990.8.26={birth="yes"}
+2024.7.17={death="yes"}
 }
 
 850009={
@@ -193,11 +192,8 @@ learning = 7
 add_trait = "hunter"
 add_trait = "mastermind_theologian"
 
-
-
-
-1991.4.5={birth="1991.4.5"}
-2052.11.23={death="2052.11.23"}
+1991.4.5={birth="yes"}
+2052.11.23={death="yes"}
 }
 
 850010={
@@ -216,8 +212,8 @@ add_trait = "scholarly_theologian"
 
 
 
-1986.8.17={birth="1986.8.17"}
-2049.10.19={death="2049.10.19"}
+1986.8.17={birth="yes"}
+2049.10.19={death="yes"}
 }
 
 850011={
@@ -506,3 +502,415 @@ add_trait="diligent"
 1981.4.24={birth="1981.4.24"}
 2048.12.26={death="2048.12.26"}
 }
+
+850025={
+name = "Kriemhild"
+female = yes
+dynasty = 15032
+dna = "logifkimiek"
+culture = drakwalder
+religion = ulrican
+military = 2
+diplomacy = 4
+stewardship = 0
+intrigue = 0
+learning = 4
+mother = 850026
+add_trait = "flamboyant_schemer"
+add_trait = "content"
+add_trait = "envious"
+2502.1.1={birth=yes}
+2567.7.13={death=yes}
+}
+
+850026={
+name = "Heilwiva"
+female = yes
+dynasty = 15032
+dna = "jkljakealcd"
+culture = drakwalder
+religion = ulrican
+military = 0
+diplomacy = 3
+stewardship = 4
+intrigue = 3
+learning = 6
+mother = 850027
+add_trait = "flamboyant_schemer"
+add_trait = "poet"
+add_trait = "trusting"
+2476.1.1={birth=yes}
+2531.10.1={death=yes}
+}
+
+850027={
+name = "Thiedburga"
+female = yes
+dynasty = 15032
+dna = "lgekjoanhjh"
+culture = drakwalder
+religion = ulrican
+military = 4
+diplomacy = 3
+stewardship = 3
+intrigue = 4
+learning = 4
+father = 850028
+add_trait = "underhanded_rogue"
+add_trait = "cruel"
+add_trait = "content"
+add_trait = "charitable"
+2440.1.1={birth=yes}
+2502.6.4={death=yes}
+}
+
+850028={
+name = "Sigmund"
+dynasty = 15032
+dna = "ekaakekmphd"
+culture = drakwalder
+religion = ulrican
+military = 2
+diplomacy = 1
+stewardship = 5
+intrigue = 6
+learning = 1
+father = 850029
+add_trait = "tough_soldier"
+add_trait = "greedy"
+add_trait = "diligent"
+add_trait = "honest"
+2422.1.1={birth=yes}
+2450.3.27={death=yes}
+}
+
+850029={
+name = "Melchior"
+dynasty = 15032
+dna = "bcnecoklnjj"
+culture = drakwalder
+religion = ulrican
+military = 3
+diplomacy = 4
+stewardship = 5
+intrigue = 6
+learning = 3
+father = 850031
+add_trait = "grey_eminence"
+add_trait = "just"
+add_trait = "honest"
+add_trait = "craven"
+2386.1.1={birth=yes}
+2439.6.1={death=yes}
+}
+
+850030={
+name = "Bianka"
+female = yes
+dynasty = 15032
+dna = "hcjdcoeebac"
+culture = drakwalder
+religion = ulrican
+military = 4
+diplomacy = 2
+stewardship = 2
+intrigue = 2
+learning = 3
+father = 850031
+add_trait = "charismatic_negotiator"
+add_trait = "patient"
+add_trait = "cynical"
+2372.1.1={birth=yes}
+2392.1.8={death=yes}
+}
+
+850031={
+name = "Niklaus"
+dynasty = 15032
+dna = "afnoipnfpcn"
+culture = drakwalder
+religion = ulrican
+military = 5
+diplomacy = 3
+stewardship = 4
+intrigue = 4
+learning = 7
+father = 850032
+add_trait = "tough_soldier"
+add_trait = "proud"
+add_trait = "cruel"
+2343.1.1={birth=yes}
+2401.12.15={death=yes}
+}
+
+850032={
+name = "Ulli"
+dynasty = 15032
+dna = "jciindlikdf"
+culture = drakwalder
+religion = ulrican
+military = 7
+diplomacy = 4
+stewardship = 7
+intrigue = 5
+learning = 4
+father = 850033
+add_trait = "charismatic_negotiator"
+add_trait = "cruel"
+2317.1.1={birth=yes}
+2365.8.3={death=yes}
+}
+
+850033={
+name = "Luidolf"
+dynasty = 15032
+dna = "kbaolindnhg"
+culture = drakwalder
+religion = ulrican
+military = 8
+diplomacy = 3
+stewardship = 0
+intrigue = 7
+learning = 1
+mother = 850034
+add_trait = "flamboyant_schemer"
+add_trait = "slothful"
+add_trait = "craven"
+add_trait = "chaste"
+add_trait = "shy"
+add_trait = "depressed"
+2285.1.1={birth=yes}
+2323.2.25={death=yes}
+}
+
+850034={
+name = "Adele"
+female = yes
+dynasty = 15032
+dna = "nnaefgdbbgb"
+culture = drakwalder
+religion = ulrican
+military = 8
+diplomacy = 2
+stewardship = 7
+intrigue = 7
+learning = 3
+mother = 850035
+add_trait = "indulgent_wastrel"
+add_trait = "lustful"
+add_trait = "envious"
+add_trait = "ambitious"
+add_trait = "wroth"
+2278.1.1={birth=yes}
+2299.3.22={death=yes}
+}
+
+850035={
+name = "Hannelore"
+female = yes
+dynasty = 15032
+dna = "alhefggbjpg"
+culture = drakwalder
+religion = ulrican
+military = 0
+diplomacy = 4
+stewardship = 8
+intrigue = 3
+learning = 8
+mother = 850036
+add_trait = "flamboyant_schemer"
+add_trait = "gluttonous"
+add_trait = "wounded"
+2255.1.1={birth=yes}
+2304.1.2={death=yes}
+}
+
+850036={
+name = "Erika"
+female = yes
+dynasty = 15032
+dna = "hiakgaafbok"
+culture = drakwalder
+religion = ulrican
+military = 5
+diplomacy = 2
+stewardship = 8
+intrigue = 3
+learning = 4
+mother = 850037
+add_trait = "brilliant_strategist"
+2215.1.1={birth=yes}
+2285.10.20={death=yes}
+}
+
+850037={
+name = "Sandra"
+female = yes
+dynasty = 15032
+dna = "mficellpaio"
+culture = drakwalder
+religion = ulrican
+military = 3
+diplomacy = 5
+stewardship = 5
+intrigue = 4
+learning = 3
+father = 850039
+add_trait = "intricate_webweaver"
+add_trait = "greedy"
+add_trait = "just"
+2181.1.1={birth=yes}
+2216.8.10={death=yes}
+}
+
+850038={
+name = "Katrin"
+female = yes
+dynasty = 15032
+dna = "gbihldkacco"
+culture = drakwalder
+religion = ulrican
+military = 2
+diplomacy = 5
+stewardship = 2
+intrigue = 7
+learning = 1
+father = 850039
+add_trait = "charismatic_negotiator"
+add_trait = "brave"
+add_trait = "diligent"
+2176.1.1={birth=yes}
+2222.12.11={death=yes}
+}
+
+850039={
+name = "Theodorich"
+dynasty = 15032
+dna = "ffhhhahlmhh"
+culture = drakwalder
+religion = ulrican
+military = 3
+diplomacy = 3
+stewardship = 3
+intrigue = 6
+learning = 0
+mother = 850040
+add_trait = "charismatic_negotiator"
+add_trait = "envious"
+add_trait = "paranoid"
+add_trait = "temperate"
+2138.1.1={birth=yes}
+2197.10.19={death=yes}
+}
+
+850040={
+name = "Agnes"
+female = yes
+dynasty = 15032
+dna = "bfeiddmdjpe"
+culture = drakwalder
+religion = ulrican
+military = 6
+diplomacy = 4
+stewardship = 1
+intrigue = 3
+learning = 6
+father = 850041
+add_trait = "underhanded_rogue"
+add_trait = "patient"
+2114.1.1={birth=yes}
+2166.2.8={death=yes}
+}
+
+850041={
+name = "Wulf"
+dynasty = 15032
+dna = "clonemlpbpi"
+culture = drakwalder
+religion = ulrican
+military = 1
+diplomacy = 6
+stewardship = 2
+intrigue = 5
+learning = 3
+father = 850042
+add_trait = "charismatic_negotiator"
+2066.1.1={birth=yes}
+2134.8.24={death=yes}
+}
+
+850042={
+name = "Wernhard"
+dynasty = 15032
+dna = "ljlplinnfjl"
+culture = drakwalder
+religion = ulrican
+military = 1
+diplomacy = 1
+stewardship = 1
+intrigue = 7
+learning = 3
+father = 850043
+add_trait = "intricate_webweaver"
+2041.1.1={birth=yes}
+2098.7.27={death=yes}
+}
+
+850043={
+name = "Mannslieb"
+dynasty = 15032
+dna = "nkakagffabe"
+culture = drakwalder
+religion = ulrican
+military = 6
+diplomacy = 1
+stewardship = 8
+intrigue = 1
+learning = 5
+father = 850005
+add_trait = "skilled_tactician"
+add_trait = "charitable"
+add_trait = "lustful"
+2018.1.1={birth=yes}
+2076.12.19={death=yes}
+}
+
+850044={
+name = "Ewald"
+dynasty = 15032
+dna = "onjdkgckolk"
+culture = drakwalder
+religion = ulrican
+military = 2
+diplomacy = 6
+stewardship = 8
+intrigue = 8
+learning = 3
+father = 850005
+add_trait = "naive_appeaser"
+add_trait = "ambitious"
+add_trait = "zealous"
+add_trait = "lustful"
+2004.1.1={birth=yes}
+2032.7.14={death=yes}
+}
+
+850045={
+name = "Trude"
+female = yes
+dynasty = 15032
+dna = "akfaeeplbmi"
+culture = drakwalder
+religion = ulrican
+military = 5
+diplomacy = 7
+stewardship = 8
+intrigue = 6
+learning = 2
+father = 850005
+add_trait = "fortune_builder"
+add_trait = "brave"
+2001.1.1={birth=yes}
+2045.4.5={death=yes}
+}
+

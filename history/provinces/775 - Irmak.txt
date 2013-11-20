@@ -1,0 +1,18 @@
+# 775 Irmak
+
+# County Title
+title = c_irmak
+
+# Settlements
+max_settlements = 4
+b_irmak = castle
+b_karamissar = city
+b_eiries = castle
+b_samsun = temple
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

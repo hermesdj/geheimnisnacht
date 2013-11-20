@@ -1,0 +1,17 @@
+# 692 Deiter
+
+# County Title
+title = c_deiter
+
+# Settlements
+max_settlements = 3
+b_deiterschlosse = castle
+b_schwarzbaum = city
+b_baumriesen = temple
+
+# Misc
+culture = sylvanian
+religion = vampiric
+
+
+# History

@@ -1,0 +1,17 @@
+# 739 Afayan
+
+# County Title
+title = c_afayan
+
+# Settlements
+max_settlements = 3
+b_afayan = castle
+b_samanda = city
+b_teion = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

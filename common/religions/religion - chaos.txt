@@ -17,6 +17,10 @@ chaos_gods_group = {
 			GOD_GODS GOD_DARK_ONES GOD_THE_RUINOUS_POWERS GOD_CHAOS
  		}
 		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+		
 		priests_can_marry = yes
 		aggression = 2.5 		
 		allow_looting = yes
@@ -37,7 +41,11 @@ chaos_gods_group = {
 		icon = 22
 		color = { 0.3 0.6 0.9 }
 		god_names = {
-			GOD_TZEENTCH GOD_THE_CHANGER GOD_THE_DARKNESS
+			GOD_TZEENTCH GOD_THE_CHANGER
+		}
+		
+		evil_god_names = {
+			GOD_THE_DARK_GODS
 		}
 		
 		priests_can_marry = yes
@@ -59,9 +67,12 @@ chaos_gods_group = {
 		icon = 20
 		color = { 0.7 1.0 0.2 }
 		god_names = {
-			GOD_NURGLE GOD_THE_FATHER GOD_THE_DARKNESS
+			GOD_NURGLE GOD_THE_FATHER
 		}
 
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
 		
 		priests_can_marry = yes
 		aggression = 2.5 		
@@ -82,9 +93,12 @@ chaos_gods_group = {
 		icon = 21
 		color = { 1.0 0.5 0.6 }
 		god_names = {
-			GOD_SLAANESH GOD_THE_DARK_PRINCE GOD_THE_DARKNESS
+			GOD_SLAANESH GOD_THE_DARK_PRINCE GOD_THE_PRINCE_OF_EXCESS
 		}
 
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
 		
 		priests_can_marry = yes
 		aggression = 2.5 		
@@ -105,9 +119,12 @@ chaos_gods_group = {
 		icon = 19
 		color = { 0.6 0.0 0.0 }
 		god_names = {
-			GOD_KHORNE GOD_THE_BLOOD_GOD GOD_THE_DARKNESS
+			GOD_KHORNE GOD_THE_BLOOD_GOD
 		}
 
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
 		
 		priests_can_marry = yes
 		aggression = 2.5 		

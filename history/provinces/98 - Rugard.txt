@@ -1,0 +1,18 @@
+# 98 Rugard
+
+# County Title
+title = c_rugard
+
+# Settlements
+max_settlements = 4
+b_rugard = castle
+b_tulenstolt = temple
+b_holemenborg = castle
+b_garsenborg = city
+
+# Misc
+culture = aesling
+religion = dark_norse
+
+
+# History

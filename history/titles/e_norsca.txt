@@ -1,6 +1,7 @@
 1.1.1 = {
 	law = succ_feudal_elective
 	law = agnatic_succession
+	law = centralization_2
 }
 
 2007.5.6 = {

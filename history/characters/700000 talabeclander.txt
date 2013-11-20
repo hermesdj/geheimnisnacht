@@ -14,7 +14,7 @@ add_trait = "creature_human"
 add_trait = "detached_priest"
 add_trait="gregarious"
 add_trait="honest"
-add_trait="craven" 
+add_trait="gregarious" 
 add_trait="wroth"
 add_trait="proud" 
 1972.11.4={birth=yes}

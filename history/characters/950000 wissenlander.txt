@@ -592,7 +592,7 @@ add_trait="proud"
 
 950027={
 name = "Magnus" #Magnus 'the Pious' von Bildhofen
-dynasty = 10048
+dynasty = 23001
 culture = wissenlander
 religion = sigmarite
 military = 9
@@ -616,7 +616,7 @@ add_trait="proud"
 950028={
 name = "Adela"
 female = yes
-dynasty = 23001
+dynasty = 23047
 culture = wissenlander
 religion = sigmarite
 add_trait = "creature_human"

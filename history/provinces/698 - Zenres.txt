@@ -1,0 +1,17 @@
+# 698 Zenres
+
+# County Title
+title = c_zenres
+
+# Settlements
+max_settlements = 3
+b_zenres = castle
+b_castelvin = castle
+b_drach = city
+
+# Misc
+culture = tigarrese
+religion = classical_gods
+
+
+# History

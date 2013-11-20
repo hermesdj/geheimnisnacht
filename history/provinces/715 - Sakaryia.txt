@@ -1,0 +1,18 @@
+# 715 Sakaryia
+
+# County Title
+title = c_sakaryia
+
+# Settlements
+max_settlements = 4
+b_dvokar = castle
+b_istvaan = castle
+b_janos_pride = city
+b_ember = castle
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

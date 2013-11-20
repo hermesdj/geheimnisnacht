@@ -1,0 +1,17 @@
+# 12 Voltag
+
+# County Title
+title = c_voltag
+
+# Settlements
+max_settlements = 3
+b_voltag = castle
+b_nurasikil = castle
+b_fjorivik = castle
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

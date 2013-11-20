@@ -1,0 +1,16 @@
+# 194 Dukhyls Spirits
+
+# County Title
+title = c_dukhyls_spirits
+
+# Settlements
+max_settlements = 2
+b_plesk = temple
+b_luga = city
+
+# Misc
+culture = gospodar
+religion = northern_gods
+
+
+# History

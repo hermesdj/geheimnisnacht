@@ -1,0 +1,19 @@
+# 789 Ys
+
+# County Title
+title = c_ys
+
+# Settlements
+max_settlements = 5
+b_ys = castle
+b_nez = city
+b_le_mevre = castle
+b_soreil = temple
+b_carnas = temple
+
+# Misc
+culture = nortagnese
+religion = lady_of_the_lake
+
+
+# History

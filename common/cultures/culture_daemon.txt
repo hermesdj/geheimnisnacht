@@ -1,0 +1,81 @@
+
+daemonic_group = {
+	graphical_culture = westerngfx
+
+	daemon_khorne = {
+		graphical_culture = westerngfx
+
+		color = { 0.3 0.6 0.3 }
+
+		male_names = {
+			Angron
+		}
+		
+		female_names = {
+			
+		}
+
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+	
+	daemon_nurgle = {
+		graphical_culture = westerngfx
+
+		color = { 0.3 0.6 0.3 }
+
+		male_names = {
+			Festus
+		}
+		
+		female_names = {
+			
+		}
+
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+	
+	daemon_slaanesh = {
+		graphical_culture = westerngfx
+
+		color = { 0.3 0.6 0.3 }
+
+		male_names = {
+			Eros
+		}
+		
+		female_names = {
+			
+		}
+
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+	
+	daemon_tzeentch = {
+		graphical_culture = westerngfx
+
+		color = { 0.3 0.6 0.3 }
+
+		male_names = {
+			Tzin
+		}
+		
+		female_names = {
+			
+		}
+
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier
+	}
+}
+

@@ -1,0 +1,17 @@
+# 796 Chastillon
+
+# County Title
+title = c_chastillon
+
+# Settlements
+max_settlements = 3
+b_chastillon = castle
+b_blomagne = castle
+b_pezenance = city
+
+# Misc
+culture = armoric
+religion = lady_of_the_lake
+
+
+# History

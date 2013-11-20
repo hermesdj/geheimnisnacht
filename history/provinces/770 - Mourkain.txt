@@ -1,0 +1,19 @@
+# 770 Mourkain
+
+# County Title
+title = c_mourkain
+
+# Settlements
+max_settlements = 5
+b_mourkain_citadel = castle
+b_mourkain = city
+b_antak = temple
+b_presidia = castle
+b_trogus = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

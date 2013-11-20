@@ -1,0 +1,18 @@
+# 74 Skyggehaug
+
+# County Title
+title = c_skyggehaug
+
+# Settlements
+max_settlements = 4
+b_skyggehaug = castle
+b_katimavik = temple
+b_varnus_triumph = castle
+b_cunilivik = city
+
+# Misc
+culture = sarl
+religion = norse
+
+
+# History

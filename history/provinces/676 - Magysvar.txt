@@ -1,0 +1,19 @@
+# 676 Magysvar
+
+# County Title
+title = c_magysvar
+
+# Settlements
+max_settlements = 5
+b_eszterhazy = castle
+b_strigoviste = temple
+b_temergom = temple
+b_matyadi = castle
+b_rakosvar = city
+
+# Misc
+culture = stirlander
+religion = sigmarite
+
+
+# History

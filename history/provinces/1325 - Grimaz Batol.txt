@@ -1,0 +1,17 @@
+# 1325 Grimaz Batol
+
+# County Title
+title = c_grimaz_batol
+
+# Settlements
+max_settlements = 3
+b_grimaz_batol = castle
+b_kharanok = castle
+b_undrigrit = city
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

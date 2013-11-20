@@ -1,0 +1,19 @@
+# 826 Mousillon
+
+# County Title
+title = c_mousillon
+
+# Settlements
+max_settlements = 5
+b_palais_damne = castle
+b_chapel_mousillon = temple
+b_quartier_du_sud = city
+b_quartier_des_ponts = city
+b_donlet = city
+
+# Misc
+culture = mousillonian
+religion = lady_of_the_lake
+
+
+# History

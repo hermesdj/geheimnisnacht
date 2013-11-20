@@ -1,0 +1,17 @@
+# 77 Forbannet Skog
+
+# County Title
+title = c_forbannet_skog
+
+# Settlements
+max_settlements = 3
+b_totenheim = castle
+b_argunzol = city
+b_innsvik = city
+
+# Misc
+culture = varg
+religion = dark_norse
+
+
+# History

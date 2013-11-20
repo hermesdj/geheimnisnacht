@@ -1,0 +1,16 @@
+#512 Murilla
+#County Title
+title = c_murilla
+
+#Settlements
+max_settlements = 4
+b_tranado = castle
+b_abbranga = temple
+b_motrane = castle
+b_sechaza = temple
+
+#Misc
+culture = norteno
+religion = classical_gods
+
+#History

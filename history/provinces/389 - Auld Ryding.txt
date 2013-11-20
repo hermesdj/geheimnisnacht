@@ -1,0 +1,18 @@
+# 389 - Auld Ryding
+
+# County Title
+title = c_auld_ryding
+
+# Settlements
+max_settlements = 4
+b_stoodhof = castle
+b_maylhof = temple
+b_averridge = city
+b_geihselhoff = temple
+
+# Misc
+culture = averlander
+religion = vampiric
+
+
+# History

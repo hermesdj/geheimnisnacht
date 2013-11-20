@@ -8,5 +8,5 @@ liege="k_ostermark"
 }
 
 2490.5.2 = {
-	holder = 750024
+	holder = 750033
 }

@@ -1,0 +1,17 @@
+# 214 Kalinora
+
+# County Title
+title = c_kalinora
+
+# Settlements
+max_settlements = 3
+b_fort_jakova = castle
+b_kalinora = city
+b_uyar = temple
+
+# Misc
+culture = gospodar
+religion = northern_gods
+
+
+# History

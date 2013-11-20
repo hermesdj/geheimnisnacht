@@ -1,0 +1,17 @@
+# 908 Lower Vale of Florida
+
+# County Title
+title = c_lower_vale_of_florida
+
+# Settlements
+max_settlements = 3
+b_troucy = castle
+b_bar_la_dame = temple
+b_la_maisontenay = castle
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

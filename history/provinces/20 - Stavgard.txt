@@ -1,0 +1,18 @@
+# 20 - Stavgard
+
+# County Title
+title = c_stavgard
+
+# Settlements
+max_settlements = 4
+b_swerborg = castle
+b_gottborg = temple
+b_stavgard = city
+b_norskvald = castle
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

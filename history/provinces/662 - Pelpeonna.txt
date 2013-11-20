@@ -1,0 +1,18 @@
+# 662 Pelpeonna
+
+# County Title
+title = c_pelpeonna
+
+# Settlements
+max_settlements = 4
+b_pelepos = castle
+b_tanasia = castle
+b_polypolis = city
+b_mysos = temple
+
+# Misc
+culture = myken
+religion = classical_gods
+
+
+# History

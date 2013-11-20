@@ -1,0 +1,19 @@
+# 664 Achaes
+
+# County Title
+title = c_achaes
+
+# Settlements
+max_settlements = 5
+b_achaes = castle
+b_kratus = castle
+b_aleria = temple
+b_rhodesia = city
+b_eretra = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

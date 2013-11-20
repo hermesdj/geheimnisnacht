@@ -1,0 +1,18 @@
+# 658 Pilos
+
+# County Title
+title = c_pilos
+
+# Settlements
+max_settlements = 4
+b_mursili = castle
+b_kizil = city
+b_chirisoph = temple
+b_myrmigora = temple
+
+# Misc
+culture = myken
+religion = classical_gods
+
+
+# History

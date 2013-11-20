@@ -1,0 +1,16 @@
+# 1199 - Ildelver
+
+# County Title
+title = c_ildelver
+
+# Settlements
+max_settlements = 2
+b_ildelver = castle
+b_alfrdrepa_ey = castle
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

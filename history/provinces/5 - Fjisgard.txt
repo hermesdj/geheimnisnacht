@@ -1,0 +1,18 @@
+# 5 - Fjisgard
+
+# County Title
+title = c_fjisgard
+
+# Settlements
+max_settlements = 4
+b_fjisgard = city
+b_poyrvik = temple
+b_fikslburhg = castle
+b_teravumivik = temple
+
+# Misc
+culture = graeling
+religion = dark_norse
+
+
+# History

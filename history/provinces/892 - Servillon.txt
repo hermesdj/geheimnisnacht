@@ -1,0 +1,17 @@
+# 892 Servillon
+
+# County Title
+title = c_servillon
+
+# Settlements
+max_settlements = 3
+b_servillon = castle
+b_muscance = temple
+b_salagou = castle
+
+# Misc
+culture = carcassian
+religion = lady_of_the_lake
+
+
+# History

@@ -1,0 +1,18 @@
+# 464 Squigoruz
+
+# County Title
+title = c_squigoruz
+
+# Settlements
+max_settlements = 4
+b_squigoruz = castle
+b_squigbar = city
+b_dankbar = temple
+b_grung_duradan = castle
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History
