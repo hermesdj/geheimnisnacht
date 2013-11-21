@@ -1,27 +1,81 @@
 creature_human = {
+	birth = 10000
+	potential = {
+		OR = {
+			culture_group = amazon_group
+			culture_group = arabyan_group
+			culture_group = cathayan_group
+			culture_group = bretonnian_group
+			culture_group = estalian_group
+			culture_group = hung_group
+			culture_group = imperial_group
+			culture_group = kislevite_group
+			culture_group = kurgan_group
+			culture_group = nipponese_group
+			culture_group = norscan_group
+			culture_group = old_imperial_group
+			culture_group = tilean_group
+			culture_group = sartosan_group
+		}
+	}
 	inherit_chance = 100
+
+	same_opinion = 10
+	general_opinion = -10
+
 }
 
 creature_elf = {
+	birth = 10000
+	potential = {
+		OR = {
+			culture_group = asur_group
+			culture_group = asrai_group
+			culture_group = druchi_group
+		}
+	}
 	inherit_chance = 100
+	# elves are more powerfull
 	immortal = yes
 	learning = 2
 	diplomacy = 2
 	martial = 2
 	intrigue = 1
 	stewardship = 1
-
-	fertility = -10.0
+	
+	# dwarfs don't like them very much
 	opposites = {
-		trait = creature_dwarf
+		creature_dwarf
+		creature_orc
 	}
+	fertility = -20.0
+
+        # racism mechanics
+	same_opinion = 15
 	opposite_opinion = -10
+	general_opinion = -15
 }
 
 creature_dwarf = {
+	birth = 10000
+	potential = {
+		culture_group = dwarf_group
+	}
 	inherit_chance = 100
 	immortal = yes
 	fertility = -10.0
+
+	# dwarfs are good engineers and warriors 
+	stewardship = 2
+	learning = 1
+	martial = 2
+	health = 1
+
+	# racism	
+	same_opinion = 10
+	general_opinion = -10
+
+	# special hatred
 	opposites = {
 		trait = creature_chaos_dwarf
 		trait = creature_goblin
@@ -34,66 +88,230 @@ creature_dwarf = {
 }
 
 creature_chaos_dwarf = {
+	birth = 10000
+	potential = {
+		culture_group = dwarf_chaos_group
+	}
+
 	inherit_chance = 100
 	immortal = yes
 	fertility = -10.0
+
+	# dwarfs are good engineers and warriors 
+	stewardship = 2
+	learning = 1
+	martial = 1
+	intrigue = 1
+	health = 1
+
+	# racism	
+	same_opinion = 20
+	general_opinion = -20
 }
 
 creature_halfling = {
+	birth = 10000
+	potential = {
+		culture_group = halfling_group
+	}
 	inherit_chance = 100
+
+	# halflings peaceful creatures 
+	stewardship = 1
+	martial = -1
+
+	# racism	
+	same_opinion = 10
+	general_opinion = -10
+
 }
 
 creature_orc = {
+	birth = 10000
+	potential = {
+		culture_group = orc_group
+		male = yes
+	}
+
 	inherit_chance = 100
 	fertility = -10.0
 	cannot_marry = yes
+
+	# orcs are stupid brutes
+	learning = -3
+	diplomacy = -3
+	stewardship = -2
+	intrigue = -1
+	health = 1
+
+	# racism	
+	same_opinion = 50	#orcs heat each other and are hated by everyone
+	general_opinion = -50
+
+	# reflects personality
 	ai_rationality = -20
+	ai_honor = -20
+	ai_zeal = 30
+
+	# 
 	vassal_opinion = -20
 }
 
 creature_goblin = {
+	birth = 10000
+	potential = {
+		culture_group = goblin_group
+		male = yes
+	}
 	inherit_chance = 100
+
+	# goblins aren't the brightest either 
+	learning = -2
+	diplomacy = -2
+	stewardship = -1
+	martial = -1
+
+	# racism	
+	same_opinion = 50	#goblins heat each other and are hated by everyone
+	general_opinion = -50
+	
+	ai_rationality = -10
+	ai_honor = -30
+	ai_zeal = 30
+
 	immortal = yes
 	fertility = -10.0
 	cannot_marry = yes
+	
+	vassal_opinion = -10
 }
 
 creature_snotling = {
+	birth = 10000
+	potential = {
+		OR = {
+			culture_group = goblin_group
+			culture_group = orc_group
+		}
+		is_female = yes
+	}
 	inherit_chance = 100
+		
+	# basically animals 
+	learning = -5
+	diplomacy = -3
+	stewardship = -3
+	martial = -1
+
+	# racism	
+	same_opinion = 30
+	general_opinion = -30
+	
+	# to reflect personality
+	ai_rationality = -10
+	ai_honor = -20
+
 	immortal = yes
 	fertility = -10.0
+
+	# the are used to be females
 	cannot_marry = yes
+	cannot_inherit = yes
 }
 
 creature_nehekharan = {
+	birth = 10000
+	potential = {
+		culture_group = nekharan_group
+	}
+
 	inherit_chance = 100
 	immortal = yes
+
+	# racism	
+	same_opinion = 20
+	general_opinion = -20
+
 	fertility = -10.0
 }
 
 creature_skink = {
+	birth = 10000
+	potential = {
+		culture_group = lizardman_group
+	}
 	inherit_chance = 100
 	fertility = -10.0
+	
+	# racism	
+	same_opinion = 20
+	general_opinion = -20
+
 	cannot_marry = yes
 }
 
 creature_skaven = {
+	birth = 10000
+	potential = {
+		culture_group = skaven_group
+	}
 	inherit_chance = 100
 	fertility = -10.0
+
+	# racism	
+	same_opinion = 40
+	general_opinion = -50
+
+	# raats!
+	ai_honor = -20
+
 	cannot_marry = yes
 	vassal_opinion = -30
 }
 
 creature_ogre = {
+	birth = 10000
 	inherit_chance = 100
+	potential = {
+		culture_group = ogre_group
+	}
+	#
+	diplomacy = -2
+	learning = -2
+	intriuge = -2
+	stewardship = -2
+	health = 1
+	
+	# racism	
+	same_opinion = 20
+	general_opinion = -30
+
 	fertility = -0.15
 }
 
 creature_beastman = {
+	birth = 10000
+	potential = {
+		culture_group = beastman_group
+	}
 	inherit_chance = 100
+	
+	# beastmean are half animals
+	diplomacy = -2
+	learning = -3
+	intriuge = -1
+	stewardship = -3
+	
+	# racism	
+	same_opinion = 30
+	general_opinion = -40
+
+	
 	fertility = -0.3
 	ai_rationality = -20
-	vassal_opinion = -50
+	ai_honor = -10
+	ai_zeal = 10
+	vassal_opinion = -40
 }
 
 #Greenskins
