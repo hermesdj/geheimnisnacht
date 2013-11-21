@@ -22,7 +22,9 @@ character_event = {
 
     # things which exclude mutations
     trigger = {
-        NOT = { trait = creature_elf }
+        NOT = { 
+            trait = creature_elf 
+        }
         # maybe put here elves and greenskins and dwarves i don't know
     }
     # here is the meat 
@@ -65,7 +67,15 @@ character_event = {
             trait = creature_dwarf 
         }
         modifier = {
-            factor = 5
+            factor = 10
+            OR = {
+                trait = creature_orc
+                trait = creature_snotling
+                trait = creature_goblin
+            }
+        }
+        modifier = {
+            factor = 2
             trait = creature_chaos_dwarf 
         }
         modifier = {
@@ -152,7 +162,7 @@ character_event = {
     # trigger an actual mutation event depending on 
     # the amount of mutations
     immediate = {
-        character_event = { id = mutation.2 }
+ #       character_event = { id = mutation.2 }
     }
 }
 #

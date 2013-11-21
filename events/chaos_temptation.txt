@@ -80,18 +80,20 @@ character_event = {
         modifier = {
             factor = 0.2
             OR = {
-                trait = ill
                 trait = pneumonic
                 trait = syphilitic
                 trait = has_green_pox
                 trait = has_red_pox
-                trait = has_nurgles_rot
                 trait = has_tomb_rot
                 trait = has_creeping_buboes
                 trait = has_rattlelung
+                trait = has_bone_auge
             }
         }
- 
+        modifier = {
+            factor = 0.05
+            trait = has_nurgles_rot
+        }
         
     }
     immediate = {

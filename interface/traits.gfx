@@ -505,15 +505,6 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-	
-
-	spriteType = {
-		name = "GFX_trait_fashionista"
-		texturefile = "gfx/traits/fashionista.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
 	spriteType = {
 		name = "GFX_trait_socialite"
 		texturefile = "gfx/traits/socialite.tga"
@@ -570,13 +561,6 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-	spriteType = {
-		name = "GFX_trait_sailor"
-		texturefile = "gfx/traits/sailor.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}	
 	spriteType = {
 		name = "GFX_trait_benefactor"
 		texturefile = "gfx/traits/benefactor.tga"
@@ -1191,6 +1175,13 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_trait_has_green_pox"
 		texturefile = "gfx/traits/has_green_pox.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+        spriteType = {
+		name = "GFX_trait_has_bone_auge"
+		texturefile = "gfx/traits/has_bone_auge.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

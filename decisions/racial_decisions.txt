@@ -1,0 +1,217 @@
+#
+# Those decisions are used for enforcing racial system
+# For each race we have different decision 
+#
+decisions = {
+    # fixing decsion to choose the correct race for humans
+    ai_race_human = {
+	potential = {
+            ai=yes
+	    OR = {
+	        culture_group = amazon_group
+                culture_group = arabyan_group
+                culture_group = cathayan_group
+                culture_group = bretonnian_group
+                culture_group = estalian_group
+                culture_group = hung_group
+                culture_group = imperial_group
+                culture_group = kislevite_group
+                culture_group = kurgan_group
+                culture_group = nipponese_group
+                culture_group = norscan_group
+                culture_group = myken_group
+                culture_group = old_imperial_group
+                culture_group = tilean_group
+		culture_group = sartosan_group
+            }
+            NOT = { trait = creature_human }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            add_trait = creature_human
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # elf
+    ai_race_elf = {
+	potential = {
+            ai=yes
+	    OR = {
+                culture_group = asur_group
+                culture_group = asrai_group
+                culture_group = druchi_group
+	    }
+            NOT = { trait = creature_elf }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            add_trait = creature_elf
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # dwarf
+    ai_race_dwarf = {
+	potential = {
+            ai=yes
+            culture_group = dwarf_group
+            NOT = { trait = creature_dwarf }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            add_trait = creature_dwarf
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # chaos dwarf
+    ai_race_chaos_dwarf = {
+	potential = {
+            ai=yes
+            culture_group = dwarf_chaos_group
+            NOT = { trait = creature_chaos_dwarf }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            add_trait = creature_chaos_dwarf
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # halfling
+    ai_race_halfling = {
+	potential = {
+            ai=yes
+            culture_group = halfling_group
+            NOT = { trait = creature_halfling }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            add_trait = creature_halfling
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # orc
+    ai_race_orc = {
+	potential = {
+            ai=yes
+            culture_group = orc_group
+            NOT = { 
+                OR = { 
+                    trait = creature_orc
+                    trait = creature_snotling
+                }
+            }
+	}
+        allow = {
+            always = yes
+        }
+        ai_will_do = { factor = 1500 }
+        effect = { 
+            if = { 
+                limit = { is_female = yes }
+                add_trait = creature_snotling
+            }
+            if = { 
+                limit = { is_female = no }
+                add_trait = creature_orc
+            }
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # goblin
+    ai_race_goblin = {
+	potential = {
+            ai=yes
+            culture_group = goblin_group
+            NOT = { 
+                OR = { 
+                   trait = creature_goblin 
+                   trait = creature_snotling
+                }
+            }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            if = { 
+                limit = { is_female = yes }
+                add_trait = creature_snotling
+            }
+            if = { 
+                limit = { is_female = no }
+                add_trait = creature_goblin
+            }
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # nehekharan
+    ai_race_nehekharan = {
+	potential = {
+            ai=yes
+            culture_group = nehekharan_group
+            NOT = { trait = creature_nehekharan }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            add_trait = creature_nehekharan
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # skaven
+    ai_race_skaven = {
+	potential = {
+            ai=yes
+            culture_group = skaven_group
+            NOT = { trait = creature_skaven }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            add_trait = creature_skaven
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # beastman
+    ai_race_beastman = {
+	potential = {
+            ai=yes
+            culture_group = beastman_group
+            NOT = { trait = creature_beastman }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            add_trait = creature_beastman
+        }
+        ai_will_do = { factor = 1500 }
+    }
+    # ogre
+    ai_race_ogre = {
+	potential = {
+            ai=yes
+            culture_group = ogre_group
+            NOT = { trait = creature_ogre }
+	}
+        allow = {
+            always = yes
+        }
+        effect = { 
+            add_trait = creature_ogre
+        }
+        ai_will_do = { factor = 1500 }
+    }
+}
+# END OF RACIAL DECISIONS

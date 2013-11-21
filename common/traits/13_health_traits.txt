@@ -154,6 +154,17 @@ has_nurgles_rot = {
 
 	customizer = no
 }
+has_bone_auge = {
+	is_health = yes
+	is_illness = yes
+	health = -6
+	diplomacy = -1
+	intrgue = -1
+	martial = -3
+
+	sex_appeal_opinion = -20
+	customizer = no
+}
 
 wounded = {
 	is_health = yes

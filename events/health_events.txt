@@ -567,12 +567,12 @@ character_event = {
 		health = 3.0
 		NOT = { trait = ill }
 		NOT = { trait = pneumonic }
-		NOT = { trait = has_tuberculosis }
-		NOT = { trait = has_typhoid_fever }
-		NOT = { trait = has_typhus }
-		NOT = { trait = has_bubonic_plague }
-		NOT = { trait = has_measles }
-		NOT = { trait = has_small_pox }
+		NOT = { trait = has_tomb_rot }
+		NOT = { trait = has_green_pox }
+		NOT = { trait = has_red_pox }
+		NOT = { trait = has_creeping_buboes }
+		NOT = { trait = has_rattlelung }
+		NOT = { trait = has_bone_auge }
 	}
 	
 	mean_time_to_happen = {
@@ -705,7 +705,7 @@ character_event = {
 	trigger = {
 		OR = {
 			trait = ill
-			trait = has_measles
+			trait = has_rattlelung
 		}
 		NOT = { trait = pneumonic }
 	}

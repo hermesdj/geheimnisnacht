@@ -11,6 +11,8 @@ has_tomb_rot;Has Tomb Rot;;;;;;;;;;;;;x
 has_tomb_rot_desc;This character has Tomb Rot, which causes the flesh to rot away;;;;;;;;;;;;;x
 has_nurgles_rot;Has Nurgle's Rot!;;;;;;;;;;;;;x
 has_nurgles_rot_desc;This character has Nurgle's Rot, and is cursed to spread father Nurgle's "gifts";;;;;;;;;;;;;x
+has_bone_auge;Has Bone Auge;;;;;;;;;;;;;x
+has_bone_auge_desc;This character has Bone Auge, his bones are malformed in terrible way, [This.GetSheHe] is in constant pain ;;;;;;;;;;;;;x
 creeping_buboes;Creeping Buboes;;;;;;;;;;;;;x
 CREEPING_BUBOES_INFO;There is an epidemic of Creeping Buboes in this place;;;;;;;;;;;;;x
 rattlelung;Rattlelung;;;;;;;;;;;;;x
@@ -34,6 +36,8 @@ EVTDESC_DISEASES_4;A miracle! You were cured from Red Pox.;;;;;;;;;;;;;x
 EVTDESC_DISEASES_4A;Bless the Gods!.;;;;;;;;;;;;;x
 EVTDESC_DISEASES_5;A miracle! You were cured from Rattlelung.;;;;;;;;;;;;;x
 EVTDESC_DISEASES_5A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_6;A miracle! You were cured from Bone Auge.;;;;;;;;;;;;;x
+EVTDESC_DISEASES_6A;Bless the Gods!.;;;;;;;;;;;;;x
 # end of diseases events
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
