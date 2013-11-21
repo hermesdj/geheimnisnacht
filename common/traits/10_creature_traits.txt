@@ -1,5 +1,8 @@
+# There is no bitrh = 10000 as with randomly generated character this doesn't work
+# we need event to give racial traits basing on culture
+# 
 creature_human = {
-	birth = 10000
+	
 	potential = {
 		OR = {
 			culture_group = amazon_group
@@ -26,7 +29,7 @@ creature_human = {
 }
 
 creature_elf = {
-	birth = 10000
+	
 	potential = {
 		OR = {
 			culture_group = asur_group
@@ -35,7 +38,7 @@ creature_elf = {
 		}
 	}
 	inherit_chance = 100
-	# elves are more powerfull
+	# elves are more powerful other beings
 	immortal = yes
 	learning = 2
 	diplomacy = 2
@@ -57,7 +60,7 @@ creature_elf = {
 }
 
 creature_dwarf = {
-	birth = 10000
+	
 	potential = {
 		culture_group = dwarf_group
 	}
@@ -77,18 +80,17 @@ creature_dwarf = {
 
 	# special hatred
 	opposites = {
-		trait = creature_chaos_dwarf
-		trait = creature_goblin
-		trait = creature_snotling
-		trait = creature_orc
-		trait = creature_skaven
+		creature_chaos_dwarf
+		creature_goblin
+		creature_snotling
+		creature_orc
+		creature_skaven
 	}
-
 	opposite_opinion = -100
 }
 
 creature_chaos_dwarf = {
-	birth = 10000
+	
 	potential = {
 		culture_group = dwarf_chaos_group
 	}
@@ -110,7 +112,7 @@ creature_chaos_dwarf = {
 }
 
 creature_halfling = {
-	birth = 10000
+	
 	potential = {
 		culture_group = halfling_group
 	}
@@ -127,10 +129,10 @@ creature_halfling = {
 }
 
 creature_orc = {
-	birth = 10000
+	
 	potential = {
 		culture_group = orc_group
-		male = yes
+		is_female = no
 	}
 
 	inherit_chance = 100
@@ -158,11 +160,11 @@ creature_orc = {
 }
 
 creature_goblin = {
-	birth = 10000
 	potential = {
 		culture_group = goblin_group
-		male = yes
+		is_female = no
 	}
+	
 	inherit_chance = 100
 
 	# goblins aren't the brightest either 
@@ -187,7 +189,6 @@ creature_goblin = {
 }
 
 creature_snotling = {
-	birth = 10000
 	potential = {
 		OR = {
 			culture_group = goblin_group
@@ -196,6 +197,7 @@ creature_snotling = {
 		is_female = yes
 	}
 	inherit_chance = 100
+	
 		
 	# basically animals 
 	learning = -5
@@ -220,11 +222,10 @@ creature_snotling = {
 }
 
 creature_nehekharan = {
-	birth = 10000
 	potential = {
-		culture_group = nekharan_group
+		culture_group = nehekharan_group
 	}
-
+	
 	inherit_chance = 100
 	immortal = yes
 
@@ -236,7 +237,7 @@ creature_nehekharan = {
 }
 
 creature_skink = {
-	birth = 10000
+	
 	potential = {
 		culture_group = lizardman_group
 	}
@@ -251,10 +252,10 @@ creature_skink = {
 }
 
 creature_skaven = {
-	birth = 10000
 	potential = {
 		culture_group = skaven_group
 	}
+	
 	inherit_chance = 100
 	fertility = -10.0
 
@@ -270,11 +271,11 @@ creature_skaven = {
 }
 
 creature_ogre = {
-	birth = 10000
 	inherit_chance = 100
 	potential = {
 		culture_group = ogre_group
 	}
+	
 	#
 	diplomacy = -2
 	learning = -2
@@ -290,10 +291,10 @@ creature_ogre = {
 }
 
 creature_beastman = {
-	birth = 10000
 	potential = {
 		culture_group = beastman_group
 	}
+	
 	inherit_chance = 100
 	
 	# beastmean are half animals

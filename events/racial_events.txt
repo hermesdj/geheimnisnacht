@@ -1,0 +1,43 @@
+#
+# This files contains are events for new racial mechanics
+# -lifespan for immortal creatures
+# -reproduce system for orcs 
+# -event determining race
+#
+namespace=racial
+#
+# Determine race
+#
+# i think we should list all possible ways to create characters
+# and basing on it make faster system checking traits is slooow
+#
+#
+character_event = {
+    id = racial.1   
+    name = ""
+    
+    trigger = {
+        NOT = {
+	    OR = {
+                trait = creature_human
+                trait = creature_elf
+                trait = creature_dwarf
+                trait = creature_halfling
+                trait = creature_chaos_dwarf
+                trait = creature_orc
+                trait = creature_goblin
+                trait = creature_snotling
+                trait = creature_nehekharan
+                trait = creature_skink
+                trait = creature_skaven
+                trait = creature_beastmen
+        }
+    }
+    mean_time_to_happen = {
+	days = 7
+    }
+    option = {
+        name = "sa"
+        #determine race
+    }
+}
