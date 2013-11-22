@@ -12,6 +12,7 @@ magic_power_magister = {
 		magic_power_archmaster
 		magic_power_lord
 	}
+	health = 0.5	# magic prolongs life nobody knows why
 	monthly_character_prestige = 0.1
 }
 magic_power_lord = {
@@ -21,7 +22,9 @@ magic_power_lord = {
 		magic_power_magister
 	}
 	monthly_character_prestige = 0.3
+	immortal = yes
 	health = 0.5	# magic prolongs life nobody knows why
+		
 }
 magic_power_archmaster = {
 	opposites = {
@@ -29,7 +32,8 @@ magic_power_archmaster = {
 		magic_power_lord
 		magic_power_magister
 	}
-	health = 1	# magic prolongs life nobody knows why
+	health = 0.5	# magic prolongs life nobody knows why
+	immortal = yes
 	monthly_character_prestige = 0.5
 }
 #Winds of Magic (most common lores)

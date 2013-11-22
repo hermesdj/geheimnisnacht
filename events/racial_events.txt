@@ -136,4 +136,247 @@ character_event = {
 }
 #
 # Death system for long-lived beings
+# Elves, Dwarfs, Chaos Dwarfs
+#
+# Known elves lifespan
+# 602, 381, 649 (Phoenix kings - so more longlived let's say 1.5)
+# let's say average elves lifespan is 400
+#
+character_event = {
+    id = racial.2
+    desc = "EVTDESC_RACIAL_2"
+    picture = "GFX_evt_recovery"
+
+    min_age = 125
+    trigger = {
+        OR = {
+            trait = creature_elf
+            trait = creature_chasos_dwarf
+            trait = creature_dwarf
+            # magic prolongs lifespan (magic power lord gives immortal)
+            OR = { 
+                trait = magic_power_lord
+                trait = magic_power_archmaster
+            }
+        }
+    }
+    mean_time_to_happen = {
+        years = 100
+        # first define the expected lifespan
+        modifier = {
+            factor = 2.75
+            trait = creature_elf
+        }
+        modifier = {
+            factor = 0.8
+            trait = creature_chaos_dwarf
+        }
+        modifier = {
+            factor = 0.5
+            trait = creature_human
+        }
+        modifier = {
+            factor = 0.5
+            trait = creature_halfling
+        }
+        # now health modifiers
+        modifier = {
+            factor = 0.2
+            NOT = { health = 0.1 }
+        }
+        modifier = {
+            factor = 0.6
+            NOT = { health = 2 }
+        }
+        modifier = {
+            factor = 0.75
+            NOT = { health = 3 }
+        }
+        modifier = {
+            factor = 0.8
+            NOT = { health = 4 }
+        }
+        modifier = {
+            factor = 0.8
+            NOT = { health = 5 }
+        }
+        modifier = {
+            factor = 1.1
+            health = 5.5
+        }
+        modifier = {
+            factor = 1.2
+            health = 6
+        }
+        modifier = {
+            factor = 1.2
+            health = 7
+        }
+        modifier = {
+            factor = 1.2
+            health = 8
+        }
+        # effects of magic (good for dwarfs and elfs but nor for chaos dwarfs)
+        modifier = {
+            factor = 1.1
+            trait = magic_power_adept
+            NOT = { trait = creature_chaos_dwarf }
+        }
+        modifier = {
+            factor = 1.3
+            trait = magic_power_magister
+            NOT = { trait = creature_chaos_dwarf }
+        }
+        modifier = {
+            factor = 1.5
+            trait = magic_power_lord
+            NOT = { trait = creature_chaos_dwarf }
+        }
+        modifier = {
+            factor = 1.8
+            trait = magic_power_archmaster
+            NOT = { trait = creature_chaos_dwarf }
+        }
+
+    }
+    option = {
+        name = "EVTOPT_RACIAL_2A"
+        death = { death_reason = death_natural }
+    }
+}
+#
+# Death event for ill characters
+#
+character_event = {
+    id = racial.3
+    desc = "EVTDESC_RACIAL_3"
+    picture = "GFX_evt_recovery"
+
+    min_age = 50
+    trigger = {
+        OR = {
+            trait = creature_elf
+            trait = creature_chasos_dwarf
+            trait = creature_dwarf
+            # magic prolongs lifespan (magic power lord gives immortal)
+            OR = { 
+                trait = magic_power_lord
+                trait = magic_power_archmaster
+            }
+        }
+        OR = {
+            trait = ill
+            trait = pneumonic
+            trait = syphilitic
+            trait = has_leper
+            # warhammer diseases
+            trait = has_tomb_rot
+            trait = has_nurgles_rot
+            trait = has_bone_auge
+            trait = has_red_pox
+            trait = has_green_pox
+            trait = has_rattlelung
+            trait = has_tomb_rot
+            trait = has_creeping_buboes
+            #
+            trait = blinded
+            trait = depressed
+            trait = stressed
+            trait = infirm
+            trait = maimed
+            trait = wounded
+            trait = weak
+            trait = sickly
+            trait = weak
+            trait = incapable
+            trait = inbred
+        }
+    }
+    mean_time_to_happen = {
+        years = 5
+        # first define the expected lifespan
+        modifier = {
+            factor = 2.75
+            trait = creature_elf
+        }
+        modifier = {
+            factor = 0.8
+            trait = creature_chaos_dwarf
+        }
+        modifier = {
+            factor = 0.5
+            trait = creature_human
+        }
+        modifier = {
+            factor = 0.5
+            trait = creature_halfling
+        }
+        # now health modifiers
+        modifier = {
+            factor = 0.2
+            NOT = { health = 0.1 }
+        }
+        modifier = {
+            factor = 0.6
+            NOT = { health = 2 }
+        }
+        modifier = {
+            factor = 0.75
+            NOT = { health = 3 }
+        }
+        modifier = {
+            factor = 0.8
+            NOT = { health = 4 }
+        }
+        modifier = {
+            factor = 0.8
+            NOT = { health = 5 }
+        }
+        modifier = {
+            factor = 1.1
+            health = 5.5
+        }
+        modifier = {
+            factor = 1.2
+            health = 6
+        }
+        modifier = {
+            factor = 1.2
+            health = 7
+        }
+        modifier = {
+            factor = 1.2
+            health = 8
+        }
+        # effects of magic (good for dwarfs and elfs but nor for chaos dwarfs)
+        modifier = {
+            factor = 1.1
+            trait = magic_power_adept
+            NOT = { trait = creature_chaos_dwarf }
+        }
+        modifier = {
+            factor = 1.3
+            trait = magic_power_magister
+            NOT = { trait = creature_chaos_dwarf }
+        }
+        modifier = {
+            factor = 1.5
+            trait = magic_power_lord
+            NOT = { trait = creature_chaos_dwarf }
+        }
+        modifier = {
+            factor = 1.8
+            trait = magic_power_archmaster
+            NOT = { trait = creature_chaos_dwarf }
+        }
+
+    }
+    option = {
+        name = "EVTOPT_RACIAL_3A"
+        death = { death_reason = death_natural }
+    }
+}
+
+#
+# Orc reproduction system
 #

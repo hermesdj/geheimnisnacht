@@ -51,7 +51,7 @@ creature_elf = {
 		creature_dwarf
 		creature_orc
 	}
-	fertility = -20.0
+	fertility = -10.0
 
         # racism mechanics
 	same_opinion = 15
