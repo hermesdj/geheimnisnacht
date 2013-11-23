@@ -1,3 +1,6 @@
 2010.1.1 = {
+        # This is special province as is number is 1
+        # things for marking vortex existence
+        set_global_flag = vortex_exists
 	holder = 1250000
 }

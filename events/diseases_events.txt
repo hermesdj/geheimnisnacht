@@ -1,6 +1,6 @@
 ###################################
 #
-# Health Events (just diseases)
+# Health Events (just Warhammer diseases)
 #
 # Id : diseases namespace
 #

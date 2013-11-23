@@ -1,0 +1,109 @@
+# FIXME : this is just test event for checking doom counter
+character_event = {
+    id = test.1
+    desc = "Checking doom counter value - test event"
+    is_triggered_only = yes
+
+    option = {
+        trigger = {
+            1 = {
+                NOT = { check_variable = { which = "doom_counter" value = 2 } }
+                check_variable = { which = "doom_counter" value = 1 } 
+            }
+        }
+        name = "Doom counter : 1"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 3 } }
+            check_variable = { which = "doom_counter" value = 2 } 
+          }
+        }
+        name = "Doom counter : 2"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 4 } }
+            check_variable = { which = "doom_counter" value = 3 } 
+          }
+        }
+        name = "Doom counter : 3"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 5 } }
+            check_variable = { which = "doom_counter" value = 4 } 
+          }
+        }
+        name = "Doom counter : 4"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 6 } }
+            check_variable = { which = "doom_counter" value = 5 } 
+          }
+        }
+        name = "Doom counter : 5"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 7 } }
+            check_variable = { which = "doom_counter" value = 6 } 
+          }
+        }
+        name = "Doom counter : 6"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 8 } }
+            check_variable = { which = "doom_counter" value = 7 } 
+          }
+        }
+        name = "Doom counter : 7"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 9 } }
+            check_variable = { which = "doom_counter" value = 8 } 
+          }
+        }
+        name = "Doom counter : 8"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 10 } }
+            check_variable = { which = "doom_counter" value = 9 } 
+          }
+        }
+        name = "Doom counter : 9"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 20 } }
+            check_variable = { which = "doom_counter" value = 10 } 
+          }
+        }
+        name = "Doom counter : 10-19"
+    }
+    option = {
+        trigger = {
+          1 = {
+            NOT = { check_variable = { which = "doom_counter" value = 29 } }
+            check_variable = { which = "doom_counter" value = 20 } 
+          }
+        }
+        name = "Doom counter : 20-29"
+    }
+    option = {
+        name = "blank"
+    }
+}

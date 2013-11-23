@@ -1,0 +1,71 @@
+#######################################
+# 
+# Here are special decisions for 
+# followers of dark gods
+#
+######################################
+
+
+# Reveal yourself as follower of dark gods
+decisions = {
+    reveal_chaos_religion = {
+        potential = {
+            OR = {
+                has_character_flag = hidden_cultist_nurgle
+                has_character_flag = hidden_cultist_slaanesh
+                has_character_flag = hidden_cultist_tzeenth
+                has_character_flag = hidden_cultist_khorne
+            }
+            NOT = {
+                religion_group = chaos_gods_group
+            }
+        }
+        allow = {
+            # here some addiional conditions
+            OR = {
+                has_global_flag = doom_medium
+                has_global_flag = doom_high
+                has_global_flag = doom_very_high
+                has_global_flag = doom
+            }
+        }
+        effect = { 
+            if = { 
+                limit = { has_character_flag = hidden_cultist_nurgle }
+                clr_character_flag = hidden_cultist_nurgle
+                religion = nurgle
+            }
+            if = { 
+                limit = { has_character_flag = hidden_cultist_slaanesh }
+                clr_character_flag = hidden_cultist_slaanesh
+                religion = slaanesh
+            }
+            if = { 
+                limit = { has_character_flag = hidden_cultist_tzeenth }
+                clr_character_flag = hidden_cultist_tzeenth
+                religion = tzeenth
+            }
+            if = { 
+                limit = { has_character_flag = hidden_cultist_khorne }
+                clr_character_flag = hidden_cultist_khorne
+                religion = khorne
+            }
+        }
+        ai_will_do = {
+            # we should tweak it
+            factor = 1
+            modifier = {
+                factor = 10
+                has_global_flag = doom_high
+            }
+            modifier = {
+                factor = 15
+                has_global_flag = doom_very_high
+            }
+            modifier = {
+                factor = 20
+                has_global_flag = doom
+            }
+        }
+    }
+}
