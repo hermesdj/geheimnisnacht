@@ -143,6 +143,7 @@ character_event = {
             factor = 0.05
             trait = has_nurgles_rot
         }
+        modifier = {
             factor = 1.2
             health = 5
         }

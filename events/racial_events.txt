@@ -146,7 +146,7 @@ character_event = {
 ## Shadowblade was considered "very young" at 150 years old.
 ## I've seen speculation in several locations that the average lifespan is 2500
 ## we may want to address this accordingly -Erik
-# let's say average elves lifespan is 400
+# let's say then that the average elves lifespan is ~1500 years
 #
 character_event = {
     id = racial.2
@@ -170,7 +170,7 @@ character_event = {
         years = 100
         # first define the expected lifespan
         modifier = {
-            factor = 2.75
+            factor = 15
             trait = creature_elf
         }
         modifier = {
@@ -302,7 +302,7 @@ character_event = {
         years = 5
         # first define the expected lifespan
         modifier = {
-            factor = 2.75
+            factor = 15
             trait = creature_elf
         }
         modifier = {
