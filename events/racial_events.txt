@@ -140,6 +140,12 @@ character_event = {
 #
 # Known elves lifespan
 # 602, 381, 649 (Phoenix kings - so more longlived let's say 1.5)
+## Bel Shanaar reigned for 1669 years
+## & Bel Khorandis reigned for 1189 years
+## This implies they were actually much older, as the phoenix king is an elected title
+## Shadowblade was considered "very young" at 150 years old.
+## I've seen speculation in several locations that the average lifespan is 2500
+## we may want to address this accordingly -Erik
 # let's say average elves lifespan is 400
 #
 character_event = {

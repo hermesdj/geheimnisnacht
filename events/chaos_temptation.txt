@@ -94,7 +94,10 @@ character_event = {
             factor = 0.05
             trait = has_nurgles_rot
         }
-        
+        modifier = {
+            factor = 0.9
+            trait = ill
+        }
     }
     immediate = {
         # Make SW test ( writes output to sw_test)
