@@ -35,7 +35,7 @@ province_event = {
         province_id = 1 # here should be id of some chosen province
     }
     mean_time_to_happen = {
-        months = 2
+        days = 5
     }
     immediate = {
         #  initialisation
@@ -131,5 +131,3 @@ province_event = {
     }
     # no options this is hidden event
 }
-#
-# 

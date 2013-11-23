@@ -1,8 +1,9 @@
+######################################################
 #
-# Here is the set of events resonsible for making different random test
-# against some values
+# Here is the set of events resonsible 
+# for making different random test against some values
 #
-#
+######################################################
 namespace = dicethrow
 #
 # 1 - sw test: k10 - max( learning,martial, diplomacy,intrigue) < 0
@@ -10,6 +11,7 @@ namespace = dicethrow
 # SW ROLL 
 # output variable sw_test
 # 
+#
 character_event = {
     id = dicethrow.1
     hide_window = yes

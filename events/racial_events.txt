@@ -1,8 +1,8 @@
+#########################################################
 #
 # This files contains are events for new racial mechanics
 # -lifespan for immortal creatures
-# -reproduce system for orcs 
-# -event determining race
+# -event determining race for pc
 #
 namespace = racial
 #

@@ -1,22 +1,59 @@
+##################################################
 #
-#
-# Here should be events governing the falling into chaos mechanics
-#
+# Here should be events governing the falling 
+# into chaos mechanics
 #
 namespace = temptation
 #
 #
-# First chaos temptation - general event
-# used to mark character as object of temptation
+# First chaos temptation - event used to mark 
+# character as object of temptation
 #
+# Second chaos temptation - event for
+# becoming cultist
+#
+#
+# Used flags:
+# temptation_nurgle
+# temptation_slaanesh
+# temptation_tzeenth
+# temptation_khorne
+# 
+# hidden_cultist_nurgle
+# hidden_cultist_slaanesh
+# hidden_cultist_tzeenth
+# hidden_cultist_khorne
+#
+# Variables used to mark character chaotic actions
+# TODO
+# 
+#
+# TODO: add ai chances
 #
 # Temptation by Nurgle
 character_event = {
     id = temptation.1
     desc = "" #TODO
     #picture = "" #TODO
+    min_age = 16
     trigger = {
         is_capable = yes
+        trait = creature_human
+        NOT = { 
+            OR = {
+                religion_group = chaos_gods_group
+                religion = dark_norse
+                has_character_flag = hidden_cultist_nurgle
+                has_character_flag = hidden_cultist_slaanesh
+                has_character_flag = hidden_cultist_tzeenth
+                has_character_flag = hidden_cultist_khorne
+
+                has_character_flag = temptation_tzeenth
+                has_character_flag = temptation_slaanesh
+                has_character_flag = temptation_khorne
+                has_character_flag = temptation_nurgle
+            }
+        }
     }
     mean_time_to_happen = {
         years = 120
@@ -29,6 +66,10 @@ character_event = {
         modifier = {
             factor = 0.7
             trait = slothful
+        }
+        modifier = {
+            factor = 1.3
+            trait = diligent
         }
         modifier = {
             factor = 0.9
@@ -53,6 +94,10 @@ character_event = {
             trait = deceitful
         }
         modifier = {
+            factor = 1.2
+            trait = just
+        }
+        modifier = {
             factor = 0.9
             trait = arbitrary
         }
@@ -63,6 +108,10 @@ character_event = {
         modifier = {
             factor = 0.6
             trait = craven
+        }
+        modifier = {
+            factor = 1.4
+            trait = brave
         }
         # Lifestyle depedent modifier
         # none for nurgle
@@ -94,9 +143,17 @@ character_event = {
             factor = 0.05
             trait = has_nurgles_rot
         }
-        modifier = {
+            factor = 1.2
+            health = 5
+        }
+        # Nurgle favors weakness
+        modifier = { 
             factor = 0.9
+            trait = weak
             trait = ill
+            trait = wounded
+            trait = infirm
+            trait = sickly
         }
     }
     immediate = {
@@ -106,6 +163,7 @@ character_event = {
     # Temptation by some chosen god
     option = {
         name = "Oh yeess" #TODO
+        set_character_flag = temptation_nurgle
     }
     # Resist the chaos if you SW test went correctly
     option = {
@@ -118,8 +176,26 @@ character_event = {
     id = temptation.2
     desc = "slannesh first temptation" #TODO
     #picture = ""
+    min_age = 16
     trigger = {
         is_capable = yes
+        trait = creature_human
+        NOT = { 
+            OR = {
+                religion_group = chaos_gods_group
+                religion = dark_norse
+
+                has_character_flag = hidden_cultist_nurgle
+                has_character_flag = hidden_cultist_slaanesh
+                has_character_flag = hidden_cultist_tzeenth
+                has_character_flag = hidden_cultist_khorne
+
+                has_character_flag = temptation_tzeenth
+                has_character_flag = temptation_slaanesh
+                has_character_flag = temptation_khorne
+                has_character_flag = temptation_nurgle
+            }
+        }
     }
     mean_time_to_happen = {
         years = 120
@@ -128,6 +204,10 @@ character_event = {
         modifier = {
             factor = 0.4
             trait = lustful
+        }
+        modifier = {
+            factor = 1.4
+            trait = chaste
         }
         modifier = {
             factor = 0.9
@@ -140,6 +220,14 @@ character_event = {
         modifier = {
             factor = 0.7
             trait = gluttonous
+        }
+        modifier = {
+            factor = 1.3
+            trait = temperate
+        }
+        modifier = {
+            factor = 1.3
+            trait = humble
         }
 
         # Personality dependent modifiers    
@@ -155,6 +243,11 @@ character_event = {
             factor = 0.7
             trait = cruel
         }
+        modifier = {
+            factor = 1.2
+            trait = kind
+        }
+
         modifier = {
             factor = 0.9
             trait = deceitful
@@ -176,7 +269,11 @@ character_event = {
             factor = 0.9
             trait = poet
         }
-        modifier 
+        modifier = {
+            factor = 1.2
+            trait = just
+        }
+        modifier = {
             factor = 0.8
             trait = impaler
         }
@@ -189,6 +286,15 @@ character_event = {
                 trait = mutation_massive
             }
         }
+        # Slaanesh favors beauty
+        modifier = {
+            factor = 0.7
+            trait = fair
+        }
+        modifier = {
+            factor = 1.3
+            trait = ugly
+        }
 
 
     }
@@ -199,6 +305,7 @@ character_event = {
     # Temptation by some chosen god
     option = {
         name = "Nooo" #TODO
+        set_character_flag = temptation_slaanesh
     }
     # Resist the chaos if you SW test went correctly
     option = {
@@ -211,8 +318,26 @@ character_event = {
     id = temptation.3
     desc = "" #TODO
     #picture = ""
+    min_age = 16
     trigger = {
         is_capable = yes
+        trait = creature_human
+        NOT = { 
+            OR = {
+                religion_group = chaos_gods_group
+                religion = dark_norse
+
+                has_character_flag = hidden_cultist_nurgle
+                has_character_flag = hidden_cultist_slaanesh
+                has_character_flag = hidden_cultist_tzeenth
+                has_character_flag = hidden_cultist_khorne
+
+                has_character_flag = temptation_tzeenth
+                has_character_flag = temptation_slaanesh
+                has_character_flag = temptation_khorne
+                has_character_flag = temptation_nurgle
+            }
+        }
     }
     mean_time_to_happen = {
         years = 120
@@ -221,6 +346,10 @@ character_event = {
         modifier = {
             factor = 0.8
             trait = envious
+        } 
+        modifier = { 
+            factor = 1.2
+            trait = kind
         }
         # Personality dependent modifiers    
         modifier = {
@@ -234,10 +363,18 @@ character_event = {
         modifier = {
             factor = 0.5
             trait = deceitful
+        } 
+        modifier = {
+            factor = 1.4
+            trait = honest
         }
         modifier = {
             factor = 0.9
             trait = arbitrary
+        }
+        modifier = {
+            factor = 1.2
+            trait = just
         }
         modifier = {
             factor = 0.9
@@ -263,6 +400,33 @@ character_event = {
                 trait = mutation_massive
             }
         }
+        # Tzeenth favors magic power
+        modifier = {
+            factor = 0.8
+            OR = {
+                trait = magic_power_adept
+                trait = magic_power_magister
+                trait = magic_power_lord
+                trait = magic_power_archmaster
+            }
+        }
+        # And intellect
+        modifier = {
+            factor = 0.8
+            OR = {
+                learning = 10
+                intrigue = 10
+            }
+        }
+        modifier = {
+            factor = 0.8
+            OR = {
+                learning = 15
+                intrigue = 15
+            }
+        }
+
+
     }
     immediate = {
         # Make SW test ( writes output to sw_test)
@@ -271,6 +435,7 @@ character_event = {
     # Temptation by some chosen god
     option = {
         name = "Oh yeess" #TODO
+        set_character_flag = temptation_tzeenth
     }
     # Resist the chaos if you SW test went correctly
     option = {
@@ -283,11 +448,50 @@ character_event = {
     id = temptation.4
     desc = "" #TODO
     #picture = ""
+    min_age = 16
     trigger = {
         is_capable = yes
+        trait = creature_human
+        NOT = { 
+            OR = {
+                religion_group = chaos_gods_group
+                religion = dark_norse
+
+                has_character_flag = hidden_cultist_nurgle
+                has_character_flag = hidden_cultist_slaanesh
+                has_character_flag = hidden_cultist_tzeenth
+                has_character_flag = hidden_cultist_khorne
+
+                has_character_flag = temptation_tzeenth
+                has_character_flag = temptation_slaanesh
+                has_character_flag = temptation_khorne
+                has_character_flag = temptation_nurgle
+            }
+        }
     }
     mean_time_to_happen = {
         years = 120
+         
+        # Racial modifiers
+        modifier = {
+            factor = 4
+            OR = {       
+                trait = creature_dwarf
+                trait = creature_halfling
+                # already serve chaos
+                trait = creature_chaos_dwarf
+                trait = creature_skaven
+            } 
+        }
+        modifier = {
+            factor = 8
+            OR = {       
+                trait = creature_elf
+                trait = creature_orc
+                trait = creature_goblin
+                trait = creature_snotling
+            } 
+        }
 
         # Virtue dependent modifers 
         modifier = {
@@ -302,7 +506,10 @@ character_event = {
             factor = 0.5
             trait = wroth
         }
-
+        modifier = {
+            factor = 1.5
+            trait = patient
+        }
         # Personality dependent modifiers    
         modifier = {
             factor = 0.9
@@ -313,12 +520,24 @@ character_event = {
             trait = cruel
         }
         modifier = {
+            factor = 1.4
+            trait = kind
+        }
+        modifier = {
+            factor = 1.1
+            trait = temperate
+        }
+        modifier = {
             factor = 0.9
             trait = arbitrary
         }
         modifier = {
             factor = 0.8
             trait = cynical
+        }
+        modifier = {
+            factor = 1.2
+            trait = just
         }
         # Lifestyle depedent modifier
         modifier = {
@@ -334,11 +553,32 @@ character_event = {
             trait = duelist
         }
         modifier = {
-        factor = 0.6
+            factor = 0.6
             trait = impaler
         }
+        modifier = {
+            factor = 1.1
+            trait = gardener
+        }
+        # Mutations
+        modifier = {
+            factor = 0.4
+            OR = {
+                trait = mutation_minor
+                trait = mutation_major
+                trait = mutation_massive
+            }
+        }
+        # Khorne like warriors
+        modifier = {
+            factor = 0.8
+            martial = 8
+        }
+        modifier = {
+            factor = 0.8
+            martial = 14
+        }
 
-        
         # External influence
     }
     immediate = {
@@ -348,6 +588,7 @@ character_event = {
     # Temptation by some chosen god
     option = {
         name = "Oh yeess"
+        set_character_flag = temptation_khorne
     }
     # Resist the chaos if you SW test went correctly
     option = {
@@ -355,3 +596,77 @@ character_event = {
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
+#
+# A Dark Cult - next step in path to damnation - after that
+# character becomes hidden folower of chaos
+# 
+# That event should be place dependent 
+#
+character_event = {
+    id = temptation.5
+    desc = "Here should description of meeting with cultist"
+    picture = "GFX_shadow_cabal"
+    
+    min_age = 16
+    trigger = { 
+        is_capable = yes
+        OR = { 
+            has_character_flag = temptation_tzeenth
+            has_character_flag = temptation_slaanesh
+            has_character_flag = temptation_khorne
+            has_character_flag = temptation_nurgle
+        }
+        NOT = {
+            OR = { 
+                has_character_flag = hidden_cultist_nurgle
+                has_character_flag = hidden_cultist_slaanesh
+                has_character_flag = hidden_cultist_tzeenth
+                has_character_flag = hidden_cultist_khorne
+            }
+        }
+    }
+    mean_time_to_happen = {
+        months = 12
+    }
+    option = {
+        name = "Join the cult"
+        if = {
+            limit = { has_character_flag = temptation_tzeenth }
+            set_character_flag = hidden_cultist_tzeenth
+        }
+        if = {
+            limit = { has_character_flag = temptation_nurgle }
+            set_character_flag = hidden_cultist_nurgle 
+        }
+        if = {
+            limit = { has_character_flag = temptation_slaanesh }
+            set_character_flag = hidden_cultist_slaanesh
+        }
+        if = {
+            limit = { has_character_flag = temptation_khorne }
+            set_character_flag = hidden_cultist_khorne
+        }
+        clr_character_flag = temptation_tzeenth
+        clr_character_flag = temptation_slaanesh
+        clr_character_flag = temptation_nurgle
+        clr_character_flag = temptation_khorne
+        # change doom counter - if big figure became cultist
+        if = { 
+            limit = { higher_tier_than = COUNT }
+            # doom counter +1
+            1 = { change_variable = { which = "doom_counter" value = 1 }}
+        }
+        if = { 
+            limit = { higher_tier_than = DUKE }
+            # doom counter +1
+            1 = { change_variable = { which = "doom_counter" value = 2 }}
+        }
+        if = { 
+            limit = { higher_tier_than = KING }
+            # doom counter +1
+            1 = { change_variable = { which = "doom_counter" value = 4 }}
+        }
+
+    }
+}
+
