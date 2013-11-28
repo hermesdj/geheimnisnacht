@@ -1,0 +1,94 @@
+#
+# Spells for Hysh lore
+# id = hysh.xy, x - spellchain id, y - event from spellchain
+#
+# battle spells:
+# duel spells:
+# personal spells:
+#
+namespace = hysh
+# 
+# SPELLS EFFECTS
+#
+# Hysh blessing (metaspell, character spell)
+character_event = {
+    id = hysh.1
+    desc = ""
+    is_triggered_only = yes
+    
+    option = {
+        name = "Power of truth"
+        trigger = { has_character_flag = last_spell_success }
+        add_character_modifier = { name = spell_truthpower duration = 14 }
+    }
+    option = {
+        name = "Eyes of truth"
+        trigger = { has_character_flag = last_spell_success }
+        add_character_modifier = { name = spell_eyesoftruth duration = 14 }
+    }
+    option = {
+        name = "Inspiration"
+        trigger = { has_character_flag = last_spell_success }
+        add_character_modifier = { name = spell_inspiration duration = 14 }
+    }
+    option = {
+        trigger = { NOT = { has_character_flag = last_spell_success }}
+    }
+}
+# Hysh blessing (character/interaction spell)
+# heals maiming etc
+#
+# main effect
+character_event = {
+   id = hysh.2
+   is_triggered_only = yes
+   
+   option = {
+       name = "Hysh blessing"
+       # just remove
+       FROM = { 
+           if = { limit = { trait = ill } remove_trait = ill }
+           if = { limit = { trait = maimed } remove_trait = maimed }
+           if = { limit = { trait = pneumonic } remove_trait = pneumonic }
+           if = { limit = { trait = syphilitic } remove_trait = syphilitic }
+           if = { limit = { trait = leper } remove_trait = leper }
+
+           if = { limit = { trait = has_green_pox } remove_trait = has_green_pox }
+           if = { limit = { trait = has_red_pox } remove_trait = has_red_pox }
+           if = { limit = { trait = has_bone_auge } remove_trait = has_bone_auge }
+           if = { limit = { trait = has_rattlelung } remove_trait = has_rattlelung }
+           if = { limit = { trait = has_tomb_rot } remove_trait = has_tomb_rot }
+           if = { limit = { trait = has_creeping_buboes } remove_trait = has_creeping_buboes }
+       }
+   }
+}
+# Puryfying light (icreasing health)
+character_event = {
+   id = hysh.3
+   is_triggered_only = yes
+
+   option = {
+       name = "Puryfying light"
+       any_courtier = {
+           limit = { 
+               prisoner = no
+           }
+           add_character_modifier = { name = spell_purifyinglight duration = 14 } 
+       }
+   }
+}
+# Demon banishing
+character_event = {
+   id = hysh.4
+   is_triggered_only = yes
+   
+   option = {
+       name = "Banish the demon"
+       location = {
+           random_province_character = {
+               limit = { trait = possesed }
+               #character_event = { id = hysh.31 }
+           }
+       }
+ 
+}

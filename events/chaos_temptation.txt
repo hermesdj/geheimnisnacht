@@ -14,11 +14,6 @@ namespace = temptation
 #
 #
 # Used flags:
-# temptation_nurgle
-# temptation_slaanesh
-# temptation_tzeenth
-# temptation_khorne
-# 
 # hidden_cultist_nurgle
 # hidden_cultist_slaanesh
 # hidden_cultist_tzeenth
@@ -47,11 +42,6 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
-
-                has_character_flag = temptation_tzeenth
-                has_character_flag = temptation_slaanesh
-                has_character_flag = temptation_khorne
-                has_character_flag = temptation_nurgle
             }
         }
     }
@@ -164,7 +154,8 @@ character_event = {
     # Temptation by some chosen god
     option = {
         name = "Oh yeess" #TODO
-        set_character_flag = temptation_nurgle
+        character_event = { id = temptation.5 days = 30 }
+        set_character_flag = hidden_cultist_nurgle
     }
     # Resist the chaos if you SW test went correctly
     option = {
@@ -190,11 +181,6 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
-
-                has_character_flag = temptation_tzeenth
-                has_character_flag = temptation_slaanesh
-                has_character_flag = temptation_khorne
-                has_character_flag = temptation_nurgle
             }
         }
     }
@@ -306,7 +292,8 @@ character_event = {
     # Temptation by some chosen god
     option = {
         name = "Nooo" #TODO
-        set_character_flag = temptation_slaanesh
+        character_event = { id = temptation.5 days = 30 }
+        set_character_flag = hidden_cultist_slaanesh
     }
     # Resist the chaos if you SW test went correctly
     option = {
@@ -332,11 +319,6 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
-
-                has_character_flag = temptation_tzeenth
-                has_character_flag = temptation_slaanesh
-                has_character_flag = temptation_khorne
-                has_character_flag = temptation_nurgle
             }
         }
     }
@@ -436,7 +418,8 @@ character_event = {
     # Temptation by some chosen god
     option = {
         name = "Oh yeess" #TODO
-        set_character_flag = temptation_tzeenth
+        set_character_flag = hidden_cultist_tzeenth
+        character_event = { id = temptation.5 days = 30 }
     }
     # Resist the chaos if you SW test went correctly
     option = {
@@ -462,11 +445,6 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
-
-                has_character_flag = temptation_tzeenth
-                has_character_flag = temptation_slaanesh
-                has_character_flag = temptation_khorne
-                has_character_flag = temptation_nurgle
             }
         }
     }
@@ -589,7 +567,8 @@ character_event = {
     # Temptation by some chosen god
     option = {
         name = "Oh yeess"
-        set_character_flag = temptation_khorne
+        set_character_flag = hidden_cultist_khorne
+        character_event = { id = temptation.5 days = 30 }
     }
     # Resist the chaos if you SW test went correctly
     option = {
@@ -608,49 +587,25 @@ character_event = {
     desc = "Here should description of meeting with cultist"
     picture = "GFX_shadow_cabal"
     
-    min_age = 16
-    trigger = { 
-        is_capable = yes
-        OR = { 
-            has_character_flag = temptation_tzeenth
-            has_character_flag = temptation_slaanesh
-            has_character_flag = temptation_khorne
-            has_character_flag = temptation_nurgle
-        }
-        NOT = {
-            OR = { 
-                has_character_flag = hidden_cultist_nurgle
-                has_character_flag = hidden_cultist_slaanesh
-                has_character_flag = hidden_cultist_tzeenth
-                has_character_flag = hidden_cultist_khorne
-            }
-        }
-    }
-    mean_time_to_happen = {
-        months = 12
-    }
+    is_triggered_only = yes
     option = {
         name = "Join the cult"
         if = {
-            limit = { has_character_flag = temptation_tzeenth }
+            limit = { has_character_flag = hidden_cultist_tzeenth }
             set_character_flag = hidden_cultist_tzeenth
         }
         if = {
-            limit = { has_character_flag = temptation_nurgle }
+            limit = { has_character_flag = hidden_cultist_nurgle }
             set_character_flag = hidden_cultist_nurgle 
         }
         if = {
-            limit = { has_character_flag = temptation_slaanesh }
+            limit = { has_character_flag = hidden_cultist_slaanesh }
             set_character_flag = hidden_cultist_slaanesh
         }
         if = {
-            limit = { has_character_flag = temptation_khorne }
+            limit = { has_character_flag = hidden_cultist_khorne }
             set_character_flag = hidden_cultist_khorne
         }
-        clr_character_flag = temptation_tzeenth
-        clr_character_flag = temptation_slaanesh
-        clr_character_flag = temptation_nurgle
-        clr_character_flag = temptation_khorne
         # change doom counter - if big figure became cultist
         if = { 
             limit = { higher_tier_than = COUNT }
