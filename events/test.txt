@@ -1,4 +1,5 @@
 # FIXME : this is just test event for checking doom counter
+namespace = test
 character_event = {
     id = test.1
     desc = "Checking doom counter value - test event"
@@ -106,4 +107,100 @@ character_event = {
     option = {
         name = "blank"
     }
+}
+
+# CHECKING SPELL POINTS
+character_event = {
+    id = test.2
+    desc = "Test event for checking amount magic points"
+    is_triggered_only = yes
+    
+    option = {
+       name = "mp = 0"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 0 }
+           NOT = { check_variable = { which = "magic_points" value = 1 }}
+       }}
+    }
+    option = {
+       name = "mp = 1"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 1 }
+           NOT = { check_variable = { which = "magic_points" value = 2 }}
+       }}
+    }
+    option = {
+       name = "mp = 2"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 2 }
+           NOT = { check_variable = { which = "magic_points" value = 3 }}
+       }}
+    }
+    option = {
+       name = "mp = 3"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 3 }
+           NOT = { check_variable = { which = "magic_points" value = 4 }}
+       }}
+    }
+    option = {
+       name = "mp = 4"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 4 }
+           NOT = { check_variable = { which = "magic_points" value = 5 }}
+       }}
+    }
+    option = {
+       name = "mp = 5"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 5 }
+           NOT = { check_variable = { which = "magic_points" value = 6 }}
+       }}
+    }
+    option = {
+       name = "mp = 6"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 6 }
+           NOT = { check_variable = { which = "magic_points" value = 7 }}
+       }}
+    }
+    option = {
+       name = "mp = 7"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 7 }
+           NOT = { check_variable = { which = "magic_points" value = 8 }}
+       }}
+    }
+    option = {
+       name = "mp = 8"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 8 }
+           NOT = { check_variable = { which = "magic_points" value = 9 }}
+       }}
+    }
+    option = {
+       name = "mp = 9"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 9 }
+           NOT = { check_variable = { which = "magic_points" value = 10 }}
+       }}
+    }
+    option = {
+       name = "mp = 10"
+       trigger = { AND = {
+           check_variable = { which = "magic_points" value = 10 }
+           NOT = { check_variable = { which = "magic_points" value = 11 }}
+       }}
+    }
+    option = {
+       name = "mp > 10"
+       trigger = {
+           check_variable = { which = "magic_points" value = 11 }
+       }
+    }
+
+    option = {
+       name = "well you should always see this"
+    }
+
 }
