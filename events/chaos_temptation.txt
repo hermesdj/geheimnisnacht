@@ -18,6 +18,7 @@ namespace = temptation
 # hidden_cultist_slaanesh
 # hidden_cultist_tzeenth
 # hidden_cultist_khorne
+# hidden_cultist_undivided
 #
 # Variables used to mark character chaotic actions
 # TODO
@@ -42,6 +43,7 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
+				has_character_flag = hidden_cultist_undivided
             }
         }
     }
@@ -69,15 +71,15 @@ character_event = {
             factor = 0.9
             trait = gluttonous
         }
+		modifier = {
+            factor = 0.7
+            trait = kind
+        }
 
         # Personality dependent modifiers    
         modifier = {
             factor = 0.8
             trait = content
-        }
-        modifier = {
-            factor = 0.8
-            trait = cruel
         }
         modifier = {
             factor = 0.9
@@ -137,6 +139,16 @@ character_event = {
             factor = 1.2
             health = 5
         }
+		# magic users more likely to fall 
+        modifier = {
+            factor = 0.8
+            OR = {
+                trait = magic_power_adept
+                trait = magic_power_magister
+                trait = magic_power_lord
+                trait = magic_power_archmaster
+            }
+        }
         # Nurgle favors weakness
         modifier = { 
             factor = 0.9
@@ -181,6 +193,7 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
+				has_character_flag = hidden_cultist_undivided
             }
         }
     }
@@ -205,7 +218,7 @@ character_event = {
             trait = proud
         }
         modifier = {
-            factor = 0.7
+            factor = 0.6
             trait = gluttonous
         }
         modifier = {
@@ -264,6 +277,10 @@ character_event = {
             factor = 0.8
             trait = impaler
         }
+		modifier = {
+            factor = 1.8
+            trait = celibate
+        }
         # Mutations
         modifier = {
             factor = 0.4
@@ -282,7 +299,16 @@ character_event = {
             factor = 1.3
             trait = ugly
         }
-
+		# magic users more likely to fall 
+        modifier = {
+            factor = 0.8
+            OR = {
+                trait = magic_power_adept
+                trait = magic_power_magister
+                trait = magic_power_lord
+                trait = magic_power_archmaster
+            }
+        }
 
     }
     immediate = {
@@ -310,7 +336,7 @@ character_event = {
     trigger = {
         is_capable = yes
         trait = creature_human
-        NOT = { 
+        NOT = { #will need to add vampire and hidden vampire traits to this list. Vampires do not serve chaos.
             OR = {
                 religion_group = chaos_gods_group
                 religion = dark_norse
@@ -319,6 +345,7 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
+				has_character_flag = hidden_cultist_undivided
             }
         }
     }
@@ -333,6 +360,14 @@ character_event = {
         modifier = { 
             factor = 1.2
             trait = kind
+        }
+		modifier = { 
+            factor = 0.8
+            trait = diligent
+        }
+		modifier = { 
+            factor = 0.6
+            trait = patient
         }
         # Personality dependent modifiers    
         modifier = {
@@ -385,7 +420,7 @@ character_event = {
         }
         # Tzeenth favors magic power
         modifier = {
-            factor = 0.8
+            factor = 0.6
             OR = {
                 trait = magic_power_adept
                 trait = magic_power_magister
@@ -445,6 +480,7 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
+				has_character_flag = hidden_cultist_undivided
             }
         }
     }
@@ -475,7 +511,7 @@ character_event = {
         # Virtue dependent modifers 
         modifier = {
             factor = 0.9
-            trait = enviouus
+            trait = envious
         }
         modifier = {
             factor = 0.8
@@ -493,6 +529,10 @@ character_event = {
         modifier = {
             factor = 0.9
             trait = ambitious
+        }
+		modifier = {
+            factor = 0.6
+            trait = brave
         }
         modifier = {
             factor = 0.6
@@ -517,6 +557,10 @@ character_event = {
         modifier = {
             factor = 1.2
             trait = just
+        }
+		modifier = {
+            factor = 1.4
+            trait = craven
         }
         # Lifestyle depedent modifier
         modifier = {
@@ -576,14 +620,128 @@ character_event = {
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
+# Temptation Undivided
+character_event = {
+    id = temptation.5
+    desc = "" #TODO
+    #picture = ""
+    min_age = 16
+    trigger = {
+        is_capable = yes
+        trait = creature_human
+        NOT = { 
+            OR = {
+                religion_group = chaos_gods_group
+                religion = dark_norse
+
+                has_character_flag = hidden_cultist_nurgle
+                has_character_flag = hidden_cultist_slaanesh
+                has_character_flag = hidden_cultist_tzeenth
+                has_character_flag = hidden_cultist_khorne
+				has_character_flag = hidden_cultist_undivided
+            }
+        }
+    }
+    mean_time_to_happen = {
+        years = 120
+
+        # Virtue dependent modifers 
+        modifier = {
+            factor = 0.6
+            trait = envious
+        } 
+        modifier = { 
+            factor = 1.2
+            trait = kind
+        }
+        # Personality dependent modifiers    
+        modifier = {
+            factor = 0.5
+            trait = ambitious
+        }
+        modifier = {
+            factor = 0.5
+            trait = cruel
+        }
+        modifier = {
+            factor = 0.5
+            trait = deceitful
+        } 
+        modifier = {
+            factor = 1.4
+            trait = honest
+        }
+        modifier = {
+            factor = 0.5
+            trait = arbitrary
+        }
+        modifier = {
+            factor = 1.2
+            trait = just
+        }
+        modifier = {
+            factor = 0.5
+            trait = cynical
+        }
+        # Lifestyle depedent modifier
+        modifier = {
+            factor = 0.8
+            trait = scholar
+        }
+        modifier = {
+            factor = 0.8
+            trait = mystic
+        }
+ 
+        
+        # Mutation
+        modifier = {
+            factor = 0.4
+            OR = {
+                trait = mutation_minor
+                trait = mutation_major
+                trait = mutation_massive
+            }
+        }
+        # magic users more likely to fall 
+        modifier = {
+            factor = 0.8
+            OR = {
+                trait = magic_power_adept
+                trait = magic_power_magister
+                trait = magic_power_lord
+                trait = magic_power_archmaster
+            }
+        }
+
+
+
+    }
+    immediate = {
+        # Make SW test ( writes output to sw_test)
+        character_event = { id = dicethrow.1 }
+    }
+    # Temptation by chaos
+    option = {
+        name = "Oh yeess" #TODO
+        set_character_flag = hidden_cultist_undivided
+        character_event = { id = temptation.5 days = 30 }
+    }
+    # Resist the chaos if you SW test went correctly
+    option = {
+        name = "No i can resist"
+        trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
+    }
+}
+
 #
 # A Dark Cult - next step in path to damnation - after that
-# character becomes hidden folower of chaos
+# character becomes hidden follower of chaos
 # 
 # That event should be place dependent 
 #
 character_event = {
-    id = temptation.5
+    id = temptation.6
     desc = "Here should description of meeting with cultist"
     picture = "GFX_shadow_cabal"
     
