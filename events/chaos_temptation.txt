@@ -25,6 +25,9 @@ namespace = temptation
 # 
 #
 # TODO: add ai chances
+# TODO: make hidden mutation a modifier as well 
+# TODO: possibly seperate mutation out into different fafctors, 
+#massively mutated individual should be more likely to fall than a minor one
 #
 # Temptation by Nurgle
 character_event = {
@@ -106,11 +109,11 @@ character_event = {
             trait = brave
         }
         # Lifestyle depedent modifier
-        # none for nurgle
+        # none for nurgle (maybe gardener?)
         #
-        # Mutations
+        # mutations, Tzeentch like mutation more than others
         modifier = {
-            factor = 0.4
+            factor = 0.3
             OR = {
                 trait = mutation_minor
                 trait = mutation_major
@@ -281,9 +284,9 @@ character_event = {
             factor = 1.8
             trait = celibate
         }
-        # Mutations
+        # Mutations, Tzeentch like mutation more than others
         modifier = {
-            factor = 0.4
+            factor = 0.3
             OR = {
                 trait = mutation_minor
                 trait = mutation_major
@@ -411,7 +414,7 @@ character_event = {
         
         # Mutation
         modifier = {
-            factor = 0.4
+            factor = 0.2
             OR = {
                 trait = mutation_minor
                 trait = mutation_major
@@ -583,9 +586,9 @@ character_event = {
             factor = 1.1
             trait = gardener
         }
-        # Mutations
+        # Mutations, Tzeentch like mutation more than others
         modifier = {
-            factor = 0.4
+            factor = 0.3
             OR = {
                 trait = mutation_minor
                 trait = mutation_major
@@ -694,10 +697,10 @@ character_event = {
         }
  
         
-        # Mutation
+        # Mutation, Tzeentch like mutation more than others
         modifier = {
-            factor = 0.4
-            OR = {
+            factor = 0.3
+            OR = { 
                 trait = mutation_minor
                 trait = mutation_major
                 trait = mutation_massive
