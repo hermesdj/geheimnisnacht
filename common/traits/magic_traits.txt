@@ -36,6 +36,9 @@ magic_power_archmaster = {
 	immortal = yes
 	monthly_character_prestige = 0.5
 }
+# Non-Imperial magics
+lore_ice = {
+}
 #Winds of Magic (most common lores)
 lore_fire = {
 }

@@ -1,0 +1,36 @@
+#
+# Spells for Hysh lore
+# id = ice.xy, x - spellchain id, y - event from spellchain
+#
+# battle spells:
+# duel spells:
+# personal spells:
+#
+namespace = ice
+# 
+# SPELLS EFFECTS
+#
+
+# Blizzard (personal spell)
+#
+# selects some enemy character
+#
+#
+character_event = {
+    id = ice.1
+    desc = "This spells targets units of enemy moving thourgh your desmene"
+    is_triggered_only = yes
+    
+    option = {
+        name = "Inspiration"
+        trigger = { has_character_flag = last_spell_success }
+        # first select any enemy
+        location = {
+            
+        }
+        add_character_modifier = { name = spell_inspiration duration = 14 }
+    }
+    option = {
+        trigger = { NOT = { has_character_flag = last_spell_success }}
+    }
+}

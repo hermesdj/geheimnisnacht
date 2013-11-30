@@ -46,7 +46,7 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
-				has_character_flag = hidden_cultist_undivided
+                has_character_flag = hidden_cultist_undivided
             }
         }
     }
@@ -483,7 +483,7 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
-				has_character_flag = hidden_cultist_undivided
+                has_character_flag = hidden_cultist_undivided
             }
         }
     }
@@ -533,7 +533,7 @@ character_event = {
             factor = 0.9
             trait = ambitious
         }
-		modifier = {
+        modifier = {
             factor = 0.6
             trait = brave
         }
@@ -561,7 +561,7 @@ character_event = {
             factor = 1.2
             trait = just
         }
-		modifier = {
+        modifier = {
             factor = 1.4
             trait = craven
         }
@@ -586,7 +586,7 @@ character_event = {
             factor = 1.1
             trait = gardener
         }
-        # Mutations, Tzeentch like mutation more than others
+        # Mutations
         modifier = {
             factor = 0.3
             OR = {
@@ -641,7 +641,7 @@ character_event = {
                 has_character_flag = hidden_cultist_slaanesh
                 has_character_flag = hidden_cultist_tzeenth
                 has_character_flag = hidden_cultist_khorne
-				has_character_flag = hidden_cultist_undivided
+                has_character_flag = hidden_cultist_undivided
             }
         }
     }
@@ -697,7 +697,7 @@ character_event = {
         }
  
         
-        # Mutation, Tzeentch like mutation more than others
+        # Mutation
         modifier = {
             factor = 0.3
             OR = { 
@@ -751,22 +751,6 @@ character_event = {
     is_triggered_only = yes
     option = {
         name = "Join the cult"
-        if = {
-            limit = { has_character_flag = hidden_cultist_tzeenth }
-            set_character_flag = hidden_cultist_tzeenth
-        }
-        if = {
-            limit = { has_character_flag = hidden_cultist_nurgle }
-            set_character_flag = hidden_cultist_nurgle 
-        }
-        if = {
-            limit = { has_character_flag = hidden_cultist_slaanesh }
-            set_character_flag = hidden_cultist_slaanesh
-        }
-        if = {
-            limit = { has_character_flag = hidden_cultist_khorne }
-            set_character_flag = hidden_cultist_khorne
-        }
         # change doom counter - if big figure became cultist
         if = { 
             limit = { higher_tier_than = COUNT }
@@ -783,7 +767,6 @@ character_event = {
             # doom counter +1
             1 = { change_variable = { which = "doom_counter" value = 4 }}
         }
-
     }
 }
 

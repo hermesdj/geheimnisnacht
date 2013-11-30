@@ -8,8 +8,13 @@
 
 # Reveal yourself as follower of dark gods
 decisions = {
-    reveal_chaos_religion = {
+    decision_reveal_chaos_religion = {
         potential = {
+            # all of our pc decisions use this trigger
+            NOT = { 
+                has_character_flag = spellbook_open 
+                ai = no
+            }
             OR = {
                 has_character_flag = hidden_cultist_nurgle
                 has_character_flag = hidden_cultist_slaanesh

@@ -4,15 +4,16 @@
 #
 # battle spells:
 # duel spells:
-# personal spells:
-#
+# strategic spells:
+# metaspell: spell for chosing other spells
+# 
 namespace = hysh
 # 
 # SPELLS EFFECTS
 #
-# Hysh blessing (metaspell, character spell)
+# Hysh blessing (metaspell, strategic spell)
 character_event = {
-    id = hysh.1
+    id = hysh.10
     desc = ""
     is_triggered_only = yes
     
