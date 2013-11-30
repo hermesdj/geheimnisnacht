@@ -1,0 +1,138 @@
+#######################################
+# 
+# Here are spell casting decisions
+#
+# decision_open_spellbook -
+# decison_close_spellbook
+# decision_lore_<nameoflore>
+# decision_lore_back
+# 
+# those decisions are used by players
+# to select proper spells
+#
+# Flags:
+# spellbook_open - to mark opened spellbok
+# spell_lore_chosen - to mark chosen set of spells
+# spell_lore_<name> - to mark particular set of spells
+# 
+######################################
+decisions = {
+    # TODO localize decisions
+    # Open Spellbook (PC only)
+    decision_open_spellbook = {
+        potential = {
+            ai = no
+            OR = {
+                trait = magic_power_adept
+                trait = magic_power_magister
+                trait = magic_power_lord
+                trait = magic_power_archmaster
+            }
+            is_capable = yes
+            OR = {
+                trait = lore_light
+                trait = lore_beasts
+                trait = lore_metal
+                trait = lore_fire
+                trait = lore_life
+                trait = lore_shadows
+                trait = lore_death
+                trait = lore_heavens
+                # non-human races lores
+                trait = lore_high_magic
+                # other human lores
+                trait = lore_ice
+                # chaos lores
+                trait = lore_dark_magic
+                trait = lore_nurgle
+                trait = lore_slaanesh
+                trait = lore_tzeenth
+            }
+            # Closing opening spellbook mechanics
+            NOT = { has_character_flag = spellbook_open }
+        }
+        allow = {
+            always = yes
+        }
+        effect = { 
+            set_character_flag = spellbook_open
+        }
+    }
+    decision_close_spellbook = {
+        potential = {
+            ai = no
+            has_character_flag = spellbook_open
+            # Closing opening spellbook mechanics
+        }
+        allow = {
+            always = yes
+        }
+        effect = { 
+            clr_character_flag = spellbook_open
+        }
+    }
+    # END of close/open spellbok decisions
+    #
+    # Chose spells from ice lore (PC only)
+    decision_lore_ice = {
+        potential = {
+            AND = {
+                has_character_flag = spellbook_open 
+                ai = no
+            }
+            trait = lore_ice
+            NOT = {  has_character_flag = spell_lore_chosen }
+        }
+        allow = { always = yes }
+        effect = { 
+            set_character_flag = spell_lore_ice  
+            set_character_flag = spell_lore_chosen
+        }
+    }
+    # Chose spells from ice lore (PC only)
+    decision_lore_light = {
+        potential = {
+            AND = {
+                has_character_flag = spellbook_open 
+                ai = no
+            }
+            trait = lore_light
+            NOT = {  has_character_flag = spell_lore_chosen }
+        }
+        allow = { always = yes }
+        effect = { 
+            set_character_flag = spell_lore_light  
+            set_character_flag = spell_lore_chosen
+        }
+    }
+
+    # go back to lore menu
+    decision_lore_back = {
+        potential = {
+            AND = {
+                has_character_flag = spellbook_open 
+                ai = no
+                has_character_flag = spell_lore_chosen
+            }
+        }
+        allow = { always = yes }
+        effect = { 
+            clr_character_flag = spell_lore_chosen
+            #
+            clr_character_flag = spell_lore_ice 
+            clr_character_flag = spell_lore_light
+            clr_character_flag = spell_lore_beasts
+            clr_character_flag = spell_lore_fire
+            clr_character_flag = spell_lore_metal
+            clr_character_flag = spell_lore_shadows
+            clr_character_flag = spell_lore_death
+            clr_character_flag = spell_lore_heavens
+            clr_character_flag = spell_lore_life
+            clr_character_flag = spell_lore_chaos
+            clr_character_flag = spell_lore_slaanesh
+            clr_character_flag = spell_lore_tzeenth
+            clr_character_flag = spell_lore_nurgle
+        }
+    }
+
+}

@@ -487,7 +487,8 @@ lore_high_magic;High Magic;;;;;;;;;;;;;x
 lore_dark_magic;Dark Magic;;;;;;;;;;;;;x
 lore_nurgle;Lore of Nurgle;;;;;;;;;;;;;x
 lore_slaanesh;Lore of Slaanesh;;;;;;;;;;;;;x
-lore_tzeenth;Lore of Tzeenth.;;;;;;;;;;;;;x
+lore_tzeenth;Lore of Tzeenth;;;;;;;;;;;;;x
+lore_ice;Lore of Ice;;;;;;;;;;;;;x
 # MAGIC TRAITS Descriptions
 magic_power_adept_desc;This character shows an affinity in the use of magic.;;;;;;;;;;;;;x
 magic_power_magister_desc;This character is capable in the use of magic.;;;;;;;;;;;;;x
@@ -506,4 +507,5 @@ lore_dark_magic_desc;This character can use Dhar and uses all winds in their mos
 lore_nurgle_desc;This character can use spells specially crafted by Nurgle.;;;;;;;;;;;;;x
 lore_slaanesh_desc;This character can use spells specially crafted by Slaanesh.;;;;;;;;;;;;;x
 lore_tzeenth_desc;This character can use spells specially crafted by Tzeenth.;;;;;;;;;;;;;x
+lore_ice_desc;This character can use magic of Ice;;;;;;;;;;;;;x
 

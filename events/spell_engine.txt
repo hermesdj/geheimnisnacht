@@ -80,15 +80,15 @@ character_event = {
                 25 = { change_variable = { which = "magic_points" value = 4 }}
             }
         }
-        # Spellcraft check - learning test  k30- learning < 0
+        # Spellcraft check - learning test  k10- learning/3 < 0
         #
-        character_event = { id = dicethrow.2 } # immediate event
+        character_event = { id = dicethrow.2 } # immediate event for learning test
         # successfull check  0> k10 - learning
         if = { 
             limit = { NOT = { check_variable = "int_test" value = 1 }}
             set_character_flag = last_spell_success
         }
-        # not successfull check: 1 =< k10 learning < 3
+        # not successfull check: 1 =< k10 -learning/3 < 3
         if = { 
             limit = { 
                 check_variable = "int_test" value = 1
@@ -148,4 +148,13 @@ character_event = {
         name = "ok"
     }
 }
-
+# Spell failure evetn 
+character_event = {
+    id = magicengine.5
+    desc = "Spell casting failure"
+    is_triggered_only = yes
+     
+    option = {
+        name = "ok"
+    }
+}
