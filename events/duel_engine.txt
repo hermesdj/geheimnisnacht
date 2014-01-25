@@ -181,7 +181,7 @@ character_event = {
        # Ok now here should be traits bonus but i left them for now
    }    
    # FIXME those lines are for debugign - to be deleted 
-   option = {
+   #option = {
 }
 
 # Round event
