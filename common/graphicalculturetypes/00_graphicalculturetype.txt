@@ -113,11 +113,7 @@ elfgfx = {
 	skin_tone = 0
 }
 
-orcgfx = {
-	skin_tone = 1
-}
-
-goblingfx = {
+greenskinsgfx = {
 	skin_tone = 1
 }
 
