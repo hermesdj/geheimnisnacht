@@ -3,7 +3,7 @@ orc_group = {
 	graphical_culture = westerngfx
 
 	orc_main = {
-		graphical_culture = norsegfx
+		graphical_culture = greenskinsgfx
 
 		color = { 0.4 1.0 0.4 }
 
