@@ -40,9 +40,22 @@ namespce = duelengine
 # HIDDEN EVENTS FOR MECHANICS 
 #
 #
-# Set character attributes basing on traits
+
+# Decide who starts first ( event triggered by directly by starting one
+# We assume that FROM - is an enemy 
+#
+#
 character_event = {
    id = duelengine.1
+   is_triggered_only = yes
+   desc = "The fighting begins starts..."
+   
+}
+
+
+# Set character attributes basing on traits
+character_event = {
+   id = duelengine.2
    desc = "should be hidden - decide attributes"
    hide_window = yes
    is_triggered_only = yes
@@ -181,9 +194,8 @@ character_event = {
        # Ok now here should be traits bonus but i left them for now
    }    
    # FIXME those lines are for debugign - to be deleted 
-   #option = {
+   #option = 
 }
-
 # Round event
 # 
 # each rund the damage is done to opponent
@@ -193,7 +205,7 @@ character_event = {
 # FROM = defender
 # ROOT = attacker
 character_event = {
-    id = duelengine.2
+    id = duelengine.3
     desc = "should be hidden"
     hide_window = yes
     is_triggered_only = yes
@@ -348,6 +360,15 @@ character_event = {
         }
         # 13 is the maximal dmg now (doesn't make sense to make it higher)
         
+        # Events in case of death
+        if = {
+            limit = { 
+                # 0 or less hp points - death
+                NOT = { check_variable = { which = "duel_hp" value = 1 }}
+            }
+            characer_event = { id = duelengine.24 }
+        }
+
         # Now when dmg is done there is time to send report events
         #
         # Both people hit themselves
@@ -355,6 +376,7 @@ character_event = {
             limit = { 
                 FROM = { check_variable = { which = "duel_dmg" value = 1 }}
                 check_variable = { which = "duel_dmg" value = 1 }
+                check_variable = { which = "duel_hp" value = 1 }
             }
             set_variable = { which = "duel_dmg" value = 0 }
             character_event = { id = duelengine.20 }
@@ -364,6 +386,7 @@ character_event = {
             limit = { 
                 FROM = { check_variable = { which = "duel_dmg" value = 1 }}
                 NOT = { check_variable = { which = "duel_dmg" value = 1 }}
+                check_variable = { which = "duel_hp" value = 1 }
             }
             set_variable = { which = "duel_dmg" value = 0 }
             character_event = { id = duelengine.21 }
@@ -373,6 +396,7 @@ character_event = {
             limit = { 
                 NOT = {FROM = { check_variable = { which = "duel_dmg" value = 1 }}}
                 check_variable = { which = "duel_dmg" value = 1 }
+                check_variable = { which = "duel_hp" value = 1 }
             }
             set_variable = { which = "duel_dmg" value = 0 }
             character_event = { id = duelengine.22 }
@@ -382,10 +406,12 @@ character_event = {
             limit = { 
                 NOT = {FROM = { check_variable = { which = "duel_dmg" value = 1 }}}
                 NOT = {check_variable = { which = "duel_dmg" value = 1 }}
+                check_variable = { which = "duel_hp" value = 1 }
             }
             set_variable = { which = "duel_dmg" value = 0 }
             character_event = { id = duelengine.23 }
         }   
+               
     }
 }
 # Deciding who is first is done in event triggering the duel
@@ -408,7 +434,10 @@ character_event = {
     is_triggered_only = yes
     
     option = {
+        trigger = { }
         name = "Fight!"
+        # trigger enemy round
+        FROMFROM = { character_event = { id = duelengine.23 }}
     }
 }
 character_event = { 
@@ -418,6 +447,8 @@ character_event = {
     
     option = {
         name = "Fight!"
+        # trigger enemy round
+        FROMFROM = { character_event = { id = duelengine.23 }}
     }
 }
 character_event = { 
@@ -427,6 +458,8 @@ character_event = {
     
     option = {
         name = "Fight!"
+        # trigger enemy round
+        FROMFROM = { character_event = { id = duelengine.23 }}
     }
 }
 character_event = { 
@@ -436,8 +469,34 @@ character_event = {
     
     option = {
         name = "Fight!"
+        # trigger enemy round
+        FROMFROM = { character_event = { id = duelengine.23 }}
     }
 }
+# in case of death
+character_event = { 
+    id = duelengine.24
+    desc = "You have lost, your enemy was better you die.."
+    is_triggered_only = yes
+    
+    option = {
+        name = "Noo...."
+        death = { 
+        }
+        FROMFROM = { character_event = { id = duelengine.25 } }
+    }
+}
+# report the death to winner
+character_event = { 
+    id = duelengine.25
+    desc = "You have won! The body of your enemy lies before you."
+    is_triggered_only = yes
+    
+    option = {
+        name = "Hurray!"
+    }
+}
+
 
 
 # The duel - begin (for starting player)
