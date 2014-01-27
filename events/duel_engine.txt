@@ -13,6 +13,12 @@
 #           and defence skills
 #           0-10
 #
+##Quick Question... Will this system be able to handle Draws effectively? 
+##Say that the two duelists have 1 Attack each and 5 Defence
+##With my reading of how the system works, they would never be able to hurt each other
+##This means the duel would go on forever.
+##       -Erik
+#
 # All those attributes are determined when duel starts
 # basing on traits, modfiers etc
 #
@@ -202,6 +208,12 @@ character_event = {
 # according to formula: 
 # dmg = rand(-1,0,1,2,3) + att(attacker) - def(defender)
 # 
+##Would it be possible for the duelists to focus on either attack or defence?
+##So before each round you'd say "Attack!!" or "Defend!!" 
+##Each option would give you a bonus to one and penalty to the other
+##Just a thought to make it more engaging. 
+##         -Erik
+#
 # FROM = defender
 # ROOT = attacker
 character_event = {
@@ -426,6 +438,12 @@ character_event = {
 #
 # TEMPLATE
 #
+##So my understanding is that we will have several of these events each with their own unique descriptions?
+##So that the reporting event isn't the same each time
+##Could they be further broken down so you'll get unique report based on whether you or your opponent is a mage?
+##Seems like this could make for lots of fun description writing as there are really only 6 outcomes right now
+##     -Erik
+#
 # id = 20-x
 #
 character_event = { 
@@ -474,6 +492,12 @@ character_event = {
     }
 }
 # in case of death
+#
+##Should all duels be to the death?
+##Maybe there should be options to capture
+##Or maybe to flee if it's not going well?
+##     -Erik
+#
 character_event = { 
     id = duelengine.24
     desc = "You have lost, your enemy was better you die.."
