@@ -21,11 +21,6 @@
 #
 #                   WARHAMMER
 #
-# Here is the list of CB form vanilla  we use in Warhammer Geheimnisnacht mod
-#
-# For those no, or only small change is needed
-# S means i started reworking, R - means i finished
-#
 # all claims that should be changed or are changed mark with WARHAMMER CHANGED
 #
 # claim
@@ -72,12 +67,7 @@
 #
 # DELETED CBS 
 # all muslim ones, caliphate ones, decadence connected ones
-# 
-# WARHAMMER religion groups which are considered equivalent to pagan
-
-# greenskin_gods_group
-# norse_group
-# beastman_gods_group
+# also i've renamed some
  
 
 claim = {
@@ -2230,38 +2220,28 @@ tribal_invasion = {
 				AND = {
 					independent = yes
 					OR = {
-						religion_group = greenskin_gods_group
-						religion_group = chaos_gods_group
-						AND = {
-							OR = {
-								has_horde_culture = yes
-								has_character_flag = horde_invader
-							}
-							#FIXME NOT = { religion_group = christian }
-						}
+						has_horde_culture = yes
+						has_character_flag = horde_invader
 					}
 					OR = {
 						culture_group = hung_group
 						culture_group = kurgan_group
-						culture_group = goblin_group
-						culture_group = orc_group
+						#culture_group = goblin_group
+						#culture_group = orc_group
+						culture_group = norscan_group
 					}
 					higher_tier_than = COUNT
-					OR = {
-						has_horde_culture = yes
-						has_character_flag = horde_invader
-						FROM = {
-							NOT = { 
-                                                        	religion_group = norse_group
-								religion_group = beastman_gods_group
-								religion_group = greenskin_gods_group
-								religion_group = chaos_gods_group
-
-                                                        } # Should subjugate these instead
+					FROM = {
+						NOT = { 
+							culture_group = hung_group
+							culture_group = kurgan_group
+							culture_group = goblin_group
+							culture_group = orc_group
+							culture_group = norscan_group
+							# Should subjugate these instead
 						}
 					}
 				}
-				
 				AND = {
 					mercenary = yes
 					NOT = {
@@ -2390,6 +2370,8 @@ tribal_invasion = {
 	}
 }
 
+# WARHAMMER CHANGED
+# TODO
 crusade = {
 	name = CB_NAME_CRUSADE
 	war_name = WAR_NAME_CRUSADE
@@ -5747,8 +5729,8 @@ seize_trade_post = {
 # The Prepared Invasion CB of Norse Heathens - was deleted for the time being
 
 # WARHAMMER CHANGED
-# Pagans can subjugate other pagans
-pagan_subjugation = {
+# Barbarian can subjugate other barbarians
+barbaric_subjugation = {
 	name = CB_NAME_PAGAN_SUBJUGATION
 	war_name = WAR_NAME_PAGAN_SUBJUGATION
 	sprite = 8
@@ -5761,33 +5743,20 @@ pagan_subjugation = {
 	can_use = {
 		ROOT = {
 			OR = {
-				religion_group = norse_group
-				religion_group = greenskin_gods_group
-				religion_group = beastman_gods_group
-				religion_group = chaos_gods_group
+				culture_group = beastman_group
+				culture_group = norscan_group
 			}
-
-			is_reformed_religion = no
 			NOT = { same_realm = FROM }
 			NOT = { is_liege_or_above = FROM }
 			has_horde_culture = no # Should use tribal invasion instead
 		}
 		FROM = {
-			OR = {
-				religion_group = norse_group
-				religion_group = greenskin_gods_group
-				religion_group = beastman_gods_group
-				religion_group = chaos_gods_group
-			}
-			OR = {
-				is_reformed_religion = no
-				is_reformed_religion = ROOT
-			}
+			culture_group = ROOT # we can subjugate people of the same culture only
 			NOT = {
 				any_war = {
 					AND = {
 						defender = { character = FROM }
-						using_cb = pagan_subjugation
+						using_cb = barbaric_subjugation
 					}
 				}
 			}
@@ -6578,7 +6547,7 @@ duchy_adventure = {
 # Caliphs can subjugate people of their own religion
 
 # WARHAMMER CHANGED
-pagan_county_conquest = {
+barbaric_county_conquest = {
 	name = CB_NAME_COUNTY_CONQUEST
 	war_name = WAR_NAME_COUNTY_CONQUEST
 	sprite = 16
@@ -6593,7 +6562,11 @@ pagan_county_conquest = {
 	
 	can_use = {
 		ROOT = {
-			religion_group = pagan_group
+			culture_group = norscan_group
+			culture_group = beastman_group
+			culture_group = kurgan_group
+			culture_group = hung_group
+
 			NOT = { same_realm = FROM }
 		}
 		FROM = {
@@ -6623,14 +6596,12 @@ pagan_county_conquest = {
 				}
 			}
 		}
-		
+		# Norscans can attack non-norsan coastal provinces
 		OR = {
 			AND = {
-				OR = {
-					ROOT = { religion = norse_pagan }
-					ROOT = { religion = norse_pagan_reformed }
-				}
-				FROM = { NOT = { religion_group = pagan_group } }
+				ROOT = { culture_group = norscan_group }
+				ROOT = { religion_group = norse_gods_group}
+				FROM = { NOT = { religion_group = norse_god_group } }
 				location = {
 					port = yes
 				}
@@ -6650,7 +6621,9 @@ pagan_county_conquest = {
 
 	is_valid_title = {
 		ROOT = {
-			religion_group = pagan_group
+			culture_group = norscan_group }
+			religion_group = norse_gods_group}
+
 			NOT = { same_realm = FROM }
 		}
 		FROM = {
@@ -7418,6 +7391,7 @@ other_dejure_county_claim = {
 
 # WARHAMMER CHANGED
 # depose_antipope?
+# TODO
 depose_antipope = {
 	name = CB_NAME_DEPOSE_ANTIPOPE
 	war_name = WAR_NAME_DEPOSE_ANTIPOPE
@@ -7569,6 +7543,7 @@ depose_antipope = {
 }
 
 # WARHAMMER CHANGED
+# TODO
 # Faction cb to install antiking
 cb_install_antiking = {
 	name = CB_NAME_INSTALL_ANTIKING
