@@ -190,3 +190,11 @@ sylvania_bonus_strong = {
 	temple_levy_size = 0.2
 	icon = 6
 }
+
+##########################################################
+# DUEL MODIFIERS
+##########################################################
+battlefield_fight = {
+	monthly_character_prestige = 0.01
+	icon = 1
+}

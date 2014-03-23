@@ -39,6 +39,11 @@
 # 10-19: Triggerning events
 # 20-x:  Reporting events
 #
+#
+# TARGET LOCKING
+# flags: duel_engaged
+# battlefield_fight = modificator for character after duel
+#
 ######################################################
 
 namespce = duelengine
@@ -46,22 +51,663 @@ namespce = duelengine
 # HIDDEN EVENTS FOR MECHANICS 
 #
 #
+# for this event FORM = ROOT?
+
+character_event = { # Battlefield Duel Start
+    id = duelengine.0
+    desc = "Duel starts...."
+    border = "GFX_event_normal_frame_war"
+    picture = GFX_evt_battle
+    
+    is_triggered_only = yes
+    
+    trigger = {
+        NOT = { has_character_modifier = battlefield_fight }
+        #NOT = { culture_group = ? }
+        # Avoid crossing targets
+        OR = {
+            AND = {
+                liege = { war = yes }
+                war = no
+            }
+            AND = {
+                war = yes
+                liege = { 
+                    OR = {
+                        war = no 
+                        character = ROOT
+                    }    
+                }    
+            }
+        }
+        OR = {
+            AND = {
+                is_ruler = yes
+                war = yes
+                any_playable_ruler = {
+                    war_with = ROOT
+                    OR = {
+                        AND = {                        
+                            in_battle = yes
+                            at_location = ROOT
+                            prisoner = no
+                            is_alive = yes        
+                            NOT = { character = ROOT }                        
+                            #NOT = { culture_group = unoccupied_group } FIXME remember about this when we introduce ruins
+                            NOT = { has_character_modifier = battlefield_fight }
+                        }
+                        any_realm_character = {                
+                            in_battle = yes
+                            at_location = ROOT
+                            prisoner = no
+                            is_alive = yes        
+                            NOT = { character = ROOT }
+                            NOT = { has_character_modifier = battlefield_fight }
+                        }
+                    }    
+                }
+            }    
+            AND = {
+                war = no
+                liege = {
+                    any_playable_ruler = {
+                        war_with = PREV
+                        OR = {
+                            AND = {                        
+                                in_battle = yes
+                                at_location = ROOT
+                                prisoner = no
+                                is_alive = yes        
+                                NOT = { character = ROOT }                        
+                                NOT = { has_character_modifier = battlefield_fight }
+                            }
+                            any_realm_character = {                        
+                                in_battle = yes
+                                at_location = ROOT
+                                prisoner = no
+                                is_alive = yes        
+                                NOT = { character = ROOT }
+                                NOT = { has_character_modifier = battlefield_fight }
+                            }
+                        }    
+                    }
+                }
+            }    
+        }
+    }
+    
+    weight_multiplier = {
+        days = 1
+        modifier = {
+            factor = 0.15
+            OR = {
+                trait = back_seat_leader
+                trait = crippled
+            }    
+        }
+        # greater chance for duel of warlike races
+        modifier = {
+            factor = 2
+            OR = {
+                culture_group = orc_group
+                culture_group = ogre_group
+                culture_group = lizardman_group
+                culture_group = beastman_group
+            }
+        }
+        modifier = {
+            factor = 1.5
+            OR = {
+                culture_group = hung_group
+                culture_group = amazon_group
+                culture_group = kurgan_group
+                culture_group = norscan_group
+        culture_group = dwarf_group
+        culture_group = dwarf_chaos_group
+            }
+        }
+
+        modifier = {
+            factor = 3
+            trait = duelist
+        }
+        modifier = {
+            factor = 3
+            trait = brave
+        }
+        modifier = {
+            factor = 3
+            trait = wroth
+        }
+        modifier = {
+            factor = 0.33
+            trait = craven
+        }
+        modifier = {
+            factor = 0.33
+            trait = patient
+        }
+         
+   }
+    
+    immediate = {
+        add_character_modifier = {
+            name = battlefield_fight
+            duration = 10
+        }
+        # Target lock
+        if = {
+            limit = { 
+                war = yes
+                liege = { 
+                    OR = {
+                        war = no 
+                        character = ROOT
+                    }    
+                }
+            }
+            random_playable_ruler = {
+                limit = {
+                    war_with = ROOT
+                    OR = {
+                        AND = {                        
+                            in_battle = yes
+                            at_location = ROOT
+                            prisoner = no
+                            is_alive = yes        
+                            NOT = { character = ROOT }                        
+                            NOT = { has_character_modifier = battlefield_fight }
+                        }
+                        any_realm_character = {                        
+                            in_battle = yes
+                            at_location = ROOT
+                            prisoner = no
+                            is_alive = yes        
+                            NOT = { character = ROOT }
+                            NOT = { trait = dragon_rider }
+                            #NOT = { culture_group = unoccupied_group } FIXME remember about this when we introduce ruins
+                            NOT = { has_character_modifier = battlefield_fight }
+                        }
+                    }
+                }
+                if = {
+                    limit = {
+                        in_battle = yes
+                        at_location = ROOT
+                        prisoner = no
+                        is_alive = yes        
+                        NOT = { character = ROOT }                        
+                        NOT = { has_character_modifier = battlefield_fight }
+                    }
+                    opinion = { who = ROOT modifier = opinion_battle_duel_target }
+                    reverse_opinion = { who = ROOT modifier = opinion_battle_duel_target }
+                }
+                if = {
+                    limit = { NOT = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } } }
+                    random_realm_character = {
+                        limit = {
+                            in_battle = yes
+                            at_location = ROOT
+                            prisoner = no
+                            is_alive = yes        
+                            NOT = { character = ROOT }                        
+                            NOT = { has_character_modifier = battlefield_fight }
+                        }
+                        opinion = { who = ROOT modifier = opinion_battle_duel_target }
+                        reverse_opinion = { who = ROOT modifier = opinion_battle_duel_target }
+                    }
+                }    
+            }
+        }
+        if = {
+            limit = { 
+                war = no
+                liege = { war = yes }                
+            }
+            liege = {
+                random_playable_ruler = {
+                    limit = {
+                        war_with = PREV
+                        OR = {
+                            AND = {                        
+                                in_battle = yes
+                                at_location = ROOT
+                                prisoner = no
+                                is_alive = yes        
+                                NOT = { character = ROOT }                        
+                                NOT = { has_character_modifier = battlefield_fight }
+                            }
+                            any_realm_character = {                        
+                                in_battle = yes
+                                at_location = ROOT
+                                prisoner = no
+                                is_alive = yes        
+                                NOT = { character = ROOT }
+                                NOT = { has_character_modifier = battlefield_fight }
+                            }
+                        }
+                    }
+                    if = {
+                        limit = {
+                            in_battle = yes
+                            at_location = ROOT
+                            prisoner = no
+                            is_alive = yes        
+                            NOT = { character = ROOT }                        
+                            NOT = { has_character_modifier = battlefield_fight }
+                        }
+                        opinion = { who = ROOT modifier = opinion_battle_duel_target }
+                        reverse_opinion = { who = ROOT modifier = opinion_battle_duel_target }
+                    }
+                    if = {
+                        limit = { NOT = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } } }
+                        random_realm_character = {
+                            limit = {
+                                in_battle = yes
+                                at_location = ROOT
+                                prisoner = no
+                                is_alive = yes        
+                                NOT = { character = ROOT }                        
+                                NOT = { has_character_modifier = battlefield_fight }
+                            }
+                            opinion = { who = ROOT modifier = opinion_battle_duel_target }
+                            reverse_opinion = { who = ROOT modifier = opinion_battle_duel_target }
+                        }
+                    }    
+                }
+            }
+        }
+    }
+    # OPTIONS
+    option = {
+        name = "OK"
+        if = {
+            limit = { 
+                war = yes
+                liege = { 
+                    OR = {
+                        war = no 
+                        character = ROOT
+                    }    
+                }                
+            }
+            random_playable_ruler = {
+                limit = { 
+                    war_with = ROOT
+                    OR = {
+                        has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target }    
+                        any_realm_character = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
+                    }    
+                }
+                if = {
+                    limit = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
+                    hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
+                }
+                random_realm_character = {
+                    limit = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
+                    hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
+                }
+            }
+        }
+        if = {
+            limit = { 
+                war = no
+                liege = { war = yes }                
+            }
+            liege = {
+                random_playable_ruler = {
+                    limit = { 
+                        war_with = PREV
+                        OR = {
+                            has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target }    
+                            any_realm_character = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
+                        }    
+                    }
+                    if = {
+                        limit = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
+                        hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
+                    }
+                    random_realm_character = {
+                        limit = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
+                        hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
+                    }
+                }
+            }
+        }
+    }
+}
+#
+# duelengine.1 Defender(target) fight or run?
+#
+character_event = {
+    id = duelengine.1
+    desc = "Duel something"
+    picture = GFX_evt_battle
+    border = "GFX_event_normal_frame_war"
+    is_triggered_only = yes
+    
+    immediate = {
+        add_character_modifier = {
+            name = battlefield_fight
+            duration = 10
+        }
+        # Remove targeting information
+        remove_opinion = { who = FROM modifier = opinion_battle_duel_target }
+        reverse_remove_opinion = { who = FROM modifier = opinion_battle_duel_target }
+    }
+    
+    option = {
+        name = "Fight!"
+        FROM = { character_event = { id = duelengine.2 tooltip = "reacts" } }
+        ai_chance = {
+            factor = 100
+            modifier = {
+                factor = 2
+                trait = poor_warrior
+            }
+            modifier = {
+                factor = 3
+                trait = trained_warrior
+            }
+            modifier = {
+                factor = 6
+                trait = skilled_warrior
+            }
+            modifier = {
+                factor = 8
+                trait = master_warrior
+            }
+            modifier = {
+                factor = 6
+                trait = duelist
+            }
+            modifier = {
+                factor = 6
+                trait = brave
+            }
+            modifier = {
+                factor = 3
+                trait = proud
+            }
+            modifier = {
+                factor = 3
+                trait = wroth
+            }
+            modifier = {
+                factor = 3
+                trait = strong
+            }
+            modifier = {
+                factor = 3
+                trait = tall
+            }
+        }
+    }
+    
+    option = {
+        name = "Run!"
+        hidden_tooltip = { FROM = { character_event = { id = duelengine.5 } } }        
+        remove_character_modifier = battlefield_fight
+        if = {
+            limit = { NOT = { trait = craven } }
+            random = {
+                chance = 25
+                add_trait = craven
+                hidden_tooltip = {
+                    character_event ={
+                        id = 38257 #Notify
+                    }
+                }
+            }    
+        }
+        morale = -0.1
+        ai_chance = {
+            factor = 100
+            modifier = {
+                factor = 2
+                FROM = { trait = poor_warrior }
+            }
+            modifier = {
+                factor = 3
+                FROM = { trait = trained_warrior }
+            }
+            modifier = {
+                factor = 4
+                FROM = { trait = skilled_warrior }
+            }
+            modifier = {
+                factor = 5
+                FROM = { trait = master_warrior }
+            }
+            modifier = {
+                factor = 2
+                FROM = { trait = strong }
+            }
+            modifier = {
+                factor = 2
+                FROM = { trait = tall }
+            }
+            modifier = {
+                factor = 2
+                trait = craven
+            }
+            modifier = {
+                factor = 2
+                trait = paranoid
+            }
+            modifier = {
+                factor = 2
+                trait = weak
+            }
+            modifier = {
+                factor = 2
+                trait = dwarf
+            }
+            modifier = {
+                factor = 2
+                trait = hunchback
+            }
+            modifier = {
+                factor = 2
+                trait = leper
+            }
+            modifier = {
+                factor = 2
+                trait = wounded
+            }
+            modifier = {
+                factor = 4
+                trait = maimed
+            }
+            modifier = {
+                factor = 50
+                trait = crippled
+            }
+        }
+    }
+}
+# 
+# Attacker if attack or no triggered FROM = defender (this trigger duel or no)
+# ROOT = attacker
+character_event = {
+    id = duelengine.2
+    desc = "Fight or not?"
+    picture = GFX_evt_battle
+    border = "GFX_event_normal_frame_war"
+    
+    is_triggered_only = yes
+    
+    # Make a random roll an choose who should start 
+    immediate = {
+       if = { limit = { martial = 5 }  change_variable = { which = "first_strike" value = 1 } }
+       if = { limit = { martial = 7 }  change_variable = { which = "first_strike" value = 1 } }
+       if = { limit = { martial = 10 } change_variable = { which = "first_strike" value = 1 } }
+       if = { limit = { martial = 15 } change_variable = { which = "first_strike" value = 1 } }
+       if = { limit = { martial = 20 } change_variable = { which = "first_strike" value = 1 } }
+       if = { limit = { martial = 25 } change_variable = { which = "first_strike" value = 1 } }
+       if = { limit = { FROM = { martial = 5 } } change_variable = { which = "first_strike" value = -1 } }
+       if = { limit = { FROM = { martial = 7 } } change_variable = { which = "first_strike" value = -1 } }
+       if = { limit = { FROM = { martial = 10 } } change_variable = { which = "first_strike" value = -1 } }
+       if = { limit = { FROM = { martial = 15 } } change_variable = { which = "first_strike" value = -1 } }
+       if = { limit = { FROM = { martial = 20 } } change_variable = { which = "first_strike" value = -1 } }
+       if = { limit = { FROM = { martial = 25 } } change_variable = { which = "first_strike" value = -1 } }
+    }
+    option = {
+        name = "Fight!"
+        # Begin duel
+                # 
+                # but first we have to decide who is first
+                # character_
+                #
+        hidden_tooltip = {
+           FROM = { character_event = { id = duelengine.3 }}
+           character_event = { id = duelengine.3 }
+           #if = {
+           #    limit = { check_variable = { which = "first_strike" value = 3 }
+           #}
+           # FIXME random person starts the fight
+           FROM = { character_event = { id = duelengine.4 } }
+           set_variable = { which = "first_strike" value = 0 }
+        }
+        ai_chance = {
+            factor = 100
+            modifier = {
+                factor = 2
+                trait = poor_warrior
+            }
+            modifier = {
+                factor = 3
+                trait = trained_warrior
+            }
+            modifier = {
+                factor = 4
+                trait = skilled_warrior
+            }
+            modifier = {
+                factor = 5
+                trait = master_warrior
+            }
+            modifier = {
+                factor = 2
+                trait = brave
+            }
+            modifier = {
+                factor = 2
+                trait = proud
+            }
+            modifier = {
+                factor = 1.5
+                trait = wroth
+            }
+            modifier = {
+                factor = 1.5
+                trait = strong
+            }
+            modifier = {
+                factor = 1.5
+                trait = tall
+            }
+        }
+    }
+    # RUN from enemy!
+    option = {
+        name = "Run"
+        hidden_tooltip = { FROM = { character_event = { id = duelengine.5 } } }
+        remove_character_modifier = battlefield_fight
+        if = {
+            limit = { NOT = { trait = craven } }
+            random = {
+                chance = 25
+                add_trait = craven
+                hidden_tooltip = {
+                    character_event ={
+                        id = 38257 #Notify
+                    }
+                }
+            }
+        }
+        morale = -0.1
+        ai_chance = {
+            factor = 100
+            modifier = {
+                factor = 2
+                FROM = { trait = poor_warrior }
+            }
+            modifier = {
+                factor = 3
+                FROM = { trait = trained_warrior }
+            }
+            modifier = {
+                factor = 4
+                FROM = { trait = skilled_warrior }
+            }
+            modifier = {
+                factor = 5
+                FROM = { trait = master_warrior }
+            }
+            modifier = {
+                factor = 2
+                FROM = { trait = strong }
+            }
+            modifier = {
+                factor = 2
+                FROM = { trait = tall }
+            }
+            modifier = {
+                factor = 2
+                trait = craven
+            }
+            modifier = {
+                factor = 2
+                trait = paranoid
+            }
+            modifier = {
+                factor = 2
+                trait = weak
+            }
+            modifier = {
+                factor = 2
+                trait = dwarf
+            }
+            modifier = {
+                factor = 2
+                trait = hunchback
+            }
+            modifier = {
+                factor = 2
+                trait = leper
+            }
+            modifier = {
+                factor = 2
+                trait = wounded
+            }
+            modifier = {
+                factor = 4
+                trait = maimed
+            }
+            modifier = {
+                factor = 50
+                trait = crippled
+            }
+        }
+    }
+}
 
 # Decide who starts first ( event triggered by directly by starting one
 # We assume that FROM - is an enemy 
 #
 #
-character_event = {
-   id = duelengine.1
-   is_triggered_only = yes
-   desc = "The fighting begins starts..."
-   
-}
+#character_event = {
+#   id = duelengine.1
+#   is_triggered_only = yes
+#   desc = "The fighting begins starts..."
+#   
+#}
 
 
 # Set character attributes basing on traits
 character_event = {
-   id = duelengine.2
+   id = duelengine.3
    desc = "should be hidden - decide attributes"
    hide_window = yes
    is_triggered_only = yes
@@ -71,7 +717,7 @@ character_event = {
        # first we determine basic values for each race
        # then modify it according to traits etc
        #
-       # Goblonoids and halflings
+       # Goblinoids and halflings
        if = { 
            limit = { 
                OR = {
@@ -200,7 +846,6 @@ character_event = {
        # Ok now here should be traits bonus but i left them for now
    }    
    # FIXME those lines are for debugign - to be deleted 
-   #option = 
 }
 # Round event
 # 
@@ -217,7 +862,7 @@ character_event = {
 # FROM = defender
 # ROOT = attacker
 character_event = {
-    id = duelengine.3
+    id = duelengine.4
     desc = "should be hidden"
     hide_window = yes
     is_triggered_only = yes
@@ -426,6 +1071,22 @@ character_event = {
                
     }
 }
+#
+# Run report 
+character_event = {
+    id = duelengine.5
+    desc = "Your opponent run away!"
+    picture = GFX_evt_battle
+    border = "GFX_event_normal_frame_war"
+    is_triggered_only = yes
+    
+    option = {
+        name = "Coward!"
+        remove_character_modifier = battlefield_fight
+        morale = 0.1
+    }
+}
+
 # Deciding who is first is done in event triggering the duel
 # This is the event triggered by some battle events etc
 #
@@ -449,6 +1110,8 @@ character_event = {
 character_event = { 
     id = duelengine.20
     desc = "You hit your enemy and injuried him, however gap in your defence let him to hit you."
+    picture = "GFX_evt_duel1"
+    border = GFX_event_normal_frame_war
     is_triggered_only = yes
     
     option = {
@@ -461,6 +1124,8 @@ character_event = {
 character_event = { 
     id = duelengine.21
     desc = "You hit your enemy and injuried him, your masterly defence did not give him occasion to counter."
+    picture = "GFX_evt_duel3"
+    border = GFX_event_normal_frame_war
     is_triggered_only = yes
     
     option = {
@@ -473,6 +1138,8 @@ character_event = {
     id = duelengine.22
     desc = "Your enemy hit you and countered your attack."
     is_triggered_only = yes
+    picture = "GFX_evt_duel4"
+    border = GFX_event_normal_frame_war
     
     option = {
         name = "Fight!"
@@ -484,6 +1151,8 @@ character_event = {
     id = duelengine.23
     desc = "Neither of you was able to hurt the other ."
     is_triggered_only = yes
+    picture = "GFX_evt_duel0"
+    border = GFX_event_normal_frame_war
     
     option = {
         name = "Fight!"
@@ -502,6 +1171,8 @@ character_event = {
     id = duelengine.24
     desc = "You have lost, your enemy was better you die.."
     is_triggered_only = yes
+    picture = "GFX_evt_duel5"
+    border = GFX_event_normal_frame_war
     
     option = {
         name = "Noo...."
@@ -515,6 +1186,8 @@ character_event = {
     id = duelengine.25
     desc = "You have won! The body of your enemy lies before you."
     is_triggered_only = yes
+    picture = "GFX_evt_duel5"
+    border = GFX_event_normal_frame_war
     
     option = {
         name = "Hurray!"
