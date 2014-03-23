@@ -134,5 +134,4 @@ decisions = {
             clr_character_flag = spell_lore_nurgle
         }
     }
-
 }

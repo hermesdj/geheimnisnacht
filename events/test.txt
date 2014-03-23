@@ -204,3 +204,14 @@ character_event = {
     }
 
 }
+
+character_event = {
+    id = test.10
+    desc = "sets spell_in_duel flag"
+    is_triggered_only = yes
+   
+    option = {
+       name = "set it"
+       set_character_flag = spell_in_duel
+    }
+}

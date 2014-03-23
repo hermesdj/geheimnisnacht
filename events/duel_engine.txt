@@ -186,7 +186,7 @@ character_event = { # Battlefield Duel Start
             factor = 0.33
             trait = patient
         }
-   }
+    }
     
     immediate = {
         add_character_modifier = {
@@ -317,6 +317,7 @@ character_event = { # Battlefield Duel Start
     }
     # OPTIONS
     option = {
+        # we assume that there is only one person market with opinion_battle_duel_target
         name = "OK"
         if = {
             limit = { 
@@ -341,7 +342,10 @@ character_event = { # Battlefield Duel Start
                     hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
                 }
                 random_realm_character = {
-                    limit = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
+                    limit = { 
+                        has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target }
+                        NOT = { character = PREV } # random_realm_character can be the ruler itself
+                    } 
                     hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
                 }
             }
@@ -365,7 +369,10 @@ character_event = { # Battlefield Duel Start
                         hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
                     }
                     random_realm_character = {
-                        limit = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
+                        limit = { 
+                            has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target }
+                            NOT = { character = PREV } # random_realm_character can be the ruler itself
+                        }
                         hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
                     }
                 }
@@ -545,7 +552,8 @@ character_event = {
         # Begin duel
         hidden_tooltip = {
            # FIXME random person starts the fight
-           FROM = { character_event = { id = duelengine.4 days = 1 } } # Defender starts the fight
+           # Defender starts the fight (in testing case ai)
+           FROM = { character_event = { id = duelengine.4 days = 1 } }    
         }
         ai_chance = {
             factor = 100
@@ -825,18 +833,24 @@ character_event = {
 # each round it deals "duel_dmg" (variable is set on enemy)
 #
 #
-##Would it be possible for the duelists to focus on either attack or defence?
-##So before each round you'd say "Attack!!" or "Defend!!" 
-##Each option would give you a bonus to one and penalty to the other
-##Just a thought to make it more engaging. 
-##         -Erik
-# FROMFROM = attacker
-# FROM = defender
-# ROOT = attacker
+#Would it be possible for the duelists to focus on either attack or defence?
+#So before each round you'd say "Attack!!" or "Defend!!" 
+#Each option would give you a bonus to one and penalty to the other
+#Just a thought to make it more engaging. 
+#
+#         -Erik
+#
+# Done
+#         -Peter
+#
+# at first rund
+# FROMFROM = defender
+# FROM = attacker
+# ROOT = defender
 character_event = {
     id = duelengine.4
     desc = "The fighting continues... What will be your next move?"
-    hide_window = yes
+    #hide_window = yes
     is_triggered_only = yes
     
     immediate = {
@@ -1017,112 +1031,67 @@ character_event = {
             FROM = { change_variable = { which = "duel_hp" value = -1 } }
         }
         # 13 is the maximal dmg now (doesn't make sense to make it higher)
+    }
+    option = {
+        name = "Never surrender!"
+        # ONLY ONE IF CASE SHOULD FIRE
         # Events in case of death
-        if = {
-            limit = { 
-                # 1 or less hp points - death
-                NOT = { check_variable = { which = "duel_hp" value = 1 }}
-            }
-            set_character_flag = duel_lose
-            # Erik: here is decided what happens to loser
-            random_list = {
-                70 = { character_event = { id = duelengine.24 } } # death
-                30 = { character_event = { id = duelengine.26 } } # wounded but managed to run away
-            }
+        trigger = { 
+            # 1 or less hp points - death
+            NOT = { check_variable = { which = "duel_hp" value = 1 }}
         }
+        # Erik: here is decided what happens to loser
+        hidden_tooltip = {
+        random_list = {
+            70 = { character_event = { id = duelengine.24 } } # death
+            30 = { character_event = { id = duelengine.26 } } # wounded but managed to run away
+        }}
+        ai_chance = { factor = 1 }
+    }
+    option = {
+        name = "I still have a chance! "
         # Now when dmg is done there is time to send report events
         #
         # Both people hit themselves
-        if = {
-            limit = { 
-                NOT = { has_character_flag = duel_lose }
-                FROM = { check_variable = { which = "duel_dmg" value = 1 }}
-                check_variable = { which = "duel_dmg" value = 1 }
-            }
-            character_event = { id = duelengine.20 }
+        trigger = { 
+            check_variable = { which = "duel_hp" value = 1 }
+            FROM = { check_variable = { which = "duel_dmg" value = 1 }}
+            check_variable = { which = "duel_dmg" value = 1 }
         }
-        # You hits your opponent
-        if = {
-            limit = { 
-                NOT = { has_character_flag = duel_lose }
-                
-                FROM = { check_variable = { which = "duel_dmg" value = 1 }}
-                NOT = { check_variable = { which = "duel_dmg" value = 1 }}
-            }
-            character_event = { id = duelengine.21 }
-        }   
+        character_event = { id = duelengine.20 }
+        ai_chance = { factor = 1 }
+    }
+    option = {
+        name = "Fight!"
+        # You hit your opponent
+        trigger = { 
+            check_variable = { which = "duel_hp" value = 1 }
+            FROM = { check_variable = { which = "duel_dmg" value = 1 }}
+            NOT = { check_variable = { which = "duel_dmg" value = 1 }}
+        }
+        character_event = { id = duelengine.21 } 
+    }
+    option = {   
+        name = "I will not yield!"
         # Your opponent hits you   
-        if = {
-            limit = { 
-                NOT = { has_character_flag = duel_lose }
-                NOT = { FROM = { check_variable = { which = "duel_dmg" value = 1 }}}
-                check_variable = { which = "duel_dmg" value = 1 }
-            }
-            character_event = { id = duelengine.22 }
-        }   
+        trigger = { 
+            check_variable = { which = "duel_hp" value = 1 }
+            NOT = { FROM = { check_variable = { which = "duel_dmg" value = 1 }}}
+            check_variable = { which = "duel_dmg" value = 1 }
+        }
+        character_event = { id = duelengine.22 }
+        ai_chance = { factor = 1 }
+    }   
+    option = {
+        name = "Arragh!"
         # Nobody hits
-        if = {
-            limit = { 
-                NOT = { has_character_flag = duel_lose }
-                NOT = { FROM = { check_variable = { which = "duel_dmg" value = 1 }}}
-                NOT = { check_variable = { which = "duel_dmg" value = 1 }}
-            }
-            character_event = { id = duelengine.23 }
+        trigger = {
+            check_variable = { which = "duel_hp" value = 1 }
+            NOT = { FROM = { check_variable = { which = "duel_dmg" value = 1 }}}
+            NOT = { check_variable = { which = "duel_dmg" value = 1 }}
         }
-        # cleaning   
-        set_variable = { which = "duel_dmg" value = 0 }
-        clr_character_flag = duel_lose
-    }
-    #
-    #                        OPTIONS
-    #
-    # Setting fighting stances (and planning other moves)
-    option = {
-        name = "Defend from enemy's hits"
-        trigger = { NOT = { has_character_flag = defend_stance } }
-        
-        clr_character_flag = normal_stance
-        clr_character_flag = attack_stance
-        set_character_flag = defend_stance
-
-        # low hp - higher chances to defend
-        ai_chance = { 
-            factor = 2
-            modifier = {
-                factor = 4
-                NOT = { check_variable = { which = "duel_hp" value = 3 } }
-            }
-            modifier = {
-                factor = 0.5
-                check_variable = { which = "duel_hp" value = 5 }
-            }
-        }
-    }
-    option = {
-        name = "Chaaaarge!!"
-        trigger = { NOT = { has_character_flag = attack_stance } }
-        
-        clr_character_flag = normal_stance
-        set_character_flag = attack_stance
-        clr_character_flag = defend_stance
-
-        # high hp - higher chances to attack
-        ai_chance = { 
-            factor = 2
-            modifier = {
-                factor = 4
-                check_variable = { which = "duel_hp" value = 5 }
-            } 
-        }
-    }
-    option = {
-        name = "Balance your defence and attack"
-        trigger = { NOT = { has_character_flag = normal_stance } }
-       
-        set_character_flag = normal_stance
-        clr_character_flag = attack_stance
-        clr_character_flag = defend_stance
-        ai_chance = { factor = 4 }
+        character_event = { id = duelengine.23 }
+        ai_chance = { factor = 1 }
     }
 }
 #
@@ -1163,32 +1132,101 @@ character_event = {
 #
 # id = 20-x
 #
+# Round draw
 character_event = { 
     id = duelengine.20
     desc = "You hit your enemy and injuried him, however gap in your defence let him to hit you."
     picture = "GFX_evt_duel1"
     border = GFX_event_normal_frame_war
     is_triggered_only = yes
-    
+  
     option = {
-        name = "Fight!"
-        # trigger enemy round
+       name = "Defend from enemy's hits"
+        trigger = { NOT = { has_character_flag = defend_stance } }
+        
+        clr_character_flag = normal_stance
+        clr_character_flag = attack_stance
+        set_character_flag = defend_stance
+
         FROMFROM = { character_event = { id = duelengine.4 }}
+        # low hp - higher chances to defend
+        ai_chance = { 
+            factor = 2
+            modifier = {
+                factor = 4
+                NOT = { check_variable = { which = "duel_hp" value = 3 } }
+            }
+            modifier = {
+                factor = 0.5
+                check_variable = { which = "duel_hp" value = 5 }
+            }
+        }
+    }
+    option = {
+        name = "Chaaaarge!!"
+        trigger = { NOT = { has_character_flag = attack_stance } }
+        
+        clr_character_flag = normal_stance
+        set_character_flag = attack_stance
+        clr_character_flag = defend_stance
+
+        FROMFROM = { character_event = { id = duelengine.4 }}
+        # high hp - higher chances to attack
+        ai_chance = { 
+            factor = 2
+            modifier = {
+                factor = 4
+                check_variable = { which = "duel_hp" value = 5 }
+            } 
+        }
+    }
+    option = {
+        name = "Balance your defence and attack"
+        clr_character_flag = attack_stance
+        clr_character_flag = defend_stance
+        clr_character_flag = normal_stance
+        set_character_flag = normal_stance
+        FROMFROM = { character_event = { id = duelengine.4 }}
+        ai_chance = { factor = 4 }
     }
 }
+# Round your win
 character_event = { 
     id = duelengine.21
     desc = "You hit your enemy and injuried him, your masterly defence did not give him occasion to counter."
     picture = "GFX_evt_duel3"
     border = GFX_event_normal_frame_war
     is_triggered_only = yes
-    
+  
     option = {
-        name = "Fight!"
-        # trigger enemy round
+        name = "Chaaaarge!!"
+        trigger = { NOT = { has_character_flag = attack_stance } }
+        
+        clr_character_flag = normal_stance
+        set_character_flag = attack_stance
+        clr_character_flag = defend_stance
+
         FROMFROM = { character_event = { id = duelengine.4 }}
+        # high hp - higher chances to attack
+        ai_chance = { 
+            factor = 2
+            modifier = {
+                factor = 4
+                check_variable = { which = "duel_hp" value = 5 }
+            } 
+        }
+    }
+    option = {
+        name = "Balance your defence and attack"
+        clr_character_flag = attack_stance
+        clr_character_flag = defend_stance
+        clr_character_flag = normal_stance
+        set_character_flag = normal_stance
+        FROMFROM = { character_event = { id = duelengine.4 }}
+        ai_chance = { factor = 4 }
     }
 }
+# Round lost
 character_event = { 
     id = duelengine.22
     desc = "Your enemy hit you and countered your attack."
@@ -1197,11 +1235,38 @@ character_event = {
     border = GFX_event_normal_frame_war
     
     option = {
-        name = "Fight!"
-        # trigger enemy round
+        name = "Defend from enemy's hits"
+        trigger = { NOT = { has_character_flag = defend_stance } }
+        
+        clr_character_flag = normal_stance
+        clr_character_flag = attack_stance
+        set_character_flag = defend_stance
+
         FROMFROM = { character_event = { id = duelengine.4 }}
+        # low hp - higher chances to defend
+        ai_chance = { 
+            factor = 2
+            modifier = {
+                factor = 4
+                NOT = { check_variable = { which = "duel_hp" value = 3 } }
+            }
+            modifier = {
+                factor = 0.5
+                check_variable = { which = "duel_hp" value = 5 }
+            }
+        }
+    }
+    option = {
+        name = "Balance your defence and attack"
+        clr_character_flag = attack_stance
+        clr_character_flag = defend_stance
+        clr_character_flag = normal_stance
+        set_character_flag = normal_stance
+        FROMFROM = { character_event = { id = duelengine.4 }}
+        ai_chance = { factor = 4 }
     }
 }
+# Round draw
 character_event = { 
     id = duelengine.23
     desc = "Neither of you was able to hurt the other ."
@@ -1210,9 +1275,31 @@ character_event = {
     border = GFX_event_normal_frame_war
     
     option = {
-        name = "Fight!"
-        # trigger enemy round
+        name = "Hit harder!!"
+        trigger = { NOT = { has_character_flag = attack_stance } }
+        
+        clr_character_flag = normal_stance
+        set_character_flag = attack_stance
+        clr_character_flag = defend_stance
+
         FROMFROM = { character_event = { id = duelengine.4 }}
+        # high hp - higher chances to attack
+        ai_chance = { 
+            factor = 2
+            modifier = {
+                factor = 4
+                check_variable = { which = "duel_hp" value = 5 }
+            } 
+        }
+    }
+    option = {
+        name = "Balance your defence and attack"
+        clr_character_flag = attack_stance
+        clr_character_flag = defend_stance
+        clr_character_flag = normal_stance
+        set_character_flag = normal_stance
+        FROMFROM = { character_event = { id = duelengine.4 }}
+        ai_chance = { factor = 4 }
     }
 }
 # in case of death
@@ -1220,7 +1307,7 @@ character_event = {
 ##Should all duels be to the death?
 ##Maybe there should be options to capture
 ##Or maybe to flee if it's not going well?
-##     -Erik
+#     -Erik
 #
 # yes i'am working on it now for testing purpose i will use death :D
 # it is easy moddable
@@ -1257,7 +1344,7 @@ character_event = {
     id = duelengine.26
     desc = "You have lost the duel.. Wounded and weak you managed to escape..."
     is_triggered_only = yes
-    picture = "GFX_evt_battle"
+    picture = GFX_evt_battle
     border = GFX_event_normal_frame_war
     
     option = {
@@ -1287,7 +1374,7 @@ character_event = {
     id = duelengine.27
     desc = "You have won! However your enemy manged to escape!"
     is_triggered_only = yes
-    picture = "GFX_evt_battle"
+    picture = GFX_evt_battle
     border = GFX_event_normal_frame_war
     
     option = {
