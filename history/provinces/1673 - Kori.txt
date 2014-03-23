@@ -1,0 +1,16 @@
+# 1673 Kori
+
+# County Title
+title = c_kori
+
+# Settlements
+max_settlements = 2
+b_kori = castle
+#b_yama = castle
+
+# Misc
+culture = chi_an
+religion = chaos
+
+
+# History

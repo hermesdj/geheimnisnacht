@@ -6,7 +6,7 @@ title = c_langkt_girt
 # Settlements
 max_settlements = 2
 b_turgon = castle
-b_khazid_turgon = castle
+#b_khazid_turgon = castle
 
 # Misc
 culture = dwarf_main

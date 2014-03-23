@@ -1,0 +1,16 @@
+# 489 Olnzar
+
+# County Title
+title = c_olnzar
+
+# Settlements
+max_settlements = 2
+b_olnzarstad = castle
+#b_gayny = temple
+
+# Misc
+culture = dolgan
+religion = chaos
+
+
+# History

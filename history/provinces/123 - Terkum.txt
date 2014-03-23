@@ -7,7 +7,7 @@ title = c_terkum
 max_settlements = 3
 b_terkum = city
 b_tower_of_arfgard = castle
-b_tork_alutal = castle
+#b_tork_alutal = castle
 
 # Misc
 culture = aesling

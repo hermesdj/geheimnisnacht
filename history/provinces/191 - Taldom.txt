@@ -8,7 +8,7 @@ max_settlements = 4
 b_taldom = castle
 b_udachny = city
 b_volosovo = temple
-b_sorsk = city
+#b_sorsk = city
 
 # Misc
 culture = ungol

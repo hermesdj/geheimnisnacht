@@ -7,7 +7,7 @@ title = c_forbannet_skog
 max_settlements = 3
 b_totenheim = castle
 b_argunzol = city
-b_innsvik = city
+#b_innsvik = city
 
 # Misc
 culture = varg

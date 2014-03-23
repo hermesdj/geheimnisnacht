@@ -1,6 +1,6 @@
 
 orc_group = {
-	graphical_culture = westerngfx
+	graphical_culture = greenskinsgfx
 
 	orc_main = {
 		graphical_culture = greenskinsgfx

@@ -7,8 +7,8 @@ title = c_pompadour
 max_settlements = 4
 b_pompadour = castle
 b_ventallac = temple
-b_adrenade = castle
-b_noiredou = temple
+#b_adrenade = castle
+#b_noiredou = temple
 
 # Misc
 culture = breton

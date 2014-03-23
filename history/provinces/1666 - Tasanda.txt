@@ -1,0 +1,16 @@
+# 1666 Tasanda
+
+# County Title
+title = c_tasanda
+
+# Settlements
+max_settlements = 2
+b_tasanda = castle
+b_kitbuq = castle
+
+# Misc
+culture = chi_an
+religion = chaos
+
+
+# History

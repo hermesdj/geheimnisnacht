@@ -14,8 +14,8 @@ add_trait = "gregarious"
 add_trait = "kind"
 add_trait = "honest"
 
-1971.3.7={birth="1971.3.7"}
-2028.12.15={death="2028.12.15"}
+1971.3.7={birth=yes}
+2028.12.15={death=yes}
 }
 
 400001={
@@ -34,13 +34,14 @@ add_trait = "greedy"
 add_trait = "craven"
 
 
-1963.8.10={birth="1963.8.10"}
-2017.6.29={death="2017.6.29"}
+1963.8.10={birth=yes}
+2017.6.29={death=yes}
 }
 
 400002={
-name = "Talbert"
-dynasty = 16006
+name = "Bertrada"
+female = yes
+dynasty = 16086
 culture = middenlander
 religion = ulrican
 military = 7
@@ -51,17 +52,14 @@ learning = 9
 add_trait = "impaler"
 add_trait = "fortune_builder"
 
-
-
-
-1980.8.15={birth="1980.8.15"}
-2042.5.1={death="2042.5.1"}
+1989.8.15={birth=yes}
+2042.5.1={death=yes}
 }
 
 400003={
 name = "Jutte"
 female = yes
-dynasty = 16008
+dynasty = 16058
 culture = middenlander
 religion = ulrican
 military = 10
@@ -75,8 +73,8 @@ add_trait = "cruel"
 add_trait = "wroth"
 add_trait = "tall"
 
-2005.12.16={birth="2005.12.16"}
-2024.2.10={death="2024.2.10"}
+2005.12.16={birth=yes}
+2024.2.10={death=yes}
 }
 
 400004={
@@ -95,8 +93,8 @@ add_trait = "weak"
 add_trait = "temperate"
 add_trait = "chaste"
 
-1961.5.26={birth="1961.5.26"}
-2025.7.5={death="2025.7.5"}
+1961.5.26={birth=yes}
+2025.7.5={death=yes}
 }
 
 400005={
@@ -736,4 +734,259 @@ add_trait = "humble"
 
 2506.12.25={birth=yes}
 2579.4.19={death=yes}
+}
+
+400036={
+name = "Leopold"
+dynasty = 23001
+dna = "cnhgcmbcehh"
+culture = middenlander
+religion = ulrican
+military = 6
+diplomacy = 4
+stewardship = 3
+intrigue = 5
+learning = 3
+add_trait = "midas_touched"
+add_trait = "hedonist"
+2472.1.1={birth=yes}
+2545.4.4={death=yes}
+}
+
+400037={
+name = "Willbrond"
+dynasty = 23001
+dna = "igcmpapooje"
+culture = middenlander
+religion = ulrican
+military = 5
+diplomacy = 1
+stewardship = 5
+intrigue = 4
+learning = 8
+father = 400036
+add_trait = "thrifty_clerk"
+add_trait = "impaler"
+add_trait = "ambitious"
+add_trait = "slothful"
+2503.9.1={birth=yes}
+2568.3.29={death=yes}
+}
+
+400038={
+name = "Kirsten"
+female = yes
+dynasty = 16008
+dna = "chokjfjojpb"
+culture = middenlander
+religion = ulrican
+military = 6
+diplomacy = 4
+stewardship = 3
+intrigue = 3
+learning = 4
+add_trait = "midas_touched"
+add_trait = "shy"
+add_trait = "cynical"
+add_trait = "paranoid"
+add_trait = "wounded"
+2483.3.1={birth=yes}
+2546.5.2={death=yes}
+}
+
+400039={
+name = "Valentin"
+dynasty = 16008
+dna = "hkljhmpiimj"
+culture = middenlander
+religion = ulrican
+military = 4
+diplomacy = 4
+stewardship = 2
+intrigue = 5
+learning = 6
+mother = 400038
+add_trait = "skilled_tactician"
+add_trait = "gardener"
+add_trait = "cynical"
+add_trait = "slothful"
+add_trait = "shy"
+add_trait = "depressed"
+2504.9.1={birth=yes}
+2556.5.24={death=yes}
+}
+
+400040={
+name = "Emil"
+dynasty = 16006
+dna = "nocjlmcibad"
+culture = middenlander
+religion = ulrican
+military = 4
+diplomacy = 3
+stewardship = 6
+intrigue = 6
+learning = 4
+add_trait = "intricate_webweaver"
+add_trait = "arbitrary"
+2476.7.1={birth=yes}
+2541.12.12={death=yes}
+}
+
+400041={
+name = "Catarina"
+female = yes
+dynasty = 16006
+dna = "apdafjihmfm"
+culture = middenlander
+religion = ulrican
+military = 8
+diplomacy = 4
+stewardship = 7
+intrigue = 5
+learning = 0
+father = 400040
+add_trait = "flamboyant_schemer"
+add_trait = "content"
+add_trait = "chaste"
+2501.5.1={birth=yes}
+2565.8.28={death=yes}
+}
+
+
+400042={
+name = "Gabrielle"
+female = yes
+dynasty = 16006
+dna = "mfonkjkdhej"
+culture = middenlander
+religion = sigmarite
+military = 3
+diplomacy = 7
+stewardship = 7
+intrigue = 4
+learning = 5
+father = 400040
+add_trait = "elusive_shadow"
+add_trait = "gardener"
+add_trait = "arbitrary"
+add_trait = "cynical"
+add_trait = "brave"
+add_trait = "depressed"
+2508.3.1={birth=yes}
+2574.8.6={death=yes}
+}
+
+400043={
+name = "Petra"
+female = yes
+dynasty = 16006
+dna = "dhmnccelgcd"
+culture = middenlander
+religion = ulrican
+military = 3
+diplomacy = 4
+stewardship = 2
+intrigue = 2
+learning = 1
+father = 400040
+add_trait = "grey_eminence"
+2519.7.1={birth=yes}
+2569.12.27={death=yes}
+}
+
+400044={
+name = "Lilian"
+dynasty = 16136
+dna = "mdgahomhjhe"
+culture = middenlander
+religion = ulrican
+military = 4
+diplomacy = 5
+stewardship = 2
+intrigue = 4
+learning = 2
+add_trait = "grey_eminence"
+add_trait = "content"
+add_trait = "cruel"
+2474.1.1={birth=yes}
+2536.10.11={death=yes}
+}
+
+400045={
+name = "Frances"
+female = yes
+dynasty = 16136
+dna = "phnpaljjhik"
+culture = middenlander
+religion = ulrican
+military = 8
+diplomacy = 4
+stewardship = 3
+intrigue = 6
+learning = 5
+mother = 400044
+add_trait = "charismatic_negotiator"
+add_trait = "just"
+2498.1.1={birth=yes}
+2562.7.4={death=yes}
+}
+
+400046={
+name = "Heriman"
+dynasty = 16136
+dna = "chilncahled"
+culture = middenlander
+religion = ulrican
+military = 2
+diplomacy = 4
+stewardship = 2
+intrigue = 5
+learning = 2
+mother = 400045
+add_trait = "tough_soldier"
+add_trait = "hunter"
+add_trait = "cynical"
+add_trait = "humble"
+add_trait = "cynical"
+2518.1.1={birth=yes}
+2577.11.21={death=yes}
+}
+
+400047={
+name = "Edric"
+dynasty = 15500
+dna = "okpjegonihi"
+culture = middenlander
+religion = sigmarite
+military = 2
+diplomacy = 7
+stewardship = 2
+intrigue = 3
+learning = 3
+add_trait = "elusive_shadow"
+add_trait = "impaler"
+add_trait = "patient"
+add_trait = "ambitious"
+2394.1.1={birth=yes}
+2434.2.28={death=yes}
+}
+
+400048={
+name = "Wolfgang"
+dynasty = 15500
+dna = "acdoikmnpdh"
+culture = middenlander
+religion = sigmarite
+military = 5
+diplomacy = 7
+stewardship = 4
+intrigue = 1
+learning = 1
+father = 400047
+add_trait = "thrifty_clerk"
+add_trait = "cruel"
+add_trait = "deceitful"
+2427.1.1={birth=yes}
+2584.8.11={death=yes}
 }

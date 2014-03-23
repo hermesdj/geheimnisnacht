@@ -6,7 +6,7 @@ title = c_raeryl
 # Settlements
 max_settlements = 2
 b_raeryl = castle
-b_adung = temple
+#b_adung = temple
 
 # Misc
 culture = bjornling

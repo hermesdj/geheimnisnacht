@@ -8,7 +8,7 @@ max_settlements = 4
 b_staig = castle
 b_ellwangen = temple
 b_ballenhof = city
-b_ahaus = city
+#b_ahaus = city
 
 # Misc
 culture = sollander

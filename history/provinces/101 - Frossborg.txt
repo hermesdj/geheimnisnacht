@@ -7,8 +7,8 @@ title = c_frossborg
 max_settlements = 4
 b_frossborg = castle
 b_asdgard = castle
-b_muniheim = city
-b_tolvik = temple
+#b_muniheim = city
+#b_tolvik = temple
 
 # Misc
 culture = aesling

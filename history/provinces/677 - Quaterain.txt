@@ -7,11 +7,11 @@ title = c_quaterain
 max_settlements = 4
 b_quaterain = castle
 b_mornaisse = city
-b_chablau_le_valiant = castle
-b_treuil = castle
+#b_chablau_le_valiant = castle
+#b_treuil = castle
 
 # Misc
-culture = carcassian
+culture = marcheur
 religion = lady_of_the_lake
 
 

@@ -6,7 +6,7 @@ title = c_uzzintir
 # Settlements
 max_settlements = 2
 b_karak_uzzir = castle
-b_rakkarol = city
+#b_rakkarol = city
 
 # Misc
 culture = lahmian

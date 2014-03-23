@@ -7,7 +7,7 @@ max_settlements = 4
 b_vadna = city
 b_fallagra = city
 b_bronica = city
-b_olvado = castle
+#b_olvado = castle
 
 #Misc
 culture = norteno

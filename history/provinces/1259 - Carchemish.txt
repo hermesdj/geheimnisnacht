@@ -1,0 +1,17 @@
+# 1259 Carchemish
+
+# County Title
+title = c_carchemish
+
+# Settlements
+max_settlements = 3
+b_carchemish = castle
+b_vrilig = city
+#b_rhund = temple
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

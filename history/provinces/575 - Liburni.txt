@@ -6,7 +6,7 @@ title = c_liburni
 # Settlements
 max_settlements = 2
 b_zera = castle
-b_cera_suero = castle
+#b_cera_suero = castle
 
 # Misc
 culture = tobaran

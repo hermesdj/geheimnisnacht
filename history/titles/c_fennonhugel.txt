@@ -10,3 +10,11 @@ liege="d_brachland"
 2145.3.15 = {
 liege="k_stirland"
 }
+
+2500.1.1 = {
+	liege="d_drakenhohenzug"
+}
+
+2500.1.1 = {
+	holder = 350029
+}

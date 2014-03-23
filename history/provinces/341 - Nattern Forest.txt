@@ -7,7 +7,7 @@ title = c_nattern_forest
 max_settlements = 3
 b_zeven = castle
 b_scheer = temple
-b_ostringen = castle
+#b_ostringen = castle
 
 # Misc
 culture = stirlander

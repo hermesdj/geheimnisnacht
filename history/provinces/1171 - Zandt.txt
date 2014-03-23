@@ -7,7 +7,7 @@ title = c_zandt
 max_settlements = 3
 b_zandt = castle
 b_rutten = city
-b_didem = temple
+#b_didem = temple
 
 # Misc
 culture = westerlander

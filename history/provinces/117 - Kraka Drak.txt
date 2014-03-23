@@ -9,8 +9,8 @@ b_kraka_drak = castle
 b_grung_azuddul = city
 b_kazad_eartulum = castle
 b_khazid_ferunaszul = castle
-b_kraka_ieluzud = castle
-b_eragaz_ungor = city
+#b_kraka_ieluzud = castle
+#b_eragaz_ungor = city
 
 # Misc
 culture = dwarf_norse

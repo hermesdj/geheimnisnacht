@@ -8,8 +8,8 @@ max_settlements = 5
 b_karak_gantuk = castle
 b_khazid_hefek = temple
 b_khazid_svarkungor = temple
-b_khazid_azkorn = castle
-b_grung_merik = city
+#b_khazid_azkorn = castle
+#b_grung_merik = city
 
 # Misc
 culture = dwarf_main

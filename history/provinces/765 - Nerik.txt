@@ -6,8 +6,8 @@ title = c_nerik
 # Settlements
 max_settlements = 3
 b_nerik = castle
-b_sakank = city
-b_agmoi = temple
+#b_sakank = city
+#b_agmoi = temple
 
 # Misc
 culture = orc_main

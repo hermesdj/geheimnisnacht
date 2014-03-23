@@ -7,7 +7,7 @@ title = c_karzis
 max_settlements = 3
 b_karzis = castle
 b_karag_firik = city
-b_ungol_brakaram = temple
+#b_ungol_brakaram = temple
 
 # Misc
 culture = dwarf_main

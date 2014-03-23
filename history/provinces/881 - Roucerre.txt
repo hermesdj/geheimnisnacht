@@ -7,8 +7,8 @@ title = c_roucerre
 max_settlements = 4
 b_roucy = castle
 b_douar = city
-b_sandeuse = castle
-b_montair = temple
+#b_sandeuse = castle
+#b_montair = temple
 
 # Misc
 culture = breton

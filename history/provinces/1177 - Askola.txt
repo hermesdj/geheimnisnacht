@@ -1,0 +1,16 @@
+# 1177 Askola
+
+# County Title
+title = c_askola
+
+# Settlements
+max_settlements = 2
+b_askola = castle
+b_sarkela = temple
+
+# Misc
+culture = khazag
+religion = chaos
+
+
+# History

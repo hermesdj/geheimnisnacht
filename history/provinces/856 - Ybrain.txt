@@ -8,7 +8,7 @@ max_settlements = 4
 b_ybrain = castle
 b_tintagel = temple
 b_fiers_du_lac = temple
-b_genoie = city
+#b_genoie = city
 
 # Misc
 culture = gascon

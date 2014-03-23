@@ -7,8 +7,8 @@ title = c_gisoreux_gap
 max_settlements = 4
 b_chateau_desfleuve = castle
 b_verdemont = temple
-b_castenay = castle
-b_vaudenancy = city
+#b_castenay = castle
+#b_vaudenancy = city
 
 # Misc
 culture = gisoren

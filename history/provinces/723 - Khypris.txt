@@ -4,16 +4,17 @@
 title = c_khypris
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 b_khypris = castle
-b_cavanal = city
-b_valendra = temple
-b_philany = castle
-b_keltut = city
+b_maltane = city
+#b_valendra = temple
+#b_philany = castle
+#b_keltut = city
+#b_strigoviste = temple
 
 # Misc
-culture = wissenlander
-religion = sigmarite
+culture = fjarmann
+religion = norse
 
 
 # History

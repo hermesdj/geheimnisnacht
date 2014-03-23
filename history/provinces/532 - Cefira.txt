@@ -8,7 +8,7 @@ b_natula = castle
 b_boroda = temple
 b_cufiza = city
 b_loraro = city
-b_ovenda = castle
+#b_ovenda = castle
 
 #Misc
 culture = galice

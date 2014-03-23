@@ -7,7 +7,7 @@ title = c_the_golinyi
 max_settlements = 3
 b_iaryn = castle
 b_dushyka = city
-b_chazask = temple
+#b_chazask = temple
 
 # Misc
 culture = ropsmann

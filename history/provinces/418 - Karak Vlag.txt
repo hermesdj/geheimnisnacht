@@ -8,8 +8,8 @@ max_settlements = 4
 b_karak_vlag = castle
 b_grung_jirikul = city
 b_kazad_fradum = temple
-b_khazid_yurtim = castle
-b_karak_aghul = castle
+#b_khazid_yurtim = castle
+#b_karak_aghul = castle
 
 # Misc
 culture = dwarf_chaos

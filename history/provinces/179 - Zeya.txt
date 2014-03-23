@@ -6,9 +6,9 @@ title = c_zeya
 # Settlements
 max_settlements = 4
 b_zeya = castle
-b_terek = city
-b_sudzha = temple
-b_semiluki = city
+#b_terek = city
+#b_sudzha = temple
+#b_semiluki = city
 
 # Misc
 culture = ungol

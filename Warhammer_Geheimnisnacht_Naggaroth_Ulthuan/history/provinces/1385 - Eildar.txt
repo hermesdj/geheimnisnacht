@@ -1,0 +1,16 @@
+# 1385 Eildar
+
+# County Title
+title = c_eildar
+
+# Settlements
+max_settlements = 2
+b_eildar = castle
+b_antharin = castle
+
+# Misc
+culture = ghrondari
+religion = cytharai
+
+
+# History

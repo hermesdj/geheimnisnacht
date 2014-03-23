@@ -7,8 +7,8 @@ title = c_karag_dromar
 max_settlements = 4
 b_karag_dromar = castle
 b_mighdal_vongalbarak = temple
-b_karak_hurkumdewal = castle
-b_grung_barrakumzal = city
+#b_karak_hurkumdewal = castle
+#b_grung_barrakumzal = city
 
 # Misc
 culture = dwarf_main

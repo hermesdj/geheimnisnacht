@@ -6,7 +6,7 @@ title = c_kazad_klad
 # Settlements
 max_settlements = 2
 b_kazad_klad = castle
-b_barak_klad_karak = temple
+#b_barak_klad_karak = temple
 
 # Misc
 culture = dwarf_chaos

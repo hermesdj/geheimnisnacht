@@ -7,8 +7,8 @@ title = c_triers
 max_settlements = 4
 b_triers = castle
 b_raveris = city
-b_orsillac = castle
-b_guissans = city
+#b_orsillac = castle
+#b_guissans = city
 
 # Misc
 culture = gisoren

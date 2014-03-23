@@ -8,7 +8,7 @@ max_settlements = 4
 b_portomaggiore = city
 b_amalfo = castle
 b_croscio = temple
-b_pentelone = castle
+#b_pentelone = castle
 
 # Misc
 culture = reman

@@ -1,0 +1,16 @@
+# 1231 Kolim
+
+# County Title
+title = c_kolim
+
+# Settlements
+max_settlements = 2
+b_kolim = castle
+#b_giptumadhor = temple
+
+# Misc
+culture = gharhar
+religion = chaos
+
+
+# History

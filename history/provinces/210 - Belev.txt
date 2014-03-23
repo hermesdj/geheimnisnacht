@@ -7,8 +7,8 @@ title = c_belev
 max_settlements = 4
 b_belev = castle
 b_deghov = city
-b_igerov = temple
-b_resov = city
+#b_igerov = temple
+#b_resov = city
 
 # Misc
 culture = gospodar

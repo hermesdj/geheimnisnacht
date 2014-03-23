@@ -1,0 +1,16 @@
+# 1180 Kharakit
+
+# County Title
+title = c_kharakit
+
+# Settlements
+max_settlements = 2
+b_kharakit = castle
+#b_tel = temple
+
+# Misc
+culture = khazag
+religion = chaos
+
+
+# History

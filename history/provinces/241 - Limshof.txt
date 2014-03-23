@@ -7,7 +7,7 @@ title = c_limshof
 max_settlements = 3
 b_limshof = castle
 b_schuten = city
-b_bramble_hills = castle
+#b_bramble_hills = castle
 
 # Misc
 culture = nordlander

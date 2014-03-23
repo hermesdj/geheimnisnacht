@@ -6,8 +6,8 @@ title = c_fregunerre
 # Settlements
 max_settlements = 3
 b_fregune = castle
-b_montgland = city
-b_saintard = castle
+#b_montgland = city
+#b_saintard = castle
 
 # Misc
 culture = nortagnese

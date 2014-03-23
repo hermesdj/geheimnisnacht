@@ -1,0 +1,17 @@
+# 1117 Bhagar
+
+# County Title
+title = c_bhagar
+
+# Settlements
+max_settlements = 3
+b_bhagar = castle
+b_tjebu = city
+b_rosetau = temple
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

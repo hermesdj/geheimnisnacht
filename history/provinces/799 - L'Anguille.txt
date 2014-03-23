@@ -9,8 +9,8 @@ b_languille = castle
 b_dauphinac = city
 b_cove = temple
 b_cigognac = city
-b_eret = castle
-b_barran = temple
+#b_eret = castle
+#b_barran = temple
 
 # Misc
 culture = nortagnese

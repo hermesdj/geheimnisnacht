@@ -7,8 +7,8 @@ title = c_ungor_bar_indur
 max_settlements = 3
 b_ungor_bar_indur = castle
 b_kazad_indur = city
-b_karak_arond = castle
-b_grung_abrakk = city
+#b_karak_arond = castle
+#b_grung_abrakk = city
 
 # Misc
 culture = goblin_main

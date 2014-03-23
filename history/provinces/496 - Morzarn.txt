@@ -1,0 +1,16 @@
+# 496 Morzarn
+
+# County Title
+title = c_morzarn
+
+# Settlements
+max_settlements = 2
+b_morzarn = castle
+#b_zulrat = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

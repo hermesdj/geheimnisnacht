@@ -7,8 +7,8 @@ title = c_sadrono
 max_settlements = 4
 b_sadrono = castle
 b_strettioni = city
-b_boccata = temple
-b_mododi = castle
+#b_boccata = temple
+#b_mododi = castle
 
 # Misc
 culture = umbrian

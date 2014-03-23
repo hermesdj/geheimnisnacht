@@ -7,7 +7,7 @@ title = c_pelua
 max_settlements = 3
 b_pelua = castle
 b_averza = city
-b_magnando = temple
+#b_magnando = temple
 
 # Misc
 culture = lucian

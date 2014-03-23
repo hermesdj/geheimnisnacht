@@ -5,10 +5,10 @@ title = c_jaols_apex
 
 # Settlements
 max_settlements = 4
-b_jurgen_dys = castle
-b_yurtib = temple
-b_yrlvin = city
 b_jaols_apex = castle
+b_jurgen_dys = castle
+#b_yurtib = temple
+#b_yrlvin = city
 
 # Misc
 culture = varg

@@ -8,7 +8,7 @@ max_settlements = 4
 b_tharravil = castle
 b_gamelin = city
 b_fourier = castle
-b_chateaudreux = castle
+#b_chateaudreux = castle
 
 # Misc
 culture = bourgon

@@ -7,7 +7,7 @@ title = c_arzamas
 max_settlements = 3
 b_arzamas = castle
 b_elista = city
-b_engels = temple
+#b_engels = temple
 
 # Misc
 culture = gospodar

@@ -8,7 +8,7 @@ max_settlements = 4
 b_spurio = castle
 b_laguna = city
 b_santo_allesandro = temple
-b_guardia = castle
+#b_guardia = castle
 
 # Misc
 culture = lucian

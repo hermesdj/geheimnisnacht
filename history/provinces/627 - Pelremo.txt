@@ -6,8 +6,8 @@ title = c_pelremo
 # Settlements
 max_settlements = 3
 b_montag_lok = castle
-b_pelremo = city
-b_caragio = temple
+#b_pelremo = city
+#b_caragio = temple
 
 # Misc
 culture = sartosan_tilean

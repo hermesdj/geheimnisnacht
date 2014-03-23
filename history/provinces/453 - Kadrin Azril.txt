@@ -6,7 +6,7 @@ title = c_kadrin_azril
 # Settlements
 max_settlements = 2
 b_mingol_azril = castle
-b_tergor = city
+#b_tergor = city
 
 # Misc
 culture = dwarf_main

@@ -1,5 +1,5 @@
 950000={
-name = "Konrad" #Konrad von Blutheim, executed in 2011 by witch hunters, fanon Slaanesh worshipper
+name = "Konrad" #Konrad von Blutheim, executed in 2011 by witch hunters, canon Khorne worshipper
 dynasty = 23000 
 culture = wissenlander
 religion = sigmarite
@@ -44,7 +44,7 @@ add_trait="strong"
 
 950002={
 name = "Johann"
-dynasty = 23012
+dynasty = 23072
 culture = wissenlander
 religion = sigmarite
 military = 10
@@ -838,7 +838,7 @@ add_trait = "creature_human"
 950045={
 name = "Jutte"
 female = yes
-dynasty = 23007
+dynasty = 23057
 culture = wissenlander
 religion = sigmarite
 add_trait = "creature_human"
@@ -889,7 +889,8 @@ mother = 950047
 }
 
 950049={
-name = "Ingo"
+name = "Irminburg"
+female = yes
 dynasty = 23017
 culture = wissenlander
 religion = sigmarite
@@ -1306,3 +1307,288 @@ add_trait = "quick"
 2486.4.4={birth=yes}
 2554.7.18={death=yes}
 }
+
+950078={
+name = "Bruno"
+dynasty = 23007
+dna = "kcppfdpnibb"
+culture = wissenlander
+religion = sigmarite
+military = 4
+diplomacy = 2
+stewardship = 6
+intrigue = 6
+learning = 5
+father = 950085
+add_trait = "tough_soldier"
+add_trait = "cruel"
+2506.1.1={birth=yes}
+2528.9.24={death=yes}
+}
+
+950079={
+name = "Ester"
+female = yes
+dynasty = 23007
+dna = "delpmmceikj"
+culture = wissenlander
+religion = sigmarite
+military = 3
+diplomacy = 2
+stewardship = 6
+intrigue = 7
+learning = 0
+father = 950085
+add_trait = "tough_soldier"
+add_trait = "diligent"
+add_trait = "zealous"
+2496.7.1={birth=yes}
+2538.3.7={death=yes}
+}
+
+950080={
+name = "Margret"
+female = yes
+dynasty = 23007
+dna = "nampbkmkfgj"
+culture = wissenlander
+religion = sigmarite
+military = 2
+diplomacy = 8
+stewardship = 8
+intrigue = 5
+learning = 1
+father = 950085
+add_trait = "midas_touched"
+add_trait = "diligent"
+add_trait = "cruel"
+add_trait = "wounded"
+2520.9.1={birth=yes}
+2555.3.11={death=yes}
+}
+
+950081={
+name = "Lukas"
+dynasty = 23007
+dna = "oancoonbgpm"
+culture = wissenlander
+religion = sigmarite
+military = 6
+diplomacy = 2
+stewardship = 3
+intrigue = 1
+learning = 3
+father = 950085
+add_trait = "flamboyant_schemer"
+add_trait = "gregarious"
+add_trait = "brave"
+add_trait = "just"
+add_trait = "humble"
+2512.11.1={birth=yes}
+2567.5.18={death=yes}
+}
+
+950082={
+name = "Manfred"
+dynasty = 23012
+dna = "kmphfihdkml"
+culture = wissenlander
+religion = sigmarite
+military = 8
+diplomacy = 5
+stewardship = 4
+intrigue = 6
+learning = 0
+add_trait = "midas_touched"
+add_trait = "arbitrary"
+add_trait = "envious"
+add_trait = "gregarious"
+add_trait = "cynical"
+2499.7.1={birth=yes}
+2566.7.10={death=yes}
+}
+
+950083={
+name = "Karen"
+female = yes
+dynasty = 23012
+dna = "oehmhncaoge"
+culture = wissenlander
+religion = sigmarite
+military = 5
+diplomacy = 5
+stewardship = 4
+intrigue = 5
+learning = 0
+father = 950082
+add_trait = "fortune_builder"
+add_trait = "ambitious"
+add_trait = "gregarious"
+2518.5.1={birth=yes}
+2576.1.24={death=yes}
+}
+
+950084={
+name = "Ulf"
+dynasty = 23012
+dna = "kmmkhomnllk"
+culture = wissenlander
+religion = sigmarite
+military = 5
+diplomacy = 1
+stewardship = 6
+intrigue = 0
+learning = 2
+father = 950082
+add_trait = "grey_eminence"
+add_trait = "poet"
+add_trait = "humble"
+add_trait = "gregarious"
+2520.9.1={birth=yes}
+2574.1.24={death=yes}
+}
+
+950085={
+name = "Bruno"
+dynasty = 23007
+dna = "mflhhpgocnk"
+culture = wissenlander
+religion = sigmarite
+military = 5
+diplomacy = 7
+stewardship = 5
+intrigue = 3
+learning = 5
+add_trait = "thrifty_clerk"
+add_trait = "slothful"
+add_trait = "kind"
+add_trait = "arbitrary"
+add_trait = "wounded"
+2479.1.1={birth=yes}
+2549.4.22={death=yes}
+}
+
+950086={
+name = "Bruno"
+dynasty = 23007
+dna = "kkjjlkcompk"
+culture = wissenlander
+religion = sigmarite
+military = 6
+diplomacy = 5
+stewardship = 6
+intrigue = 5
+learning = 6
+father = 950085
+add_trait = "elusive_shadow"
+add_trait = "celibate"
+add_trait = "deceitful"
+add_trait = "cruel"
+add_trait = "paranoid"
+2512.1.1={birth=yes}
+2529.12.18={death=yes}
+}
+
+950087={
+name = "Erin"
+female = yes
+dynasty = 23007
+dna = "hogbhblkgpn"
+culture = wissenlander
+religion = sigmarite
+military = 6
+diplomacy = 3
+stewardship = 6
+intrigue = 4
+learning = 6
+father = 950085
+add_trait = "misguided_warrior"
+add_trait = "arbitrary"
+add_trait = "cruel"
+2516.1.1={birth=yes}
+2534.10.27={death=yes}
+}
+
+950088={
+name = "Rena"
+female = yes
+dynasty = 23007
+dna = "hfcgclomedc"
+culture = wissenlander
+religion = sigmarite
+military = 3
+diplomacy = 2
+stewardship = 4
+intrigue = 6
+learning = 4
+father = 950085
+add_trait = "skilled_tactician"
+add_trait = "proud"
+add_trait = "kind"
+add_trait = "shy"
+add_trait = "stressed"
+2519.1.1={birth=yes}
+2554.1.2={death=yes}
+}
+
+950089={
+name = "Vincentus"
+dynasty = 23009
+dna = "lebjgogehng"
+culture = wissenlander
+religion = sigmarite
+military = 7
+diplomacy = 2
+stewardship = 5
+intrigue = 6
+learning = 6
+add_trait = "elusive_shadow"
+add_trait = "hedonist"
+add_trait = "brave"
+add_trait = "honest"
+add_trait = "wounded"
+2477.1.1={birth=yes}
+2535.10.3={death=yes}
+}
+
+950090={
+name = "Niedhart"
+dynasty = 23009
+dna = "pojpbejgpff"
+culture = wissenlander
+religion = sigmarite
+military = 3
+diplomacy = 2
+stewardship = 5
+intrigue = 6
+learning = 0
+father = 950089
+add_trait = "detached_priest"
+add_trait = "hunter"
+add_trait = "brave"
+add_trait = "diligent"
+add_trait = "kind"
+2507.1.1={birth=yes}
+2554.1.9={death=yes}
+}
+
+950091={
+name = "Theodore" #Theodore Bruckner, marshal of Emmanuelle Liebwitz
+dynasty = 23091
+dna = "kmnejcmkjpg"
+culture = reiklander
+religion = sigmarite
+military = 5
+diplomacy = 0
+stewardship = 8
+intrigue = 1
+learning = 1
+add_trait = "skilled_tactician"
+add_trait = "celibate"
+add_trait = "brave"
+add_trait = "honest"
+2465.1.1={birth=yes}
+2500.1.1={employer=950077}
+2535.1.5={death=yes}
+}
+

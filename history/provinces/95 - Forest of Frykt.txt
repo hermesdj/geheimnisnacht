@@ -8,7 +8,7 @@ max_settlements = 4
 b_fryktheim = castle
 b_hraezlaborg = city
 b_tower_of_brykulivum = castle
-b_stormfulle_oya = temple
+#b_stormfulle_oya = temple
 
 # Misc
 culture = aesling

@@ -7,7 +7,7 @@ title = c_limou
 max_settlements = 3
 b_limars = castle
 b_lottes = temple
-b_quernes = castle
+#b_quernes = castle
 
 # Misc
 culture = gascon

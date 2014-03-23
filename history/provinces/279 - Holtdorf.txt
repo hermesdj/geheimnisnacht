@@ -4,11 +4,12 @@
 title = c_holtdorf
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_holtdorf = castle
 b_kehl = city
-b_leonberg = city
-b_boxberg = temple
+#b_leonberg = city
+#b_boxberg = temple
+#b_itzehoe = castle
 
 # Misc
 culture = middenlander

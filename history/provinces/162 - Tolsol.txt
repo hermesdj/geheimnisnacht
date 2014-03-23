@@ -7,7 +7,7 @@ title = c_tolsol
 max_settlements = 3
 b_tolsolvoiska = castle
 b_kamenents = city
-b_stolina = temple
+#b_stolina = temple
 
 # Misc
 culture = ungol

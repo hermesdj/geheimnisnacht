@@ -7,8 +7,8 @@ title = c_forac
 max_settlements = 4
 b_forac = castle
 b_herat = castle
-b_marasque = castle
-b_lillebourg = city
+#b_marasque = castle
+#b_lillebourg = city
 
 # Misc
 culture = carcassian

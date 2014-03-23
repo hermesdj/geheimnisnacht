@@ -1,0 +1,18 @@
+# 1208 Ket
+
+# County Title
+title = c_ket
+
+# Settlements
+max_settlements = 4
+b_ket = castle
+b_shirangol = temple
+#b_oroch = castle
+#b_asen = city
+
+# Misc
+culture = aghol
+religion = chaos
+
+
+# History

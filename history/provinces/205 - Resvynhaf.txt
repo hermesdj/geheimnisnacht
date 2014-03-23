@@ -7,7 +7,7 @@ title = c_resvynhaf
 max_settlements = 3
 b_resvynhaf = castle
 b_irbit = city
-b_glazov = temple
+#b_glazov = temple
 
 # Misc
 culture = gospodar

@@ -1,0 +1,16 @@
+# 1248 Zapad
+
+# County Title
+title = c_zapad
+
+# Settlements
+max_settlements = 2
+b_hurum = castle
+#b_godhor = temple
+
+# Misc
+culture = tokmar
+religion = chaos
+
+
+# History

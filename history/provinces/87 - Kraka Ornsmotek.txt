@@ -7,8 +7,8 @@ title = c_kraka_ornsmotek
 max_settlements = 4
 b_kraka_ornsmotek = castle
 b_kazad_farzud = city
-b_grung_gardul = city
-b_grung_reritstead = castle
+#b_grung_gardul = city
+#b_grung_reritstead = castle
 
 # Misc
 culture = dwarf_norse

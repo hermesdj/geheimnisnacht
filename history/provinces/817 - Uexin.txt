@@ -8,7 +8,7 @@ max_settlements = 4
 b_chateau_uesin = castle
 b_the_weeping_chapel = temple
 b_graalbourg = castle
-b_le_ruy = city
+#b_le_ruy = city
 
 # Misc
 culture = armoric

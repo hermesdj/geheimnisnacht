@@ -7,9 +7,9 @@ title = c_ys
 max_settlements = 5
 b_ys = castle
 b_nez = city
-b_le_mevre = castle
-b_soreil = temple
-b_carnas = temple
+#b_le_mevre = castle
+#b_soreil = temple
+#b_carnas = temple
 
 # Misc
 culture = nortagnese

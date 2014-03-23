@@ -1,0 +1,16 @@
+# 1228 Eiigin
+
+# County Title
+title = c_eiigin
+
+# Settlements
+max_settlements = 2
+b_eiigin = castle
+#b_muroman = temple
+
+# Misc
+culture = gharhar
+religion = chaos
+
+
+# History

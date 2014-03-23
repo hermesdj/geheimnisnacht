@@ -3,10 +3,10 @@
 }
 
 2476.5.10 = {
-liege="k_westerland"
+	liege="k_westerland"
 }
 
 2476.5.10 = {
-	holder = 600155
+	holder = 600166
 }
 

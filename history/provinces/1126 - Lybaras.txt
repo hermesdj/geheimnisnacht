@@ -1,0 +1,18 @@
+# 1126 Lybaras
+
+# County Title
+title = c_lybaras
+
+# Settlements
+max_settlements = 4
+b_lybaras = castle
+b_hykesos = city
+b_ahkbit = temple
+b_taanach = city
+
+# Misc
+culture = kashite
+religion = nehekharan_gods
+
+
+# History

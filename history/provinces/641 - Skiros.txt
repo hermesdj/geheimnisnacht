@@ -7,12 +7,12 @@ title = c_skiros
 max_settlements = 4
 b_mallia = city
 b_karpathos = castle
-b_ctesia = temple
-b_hoplitum = castle
+#b_ctesia = temple
+#b_hoplitum = castle
 
 # Misc
-culture = myken
-religion = classical_gods
+culture = marcheur
+religion = lady_of_the_lake
 
 
 # History

@@ -7,8 +7,8 @@ title = c_khaz_bryn
 max_settlements = 4
 b_khaz_bryn_karaz = castle
 b_karak_bryngil = city
-b_jordikar = temple
-b_ungol_bryni = castle
+#b_jordikar = temple
+#b_ungol_bryni = castle
 
 # Misc
 culture = dwarf_chaos

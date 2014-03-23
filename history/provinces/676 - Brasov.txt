@@ -1,0 +1,18 @@
+# 676 Brasov
+
+# County Title
+title = c_brasov
+
+# Settlements
+max_settlements = 4
+b_brasov = city
+b_eszterhazy = castle
+#b_matyadi = castle
+#b_rakosvar = city
+
+# Misc
+culture = neueslander
+religion = ulrican
+
+
+# History

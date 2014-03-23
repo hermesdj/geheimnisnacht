@@ -7,8 +7,8 @@ title = c_gruyon
 max_settlements = 4
 b_dammartin = temple
 b_soyons = castle
-b_clervais = castle
-b_gruyere = city
+#b_clervais = castle
+#b_gruyere = city
 
 # Misc
 culture = bourgon

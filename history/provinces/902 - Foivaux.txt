@@ -7,8 +7,8 @@ title = c_foivaux
 max_settlements = 4
 b_roncesaille = temple
 b_pax = castle
-b_tarbal = castle
-b_calun = temple
+#b_tarbal = castle
+#b_calun = temple
 
 # Misc
 culture = carcassian

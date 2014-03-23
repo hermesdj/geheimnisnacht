@@ -1,0 +1,18 @@
+# 391 Sopot
+
+# County Title
+title = c_sopot
+
+# Settlements
+max_settlements = 4
+b_sopot = castle
+b_oreshak = city
+#b_loss = temple
+#b_petrevene = city
+
+# Misc
+culture = tahmak
+religion = chaos
+
+
+# History

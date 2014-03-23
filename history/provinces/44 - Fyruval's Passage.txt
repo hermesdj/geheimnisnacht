@@ -7,9 +7,9 @@ title = c_fyruvals_passage
 max_settlements = 5
 b_fyruvalheim = castle
 b_urgutum = castle
-b_morenzal = city
-b_opilium = temple
-b_karaborg = city
+#b_morenzal = city
+#b_opilium = temple
+#b_karaborg = city
 
 # Misc
 culture = varg

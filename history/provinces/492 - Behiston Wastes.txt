@@ -1,0 +1,16 @@
+# 492 Behiston Wastes
+
+# County Title
+title = c_behiston_wastes
+
+# Settlements
+max_settlements = 2
+b_akkar = castle
+#b_bahran = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

@@ -4,12 +4,12 @@
 title = c_grimminhagen
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_grimminhagen = castle
 b_untergard = temple
 b_elze = castle
-b_alzenau = temple
-b_kirn = city
+#b_alzenau = temple
+#b_kirn = city
 
 # Misc
 culture = middenlander

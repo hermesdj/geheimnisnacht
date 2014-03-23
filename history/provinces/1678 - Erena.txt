@@ -1,0 +1,15 @@
+# 1678 Erena
+
+# County Title
+title = c_erena
+
+# Settlements
+max_settlements = 1
+b_erena = castle
+
+# Misc
+culture = chi_an
+religion = chaos
+
+
+# History

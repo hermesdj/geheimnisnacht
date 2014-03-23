@@ -485,8 +485,8 @@ NTitle = {
 	CLAIM_DE_JURE_TITLE_COST_MOD = 0.5,
 	NORMAL_LAW_CHANGE_MONTHS = 60,
 	TITLE_USURP_COOLDOWN_MONTHS = 60,
-	DE_JURE_ASSIMILATION_YEARS = 100,			-- Duchies a under the de facto control of another kingdom will change de jure liege after this many years
-	EMPIRE_DE_JURE_ASSIMILATION_YEARS = 100,	-- Kingdoms under the de facto control of another empire will change de jure liege after this many years
+	DE_JURE_ASSIMILATION_YEARS = 1000,			-- Duchies a under the de facto control of another kingdom will change de jure liege after this many years
+	EMPIRE_DE_JURE_ASSIMILATION_YEARS = 1000,	-- Kingdoms under the de facto control of another empire will change de jure liege after this many years
 	ALLOW_DE_JURE_ASSIMILATION_ANYWHERE = 1,	-- If set to 0, will only assimilate duchy titles which contain the assimilating Kingdom's capital or border existing de jure land of that title
 	REQ_DUCHIES_FOR_KINGDOM_CREATION = 2, 		-- Number of held duchies required to create a kingdom (for rulers who are not already kings or emperors)
 	REQ_KINGDOMS_FOR_EMPIRE_CREATION = 2, 		-- Number of held kingdoms required to create an Empire (for rulers who are not already emperors)
@@ -494,7 +494,10 @@ NTitle = {
 	ENFORCE_ONE_OF_EACH_HOLDING = 1,			-- Require players to build at least one City, Temple and Castle in each province
 	MAX_REPUBLIC_COUNTIES_IN_REALM = 0.1,		-- 10% of a feudal realm is allowed to be under vassal republics (affects title grants)
 	MAX_THEOCRACY_COUNTIES_IN_REALM = 0.1,		-- 10% of a feudal realm is allowed to be under vassal theocracies/bishoprics (affects title grants)
-
+	THEOCRACY_COUNTIES_CAN_BORDER = 1,			-- Can feudal lords create neighboring theocracy counties?
+	REPUBLIC_COUNTIES_CAN_BORDER = 1,				-- Can feudal lords create neighboring republic counties?
+	MIN_REVOKE_MONTHS_AFTER_GRANT = 12,			-- Months that must pass before you can revoke the title off someone you granted it to
+	
 -- Title creation and usurpation requirements	
 	DEJURE_COUNTY_LIMIT_TO_CREATE = 0.51,			-- Fraction of de jure counties that you must control to create a non-imperial title
 	DEJURE_COUNTY_LIMIT_TO_USURP = 0.51,			-- Fraction of de jure counties that you must control to usurp a non-imperial title
@@ -693,6 +696,8 @@ NMilitary = {
 	CAPTURED_CLOSE_MALE_RELATIVE_WAR_SCORE = 5.0,	-- War score for holding a close male relative prisoner
 	CAPTURED_HEIR_WAR_SCORE = 50.0,					-- War score for holding the heir prisoner
 	
+	EVENT_TROOPS_SIZE_MULT = 1.0,							-- Applied to match_mult to determine size of troops spawned from events & history
+	
 	OCCUPATION_PENALTY_MONTHS = 12,					-- This and below are different modifier lengths applied to settlements upon conquest
 	OCCUPATION_PENALTY_MONTHS_DIFFERENT_RELIGION = 90,
 	OCCUPATION_PENALTY_MONTHS_DIFFERENT_RELIGIONGROUP = 180,
@@ -813,6 +818,7 @@ NMilitary = {
 	BOTTLENECK_ATTACKER_MARTIAL_MODIFIER = 1.0,
 	BOTTLENECK_CHANCE_LEADER_CAP = 95,
 	BOTTLENECK_CHANCE_MAX = 100,
+	BOTTLENECK_CHOKE_TROOP_CAP = 300,		-- THIS IS SPARTAAAAAAAAA!!!!
 	
 	CAPITAL_COUNTY_VASSAL_COUNT_LEVY_MULT = 1,	-- Used instead of CAPITAL_COUNTY_LEVY_MULT for vassal counts
 	CAPITAL_COUNTY_VASSAL_LEVY_MULT = 1.25,		-- Used instead of CAPITAL_COUNTY_LEVY_MULT for non-count vassals
@@ -840,8 +846,8 @@ NTechnology = {
 	TRADEPOST_SPREAD_BONUS = 0.002, 			-- Spread from trade posts
 	SPYACTION_SPREAD_BONUS = 0.006,				-- Spread from the target of the study technology spymaster action
 	
-	IDEAL_YEAR_LEVEL_0 = 700, 					-- the chance to get a progress to this level will increase after this date and decrease before it
-	IDEAL_YEAR_LEVEL_8 = 1500,
+	IDEAL_YEAR_LEVEL_0 = 2000, 					-- the chance to get a progress to this level will increase after this date and decrease before it
+	IDEAL_YEAR_LEVEL_8 = 2500,
 	IDEAL_YEAR_AHEAD_PENALTY = -0.2,			-- UNUSED
 	IDEAL_YEAR_AHEAD_PENALTY_INVEST = 0.3,		-- Percent increase in cost pre level ahead of ideal date
 	
@@ -857,7 +863,7 @@ NTechnology = {
 	END_CUL_CATHOLIC    = 5.0,
 	END_REN_CLOSE       = 7.0, -- Tech level at the center of the renaissance
 	END_REN_FAR         = 6.0, -- Tech level on the fringe of the renaissance
-	REN_PROVINCE        = 328, -- Province where the Renaissance is centered
+	REN_PROVINCE        = 222, -- Province where the Renaissance is centered
 	START_MIL_MUSLIM    = 0.5,
 	START_ECO_MUSLIM    = 1.5,
 	START_CUL_MUSLIM    = 1.5,
@@ -919,7 +925,7 @@ NAI =
 	MARRIAGE_AI_PRESTIGE_VALUE = 0.33,						-- Multiplier for how highly AI values prestige when arranging marriages and evaluating marriage offers
 	MAX_KING_TITLES_TO_CREATE = 0,							-- AI will not seek to create/usurp more King-level titles than this (0 for unlimited)
 	MAX_EMPIRE_TITLES_TO_CREATE = 0,						-- AI will not seek to create/usurp more Empire-level titles than this (0 for unlimited)
-	AI_EMPEROR_CREATES_KINGDOMS = 0,						-- If set to 1, AI Emperors will create King-level titles
+	AI_EMPEROR_CREATES_KINGDOMS = 1,						-- If set to 1, AI Emperors will create King-level titles
 	AI_ALWAYS_CREATES_DUCHIES = 0,							-- If set to 1, AI will always create Duchy titles even if it has Gavelkind etc
 	AI_ASSAULT_RATIO = 10,									-- AI will launch assaults at this ratio of attackers to defenders
 	HARD_DIFF_AI_ATTRITION = 0.5,							-- AI attrition multiplier at Hard difficulty
@@ -928,23 +934,23 @@ NAI =
 	BASE_AI_ARMY_SIZE = 10000,								-- Base size that AI will use when forming armies (multiplied by supply tech)
 	DESIRED_CONSORTS = 0,									-- AI will always want at least this many concubines, if they lack sons
 	RAID_MAX_REALM_SIZE = 24,								-- Realms with more holdings than this will never go on Raids
-	RAID_AGGRESSION = 18,									-- General frequency of raids. A LOWER number means more often!
+	RAID_AGGRESSION = 15,									-- General frequency of raids. A LOWER number means more often!
 	RAID_PREP_INV_SPARE_SAME_CULTURE = 1,					-- AI of religions that allow prepared invasions will not raid provinces in their own culture group (to prevent intra-Scandinavian raids)
 	RAID_SPARE_ACCEPTED_RELIGIONS = 1						-- AI will not raid rulers of other religions in the same religion group, unless heresy vs parent religion
 },
 
 NFrontend = 
 {
-	CAMERA_LOOKAT_X = 790.0, 			-- Rotation point in main menu
+	CAMERA_LOOKAT_X = 2590.0, 			-- Rotation point in main menu
 	CAMERA_LOOKAT_Y = 0.0,
 	CAMERA_LOOKAT_Z = 1000.0,
-	CAMERA_LOOKAT_SETTINGS_X = 1400.0,  -- Rotation point in settings
+	CAMERA_LOOKAT_SETTINGS_X = 3200.0,  -- Rotation point in settings
 	CAMERA_LOOKAT_SETTINGS_Y = 0.0,		-- Y is height
 	CAMERA_LOOKAT_SETTINGS_Z = 648.0,
-	CAMERA_START_X = 790.0,				-- Initial position in main menu
+	CAMERA_START_X = 2590.0,				-- Initial position in main menu
 	CAMERA_START_Y = 150.0,				-- Y is height
 	CAMERA_START_Z = 500.0,
-	CAMERA_END_X = 790.0,				-- Move to position in main menu
+	CAMERA_END_X = 2590.0,				-- Move to position in main menu
 	CAMERA_END_Y = 500.0,
 	CAMERA_END_Z = 600.0,
 	CAMERA_MIN_DIST_FOR_ROTATE = 800.0, -- Controlls when rotation starts. When camera is close enought it starts
@@ -960,38 +966,38 @@ NFrontend =
 	
 	CAMERA_SPEED_IN_MENUS = 0.1,
 	
-	FRONTEND_POS_X = 790.0,
+	FRONTEND_POS_X = 2590.0,
 	FRONTEND_POS_Y = 500.0,
 	FRONTEND_POS_Z = 600.0,
-	FRONTEND_LOOK_X = 790.0,
+	FRONTEND_LOOK_X = 2590.0,
 	FRONTEND_LOOK_Y = 0.0,
 	FRONTEND_LOOK_Z = 1000.0,
 	
-	SETTINGS_POS_X = 790.0,
+	SETTINGS_POS_X = 2590.0,
 	SETTINGS_POS_Y = 500.0,
 	SETTINGS_POS_Z = 400.0,
-	SETTINGS_LOOK_X = 1400.0,
+	SETTINGS_LOOK_X = 3200.0,
 	SETTINGS_LOOK_Y = 0.0,		
 	SETTINGS_LOOK_Z = 648.0,
 	
-	MP_OPTIONS_POS_X = 360.0,
+	MP_OPTIONS_POS_X = 2160.0,
 	MP_OPTIONS_POS_Y = 200.0,
 	MP_OPTIONS_POS_Z = 848.0,
-	MP_OPTIONS_LOOK_X = 490.0,
+	MP_OPTIONS_LOOK_X = 2290.0,
 	MP_OPTIONS_LOOK_Y = 0.0,	
 	MP_OPTIONS_LOOK_Z = 1200.0,
 	
-	TUTORIAL_POS_X = 600.0,
+	TUTORIAL_POS_X = 2400.0,
 	TUTORIAL_POS_Y = 150.0,
 	TUTORIAL_POS_Z = 1248.0,
-	TUTORIAL_LOOK_X = 450.0,
+	TUTORIAL_LOOK_X = 2250.0,
 	TUTORIAL_LOOK_Y = 0.0,	
 	TUTORIAL_LOOK_Z = 1398.0,
 	
-	CREDITS_POS_X = 1000.0,
+	CREDITS_POS_X = 2800.0,
 	CREDITS_POS_Y = 200.0,
 	CREDITS_POS_Z = 1308.0,
-	CREDITS_LOOK_X = 900.0,
+	CREDITS_LOOK_X = 2700.0,
 	CREDITS_LOOK_Y = 0.0,	
 	CREDITS_LOOK_Z = 1450.0,
 },

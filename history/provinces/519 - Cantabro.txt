@@ -7,7 +7,7 @@ max_settlements = 4
 b_toragona = castle
 b_requena = city
 b_gorato = city
-b_crezea = castle
+#b_crezea = castle
 
 #Misc
 culture = tigarrese

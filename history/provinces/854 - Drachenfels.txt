@@ -7,11 +7,12 @@ title = c_drachenfels
 max_settlements = 3
 b_castle_drachenfels = castle
 b_hautebad = city
-b_lautenbachzell = city
+#b_lautenbachzell = city
 
 # Misc
-culture = bourgon
-religion = lady_of_the_lake
+culture = reiklander
+religion = sigmarite
+
 
 
 # History

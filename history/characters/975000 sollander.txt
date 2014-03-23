@@ -16,12 +16,13 @@ add_trait = "kind"
 father = 975025
 mother = 975024
 
-1986.10.10={birth="1986.10.10"}
-2058.4.14={death="2058.4.14"}
+1986.10.10={birth=yes}
+2058.4.14={death=yes}
 }
 
 975001={
-name = "Ordulf"
+name = "Marta"
+female = yes
 dynasty = 22009
 culture = sollander
 religion = sigmarite
@@ -38,8 +39,8 @@ add_trait="greedy"
 father = 975025
 mother = 975024
 
-1989.1.7={birth="1989.1.7"}
-2063.11.21={death="2063.11.21"}
+1989.1.7={birth=yes}
+2063.11.21={death=yes}
 }
 
 975002={
@@ -58,14 +59,12 @@ add_trait = "hedonist"
 add_trait = "fortune_builder"
 add_trait="honest"
 add_trait="tall"
-
 father = 975025
 mother = 975024
 
-
-1991.5.30={birth="1991.5.30"}
+1991.5.30={birth=yes}
 2009.2.16 = {add_spouse=500088}
-2058.7.12={death="2058.7.12"}
+2058.7.12={death=yes}
 }
 
 975003={
@@ -375,7 +374,8 @@ father=975019
 }
 
 975017={
-name = "Gustavus"
+name = "Irmele"
+female = yes
 dynasty = 22030
 culture = sollander
 religion = sigmarite
@@ -391,8 +391,8 @@ add_trait="honest"
 
 father=975019
 
-1982.9.12={birth="1982.9.12"}
-2022.8.30={death="2022.8.30"}
+1982.9.12={birth=yes}
+2022.8.30={death=yes}
 }
 
 975018={
@@ -542,4 +542,201 @@ add_trait = "creature_human"
 1963.1.26={birth="1963.1.26"}
 1985.1.15 = {add_spouse=975024}
 2007.10.13={death="2007.10.13"}
+}
+
+975026={
+name = "Frederich"
+dynasty = 23011
+dna = "liakijgbmpg"
+culture = sollander
+religion = sigmarite
+military = 5
+diplomacy = 6
+stewardship = 5
+intrigue = 3
+learning = 3
+add_trait = "naive_appeaser"
+add_trait = "trusting"
+add_trait = "cynical"
+add_trait = "content"
+add_trait = "diligent"
+2500.5.1={birth=yes}
+2539.3.12={death=yes}
+}
+
+975027={
+name = "Gerhild"
+female = yes
+dynasty = 23011
+dna = "dbcniaejnhm"
+culture = sollander
+religion = sigmarite
+military = 4
+diplomacy = 3
+stewardship = 4
+intrigue = 5
+learning = 5
+father = 975026
+add_trait = "detached_priest"
+add_trait = "impaler"
+add_trait = "patient"
+add_trait = "diligent"
+2518.3.1={birth=yes}
+2574.1.30={death=yes}
+}
+
+975028={
+name = "Katarina"
+female = yes
+dynasty = 23010
+dna = "lfgokabhnjg"
+culture = sollander
+religion = sigmarite
+military = 7
+diplomacy = 3
+stewardship = 2
+intrigue = 5
+learning = 4
+add_trait = "fortune_builder"
+add_trait = "poet"
+add_trait = "greedy"
+add_trait = "drunkard"
+2479.11.1={birth=yes}
+2543.5.30={death=yes}
+}
+
+975029={
+name = "Marius"
+dynasty = 23010
+dna = "acbpecmfjpi"
+culture = sollander
+religion = sigmarite
+military = 8
+diplomacy = 3
+stewardship = 8
+intrigue = 1
+learning = 7
+father = 975028
+add_trait = "skilled_tactician"
+add_trait = "craven"
+add_trait = "gregarious"
+add_trait = "wounded"
+2506.11.1={birth=yes}
+2561.9.15={death=yes}
+}
+
+975030={
+name = "Margarete"
+female = yes
+dynasty = 23006
+dna = "icaphbmhnkp"
+culture = sollander
+religion = sigmarite
+military = 5
+diplomacy = 6
+stewardship = 0
+intrigue = 6
+learning = 1
+father = 975031
+add_trait = "indulgent_wastrel"
+add_trait = "humble"
+add_trait = "envious"
+2484.5.1={birth=yes}
+2536.6.11={death=yes}
+}
+
+975031={
+name = "Sigshelden"
+dynasty = 23006
+dna = "khcdjgpealg"
+culture = sollander
+religion = sigmarite
+military = 4
+diplomacy = 5
+stewardship = 1
+intrigue = 6
+learning = 3
+add_trait = "charismatic_negotiator"
+add_trait = "charitable"
+add_trait = "shy"
+add_trait = "kind"
+2458.5.1={birth=yes}
+2503.7.3={death=yes}
+}
+
+975032={
+name = "Carlotta"
+female = yes
+dynasty = 23006
+dna = "eefamjgiekl"
+culture = sollander
+religion = sigmarite
+military = 3
+diplomacy = 3
+stewardship = 5
+intrigue = 3
+learning = 6
+father = 975031
+add_trait = "elusive_shadow"
+2491.7.1={birth=yes}
+2545.8.22={death=yes}
+}
+
+975033={
+name = "Felizitas"
+female = yes
+dynasty = 23006
+dna = "fhaeonpbjgg"
+culture = sollander
+religion = sigmarite
+military = 7
+diplomacy = 3
+stewardship = 3
+intrigue = 0
+learning = 3
+father = 975031
+add_trait = "intricate_webweaver"
+add_trait = "chaste"
+2500.1.1={birth=yes}
+2560.10.13={death=yes}
+}
+
+975034={
+name = "Otthild"
+female = yes
+dynasty = 23006
+dna = "oldicofibko"
+culture = sollander
+religion = sigmarite
+military = 5
+diplomacy = 6
+stewardship = 2
+intrigue = 5
+learning = 4
+mother = 975030
+add_trait = "tough_soldier"
+add_trait = "greedy"
+add_trait = "arbitrary"
+2502.7.1={birth=yes}
+2567.11.26={death=yes}
+}
+
+
+975035={
+name = "Cora"
+female = yes
+dynasty = 1000005
+dna = "kkbfdhbneoi"
+culture = sollander
+religion = sigmarite
+military = 4
+diplomacy = 6
+stewardship = 5
+intrigue = 2
+learning = 5
+mother = 975030
+add_trait = "brilliant_strategist"
+add_trait = "lustful"
+2507.1.1={birth=yes}
+2542.4.9={death=yes}
 }

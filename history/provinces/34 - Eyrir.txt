@@ -7,8 +7,8 @@ title = c_eyrir
 max_settlements = 4
 b_eyrirvik = castle
 b_yetriv = city
-b_qugryl = temple
-b_forgard = castle
+#b_qugryl = temple
+#b_forgard = castle
 
 # Misc
 culture = skaeling

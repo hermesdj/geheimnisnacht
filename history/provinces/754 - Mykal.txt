@@ -7,8 +7,8 @@ title = c_mykal
 max_settlements = 4
 b_mykal = castle
 b_grosus = city
-b_megaport = city
-b_altaeia = temple
+#b_megaport = city
+#b_altaeia = temple
 
 # Misc
 culture = myken

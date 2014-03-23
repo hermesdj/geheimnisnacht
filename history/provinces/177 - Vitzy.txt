@@ -8,7 +8,7 @@ max_settlements = 4
 b_vitzy = castle
 b_miory = city
 b_braslav = temple
-b_tolocin = city
+#b_tolocin = city
 
 # Misc
 culture = ropsmann

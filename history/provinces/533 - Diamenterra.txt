@@ -4,10 +4,10 @@ title = c_diamenterra
 
 #Settlements
 max_settlements = 4
-b_unicata = temple
 b_diamenterra = castle
-b_nerguia = city
-b_cannia = temple
+b_unicata = temple
+#b_nerguia = city
+#b_cannia = temple
 
 #Misc
 culture = obregonese

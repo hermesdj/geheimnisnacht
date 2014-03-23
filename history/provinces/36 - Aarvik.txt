@@ -6,9 +6,9 @@ title = c_aarvik
 # Settlements
 max_settlements = 4
 b_aarvik = castle
-b_skjylr = city
-b_benivik = temple
-b_haaruvol = castle
+#b_skjylr = city
+#b_benivik = temple
+#b_haaruvol = castle
 
 # Misc
 culture = skaeling

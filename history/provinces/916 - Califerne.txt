@@ -6,8 +6,8 @@ title = c_califerne
 max_settlements = 4
 b_santangel = castle
 b_vega_de_mar = temple
-b_castro_de_fe = castle
-b_fortunada = city
+#b_castro_de_fe = castle
+#b_fortunada = city
 
 #Misc
 culture = avilian

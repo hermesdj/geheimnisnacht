@@ -8,13 +8,12 @@ diplomacy = 4
 stewardship = 1
 intrigue = 9
 learning = 10
-add_trait = "hedonist"
-add_trait = "brilliant_strategist"
+add_trait = "intricate_webweaver"
 add_trait="honest"
 add_trait="gregarious"
 add_trait="kind"
-
 1992.4.30={birth=yes}
+2009.3.15 = {add_matrilineal_spouse=5500019}
 2021.12.2={death=yes}
 }
 
@@ -30,10 +29,7 @@ intrigue = 7
 learning = 10
 add_trait = "hunter"
 add_trait = "misguided_warrior"
-
 add_trait="craven"
-
-
 1971.11.12={birth=yes}
 2060.8.10={death=yes}
 }
@@ -48,12 +44,9 @@ diplomacy = 4
 stewardship = 0
 intrigue = 11
 learning = 6
-
 add_trait = "intricate_webweaver"
 add_trait="greedy"
-
 add_trait="tall"
-
 1989.9.29={birth=yes}
 2050.3.25={death=yes}
 }
@@ -112,7 +105,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -128,12 +121,8 @@ diplomacy = 9
 stewardship = 7
 intrigue = 11
 learning = 9
-
 add_trait = "misguided_warrior"
 add_trait="content"
-
-
-
 1985.4.20={birth=yes}
 2045.7.2={death=yes}}
 
@@ -149,10 +138,8 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
 add_trait="trusting"
 add_trait="lustful"
-
 1993.8.3={birth=yes}
 2025.4.10={death=yes}
 }
@@ -169,10 +156,6 @@ intrigue = 11
 learning = 9
 add_trait = "hedonist"
 add_trait = "brilliant_strategist"
-
-add_trait="legit_bastard"
-add_trait="drunkard"
-
 1986.5.30={birth=yes}
 2030.5.13={death=yes}
 }
@@ -189,10 +172,6 @@ intrigue = 5
 learning = 5
 add_trait = "duelist"
 add_trait = "grey_eminence"
-
-add_trait="homosexual"
-add_trait="lisp"
-
 1959.9.12={birth=yes}
 2030.2.19={death=yes}
 }
@@ -209,10 +188,6 @@ intrigue = 6
 learning = 3
 add_trait = "hedonist"
 add_trait = "underhanded_rogue"
-
-
-
-
 1992.9.26={birth=yes}
 2017.12.25={death=yes}
 }
@@ -367,12 +342,8 @@ diplomacy = 3
 stewardship = 1
 intrigue = 5
 learning = 5
-
 add_trait = "midas_touched"
-
 add_trait="kind"
-
-
 1999.11.1={birth=yes}
 2042.6.25={death=yes}
 }
@@ -388,12 +359,48 @@ diplomacy = 0
 stewardship = 6
 intrigue = 7
 learning = 9
+father = 5500020
 add_trait = "mystic"
 add_trait = "scholarly_theologian"
 add_trait="tall"
-add_trait="weak"
-
 1992.1.10={birth="1992.1.10"}
+2009.3.15 = {add_matrilineal_spouse=5500000}
 2045.10.28={death=yes}
 }
 
+5500020={
+name = "Sultan"
+dynasty = 48001
+dna = "jlhddjchllg"
+culture = cophic
+religion = ormazd
+military = 2
+diplomacy = 6
+stewardship = 6
+intrigue = 4
+learning = 4
+add_trait = "thrifty_clerk"
+add_trait = "charitable"
+add_trait = "diligent"
+1928.1.10={birth=yes}
+2006.5.30={death=yes}
+}
+
+5500021={
+name = "Ja'far"
+dynasty = 48002
+dna = "gfgkjkdmgmg"
+culture = cophic
+religion = ormazd
+military = 4
+diplomacy = 3
+stewardship = 2
+intrigue = 1
+learning = 5
+add_trait = "thrifty_clerk"
+add_trait = "celibate"
+add_trait = "arbitrary"
+add_trait = "deceitful"
+1956.5.1={birth=yes}
+2023.8.26={death=yes}
+}

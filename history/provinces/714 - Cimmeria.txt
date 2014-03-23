@@ -7,8 +7,8 @@ title = c_cimmeria
 max_settlements = 4
 b_cherson = castle
 b_kendills_motte = castle
-b_castelbel = city
-b_greshan = temple
+#b_castelbel = city
+#b_greshan = temple
 
 # Misc
 culture = orc_main

@@ -148,7 +148,7 @@ e_reikland = {
 }
 
 e_westerland = {
-	color = { 55 84 237 }
+	color = { 55 124 237 }
 	color2 = { 255 255 255 }
 	
 	title = "EMPEROR"
@@ -182,14 +182,51 @@ e_middenland = {
 	
 	short_name = yes	
 }
-
-d_ragnarhalt = {
-	color = { 90 60 168 }
+		
+k_eagle_confederacy = {
+	color = { 190 190 18 }
 	color2 = { 255 255 255 }
 
-	capital = 70 #Brodhir
+	capital = 675 #Vidovdan
+	
+	title = "PRINCE"
+	title_female = "PRINCESS"
+	
+	short_name = yes
 }
-		
+
+k_northern_border_confederacy = {
+	color = { 170 40 20 }
+	color2 = { 255 255 255 }
+
+	capital = 702 #Brovska
+	
+	title = "PRINCE"
+	title_female = "PRINCESS"
+	
+	short_name = yes
+}
+
+k_sarngul = {
+	color = { 215 124 37 }
+	color2 = { 255 255 255 }
+	
+	capital = 865 #Masserschloss
+	
+	title = "PRINCE"
+	title_female = "PRINCESS"
+}
+
+k_khypria = {
+	color = { 65 94 177 }
+	color2 = { 255 255 255 }
+	
+	capital = 723 #Khypris
+	
+	title = "PRINCE"
+	title_female = "PRINCESS"
+}
+	
 ###Republics
 
 d_ambacht = {
@@ -264,6 +301,22 @@ d_grande_charte = {
 	}
 }		
 		
+k_norvard = {
+	color={ 190 160 60 }
+	color2={ 255 255 255 }
+	
+	capital = 175 #Erengrad	
+	
+	short_name = yes
+	
+	dignity = 200 
+	
+	allow = {
+		always = no
+		is_republic = yes
+	}
+}		
+	
 ###Religious Titles
 
 	k_cult_of_myrmidia = {
@@ -307,7 +360,27 @@ d_grande_charte = {
 	
 		primary = yes
 	
-		dynasty_title_names = no 	
+		dynasty_title_names = no 
+
+		male_names = { 
+			Alric Azram
+			Belgar
+			Durak
+			Einar Esmer
+			Falgrim
+			Gamil Garik Gludred Godric Godfried Grimnar Gurni
+			Holgar Hulfden
+			Johann Josef Jurgen 
+			Kasmir Kazgar Kurgan Kurt 
+			Lothor Luthor 
+			Marius Mordrek Morgrim
+			Siebold Sigfried Sieghard Siegschild Sigmarsen Sighast Sighelden Sigismund Sigmund Sigslieb Skalf Strom Sven Svengin
+			Thorgad Thulfram
+			Ulfar
+			Varmir Vikram Volkmar Volker
+			Wilhelm Wolfgang
+			Yorri
+		}
 	}
 
 	k_cult_of_ulric = {
@@ -330,9 +403,18 @@ d_grande_charte = {
 		primary = yes
 	
 		dynasty_title_names = no
+		
+		male_names = { 
+			Emil
+			Franz
+			Kriestov
+			Ulfred Ulli Ulrich Ulrict
+			Valgeir
+			Wolf Wolfgang Wolfram
+		}
 	}	
 
-	d_cult_of_taal_and_rhya = {
+	k_cult_of_taal_and_rhya = {
 		color={ 50 190 50 }
 		color2={ 220 220 0 }
 	
@@ -679,9 +761,9 @@ e_host_chaos = {
 	
 	capital = 404 #Rakovitska
 	
-	title = "CHAOS_CHAMPION"
-	title_female = "CHAOS_CHAMPION"
-	foa = "CHAOS_CHAMPION_FOA"
+	title = "EVERCHOSEN"
+	title_female = "EVERCHOSEN"
+	foa = "EVERCHOSEN_FOA"
 	short_name = yes
 	
 	religion = chaos
@@ -698,6 +780,7 @@ e_eternal_empire = {
 
 	capital = 553 #Magritta
 	short_name = yes	
+	
 }
 
 
@@ -711,12 +794,15 @@ e_the_empire = {
 	capital = 299 #Altdorf
 	short_name = yes
 	
-
 	k_drakwald = {
 		color = { 60 150 80 }
 		color2 = { 255 255 255 }
 	
-		capital = 270 #Carroburg
+		capital = 267 #Seidewald
+		
+		allow = {
+			always = no
+		}
 	}
 
 	k_solland = {
@@ -724,22 +810,77 @@ e_the_empire = {
 		color2 = { 255 255 255 }
 	
 		capital = 316 #Pfeildorf
+		
+		allow = {
+			always = no
+		}
 	}
 
+	k_lichtenberg = {
+		color = { 15 104 127 }
+		color2 = { 255 255 255 }
+	
+		capital = 674 #Albusdorf
+		
+		allow = {
+			always = no
+		}
+	}
 	k_west_mark = {
 		color = { 100 100 190 }
 		color2 = { 255 255 255 }
 	
 		capital = 886 #Parravon
+		
+		allow = {
+			always = no
+		}
 	}
 
-	k_lichtenburg = {
-		color = { 190 100 50 }
+	k_altdorf = {
+		color = { 200 200 230 }
 		color2 = { 255 255 255 }
-	
-		capital = 688 #Heiligerberg
+		
+		capital = 299 #Altdorf
+		
+		allow = {
+			always = no
+		}
 	}
-
+	
+	k_nuln = {
+		color = { 120 120 120 }
+		color2 = { 255 255 255 }
+		
+		capital = 309 #Nuln
+		
+		allow = {
+			always = no
+		}
+	}
+	
+	k_talabheim = {
+		color = { 200 120 130 }
+		color2 = { 255 255 255 }
+		
+		capital = 330 #Talabheim
+		
+		allow = {
+			always = no
+		}
+	}
+	
+	k_middenheim = {
+		color = { 80 80 150 }
+		color2 = { 255 255 255 }
+		
+		capital = 274 #Middenheim
+		
+		allow = {
+			always = no
+		}
+	}
+	
 	k_reikland = {
 		color = { 250 250 250 }
 		color2 = { 255 255 255 }
@@ -752,8 +893,9 @@ e_the_empire = {
 		varg = "Ríkiland"
 		baersonling = "Ríkiland"
 		skaeling = "Ríkiland"
-		graeling = "Ríkiland"				
-								
+		graeling = "Ríkiland"
+		fjarmann = "Ríkiland"			
+	
 		d_altdorf = {
 			color = { 207 205 246 }
 			color2 = { 255 255 255 }
@@ -761,13 +903,12 @@ e_the_empire = {
 			capital = 299 #Altdorf
 						
 			c_altdorf = {
-				color = { 57 60 133 }
+				color = { 157 160 183 }
 				color2 = { 255 255 255 }
 					
 				b_kaiserliche_palast = {
 				}
 				b_domplatz_bezirk = {
-					pentarchy = yes
 					holy_site = sigmarite
 				}
 				b_reikmarkt = {
@@ -779,6 +920,70 @@ e_the_empire = {
 				b_niederwind = {
 				}
 				b_oberhausen = {
+				}
+				b_konigplatz = {
+				}
+				b_lachsinseldorf = {
+				}
+				b_reikinseldorf = {
+				}
+				b_nordpark = {
+				}
+			}
+			
+			c_geringwald = {
+				color = { 170 170 200 }
+				color2 = { 255 255 255 }
+					
+				b_frederheim = {
+				}
+				b_grossbad = {
+				}
+				b_furtild = {
+				}
+				b_bundesmarkt = {
+				}
+				b_dorchen = {
+				}
+				b_geldrecht = {
+				}
+				b_braunwurt = {
+				}
+			}
+			
+			c_aussenstadt = {
+				color = { 152 140 166 }
+				color2 = { 255 255 255 }
+				
+				b_heiligen = {
+				}	
+				b_gluckshalt = {
+				}
+				b_rechtlich = {
+				}
+				b_autler = {
+				}
+				b_teufelfeuer = {
+				}
+				b_blutroch = {
+				}
+			}
+			
+			c_lichtungmarkt = {
+				color = { 111 120 173 }
+				color2 = { 255 255 255 }
+					
+				b_kaldach = {
+				}
+				b_rottefach = {
+				}
+				b_hochloff = {
+				}
+				b_walfen = {
+				}
+				b_hartsklein = {
+				}
+				b_schlafebild = {
 				}
 			}
 		}
@@ -797,6 +1002,7 @@ e_the_empire = {
 			carcassian = "La Morsure"
 			armoric = "La Morsure"
 			gascon = "La Morsure"
+			marcheur = "La Morsure"
 			
 			c_helmgart = {
 				color = { 146 153 130 }
@@ -855,7 +1061,7 @@ e_the_empire = {
 			}
 		}
 		
-		d_schildermark = {
+		d_uhland = {
 			color = { 217 210 193 }
 			color2 = { 255 255 255 }
 			
@@ -895,6 +1101,8 @@ e_the_empire = {
 				}
 				b_lemgo = {
 				}
+				b_weinheim = {
+				}
 			}
 		}
 		
@@ -924,6 +1132,8 @@ e_the_empire = {
 				color = { 157 189 163 }
 				color2 = { 255 255 255 }
 				
+				b_weissbruck = {
+				}
 				b_rahden = {
 				}
 				b_teuchern = {
@@ -958,8 +1168,6 @@ e_the_empire = {
 				color = { 153 190 130 }
 				color2 = { 255 255 255 }
 				
-				b_weissbruck = {
-				}
 				b_wetzler = {
 				}
 				b_wiehl = {
@@ -1046,11 +1254,11 @@ e_the_empire = {
 			
 			capital = 306 #Dunkelburg
 			
-			c_dunkelberg = {
+			c_dunkelburg = {
 				color = { 187 210 183 }
 				color2 = { 255 255 255 }
 				
-				b_dunkelberg = {
+				b_dunkelburg = {
 				}
 				b_eschwege = {
 				}
@@ -1058,7 +1266,7 @@ e_the_empire = {
 				}
 				b_gemusenbad = {
 				}
-				b_grissenwald = {
+				b_schattental = {
 				}
 			}
 
@@ -1092,6 +1300,7 @@ e_the_empire = {
 		baersonling = "Vestland"
 		skaeling = "Vestland"
 		graeling = "Vestland"	
+		fjarmann = "Vestland"	
 
 		breton = "Vestland"
 		nortagnese = "Vestland"
@@ -1100,7 +1309,8 @@ e_the_empire = {
 		carcassian = "Vestland"
 		gisoren = "Vestland"
 		bourgon = "Vestland"
-		gascon = "Vestland"				
+		gascon = "Vestland"
+		marcheur = "Vestland"	
 
 		d_marienburg = {
 			color = { 10 91 206 }
@@ -1116,6 +1326,7 @@ e_the_empire = {
 			gisoren = "Marenbourg"
 			bourgon = "Marenbourg"
 			gascon = "Marenbourg"
+			marcheur = "Marenbourg"
 
 			c_marienburg = {
 				color = { 107 110 243 }
@@ -1137,13 +1348,29 @@ e_the_empire = {
 				b_guilder_veld = {
 				}
 				b_tempelwijk = {
-				holy_site = manannite
+					holy_site = manannite
 				}
 				b_suiddock = {
 				}
 				b_rijkspoort = {
 				}
 				b_ostmuur = {
+				}
+				b_oudgeldwijk = {
+				}
+				b_doodkanaal = {
+				}
+				b_kruiersmuur = {
+				}
+				b_goudberg = {
+				}
+				b_paleisbuurt = {
+				}
+				b_handelaarmarkt = {
+				}
+				b_noordmuur = {
+				}
+				b_vlakland = {
 				}
 			}			
 		}
@@ -1164,6 +1391,74 @@ e_the_empire = {
 			gascon = "Landes"
 
 
+			c_flainaut = {
+				color = { 137 120 163 }
+				color2 = { 255 255 255 }
+				
+				#Neuotting
+				
+				averlander = "Neuötting"
+				drakwalder = "Neuötting"
+				hochlander = "Neuötting"
+				middenlander = "Neuötting"
+				nordlander = "Neuötting"
+				ostermarker = "Neuötting"
+				ostlander = "Neuötting"
+				reiklander = "Neuötting"
+				sollander = "Neuötting"
+				stirlander = "Neuötting"
+				sylvanian = "Neuötting"
+				talabeclander = "Neuötting"
+				westerlander = "Neuötting"
+				wissenlander = "Neuötting"
+				neueslander = "Neuötting"
+				mootlander = "Neuötting"
+								
+				b_neveutin = {
+
+					averlander = "Neuötting"
+					drakwalder = "Neuötting"
+					hochlander = "Neuötting"
+					middenlander = "Neuötting"
+					nordlander = "Neuötting"
+					ostermarker = "Neuötting"
+					ostlander = "Neuötting"
+					reiklander = "Neuötting"
+					sollander = "Neuötting"
+					stirlander = "Neuötting"
+					sylvanian = "Neuötting"
+					talabeclander = "Neuötting"
+					westerlander = "Neuötting"
+					wissenlander = "Neuötting"
+					neueslander = "Neuötting"
+					mootlander = "Neuötting"
+				}
+				b_gasse = {
+				}
+				b_orsinge = {
+					averlander = "Usingen"
+					drakwalder = "Usingen"
+					hochlander = "Usingen"
+					middenlander = "Usingen"
+					nordlander = "Usingen"
+					ostermarker = "Usingen"
+					ostlander = "Usingen"
+					reiklander = "Usingen"
+					sollander = "Usingen"
+					stirlander = "Usingen"
+					sylvanian = "Usingen"
+					talabeclander = "Usingen"
+					westerlander = "Usingen"
+					wissenlander = "Usingen"
+					neueslander = "Usingen"
+					mootlander = "Usingen"
+				}
+				b_anbruges = {
+				}
+				b_courtriers = {
+				}
+			}
+
 			c_almshoven = {
 				color = { 167 200 253 }
 				color2 = { 255 255 255 }
@@ -1177,8 +1472,6 @@ e_the_empire = {
 				bourgon = "Alsauvre"
 				gascon = "Alsauvre"
 				
-				b_tancred_castle = {
-				}
 				b_almshoven = {
 					breton = "Alsauvre"
 					nortagnese = "Alsauvre"
@@ -1226,33 +1519,33 @@ e_the_empire = {
 				b_ouestaude = {
 				}
 			}
-			
-			c_markenbinnen = {
-				color = { 17 110 199 }
+
+			c_dornhan = {
+				color = { 19 50 149 }
 				color2 = { 255 255 255 }
 
-				breton = "Marchebin"
-				nortagnese = "Marchebin"
-				armoric = "Marchebin"
-				mousillonian = "Marchebin"
-				carcassian = "Marchebin"
-				gisoren = "Marchebin"
-				bourgon = "Marchebin"
-				gascon = "Marchebin"
-				
-				b_markenbinnen = {
-					breton = "Marchebin"
-					nortagnese = "Marchebin"
-					armoric = "Marchebin"
-					mousillonian = "Marchebin"
-					carcassian = "Marchebin"
-					gisoren = "Marchebin"
-					bourgon = "Marchebin"
-					gascon = "Marchebin"
+				breton = "Donjon"
+				nortagnese = "Donjon"
+				armoric = "Donjon"
+				mousillonian = "Donjon"
+				carcassian = "Donjon"
+				gisoren = "Donjon"
+				bourgon = "Donjon"
+				gascon = "Donjon"
+
+				b_fort_karls = {
 				}
-				b_oudesluis = {
+				b_dornhan = {
+					breton = "Donjon"
+					nortagnese = "Donjon"
+					armoric = "Donjon"
+					mousillonian = "Donjon"
+					carcassian = "Donjon"
+					gisoren = "Donjon"
+					bourgon = "Donjon"
+					gascon = "Donjon"
 				}
-				b_wijdenes = {
+				b_sankt_veit = {
 				}
 			}
 		}
@@ -1331,7 +1624,7 @@ e_the_empire = {
 			}			
 		}
 		
-		d_dachstelijkmark = {
+		d_kikkerlandje = {
 			color = { 97 151 246 }
 			color2 = { 255 255 255 }
 			
@@ -1405,33 +1698,33 @@ e_the_empire = {
 				b_halsdorph = {
 				}
 			}
-			
-			c_dornhan = {
-				color = { 19 50 149 }
+
+			c_markenbinnen = {
+				color = { 17 110 199 }
 				color2 = { 255 255 255 }
 
-				breton = "Donjon"
-				nortagnese = "Donjon"
-				armoric = "Donjon"
-				mousillonian = "Donjon"
-				carcassian = "Donjon"
-				gisoren = "Donjon"
-				bourgon = "Donjon"
-				gascon = "Donjon"
-
-				b_fort_karls = {
+				breton = "Marchebin"
+				nortagnese = "Marchebin"
+				armoric = "Marchebin"
+				mousillonian = "Marchebin"
+				carcassian = "Marchebin"
+				gisoren = "Marchebin"
+				bourgon = "Marchebin"
+				gascon = "Marchebin"
+				
+				b_markenbinnen = {
+					breton = "Marchebin"
+					nortagnese = "Marchebin"
+					armoric = "Marchebin"
+					mousillonian = "Marchebin"
+					carcassian = "Marchebin"
+					gisoren = "Marchebin"
+					bourgon = "Marchebin"
+					gascon = "Marchebin"
 				}
-				b_dornhan = {
-					breton = "Donjon"
-					nortagnese = "Donjon"
-					armoric = "Donjon"
-					mousillonian = "Donjon"
-					carcassian = "Donjon"
-					gisoren = "Donjon"
-					bourgon = "Donjon"
-					gascon = "Donjon"
+				b_oudesluis = {
 				}
-				b_sankt_veit = {
+				b_wijdenes = {
 				}
 			}
 			
@@ -1690,7 +1983,8 @@ e_the_empire = {
 			varg = "Norðanland"
 			baersonling = "Norðanland"
 			skaeling = "Norðanland"
-			graeling = "Norðanland"				
+			graeling = "Norðanland"	
+			fjarmann = "Norðanland"				
 			
 		d_steinigkuste = {
 			color = { 17 31 186 }
@@ -1714,9 +2008,11 @@ e_the_empire = {
 				color = { 18 10 193 }
 				color2 = { 255 255 255 }
 				
-				b_fort_schaukeln = {
+				b_mainburg = {
 				}
 				b_schaukeln = {
+				}
+				b_idstein = {
 				}
 			}	
 		}	
@@ -1782,7 +2078,7 @@ e_the_empire = {
 			
 			capital = 240 #Norden
 			
-			c_stavern = {
+			c_luftberg = {
 				color = { 97 130 253 }
 				color2 = { 255 255 255 }
 				
@@ -1842,7 +2138,7 @@ e_the_empire = {
 		}
 			
 		d_salz = {
-			color = { 27 41 206 }
+			color = { 7 91 236 }
 			color2 = { 255 255 255 }
 			
 			capital = 239 #Salzenmund
@@ -1935,7 +2231,8 @@ e_the_empire = {
 			varg = "Austland"
 			baersonling = "Austland"
 			skaeling = "Austland"
-			graeling = "Austland"				
+			graeling = "Austland"
+			fjarmann = "Austland"				
 				
 		d_knochenkuste = {
 			color = { 113 112 138 }
@@ -1956,6 +2253,8 @@ e_the_empire = {
 				b_peine = {
 				}
 				b_quickborn = {
+				}
+				b_werther = {
 				}
 			}
 			
@@ -2222,13 +2521,13 @@ e_the_empire = {
 		capital = 309 #Nuln
 		
 		d_nuln = {
-			color = { 167 121 76 }
+			color = { 127 121 126 }
 			color2 = { 255 255 255 }
 			
 			capital = 309 #Nuln
 			
 			c_nuln = {
-				color = { 137 80 53 }
+				color = { 137 120 153 }
 				color2 = { 255 255 255 }
 			
 				b_festunginsel = {
@@ -2239,28 +2538,93 @@ e_the_empire = {
 				}
 				b_altestadt = {
 				}
+				b_tempel_quarter = {
+					holy_site = sigmarite
+				}
 				b_neuestadt = {
 				}
-				b_tempel_quarter = {
-				pentarchy = yes
-				holy_site = sigmarite
-				}
 				b_westdorf = {
+				}
+				b_seemannsliedplatz = {
+				}
+				b_kaufman_bezirk = {
+				}
+				b_industrielplatz = {
+				}
+				b_weston = {
+				}
+				b_aldigplatz = {
+				}
+				b_universistat = {
+				}
+				b_handelbezirk = {
+				}
+			}
+			
+			c_hinterland = {
+				color = { 110 150 100 }
+				color2 = { 255 255 255 }
+				
+				b_furtzhausen = {
+				}
+				b_brandstadt = {
+				}
+				b_mattersheim = {
+				}
+				b_eschedorf = {
+				}
+				b_wurstheim = {
+				}
+			}
+			
+			c_eidelwiss = {
+				color = { 132 167 135 }
+				color2 = { 255 255 255 }
+				
+				b_konigsdorf = {
+				}
+				b_segeldorf = {
+				}
+				b_bleichdorf = {
+				}
+				b_arschel = {
+				}
+				b_wahnfurt = {
+				}
+				b_kotzenheim = {
+				}
+				b_zecher = {
+				}
+			}
+			
+			c_grotchen = {
+				color = { 155 131 100 }
+				color2 = { 255 255 255 }
+				
+				b_braundorf = {
+				}
+				b_winkelhausen = {
+				}
+				b_armedorf = {
+				}
+				b_amosstein = {
+				}
+				b_biberdorf = {
 				}
 			}
 		}
 		
-		d_wissenberg = {
-			color = { 197 151 126 }
+		d_wissenburg = {
+			color = { 167 165 166 }
 			color2 = { 255 255 255 }
 			
-			capital = 310 #Wissenberg
+			capital = 310 #Wissenburg
 						
-			c_wissenberg = {
-				color = { 161 149 113 }
+			c_wissenburg = {
+				color = { 161 149 155 }
 				color2 = { 255 255 255 }
 				
-				b_wissenberg = {
+				b_wissenburg = {
 				}
 				b_maselhof = {
 				}
@@ -2272,28 +2636,34 @@ e_the_empire = {
 				}
 				b_liebenzall = {
 				}
-			}	
+				b_krauthof = {
+				}
+			}
 
-			c_rohrhausen = {
+			c_grissenwald = {
 				color = { 87 130 123 }
 				color2 = { 255 255 255 }
 				
+				b_grissenwald = {
+				}
 				b_rohrhausen = {
 				}
 				b_grund = {
 				}
 				b_iburg = {
 				}
+				b_arnedorf = {
+				}
 			}
 		}
 
 		d_wissetal = {
-			color = { 97 100 133 }
+			color = { 127 100 133 }
 			color2 = { 255 255 255 }
 			
-			capital = 315 #Thalfang
+			capital = 314 #Wusterberg
 			
-			c_thalfang = {
+			c_sonnefurt = {
 				color = { 147 115 133 }
 				color2 = { 255 255 255 }
 				
@@ -2340,13 +2710,13 @@ e_the_empire = {
 			}	
 		}
 		
-		d_wurmer = {
-			color = { 128 100 93 }
+		d_meissen = {
+			color = { 128 130 100 }
 			color2 = { 255 255 255 }
 			
 			capital = 312 #Wurmgrube
 			
-			c_wurmgrube = {
+			c_meissen = {
 				color = { 87 119 153 }
 				color2 = { 255 255 255 }
 				
@@ -2362,11 +2732,11 @@ e_the_empire = {
 				}
 			}
 			
-			c_derbheim = {
+			c_durbheim = {
 				color = { 167 131 83 }
 				color2 = { 255 255 255 }
 				
-				b_derbheim = {
+				b_durbheim = {
 				}
 				b_hinkend = {
 				}
@@ -2391,14 +2761,14 @@ e_the_empire = {
 			}
 		}
 
-		d_solland = {
-			color = { 157 151 40 }
+		d_pfeildorf = {
+			color = { 148 175 50 }
 			color2 = { 255 255 255 }
 			
 			capital = 316 #Pfeildorf
 			
 			c_pfeildorf = {
-				color = { 187 80 3 }
+				color = { 157 180 3 }
 				color2 = { 255 255 255 }
 				
 				b_pfeildorf = {
@@ -2426,7 +2796,14 @@ e_the_empire = {
 				b_pyrmont = {
 				}
 			}	
-
+		}
+		
+		d_soll = {
+			color = { 237 221 40 }
+			color2 = { 255 255 255 }
+			
+			capital = 319 #Pforzen
+			
 			c_wittenhausen = {
 				color = { 217 140 3 }
 				color2 = { 255 255 255 }
@@ -2494,21 +2871,21 @@ e_the_empire = {
 				}
 			}
 			
-			c_pahl = {
+			c_kroppenleben = {
 				color = { 227 150 173 }
 				color2 = { 255 255 255 }
 				
 				b_pahl = {
 				}
+				b_kroppenleben = {
+				}
 				b_ummenbach = {
 				}
 				b_kolbhugel = {
 				}
-				b_kroppenleben = {
-				}
 			}	
 
-			c_oggel = {
+			c_steingart = {
 				color = { 187 140 123 }
 				color2 = { 255 255 255 }
 				
@@ -2534,8 +2911,103 @@ e_the_empire = {
 		
 		capital = 330 #Talabheim
 		
-		d_karwe = {
-			color = { 237 101 126 }
+		d_talabheim = {
+			color = { 210 51 86 }
+			color2 = { 255 255 255 }
+			
+			capital = 330 #Talabheim
+			
+			c_talabheim = {
+				color = { 177 110 35 }
+				color2 = { 255 255 255 }
+			
+				b_talabheim = {
+				}
+				b_vateresche = {
+				}
+				b_taalgrunhaarwald = {
+					holy_site = sigmarite
+					holy_site = ulrican
+					holy_site = taalite
+				}
+				b_klarfeld = {
+				}
+				b_dankerood = {
+				}
+				b_sumpfrand = {
+				}
+				b_waldfahrt = {
+				}
+				b_erdewerke = {
+				}
+				b_sudensteinbruch = {
+				}
+				b_kratersee = {
+				}
+				b_morrstrecke = {
+				}
+				b_eastadt = {
+				}
+				b_geltwold = {
+				}
+				b_talge = {
+				}
+				b_schwartzehalt = {
+				}
+			}
+			
+			c_tiefenwald = {
+				color = { 163 41 152 }
+				color2 = { 255 255 255 }
+				
+				b_sprotau = {
+				}
+				b_breitblatt = {
+				}
+				b_kutzleben = {
+				}
+				b_grundach = {
+				}
+				b_rotha = {
+				}
+				b_bad_dankerode = {
+				}
+				b_bachra = {
+				}
+				b_bad_tensalza = {
+				}
+				b_koppens = {
+				}
+			}
+						
+			c_talareich = {
+				color = { 134 55 116 }
+				color2 = { 255 255 255 }
+				
+				b_zurin = {
+				}
+				b_talagaad = {
+				}
+				b_harferfahre = {
+				}
+				b_hernhausen = {
+				}
+				b_waldfahrte = {
+				}
+				b_urhausen = {
+				}
+				b_grossreiche = {
+				}
+				b_liebstadt = {
+				}
+				b_krugers_blick_hugel = {
+				}
+			}
+			
+		}		
+		
+		d_vergenland = {
+			color = { 205 111 116 }
 			color2 = { 255 255 255 }
 			
 			capital = 324 #Karwe
@@ -2570,6 +3042,24 @@ e_the_empire = {
 				}
 			}
 			
+			c_ravenstein = {
+				color = { 157 30 3 }
+				color2 = { 255 255 255 }
+				
+				b_ravenstein = {
+				}
+				b_klepzig = {
+				}
+				b_volgen = {
+				}
+				b_guttow = {
+				}
+				b_kortlheim = {
+				}
+				b_priestlicheim = {
+				}
+			}
+			
 			c_kemperbad = {
 				color = { 87 60 53 }
 				color2 = { 255 255 255 }
@@ -2593,33 +3083,35 @@ e_the_empire = {
 			
 			capital = 331 #Kusel
 			
-			c_ravenstein = {
-				color = { 157 30 3 }
+			c_bek = {
+				color = { 127 30 3 }
 				color2 = { 255 255 255 }
 				
-				b_ravenstein = {
+				b_bek = {
 				}
-				b_klepzig = {
+				b_vienau = {
 				}
-				b_volgen = {
+				b_stratenheim = {
 				}
-				b_guttow = {
+				b_ertburg = {
 				}
-				b_kortlheim = {
+				b_kappelburg = {
 				}
-				b_priestlicheim = {
+				b_ahlbeck = {
 				}
 			}
 			
-			c_kahlen_hugeln = {
-				color = { 127 50 73 }
+			c_bratian = {
+				color = { 125 50 54 }
 				color2 = { 255 255 255 }
 				
-				b_florstadt = {
+				b_bratian = {
 				}
-				b_hayingen = {
+				b_grunwald = {
 				}
-				b_nabburg = {
+				b_meskirch = {
+				}
+				b_rudesheim = {
 				}
 			}
 			
@@ -2638,38 +3130,53 @@ e_the_empire = {
 			}			
 		}
 		
-		d_talabheim = {
-			color = { 210 51 86 }
+		d_grossenwald = {
+			color = { 237 31 52 }
 			color2 = { 255 255 255 }
 			
-			capital = 330 #Talabheim
+			capital = 334 #Farlic
 			
-			c_talabheim = {
-				color = { 177 110 35 }
+			c_farlic_hills = {
+				color = { 195 15 93 }
 				color2 = { 255 255 255 }
-			
-				b_talabheim = {
+				
+				b_obelheim = {
 				}
-				b_vateresche = {
+				b_horno = {
 				}
-				b_klarfeld = {
-					pentarchy = yes
-					holy_site = sigmarite
-					holy_site = ulrican
+				b_badau = {
 				}
-				b_dankerood = {
-				}
-				b_sprotau = {
-				}
-				b_talagaad = {
-				}
-				b_waldfahrt = {
+				b_geiseltal = {
 				}
 			}
-		}		
+			
+			c_kolsa_hills = {
+				color = { 217 55 33 }
+				color2 = { 255 255 255 }
+				
+				b_dorlesk = {
+				}
+				b_seuthes = {
+				}
+				b_meyenburg = {
+				}
+			}
+			
+			c_barren_hills = {
+				color = { 127 50 73 }
+				color2 = { 255 255 255 }
+				
+				b_florstadt = {
+				}
+				b_hayingen = {
+				}
+				b_nabburg = {
+				}
+			}
+		}
 		
-		d_grossenwald = {
-			color = { 227 101 152 }
+		d_talumfang = {
+			color = { 173 41 62 }
 			color2 = { 255 255 255 }
 			
 			capital = 329 #Kolpin
@@ -2698,7 +3205,7 @@ e_the_empire = {
 				
 				b_hermdorf = {
 				}
-				b_ragenhof = {
+				b_rangenhof = {
 				}
 				b_gostahof = {
 				}
@@ -2728,76 +3235,10 @@ e_the_empire = {
 				}
 			}
 		}
-		
-		d_farlic = {
-			color = { 250 70 106 }
-			color2 = { 255 255 255 }
-			
-			capital = 333 #Bek
-			
-			c_bek = {
-				color = { 127 30 3 }
-				color2 = { 255 255 255 }
-				
-				b_bek = {
-				}
-				b_vienau = {
-				}
-				b_stratenheim = {
-				}
-				b_ertburg = {
-				}
-				b_kappelburg = {
-				}
-				b_ahlbeck = {
-				}
-			}
-			
-			c_farlic_hills = {
-				color = { 145 15 93 }
-				color2 = { 255 255 255 }
-				
-				b_obelheim = {
-				}
-				b_horno = {
-				}
-				b_badau = {
-				}
-				b_geiseltal = {
-				}
-			}
-			
-			c_bratian = {
-				color = { 125 50 54 }
-				color2 = { 255 255 255 }
-				
-				b_bratian = {
-				}
-				b_grunwald = {
-				}
-				b_meskirch = {
-				}
-				b_rudesheim = {
-				}
-			}
-			
-			c_kolsa_hugel = {
-				color = { 217 55 33 }
-				color2 = { 255 255 255 }
-				
-				b_dorlesk = {
-				}
-				b_seuthes = {
-				}
-				b_meyenburg = {
-				}
-			}
-		}
-		
 	}		
 	
 	k_averland = {
-		color = { 240 250 30 }
+		color = { 240 220 30 }
 		color2 = { 255 255 255 }
 		
 		capital = 357 #Averheim
@@ -2826,63 +3267,10 @@ e_the_empire = {
 				}
 				b_hemmor = {
 				}
-			}
-			
-			c_loningbruck = {
-				color = { 187 170 3 }
-				color2 = { 255 255 255 }
-				
-				b_loningbruck = {
-				}
-				b_agheiten = {
-				}
-				b_hammelburg = {
-				}
-				b_geseke = {
-				}
-			}	
-
-			c_hochslehen = {
-				color = { 100 123 43 }
-				color2 = { 255 255 255 }
-				
-				b_hochslehen = {
-				}
-				b_bruel = {
-				}
-			}
-		}
-
-		d_martig = {
-			color = { 197 210 3 }
-			color2 = { 255 255 255 }
-			
-			capital = 353 #Lengenfeld
-			
-			c_lengenfeld = {
-				color = { 207 215 153 }
-				color2 = { 255 255 255 }
-				
-				b_lengenfeld = {
-				}
-				b_ahrensburg = {
-				}
-				b_bayreuth = {
+				b_tannfeld = {
 				}
 			}
 			
-			c_calmfahre = {
-				color = { 217 190 63 }
-				color2 = { 255 255 255 }
-				
-				b_calmfahre = {
-				}
-				b_baruth = {
-				}
-				b_grunsfeld = {
-				}
-			}	
-
 			c_streissen = {
 				color = { 197 200 103 }
 				color2 = { 255 255 255 }
@@ -2894,71 +3282,8 @@ e_the_empire = {
 				b_kerpen = {
 				}
 				b_romrod = {
-				}			
-			}
-			
-			c_wuppertal = {
-				color = { 205 250 93 }
-				color2 = { 255 255 255 }
-				
-				b_wuppertal = {
 				}
-				b_rhens = {
-				}
-				b_sehnde = {
-				}
-				b_vellberg = {
-				}			
-			}
-		}
-		
-		d_pferdmark = {
-			color = { 237 210 33 }
-			color2 = { 255 255 255 }
-			
-			capital = 363 #Essing
-			
-			c_grenzstadt = {
-				color = { 217 210 103 }
-				color2 = { 255 255 255 }
-				
-				b_grenzstadt = {
-				}
-				b_lobenstein = {
-				}
-				b_betzenstein = {
-				}
-				b_franzburg = {
-				}
-				b_ichenhausen = {
-				}
-			}
-			
-			c_essing = {
-				color = { 241 250 33 }
-				color2 = { 255 255 255 }
-				
-				b_essing = {
-				}
-				b_zell = {
-				}
-				b_peungzig = {
-				}
-				b_dietfurt = {
-				}
-			}	
-
-			c_ingelfingen = {
-				color = { 131 123 33 }
-				color2 = { 255 255 255 }
-				
-				b_ingelfingen = {
-				}
-				b_hemau = {
-				}
-				b_garbsen = {
-				}
-				b_rhon = {
+				b_siegenhausen = {
 				}			
 			}
 			
@@ -2976,9 +3301,146 @@ e_the_empire = {
 				}			
 			}
 		}
+
+		d_martig = {
+			color = { 197 170 3 }
+			color2 = { 255 255 255 }
+			
+			capital = 353 #Lengenfeld
+			
+			c_lengenfeld = {
+				color = { 207 175 123 }
+				color2 = { 255 255 255 }
+				
+				b_lengenfeld = {
+				}
+				b_ahrensburg = {
+				}
+				b_bayreuth = {
+				}
+				b_gebenbach = {
+				}
+				b_mantel = {
+				}
+			}
+			
+			c_colmfahre = {
+				color = { 217 190 63 }
+				color2 = { 255 255 255 }
+				
+				b_colmfahre = {
+				}
+				b_baruth = {
+				}
+				b_grunsfeld = {
+				}
+				b_volsbach = {
+				}
+				b_thann = {
+				}
+			}	
+
+			c_longingbruck = {
+				color = { 187 170 3 }
+				color2 = { 255 255 255 }
+				
+				b_longingbruck = {
+				}
+				b_agbeiten = {
+				}
+				b_hammelburg = {
+				}
+				b_geseke = {
+				}
+			}	
+
+			c_wuppertal = {
+				color = { 205 250 93 }
+				color2 = { 255 255 255 }
+				
+				b_wuppertal = {
+				}
+				b_rhens = {
+				}
+				b_sehnde = {
+				}
+				b_vellberg = {
+				}	
+				b_muhlfeld = {
+				}			
+			}
+		}
+		
+		d_pferdmark = {
+			color = { 237 210 33 }
+			color2 = { 255 255 255 }
+			
+			capital = 363 #Pfunzig
+			
+			c_grenzstadt = {
+				color = { 217 210 103 }
+				color2 = { 255 255 255 }
+				
+				b_grenzstadt = {
+				}
+				b_lobenstein = {
+				}
+				b_betzenstein = {
+				}
+				b_franzburg = {
+				}
+				b_ichenhausen = {
+				}
+			}
+			
+			c_hocheleben = {
+				color = { 100 123 43 }
+				color2 = { 255 255 255 }
+				
+				b_hocheleben = {
+				}
+				b_bruel = {
+				}
+				b_spalt = {
+				}
+				b_kulz = {
+				}
+			}
+			
+			c_pfungzig = {
+				color = { 241 250 33 }
+				color2 = { 255 255 255 }
+				
+				b_essing = {
+				}
+				b_pfungzig = {
+				}
+				b_zell = {
+				}
+				b_dietfurt = {
+				}
+				b_hutten = {
+				}
+			}	
+
+			c_niebelwald = {
+				color = { 131 123 33 }
+				color2 = { 255 255 255 }
+				
+				b_ingelfingen = {
+				}
+				b_hemau = {
+				}
+				b_garbsen = {
+				}
+				b_rhon = {
+				}			
+			}
+			
+		}
 	
 		d_achteraver = {
-			color = { 180 150 45 }
+			color = { 150 150 75 }
 			color2 = { 255 255 255 }
 			
 			capital = 388 #Falkenhaus
@@ -3063,12 +3525,12 @@ e_the_empire = {
 		}
 		
 		d_griffonwald = {
-			color = { 134 41 146 }
+			color = { 134 41 196 }
 			color2 = { 255 255 255 }
 			
 			capital = 339 #Menshenfresserhoffen
 			
-			c_griffonwald = {
+			c_rugenbuttle = {
 				color = { 150 45 160 }
 				color2 = { 255 255 255 }
 				
@@ -3311,11 +3773,11 @@ e_the_empire = {
 				}
 			}		
 			
-			c_worden = {
+			c_wordern = {
 				color = { 98 150 13 }
 				color2 = { 255 255 255 }
 				
-				b_worden = {
+				b_wordern = {
 				}
 				b_nussbach = {
 				}
@@ -3360,6 +3822,8 @@ e_the_empire = {
 				}
 				b_niedling = {
 				}
+				b_rohrwald = {
+				}
 			}	
 
 			c_hundsheimerwald = {
@@ -3373,6 +3837,8 @@ e_the_empire = {
 				b_vorderbergen = {
 				}
 				b_zipf = {
+				}
+				b_thalheim = {
 				}
 			}	
 		}
@@ -3461,15 +3927,17 @@ e_the_empire = {
 				}
 			}
 
-			c_elster = {
+			c_leedleton = {
 				color = { 87 150 23 }
 				color2 = { 255 255 255 }
 				
-				b_elster = {
+				b_leedleton = {
 				}
-				b_itzehoe = {
+				b_tottletop = {
 				}
-				b_gernsbach = {
+				b_fernfeld = {
+				}
+				b_wurzelnschilf = {
 				}
 			}
 		}
@@ -3485,8 +3953,6 @@ e_the_empire = {
 				color2 = { 255 255 255 }
 				
 				b_sauerapfel = {
-				}
-				b_dreiflussen = {
 				}
 				b_bieswang = {
 				}
@@ -3522,6 +3988,8 @@ e_the_empire = {
 				}
 				b_eberbach = {
 				}
+				b_dreiflussen = {
+				}
 			}
 		}
 	}
@@ -3535,13 +4003,13 @@ e_the_empire = {
 
 
 		d_carroburg = {
-			color = { 27 160 173 }
+			color = { 27 100 173 }
 			color2 = { 255 255 255 }
 			
 			capital = 270 #Carroburg
 								
 			c_scheinfeld = {
-				color = { 27 150 143 }
+				color = { 27 100 143 }
 				color2 = { 255 255 255 }
 				
 				b_scheinfeld = {
@@ -3555,7 +4023,7 @@ e_the_empire = {
 			}
 						
 			c_carroburg = {
-				color = { 47 160 183 }
+				color = { 47 100 183 }
 				color2 = { 255 255 255 }
 				
 				b_carroburg = {
@@ -3567,6 +4035,8 @@ e_the_empire = {
 				b_arenshausen = {
 				}
 				b_barenfahre = {
+				}
+				b_schongau = {
 				}
 			}
 		}
@@ -3612,17 +4082,6 @@ e_the_empire = {
 				}
 			}
 			
-			c_isenbuttel = {
-				color = { 18 120 123 }
-				color2 = { 255 255 255 }
-				
-				b_isenbuttel = {
-				}
-				b_fintel = {
-				}
-				b_basdahl = {
-				}
-			}
 		}
 		
 		d_kristal = {
@@ -3644,57 +4103,20 @@ e_the_empire = {
 				b_beengendereichhornchensdorf = {
 				}
 			}
-
-			c_mittelwig = {
-				color = { 50 150 163 }
+	
+			c_isenbuttel = {
+				color = { 58 150 173 }
 				color2 = { 255 255 255 }
 				
-				b_mittelwig = {
+				b_isenbuttel = {
 				}
-				b_brockel = {
+				b_fintel = {
 				}
-				b_guthugel = {
-				}
-				b_kupfengrube = {
-				}
-			}			
-		}
-		
-		d_nordlichturm = {
-			color = { 77 71 190 }
-			color2 = { 255 255 255 }
-			
-			capital = 271 #Schongau
-			
-			c_schongau = {
-				color = { 19 23 189 }
-				color2 = { 255 255 255 }
-				
-				b_schongau = {
-				}
-				b_torgelow = {
-				}
-				b_viernheim = {
-				}
-				b_welzheim = {
-				}
-			}
-			
-			c_werther = {
-				color = { 32 71 203 }
-				color2 = { 255 255 255 }
-				
-				b_werther = {
-				}
-				b_weinheim = {
-				}
-				b_idstein = {
-				}
-				b_mainburg = {
+				b_basdahl = {
 				}
 			}
 		}
-		
+				
 		d_middenheim = {
 			color = { 37 51 170 }
 			color2 = { 255 255 255 }
@@ -3711,15 +4133,65 @@ e_the_empire = {
 				}
 				b_ulricsmund = {
 					holy_site = ulrican
+					holy_site = sigmarite
 				}
 				b_altmarkt = {
 				}
 				b_neumarkt = {
 				}
-				b_the_freiburg = {
-					holy_site = sigmarite
+				b_freiburg = {
 				}
 				b_sudengarten = {
+				}
+				b_nordgarten = {
+				}
+				b_altquartier = {
+				}
+				b_wynd = {
+				}
+				b_geldmund = {
+				}
+				b_kaufseit = {
+				}
+				b_brotkopfs = {
+				}
+				b_osttor = {
+				}
+				b_westtor = {
+				}
+			}
+			
+			c_nordlichturm = {
+				color = { 32 71 203 }
+				color2 = { 255 255 255 }
+				
+				b_norderingen = {
+				}
+				b_arenburg = {
+				}
+				b_elsterweld = {
+				}
+				b_warrenburg = {
+				}
+				b_lindenheim = {
+				}
+			}
+			
+			c_suderende = {
+				color = { 32 71 203 }
+				color2 = { 255 255 255 }
+				
+				b_jagerhausen = {
+				}
+				b_schoninghagen = {
+				}
+				b_grevenfeld = {
+				}
+				b_immelscheld = {
+				}
+				b_hunxe = {
+				}
+				b_holzbeck = {
 				}
 			}
 		}
@@ -3768,6 +4240,8 @@ e_the_empire = {
 				}
 				b_elsfleth = {
 				}
+				b_gernsbach = {
+				}
 			}
 			
 			c_grimminhagen = {
@@ -3783,6 +4257,20 @@ e_the_empire = {
 				b_alzenau = {
 				}
 				b_kirn = {
+				}
+			}
+			
+			c_mittelwig = {
+				color = { 50 150 163 }
+				color2 = { 255 255 255 }
+				
+				b_mittelwig = {
+				}
+				b_brockel = {
+				}
+				b_guthugel = {
+				}
+				b_kupfengrube = {
 				}
 			}
 		}
@@ -3805,6 +4293,8 @@ e_the_empire = {
 				}
 				b_boxberg = {
 				}
+				b_itzehoe = {
+				}
 			}
 			
 			c_bad_hohne = {
@@ -3819,6 +4309,8 @@ e_the_empire = {
 				}
 				b_schoppendorf = {
 				}
+				b_viernheim = {
+				}
 			}			
 			
 			c_coburg = {
@@ -3828,6 +4320,8 @@ e_the_empire = {
 				b_coburg = {
 				}
 				b_osterwiecke = {
+				}
+				b_welzheim = {
 				}
 			}	
 			
@@ -3843,6 +4337,8 @@ e_the_empire = {
 				}
 				b_esens = {
 				}
+				b_torgelow = {
+				}
 			}
 						
 			c_ahlenhof = {
@@ -3856,6 +4352,8 @@ e_the_empire = {
 				b_tussenhof = {
 				}
 				b_luthorst = {
+				}
+				b_elster = {
 				}
 			}	
 									
@@ -3883,6 +4381,8 @@ e_the_empire = {
 				}
 				b_bergsburg = {
 				}
+				b_esk = {
+				}
 				b_garssen = {
 				}
 				b_ahresdorf = {
@@ -3891,25 +4391,6 @@ e_the_empire = {
 				}
 			}	
 			
-			c_bergendorf = {
-				color = { 55 150 100 }
-				color2 = { 255 255 255 }
-				
-				b_bergendorf = {
-				}
-				b_esk = {
-				}
-				b_laubach = {
-				}
-			}	
-		}
-		
-		d_korver = {
-			color = { 82 141 46 }
-			color2 = { 255 255 255 }
-			
-			capital = 292 #Hergig
-						
 			c_heedenhof = {
 				color = { 29 200 98 }
 				color2 = { 255 255 255 }
@@ -3921,7 +4402,14 @@ e_the_empire = {
 				b_flaschfurt = {
 				}
 			}	
-
+		}
+		
+		d_korver = {
+			color = { 82 141 46 }
+			color2 = { 255 255 255 }
+			
+			capital = 292 #Hergig
+						
 			c_igelhugel = {
 				color = { 109 203 134 }
 				color2 = { 255 255 255 }
@@ -3961,6 +4449,16 @@ e_the_empire = {
 				b_dunstigfort = {
 				}
 			}	
+			
+			c_bergendorf = {
+				color = { 55 150 100 }
+				color2 = { 255 255 255 }
+				
+				b_bergendorf = {
+				}
+				b_laubach = {
+				}
+			}
 		}
 		
 		d_susspeise = {
@@ -4009,7 +4507,7 @@ e_the_empire = {
 	}
 	
 	k_sylvania = {
-		color = { 120 30 130 }
+		color = { 100 40 130 }
 		color2 = { 255 255 255 }
 		
 		capital = 386 #Drakenhof
@@ -4076,7 +4574,7 @@ e_the_empire = {
 		}
 
 		d_verbogenwald = {
-			color = { 107 60 153 }
+			color = { 57 20 153 }
 			color2 = { 255 255 255 }
 			
 			capital = 382 #Waldenhof
@@ -4233,12 +4731,14 @@ e_the_empire = {
 
 
 e_bretonnia = {
-	color = { 200 201 12 }
+	color = { 240 231 12 }
 	color2 = { 255 255 255 }
 	
 	capital = 810 #Couronne
 
-
+	title = "KING"
+	title_female = "QUEEN"		
+	
 	k_cuileux = {
 		color = { 87 230 8 }
 		color2 = { 255 255 255 }
@@ -4255,20 +4755,19 @@ e_bretonnia = {
 	
 	
 	k_couronne = {
-		color = { 120 110 210 }
+		color = { 200 5 5 }
 		color2 = { 255 255 255 }
 		
 		capital = 810 #Couronne
 		
-		
 		d_normagne = {
-			color = { 127 91 236 }
+			color = { 227 50 2 }
 			color2 = { 255 255 255 }
 			
 			capital = 808 #Normagne
 						
 			c_tintannil = {
-				color = { 87 80 123 }
+				color = { 247 10 63 }
 				color2 = { 255 255 255 }
 				
 				b_tintannil = {
@@ -4282,7 +4781,7 @@ e_bretonnia = {
 			}
 						
 			c_normagne = {
-				color = { 17 30 183 }
+				color = { 217 30 83 }
 				color2 = { 255 255 255 }
 				
 				b_tourroux = {
@@ -4296,7 +4795,7 @@ e_bretonnia = {
 			}
 						
 			c_dun = {
-				color = { 87 80 223 }
+				color = { 187 20 13 }
 				color2 = { 255 255 255 }
 				
 				b_dun = {
@@ -4310,7 +4809,7 @@ e_bretonnia = {
 			}
 			
 			c_chantillon = {
-				color = { 117 100 163 }
+				color = { 217 10 11 }
 				color2 = { 255 255 255 }
 				
 				b_chantillon = {
@@ -4325,13 +4824,13 @@ e_bretonnia = {
 		}
 		
 		d_couronne = {
-			color = { 127 111 186 }
+			color = { 187 10 16 }
 			color2 = { 255 255 255 }
 			
 			capital = 810 #Couronne
 						
 			c_couronne = {
-				color = { 127 110 223 }
+				color = { 203 10 23 }
 				color2 = { 255 255 255 }
 				
 				b_hauteville = {
@@ -4351,7 +4850,7 @@ e_bretonnia = {
 			}
 						
 			c_langreuil = {
-				color = { 127 180 223 }
+				color = { 231 30 53 }
 				color2 = { 255 255 255 }
 				
 				b_langreuil = {
@@ -4365,7 +4864,7 @@ e_bretonnia = {
 			}		
 			
 			c_nesleaux = {
-				color = { 127 80 193 }
+				color = { 200 80 36 }
 				color2 = { 255 255 255 }
 				
 				b_nesle = {
@@ -4380,13 +4879,13 @@ e_bretonnia = {
 		}	
 			
 		d_quierzy = {
-			color = { 97 131 196 }
+			color = { 197 31 46 }
 			color2 = { 255 255 255 }
 			
 			capital = 805 #Rouard
 						
 			c_rouard = {
-				color = { 127 180 223 }
+				color = { 227 80 93 }
 				color2 = { 255 255 255 }
 				
 				b_rouard = {
@@ -4400,7 +4899,7 @@ e_bretonnia = {
 			}
 						
 			c_eux = {
-				color = { 157 123 190 }
+				color = { 152 23 10 }
 				color2 = { 255 255 255 }
 				
 				b_hendaye = {
@@ -4446,75 +4945,13 @@ e_bretonnia = {
 		}
 
 		d_la_marche = {
-			color = { 177 151 246 }
+			color = { 57 51 146 }
 			color2 = { 255 255 255 }
 			
 			capital = 218 #Tancred
-						
-			c_flainaut = {
-				color = { 137 120 163 }
-				color2 = { 255 255 255 }
 
-				averlander = "Neuötting"
-				drakwalder = "Neuötting"
-				hochlander = "Neuötting"
-				middenlander = "Neuötting"
-				nordlander = "Neuötting"
-				ostermarker = "Neuötting"
-				ostlander = "Neuötting"
-				reiklander = "Neuötting"
-				sollander = "Neuötting"
-				stirlander = "Neuötting"
-				sylvanian = "Neuötting"
-				talabeclander = "Neuötting"
-				westerlander = "Neuötting"
-				wissenlander = "Neuötting"
-								
-				b_neveutin = {
-
-					averlander = "Neuötting"
-					drakwalder = "Neuötting"
-					hochlander = "Neuötting"
-					middenlander = "Neuötting"
-					nordlander = "Neuötting"
-					ostermarker = "Neuötting"
-					ostlander = "Neuötting"
-					reiklander = "Neuötting"
-					sollander = "Neuötting"
-					stirlander = "Neuötting"
-					sylvanian = "Neuötting"
-					talabeclander = "Neuötting"
-					westerlander = "Neuötting"
-					wissenlander = "Neuötting"
-					mootlander = "Neuötting"
-				}
-				b_gasse = {
-				}
-				b_orsinge = {
-					averlander = "Usingen"
-					drakwalder = "Usingen"
-					hochlander = "Usingen"
-					middenlander = "Usingen"
-					nordlander = "Usingen"
-					ostermarker = "Usingen"
-					ostlander = "Usingen"
-					reiklander = "Usingen"
-					sollander = "Usingen"
-					stirlander = "Usingen"
-					sylvanian = "Usingen"
-					talabeclander = "Usingen"
-					westerlander = "Usingen"
-					wissenlander = "Usingen"
-					mootlander = "Usingen"
-				}
-				b_anbruges = {
-				}
-				b_courtriers = {
-				}
-			}
-			
 			c_brabois = {
-				color = { 157 190 193 }
+				color = { 47 90 193 }
 				color2 = { 255 255 255 }
 				
 				averlander = "Teltow"
@@ -4531,6 +4968,7 @@ e_bretonnia = {
 				talabeclander = "Teltow"
 				westerlander = "Teltow"
 				wissenlander = "Teltow"
+				neueslander = "Teltow"
 				mootlander = "Teltow"
 				
 				b_talteuille = {
@@ -4548,6 +4986,7 @@ e_bretonnia = {
 					talabeclander = "Teltow"
 					westerlander = "Teltow"
 					wissenlander = "Teltow"
+					neueslander = "Teltow"
 					mootlander = "Teltow"
 				}
 				b_radeburg = {
@@ -4567,12 +5006,13 @@ e_bretonnia = {
 					talabeclander = "Rerik"
 					westerlander = "Rerik"
 					wissenlander = "Rerik"
+					neueslander = "Rerik"
 					mootlander = "Rerik"
 				}
 			}
 			
 			c_thorn = {
-				color = { 187 180 223 }
+				color = { 67 80 153 }
 				color2 = { 255 255 255 }
 				
 				b_thorn = {
@@ -4889,19 +5329,19 @@ e_bretonnia = {
 	}
 	
 	k_parravon = {
-		color = { 50 10 140 }
+		color = { 250 210 30 }
 		color2 = { 255 255 255 }
 		
 		capital = 886 #Parravon
 
 		d_parravon = {
-			color = { 77 51 136 }
+			color = { 247 201 16 }
 			color2 = { 255 255 255 }
 			
 			capital = 886 #Parravon
 			
 			c_fume = {
-				color = { 89 43 140 }
+				color = { 239 223 100 }
 				color2 = { 255 255 255 }
 				
 				b_emilion = {
@@ -4915,7 +5355,7 @@ e_bretonnia = {
 			}
 			
 			c_parravon = {
-				color = { 78 53 150 }
+				color = { 248 253 50 }
 				color2 = { 255 255 255 }
 				
 				b_parravon = {
@@ -4933,7 +5373,7 @@ e_bretonnia = {
 			}
 			
 			c_beaumont = {
-				color = { 79 54 170 }
+				color = { 219 194 20 }
 				color2 = { 255 255 255 }
 				
 				b_malmont = {
@@ -4947,7 +5387,7 @@ e_bretonnia = {
 			}
 			
 			c_fays = {
-				color = { 67 65 168 }
+				color = { 207 245 68 }
 				color2 = { 255 255 255 }
 				
 				b_fays_la_chapelle = {
@@ -4958,13 +5398,13 @@ e_bretonnia = {
 		}
 		
 		d_nar = {
-			color = { 37 21 146 }
+			color = { 247 251 56 }
 			color2 = { 255 255 255 }
 			
 			capital = 891 #Brabillon
 			
 			c_grey_lady_pass = {
-				color = { 162 128 139 }
+				color = { 222 198 119 }
 				color2 = { 255 255 255 }
 				
 				b_sanglac = {
@@ -4978,7 +5418,7 @@ e_bretonnia = {
 			}
 			
 			c_blood_keep = {
-				color = { 43 12 140 }
+				color = { 243 232 40 }
 				color2 = { 255 255 255 }
 				
 				b_blood_keep = {
@@ -4988,7 +5428,7 @@ e_bretonnia = {
 			}
 			
 			c_brabillon = {
-				color = { 45 23 175 }
+				color = { 225 223 75 }
 				color2 = { 255 255 255 }
 				
 				b_brigendie = {
@@ -5005,16 +5445,16 @@ e_bretonnia = {
 	}
 	
 	k_mousillon = {
-		color = { 250 250 60 }
+		color = { 200 200 60 }
 		color2 = { 255 255 255 }
 		
 		capital = 826 #Mousillon
 		
 		d_mousillon = {
-			color = { 201 201 6 }
+			color = { 201 201 46 }
 			color2 = { 255 255 255 }
 			
-			capital = 855 #Mousillon
+			capital = 826 #Mousillon
 			
 			c_mousillon = {
 				color = { 228 220 10 }
@@ -5078,7 +5518,7 @@ e_bretonnia = {
 		}			
 		
 		d_potevenne = {
-			color = { 217 241 46 }
+			color = { 247 191 36 }
 			color2 = { 255 255 255 }
 			
 			capital = 819 #Saintilles
@@ -5141,19 +5581,19 @@ e_bretonnia = {
 		
 	
 	k_montfort = {
-		color = { 190 190 60 }
+		color = { 80 60 100 }
 		color2 = { 255 255 255 }
 		
 		capital = 855 #Montfort
 		
 		d_montfort = {
-			color = { 197 191 36 }
+			color = { 64 44 99 }
 			color2 = { 255 255 255 }
 			
 			capital = 855 #Montfort
 			
 			c_montfort = {
-				color = { 178 147 34 }
+				color = { 55 47 84 }
 				color2 = { 255 255 255 }
 				
 				b_montfort = {
@@ -5169,7 +5609,7 @@ e_bretonnia = {
 			}
 			
 			c_roderre = {
-				color = { 198 192 61 }
+				color = { 58 12 121 }
 				color2 = { 255 255 255 }
 				
 				b_ux = {
@@ -5181,7 +5621,7 @@ e_bretonnia = {
 			}
 			
 			c_beaix = {
-				color = { 169 183 45 }
+				color = { 53 33 95 }
 				color2 = { 255 255 255 }
 				
 				b_chateauclair = {
@@ -5196,13 +5636,13 @@ e_bretonnia = {
 		}
 
 		d_montmagnac = {
-			color = { 227 191 56 }
+			color = { 89 50 100 }
 			color2 = { 255 255 255 }
 			
 			capital = 848 #Galisson
 
 			c_tura = {
-				color = { 240 209 67 }
+				color = { 47 66 97 }
 				color2 = { 255 255 255 }
 				
 				b_chasancon = {
@@ -5216,7 +5656,7 @@ e_bretonnia = {
 			}
 			
 			c_galisson = {
-				color = { 207 229 32 }
+				color = { 100 66 132 }
 				color2 = { 255 255 255 }
 				
 				b_galisson = {
@@ -5230,7 +5670,7 @@ e_bretonnia = {
 			}
 
 			c_lorsace = {
-				color = { 178 209 23 }
+				color = { 55 19 70 }
 				color2 = { 255 255 255 }
 				
 				b_nantebourg = {
@@ -5244,7 +5684,7 @@ e_bretonnia = {
 			}
 			
 			c_gamay = {
-				color = { 190 198 64 }
+				color = { 70 48 94 }
 				color2 = { 255 255 255 }
 				
 				b_tharravil = {
@@ -5303,13 +5743,13 @@ e_bretonnia = {
 		}
 		
 		d_lyonesse = {
-			color = { 157 181 206 }
+			color = { 77 131 196 }
 			color2 = { 255 255 255 }
 			
 			capital = 794 #Lyonesse
 						
 			c_lyonesse = {
-				color = { 137 164 209 }
+				color = { 34 64 209 }
 				color2 = { 255 255 255 }
 				
 				b_lyonesse = {
@@ -5379,13 +5819,13 @@ e_bretonnia = {
 		}
 		
 		d_grand_senlou = {
-			color = { 157 151 236 }
+			color = { 57 101 186 }
 			color2 = { 255 255 255 }
 			
 			capital = 798 #Senlou
 			
 			c_senlou = {
-				color = { 165 155 204 }
+				color = { 65 155 204 }
 				color2 = { 255 255 255 }
 				
 				b_portsall = {
@@ -5397,7 +5837,7 @@ e_bretonnia = {
 			}
 			
 			c_martonnais = {
-				color = { 151 143 210 }
+				color = { 101 113 210 }
 				color2 = { 255 255 255 }
 				
 				b_marton = {
@@ -5411,7 +5851,7 @@ e_bretonnia = {
 			}	
 			
 			c_chastillon = {
-				color = { 161 152 220 }
+				color = { 121 152 220 }
 				color2 = { 255 255 255 }
 				
 				b_chastillon = {
@@ -5717,19 +6157,19 @@ e_bretonnia = {
 	}		
 	
 	k_carcassonne = {
-		color = { 120 70 160 }
+		color = { 50 70 160 }
 		color2 = { 255 255 255 }
 		
 		capital = 898 #Carcasonne
 
 		d_glanborielle = {
-			color = { 187 131 206 }
+			color = { 107 61 186 }
 			color2 = { 255 255 255 }
 			
 			capital = 899 #Marguilles
 
 			c_marguilles = {
-				color = { 186 150 203 }
+				color = { 156 100 203 }
 				color2 = { 255 255 255 }
 				
 				b_marguilles = {
@@ -5743,7 +6183,7 @@ e_bretonnia = {
 			}
 			
 			c_paillole = {
-				color = { 122 102 209 }
+				color = { 192 50 180 }
 				color2 = { 255 255 255 }
 				
 				b_paillole = {
@@ -5755,7 +6195,7 @@ e_bretonnia = {
 			}
 			
 			c_sammergall = {
-				color = { 165 122 178 }
+				color = { 175 92 178 }
 				color2 = { 255 255 255 }
 				
 				b_sammergall_fort = {
@@ -5769,7 +6209,7 @@ e_bretonnia = {
 			}
 			
 			c_forac = {
-				color = { 180 110 189 }
+				color = { 100 110 189 }
 				color2 = { 255 255 255 }
 				
 				b_forac = {
@@ -5784,13 +6224,13 @@ e_bretonnia = {
 		}
 		
 		d_carcassonne = {
-			color = { 157 81 196 }
+			color = { 47 61 126 }
 			color2 = { 255 255 255 }
 			
 			capital = 894 #Carcassonne
 
 			c_brussergue = {
-				color = { 146 64 198 }
+				color = { 66 64 158 }
 				color2 = { 255 255 255 }
 				
 				b_brusse = {
@@ -5806,7 +6246,7 @@ e_bretonnia = {
 			}
 			
 			c_carcassonne = {
-				color = { 167 110 199 }
+				color = { 67 10 139 }
 				color2 = { 255 255 255 }
 				
 				b_carcassonne = {
@@ -5825,13 +6265,13 @@ e_bretonnia = {
 		}
 		
 		d_morency = {
-			color = { 127 91 156 }
+			color = { 17 61 156 }
 			color2 = { 255 255 255 }
 			
 			capital = 903 #Morency
 
 			c_tasselonne = {
-				color = { 109 48 167 }
+				color = { 109 48 140 }
 				color2 = { 255 255 255 }
 				
 				b_tasselonne = {
@@ -5845,7 +6285,7 @@ e_bretonnia = {
 			}
 			
 			c_embrun = {
-				color = { 141 108 187 }
+				color = { 41 80 107 }
 				color2 = { 255 255 255 }
 				
 				b_embrun = {
@@ -5859,7 +6299,7 @@ e_bretonnia = {
 			}
 			
 			c_morency = {
-				color = { 147 140 178 }
+				color = { 87 80 178 }
 				color2 = { 255 255 255 }
 				
 				b_morency = {
@@ -5874,13 +6314,13 @@ e_bretonnia = {
 		}
 		
 		d_aix = {
-			color = { 127 51 156 }
+			color = { 71 71 166 }
 			color2 = { 255 255 255 }
 			
 			capital = 893 #Aix
 			
 			c_servillon = {
-				color = { 128 76 176 }
+				color = { 55 55 176 }
 				color2 = { 255 255 255 }
 				
 				b_servillon = {
@@ -5906,7 +6346,7 @@ e_bretonnia = {
 			}
 			
 			c_naverre = {
-				color = { 101 76 154 }
+				color = { 51 56 154 }
 				color2 = { 255 255 255 }
 				
 				b_agden = {
@@ -5920,7 +6360,7 @@ e_bretonnia = {
 			}
 			
 			c_foivaux = {
-				color = { 140 118 181 }
+				color = { 40 18 131 }
 				color2 = { 255 255 255 }
 				
 				b_roncesaille = {
@@ -5935,13 +6375,13 @@ e_bretonnia = {
 		}
 		
 		d_charboneau = {
-			color = { 197 121 236 }
+			color = { 177 61 186 }
 			color2 = { 255 255 255 }
 			
 			capital = 900 #Charboneau
 
 			c_loren_pass = {
-				color = { 198 108 219 }
+				color = { 158 78 179 }
 				color2 = { 255 255 255 }
 				
 				b_salignac_la_rouge = {
@@ -5953,7 +6393,7 @@ e_bretonnia = {
 			}
 			
 			c_charboneau = {
-				color = { 178 131 200 }
+				color = { 178 61 170 }
 				color2 = { 255 255 255 }
 				
 				b_charboneau = {
@@ -5972,20 +6412,20 @@ e_bretonnia = {
 		
 	
 	k_brionne = {
-		color = { 20 210 190 }
+		color = { 240 240 250 }
 		color2 = { 255 255 255 }
 		
 		capital = 865 #Brionne
 
 		d_brionne = {
-			color = { 27 221 236 }
+			color = { 220 220 230 }
 			color2 = { 255 255 255 }
 			
 			capital = 865 #Brionne
 
 
 			c_muret = {
-				color = { 58 190 218 }
+				color = { 238 190 218 }
 				color2 = { 255 255 255 }
 				
 				b_muret = {
@@ -6000,7 +6440,7 @@ e_bretonnia = {
 						
 			
 			c_gransette = {
-				color = { 20 203 205 }
+				color = { 220 203 205 }
 				color2 = { 255 255 255 }
 				
 				b_brassens = {
@@ -6014,7 +6454,7 @@ e_bretonnia = {
 			}
 			
 			c_brionne = {
-				color = { 40 230 235 }
+				color = { 240 200 235 }
 				color2 = { 255 255 255 }
 				
 				b_brionne = {
@@ -6030,7 +6470,7 @@ e_bretonnia = {
 			}
 			
 			c_angour = {
-				color = { 32 209 215 }
+				color = { 202 209 225 }
 				color2 = { 255 255 255 }
 				
 				b_anges = {
@@ -6044,7 +6484,7 @@ e_bretonnia = {
 			}
 			
 			c_lusidreux = {
-				color = { 45 189 200 }
+				color = { 245 189 200 }
 				color2 = { 255 255 255 }
 				
 				b_lusidreux = {
@@ -6060,13 +6500,13 @@ e_bretonnia = {
 	}
 	
 	k_bordeleaux = {
-		color = { 10 70 190 }
+		color = { 10 30 190 }
 		color2 = { 255 255 255 }
 		
 		capital = 837 #Bordeleaux
 
 		d_bordeleaux = {
-			color = { 26 77 196 }
+			color = { 26 47 155 }
 			color2 = { 255 255 255 }
 			
 			capital = 837 #Bordeleaux
@@ -6086,7 +6526,7 @@ e_bretonnia = {
 			}
 			
 			c_lile_tranquille = {
-				color = { 21 48 196 }
+				color = { 71 78 196 }
 				color2 = { 255 255 255 }
 				
 				b_villa_tranquille = {
@@ -6116,7 +6556,7 @@ e_bretonnia = {
 			}
 			
 			c_tremonge = {
-				color = { 29 66 209 }
+				color = { 29 66 159 }
 				color2 = { 255 255 255 }
 				
 				b_tremure = {
@@ -6323,13 +6763,13 @@ e_bretonnia = {
 	}
 	
 	k_artois = {
-		color = { 180 90 50 }
+		color = { 200 90 50 }
 		color2 = { 255 255 255 }
 		
 		capital = 815 #Artois
 		
 		d_artois = {
-			color = { 197 51 36 }
+			color = { 197 91 56 }
 			color2 = { 255 255 255 }
 			
 			capital = 815 #Artois
@@ -6366,7 +6806,7 @@ e_bretonnia = {
 		}
 		
 		d_arden = {
-			color = { 167 71 76 }
+			color = { 167 31 76 }
 			color2 = { 255 255 255 }
 			
 			capital = 818 #Arden
@@ -6416,13 +6856,13 @@ e_bretonnia = {
 	}	
 
 	k_aquitaine = {
-		color = { 230 160 10 }
+		color = { 200 150 10 }
 		color2 = { 255 255 255 }
 		
 		capital = 861 #Aquitaine
 		
 		d_aquitaine = {
-			color = { 247 161 36 }
+			color = { 222 151 36 }
 			color2 = { 255 255 255 }
 			
 			capital = 861 #Aquitaine
@@ -6473,7 +6913,7 @@ e_bretonnia = {
 		}
 		
 		d_eprenois = {
-			color = { 237 181 36 }
+			color = { 247 191 66 }
 			color2 = { 255 255 255 }
 			
 			capital = 859 #Rennaille
@@ -6528,11 +6968,11 @@ e_bretonnia = {
 
 
 e_kislev = {
-	color = { 98 131 172 }
+	color = { 38 91 192 }
 	color2 = { 255 255 255 }
 	
 	capital = 202 #Kislev
-
+	
 	k_kislev = {
 		color = { 155 214 137 }
 		color2 = { 255 255 255 }
@@ -6583,35 +7023,79 @@ e_kislev = {
 		}
 		
 		d_kislev = {
-			color = { 190 191 110 }
+			color = { 180 222 110 }
 			color2 = { 255 255 255 }
 			
 			capital = 202 #Kislev
 			
 			c_kislev = {
-				color = { 178 189 120 }
+				color = { 178 199 120 }
 				color2 = { 255 255 255 }
 				
-				b_kislev = {
+				b_zimniy_dvorets = {
 					holy_site = northern_gods
 				}
-				b_turov = {
+				b_zvenkovya = {
 				}
-				b_ardhka = {
+				b_borokovo = {
 				}
+				b_koztowny = {
+				}
+				b_posantra = {
+				}
+				b_ursenivo = {
+				}
+				b_ustnidora = {
+				}
+				b_miresheny = {
+				}
+				b_reskcyn = {
+				}
+				b_dockziema = {
+				}
+				b_grakiziema = {
+				}
+				b_pasziema = {
+				}
+				b_merkantly = {
+				}
+			}
+			
+			c_inkodevna = {
+				color = { 178 155 150 }
+				color2 = { 255 255 255 }
+				
 				b_inkodevna = {
 				}
+				b_nidzica = {
+				}
+				b_piast = {
+				}
 				b_sava = {
+				}
+				b_urskoydok = {
+				}
+			}
+			
+			c_turov = {
+				color = { 155 195 170 }
+				color2 = { 255 255 255 }
+				
+				b_ardhka = {
+				}
+				b_turov = {
 				}
 				b_suzdal = {
 				}
 				b_kem = {
 				}
-			}	
+				b_mehikoorma = {
+				}
+			}
 		}
 		
 		d_shirokij = {
-			color = { 150 201 130 }
+			color = { 50 151 30 }
 			color2 = { 255 255 255 }
 			
 			capital = 205 #Resvynhaf
@@ -6747,7 +7231,7 @@ e_kislev = {
 	}
 		
 	k_translynsk = {
-		color = { 40 170 97 }
+		color = { 20 190 87 }
 		color2 = { 255 255 255 }
 	
 		capital = 160 #Zenilev	
@@ -7076,23 +7560,8 @@ e_kislev = {
 			color = { 250 231 130 }
 			color2 = { 255 255 255 }
 			
-			capital = 160 #Zenilev	
+			capital = 181 #Salair	
 
-			c_bolgasgrad = {
-				color = { 178 210 141 }
-				color2 = { 255 255 255 }
-				
-				b_bolgasgrad = {
-				}
-				b_krasicyno = {
-				}
-				b_ammatus = {
-				}
-				b_yvegka = {
-				}
-				b_baiyn = {
-				}
-			}
 				
 			c_salair = {
 				color = { 170 140 70 }
@@ -7107,6 +7576,33 @@ e_kislev = {
 				b_neya = {
 				}
 			}
+			
+			c_jydske = {
+				color = { 200 200 50 }
+				color2 = { 255 255 255 }
+				
+				b_jydske = {
+				}
+				b_choika = {
+				}
+				b_mikun = {
+				}
+			}
+				
+			c_koniecpole = {
+				color = { 219 198 30 }
+				color2 = { 255 255 255 }
+				
+				b_koniecpole = {
+				}
+				b_ostrody = {
+				}
+				b_gorovny = {
+				}
+				b_tezew = {
+				}
+			}
+
 		}		
 
 
@@ -7258,48 +7754,16 @@ e_kislev = {
 			}
 		}	
 		
-		d_jydske = {
-			color = { 180 181 50 }
-			color2 = { 255 255 255 }
-			
-			capital = 198 #Jydske
-				
-			c_jydske = {
-				color = { 200 200 50 }
-				color2 = { 255 255 255 }
-				
-				b_jydske = {
-				}
-				b_choika = {
-				}
-				b_mikun = {
-				}
-			}
-				
-			c_koniecpole = {
-				color = { 219 198 30 }
-				color2 = { 255 255 255 }
-				
-				b_koniecpole = {
-				}
-				b_ostrody = {
-				}
-				b_gorovny = {
-				}
-				b_tezew = {
-				}
-			}
-		}	
 	}
 	
 	k_volkova = {
-		color = { 55 54 187 }
+		color = { 55 104 187 }
 		color2 = { 255 255 255 }
 	
 		capital = 182 #Praag
 		
 		d_dukhyls = {
-			color = { 50 60 220 }
+			color = { 30 70 180 }
 			color2 = { 255 255 255 }
 			
 			capital = 188 #Tesov
@@ -7364,7 +7828,7 @@ e_kislev = {
 		}	
 		
 		d_lynsk = {
-			color = { 90 71 230 }
+			color = { 90 131 230 }
 			color2 = { 255 255 255 }
 			
 			capital = 173 #Stolbstyvoisk
@@ -7407,13 +7871,13 @@ e_kislev = {
 		}	
 		
 		d_staslav = {
-			color = { 80 60 230 }
+			color = { 50 90 180 }
 			color2 = { 255 255 255 }
 			
 			capital = 190 #Staslav
 				
 			c_izobilny = {
-				color = { 90 30 190 }
+				color = { 90 100 190 }
 				color2 = { 255 255 255 }
 				
 				b_izobilny = {
@@ -7427,7 +7891,7 @@ e_kislev = {
 			}
 				
 			c_staslav = {
-				color = { 78 50 200 }
+				color = { 78 150 200 }
 				color2 = { 255 255 255 }
 				
 				b_vologda = {
@@ -7458,13 +7922,13 @@ e_kislev = {
 		}	
 		
 		d_praag = {
-			color = { 130 131 200 }
+			color = { 30 81 230 }
 			color2 = { 255 255 255 }
 			
 			capital = 182 #Praag
 				
 			c_kacirk = {
-				color = { 140 150 180 }
+				color = { 40 50 180 }
 				color2 = { 255 255 255 }
 				
 				b_kacirk = {
@@ -7476,7 +7940,7 @@ e_kislev = {
 			}
 				
 			c_praag = {
-				color = { 120 120 190 }
+				color = { 60 20 190 }
 				color2 = { 255 255 255 }
 				
 				b_praag = {
@@ -7491,6 +7955,8 @@ e_kislev = {
 				b_ivanovo = {
 				}
 				b_zhabinkha = {
+				}
+				b_lynskdok = {
 				}
 			}
 				
@@ -7508,6 +7974,22 @@ e_kislev = {
 				}
 			}
 				
+			c_bolgasgrad = {
+				color = { 178 210 141 }
+				color2 = { 255 255 255 }
+				
+				b_bolgasgrad = {
+				}
+				b_krasicyno = {
+				}
+				b_ammatus = {
+				}
+				b_yvegka = {
+				}
+				b_baiyn = {
+				}
+			}
+			
 			c_arzamas = {
 				color = { 160 180 230 }
 				color2 = { 255 255 255 }
@@ -7530,12 +8012,12 @@ e_norsca = {
 	
 	capital = 39 #Ulfsland
 
-k_aponnia = {
-	color = { 87 230 8 }
-	color2 = { 255 255 255 }
+	k_aponnia = {
+		color = { 87 230 8 }
+		color2 = { 255 255 255 }
 	
-	capital = 143 #Aponnia
-}
+		capital = 143 #Aponnia
+	}
 
 	k_midgard = {
 		color = { 219 199 123 }
@@ -7735,6 +8217,7 @@ k_aponnia = {
 				baersonling = "Goromadnyrond"
 				skaeling = "Goromadnyrond"
 				graeling = "Goromadnyrond"
+				fjarmann = "Goromadnyrond"
 			
 			c_vinteerholm = {
 				color = { 109 100 129 }
@@ -7767,6 +8250,7 @@ k_aponnia = {
 					baersonling = "Goromadnyrond"
 					skaeling = "Goromadnyrond"
 					graeling = "Goromadnyrond"
+					fjarmann = "Goromadnyrond"
 				
 				b_arstul = {
 				}
@@ -8492,13 +8976,13 @@ k_aponnia = {
 		}
 	}
 
-	k_svalbard = {
+	k_the_isles = {
 		color = { 210 210 250 }
 		color2 = { 255 255 255 }
 		
 		capital = 1200 #Kuldevind
 
-		d_fjarsvan = {
+		d_kuldevind = {
 			color = { 217 191 246 }
 			color2 = { 255 255 255 }
 			
@@ -8515,6 +8999,13 @@ k_aponnia = {
 				b_kaupmadhormen = {
 				}
 			}
+		}
+		
+		d_ildelver = {
+			color = { 147 141 226 }
+			color2 = { 255 255 255 }
+			
+			capital = 1199 #Ildelver
 			
 			c_ildelver = {
 				color = { 180 189 250 }
@@ -9024,7 +9515,7 @@ k_aponnia = {
 		}
 	}
 
-	k_sjoktraken = {
+	k_svalbard = {
 		color = { 150 10 30 }
 		color2 = { 255 255 255 }
 		
@@ -9111,8 +9602,6 @@ k_aponnia = {
 				}
 				b_elasrum = {
 				}
-				b_sjoktraken = {
-				}
 			}
 			
 			c_blodhfell = {
@@ -9128,9 +9617,9 @@ k_aponnia = {
 			}
 		}
 	}
-
+	
 	k_fjellsende = {
-		color = { 80 170 45 }
+		color = { 100 190 45 }
 		color2 = { 255 255 255 }
 		
 		capital = 144 #Gotland Forest
@@ -9180,6 +9669,7 @@ k_aponnia = {
 				baersonling = Ulfen
 				skaeling = Ulfen
 				graeling = Ulfen
+				fjarmann = Ulfen
 							
 				b_gotland = {
 				}
@@ -9581,133 +10071,48 @@ k_aponnia = {
 
 
 e_tilea = {
-	color = { 108 101 172 }
+	color = { 48 81 172 }
 	color2 = { 255 255 255 }
 
 	capital = 600 #Remas
 
-
-k_tobaro = {
-	color = { 109 110 158 }
-	color2 = { 255 255 255 }
-	
-	capital = 574 #Tobaro
-	
-	title = "PRINCE"
-	title_female = "PRINCESS"
-	
-	title_prefix = "PRINCIPALITY_OF"		
-	
-}
-
-k_remas = {
+k_riatalus = {
 	color = { 90 100 210 }
 	color2 = { 255 255 255 }
 	
 	capital = 600 #Remas
-		
-	dignity = 200 
-	
-	allow = {
-		always = no
-		is_republic = yes
-	}
 }
 
-k_luccini = {
+k_lucium = {
 	color = { 187 49 34 }
 	color2 = { 255 255 255 }
 	
 	capital = 614 #Luccini
-	
-	title = "PRINCE"
-	title_female = "PRINCESS"
-	
-	title_prefix = "PRINCIPALITY_OF"		
-	
+		
 }
 
-k_miragliano = {
+k_aurelia = {
 	color = { 47 230 58 }
 	color2 = { 255 255 255 }
 	
 	capital = 584 #Miragliano
 	
-	title = "PRINCE"
-	title_female = "PRINCESS"
-	
-	title_prefix = "PRINCIPALITY_OF"		
-	
 }
 
-
-k_verezzo = {
-	color = { 38 48 178 }
-	color2 = { 255 255 255 }
-	
-	capital = 609 #Verezzo
-	
-	dignity = 200 
-	
-	allow = {
-		always = no
-		is_republic = yes
-	}	
-}
-
-k_trantio = {
-	color = { 98 168 28 }
-	color2 = { 255 255 255 }
-	
-	capital = 591 #Trantio
-	
-	title = "PRINCE"
-	title_female = "PRINCESS"
-	
-	title_prefix = "PRINCIPALITY_OF"		
-	
-}
-
-k_pavona = {
-	color = { 138 48 178 }
-	color2 = { 255 255 255 }
-	
-	capital = 599 #Pavona
-	
-	title = "PRINCE"
-	title_female = "PRINCESS"
-	
-	title_prefix = "PRINCIPALITY_OF"		
-	
-}
-
-k_monte_castello = {
-	color = { 238 128 78 }
-	color2 = { 255 255 255 }
-	
-	capital = 655 #Monte Castello
-	
-	title = "PRINCE"
-	title_female = "PRINCESS"
-	
-	title_prefix = "PRINCIPALITY_OF"		
-	
-}
-
-	k_lucium = {
-		color = { 205 54 87 }
+	k_luccini = {
+		color = { 175 14 17 }
 		color2 = { 255 255 255 }
 	
 		capital = 614 #Luccini
 	
 		d_luccini = {
-			color = { 200 31 60 }
+			color = { 150 10 15 }
 			color2 = { 255 255 255 }
 			
 			capital = 614 #Luccini
 			
 			c_luccini = {
-				color = { 190 40 89 }
+				color = { 190 10 9 }
 				color2 = { 255 255 255 }
 				
 				b_luccini = {
@@ -9796,32 +10201,6 @@ k_monte_castello = {
 				b_arrabbiatta = {
 				}
 			}
-			
-			c_luparno = {
-				color = { 189 40 88 }
-				color2 = { 255 255 255 }
-				
-				b_luparno = {
-				}
-				b_salagno = {
-				}
-				b_finistro = {
-				}
-				b_monteste = {
-				}
-			}
-			
-			c_sussurio_wood = {
-				color = { 176 80 30 }
-				color2 = { 255 255 255 }
-				
-				b_silve = {
-				}
-				b_loccocino = {
-				}
-			}
-			
-
 		}
 
 		d_aldente = {
@@ -9867,12 +10246,11 @@ k_monte_castello = {
 			}
 		}
 
-
 		d_organza = {
-			color = { 230 61 20 }
+			color = { 230 21 20 }
 			color2 = { 255 255 255 }
 			
-			capital = 617 #Sussurrio
+			capital = 617 #Organza
 
 			c_organza = {
 				color = { 230 50 10 }
@@ -9889,7 +10267,7 @@ k_monte_castello = {
 			}			
 			
 			c_spurio = {
-				color = { 209 67 10 }
+				color = { 209 27 10 }
 				color2 = { 255 255 255 }
 				
 				b_spurio = {
@@ -9912,15 +10290,27 @@ k_monte_castello = {
 				}
 			}
 		}
-		
+	}
+	
+	k_monte_castello = {
+		color = { 208 78 58 }
+		color2 = { 255 255 255 }
+	
+		capital = 655 #Monte Castello
+	
+		title = "MARCHESE"
+		title_female = "MARCHESA"		
+	
+		title_prefix = "MARCHES_OF"
+	
 		d_monte_castello = {
-			color = { 200 11 35 }
+			color = { 200 71 35 }
 			color2 = { 255 255 255 }
 			
 			capital = 655 #Monte Castello
 			
 			c_pugno = {
-				color = { 230 40 10 }
+				color = { 230 100 10 }
 				color2 = { 255 255 255 }
 				
 				b_pugno = {
@@ -9949,19 +10339,50 @@ k_monte_castello = {
 				}
 			}
 		}
+		
+		d_luparno = {
+			color = { 200 111 35 }
+			color2 = { 255 255 255 }
+			
+			capital = 625 #Luparno
+			
+			c_luparno = {
+				color = { 189 40 88 }
+				color2 = { 255 255 255 }
+				
+				b_luparno = {
+				}
+				b_salagno = {
+				}
+				b_finistro = {
+				}
+				b_monteste = {
+				}
+			}
+			
+			c_sussurio_wood = {
+				color = { 176 80 30 }
+				color2 = { 255 255 255 }
+				
+				b_silve = {
+				}
+				b_loccocino = {
+				}
+			}
+		}
 	}		
 		
-	k_aurelia = {
-		color = { 65 174 60 }
+	k_miragliano = {
+		color = { 35 155 60 }
 		color2 = { 255 255 255 }
 	
-		capital = 584 #luciano
+		capital = 584 #Miragliano
 
 		d_miragliano = {
 			color = { 60 161 20 }
 			color2 = { 255 255 255 }
 			
-			capital = 584 #luciano	
+			capital = 584 #Miragliano	
 			
 			c_udolpho = {
 				color = { 73 178 21 }
@@ -10023,7 +10444,7 @@ k_monte_castello = {
 		}
 
 		d_firento = {
-			color = { 90 191 50 }
+			color = { 90 191 100 }
 			color2 = { 255 255 255 }
 			
 			capital = 586 #Toscania	
@@ -10066,54 +10487,14 @@ k_monte_castello = {
 				}
 			}			
 		}	
-
-		d_scorcio = {
-			color = { 40 199 90 }
-			color2 = { 255 255 255 }
-			
-			capital = 589 #Vladeza	
-			
-			c_vladeza = {
-				color = { 43 198 42 }
-				color2 = { 255 255 255 }
-				
-				b_vladeza = {
-				}
-				b_corcio = {
-				}
-				b_talaberdi = {
-				}
-				b_stilio = {
-				}
-			}
-			
-			c_andone = {
-				color = { 44 167 51 }
-				color2 = { 255 255 255 }
-				
-				b_andone = {
-				}
-				b_ilperio = {
-				}
-				b_san_matteo = {
-				}
-				b_lucreziana = {
-				}
-			}
-
-			c_cenona = {
-				color = { 51 198 60 }
-				color2 = { 255 255 255 }
-				
-				b_cenona = {
-				}
-				b_bertoldo = {
-				}
-				b_mivoranga = {
-				}
-			}
-		}	
-				
+	}
+	
+	k_trantio = {
+		color = { 98 168 28 }
+		color2 = { 255 255 255 }
+	
+		capital = 591 #Trantio
+	
 		d_trantio = {
 			color = { 78 161 30 }
 			color2 = { 255 255 255 }
@@ -10164,22 +10545,120 @@ k_monte_castello = {
 				}
 			}			
 		}
+		
+		d_scorcio = {
+			color = { 40 199 190 }
+			color2 = { 255 255 255 }
+			
+			capital = 589 #Vladeza	
+			
+			c_vladeza = {
+				color = { 43 198 142 }
+				color2 = { 255 255 255 }
+				
+				b_vladeza = {
+				}
+				b_corcio = {
+				}
+				b_talaberdi = {
+				}
+				b_stilio = {
+				}
+			}
+			
+			c_andone = {
+				color = { 44 167 151 }
+				color2 = { 255 255 255 }
+				
+				b_andone = {
+				}
+				b_ilperio = {
+				}
+				b_san_matteo = {
+				}
+				b_lucreziana = {
+				}
+			}
+
+			c_cenona = {
+				color = { 51 198 160 }
+				color2 = { 255 255 255 }
+				
+				b_cenona = {
+				}
+				b_bertoldo = {
+				}
+				b_mivoranga = {
+				}
+			}
+		}	
+		
+		d_perigua = {
+			color = { 60 160 130 }
+			color2 = { 255 255 255 }
+			
+			capital = 601 #Stiani
+						
+			c_stiani = {
+				color = { 89 170 140 }
+				color2 = { 255 255 255 }
+				
+				b_stiani = {
+				}
+				b_tavolea = {
+				}
+				b_santa_mertola = {
+				}
+				b_olrico = {
+				}
+			}
+
+			c_malavigna = {
+				color = { 76 190 189 }
+				color2 = { 255 255 255 }
+				
+				b_malavigna = {
+				}
+				b_opondone = {
+				}
+				b_fradesco = {
+				}
+				b_peletino = {
+				}
+			}
+						
+			c_varieno = {
+				color = { 32 160 165 }
+				color2 = { 255 255 255 }
+				
+				b_varieno = {
+				}
+				b_monte_gia = {
+				}
+				b_cappoletto = {
+				}
+				b_tibalto = {
+				}
+				b_amatore = {
+				}
+			}
+		}
 	}
 
-	k_riatalus = {
-		color = { 65 94 187 }
+	k_remas = {
+		color = { 225 224 236 }
 		color2 = { 255 255 255 }
 	
 		capital = 600 #Remas
 	
 		d_remas = {
-			color = { 20 91 180 }
+			color = { 230 231 250 }
 			color2 = { 255 255 255 }
 			
 			capital = 600 #Remas
 	
 			c_remas = {
-				color = { 50 80 160 }
+				color = { 180 180 240 }
 				color2 = { 255 255 255 }
 				
 				b_remas = {
@@ -10200,7 +10679,7 @@ k_monte_castello = {
 			}
 		
 			c_rifraffa = {
-				color = { 40 120 200 }
+				color = { 140 120 200 }
 				color2 = { 255 255 255 }
 				
 				b_rifraffa = {
@@ -10214,7 +10693,7 @@ k_monte_castello = {
 			}
 
 			c_nucca = {
-				color = { 80 150 180 }
+				color = { 180 150 220 }
 				color2 = { 255 255 255 }
 				
 				b_monte_negro = {
@@ -10225,13 +10704,13 @@ k_monte_castello = {
 		}	
 	
 		d_urbimo = {
-			color = { 50 121 160 }
+			color = { 190 191 220 }
 			color2 = { 255 255 255 }
 			
 			capital = 592 #Urbimo
 			
 			c_urbimo = {
-				color = { 30 100 178 }
+				color = { 170 160 178 }
 				color2 = { 255 255 255 }
 				
 				b_urbimo = {
@@ -10247,7 +10726,7 @@ k_monte_castello = {
 			}
 
 			c_catrazza = {
-				color = { 50 100 150 }
+				color = { 150 150 200 }
 				color2 = { 255 255 255 }
 				
 				b_catrazza = {
@@ -10261,58 +10740,14 @@ k_monte_castello = {
 			}
 			
 		}
-		
-		d_perigua = {
-			color = { 60 89 160 }
-			color2 = { 255 255 255 }
-			
-			capital = 601 #Stiani
-						
-			c_stiani = {
-				color = { 89 70 140 }
-				color2 = { 255 255 255 }
-				
-				b_stiani = {
-				}
-				b_tavolea = {
-				}
-				b_santa_mertola = {
-				}
-				b_olrico = {
-				}
-			}
-
-			c_malavigna = {
-				color = { 76 90 189 }
-				color2 = { 255 255 255 }
-				
-				b_malavigna = {
-				}
-				b_opondone = {
-				}
-				b_fradesco = {
-				}
-				b_peletino = {
-				}
-			}
-						
-			c_varieno = {
-				color = { 32 60 165 }
-				color2 = { 255 255 255 }
-				
-				b_varieno = {
-				}
-				b_monte_gia = {
-				}
-				b_cappoletto = {
-				}
-				b_tibalto = {
-				}
-				b_amatore = {
-				}
-			}
-		}
-
+	}
+	
+	k_pavona = {
+		color = { 138 48 178 }
+		color2 = { 255 255 255 }
+	
+		capital = 599 #Pavona
+	
 		d_pavona = {
 			color = { 70 31 150 }
 			color2 = { 255 255 255 }
@@ -10354,6 +10789,105 @@ k_monte_castello = {
 				b_stretto = {
 				}
 				b_astri_vista = {
+				}
+			}
+		}
+		
+		d_astiano = {
+			color = { 90 61 230 }
+			color2 = { 255 255 255 }
+			
+			capital = 602 #Astiano
+			
+			c_spomanti = {
+				color = { 23 87 187 }
+				color2 = { 255 255 255 }
+				
+				b_spomanti = {
+				}
+				b_belladonna = {
+				}
+				b_corciro = {
+				}
+				b_litica = {
+				}
+				b_olopia = {
+				}
+			}
+			
+			c_spaarta = {
+				color = { 5 100 190 }
+				color2 = { 255 255 255 }
+				
+				b_spaarta = {
+				}
+				b_ateno = {
+				}
+				b_corinta = {
+				}
+				b_miceni = {
+				}
+			}
+					
+			c_astiano = {
+				color = { 37 40 176 }
+				color2 = { 255 255 255 }
+				
+				b_astiano = {
+				}
+				b_aneio = {
+				}
+				b_ulisso = {
+				}
+				b_via_longa = {
+				}
+			}
+		}
+	}
+	
+	k_verezzo = {
+		color = { 8 38 178 }
+		color2 = { 255 255 255 }
+		
+		capital = 609 #Verezzo
+	
+		d_verezzo = {
+			color = { 10 61 200 }
+			color2 = { 255 255 255 }
+			
+			capital = 609 #Verezzo
+
+			c_verezzo = {
+				color = { 20 78 200 }
+				color2 = { 255 255 255 }
+				
+				b_verezzo = {
+				}
+				b_terenne = {
+				}
+				b_alitilea = {
+				}
+				b_monte_verde = {
+				}
+				b_gadiroldo = {
+				}
+				b_mercatto = {
+				}
+				b_severnola = {
+				}
+			}
+
+			c_raverno = {
+				color = { 32 76 190 }
+				color2 = { 255 255 255 }
+				
+				b_raverno = {
+				}
+				b_arlequino = {
+				}
+				b_acandosto = {
+				}
+				b_testarossa = {
 				}
 			}
 		}
@@ -10412,98 +10946,6 @@ k_monte_castello = {
 				}
 			}
 		}
-		
-		d_astiano = {
-			color = { 40 101 230 }
-			color2 = { 255 255 255 }
-			
-			capital = 602 #Astiano
-			
-			c_spomanti = {
-				color = { 23 87 187 }
-				color2 = { 255 255 255 }
-				
-				b_spomanti = {
-				}
-				b_belladonna = {
-				}
-				b_corciro = {
-				}
-				b_litica = {
-				}
-				b_olopia = {
-				}
-			}
-			
-			c_spaarta = {
-				color = { 5 100 190 }
-				color2 = { 255 255 255 }
-				
-				b_spaarta = {
-				}
-				b_ateno = {
-				}
-				b_corinta = {
-				}
-				b_miceni = {
-				}
-			}
-					
-			c_astiano = {
-				color = { 37 40 176 }
-				color2 = { 255 255 255 }
-				
-				b_astiano = {
-				}
-				b_aneio = {
-				}
-				b_ulisso = {
-				}
-				b_via_longa = {
-				}
-			}
-		}
-		
-		d_verezzo = {
-			color = { 10 61 200 }
-			color2 = { 255 255 255 }
-			
-			capital = 609 #Verezzo
-
-			c_verezzo = {
-				color = { 20 78 200 }
-				color2 = { 255 255 255 }
-				
-				b_verezzo = {
-				}
-				b_terenne = {
-				}
-				b_alitilea = {
-				}
-				b_monte_verde = {
-				}
-				b_gadiroldo = {
-				}
-				b_mercatto = {
-				}
-				b_severnola = {
-				}
-			}
-
-			c_raverno = {
-				color = { 32 76 190 }
-				color2 = { 255 255 255 }
-				
-				b_raverno = {
-				}
-				b_arlequino = {
-				}
-				b_acandosto = {
-				}
-				b_testarossa = {
-				}
-			}
-		}
 	}
 	
 	k_sartosa = {
@@ -10538,6 +10980,7 @@ k_monte_castello = {
 				}
 				b_sartosa = {
 					holy_site = manannite
+					holy_site = stromfels
 					holy_site = classical_gods
 					holy_site = ormazd
 					holy_site = atruhayid
@@ -10582,20 +11025,20 @@ k_monte_castello = {
 		}
 	}
 	
-	k_adriata = {
-		color = { 105 134 237 }
+	k_tobaro = {
+		color = { 39 40 108 }
 		color2 = { 255 255 255 }
 	
 		capital = 574 #Tobaro
-	
+
 		d_tobaro = {
-			color = { 120 121 210 }
+			color = { 20 21 110 }
 			color2 = { 255 255 255 }
 			
 			capital = 574 #Tobaro
 			
 			c_tobaro = {
-				color = { 161 160 210 }
+				color = { 61 60 110 }
 				color2 = { 255 255 255 }
 				
 				b_castello_della_porta = {
@@ -10613,7 +11056,7 @@ k_monte_castello = {
 			}	
 			
 			c_aquilas = {
-				color = { 120 98 170 }
+				color = { 20 8 70 }
 				color2 = { 255 255 255 }
 				
 				b_aquilas = {
@@ -10629,7 +11072,7 @@ k_monte_castello = {
 			}	
 			
 			c_illiria = {
-				color = { 141 169 251 }
+				color = { 41 69 151 }
 				color2 = { 255 255 255 }
 				
 				b_porto_espejo = {
@@ -10643,7 +11086,7 @@ k_monte_castello = {
 			}	
 			
 			c_caprezi = {
-				color = { 98 78 187 }
+				color = { 38 38 87 }
 				color2 = { 255 255 255 }
 				
 				b_caprezi = {
@@ -10652,15 +11095,22 @@ k_monte_castello = {
 				}
 			}
 		}
+	}
+	
+	k_adriata = {
+		color = { 105 134 237 }
+		color2 = { 255 255 255 }
+	
+		capital = 581 #Autaria
 		
 		d_siren_isles = {
-			color = { 120 121 250 }
+			color = { 60 121 250 }
 			color2 = { 255 255 255 }
 			
 			capital = 581 #Autaria
 			
 			c_isole_sirene = {
-				color = { 120 109 230 }
+				color = { 40 109 230 }
 				color2 = { 255 255 255 }
 				
 				b_porto_nord = {
@@ -10670,7 +11120,7 @@ k_monte_castello = {
 			}	
 			
 			c_scordisci = {
-				color = { 98 78 234 }
+				color = { 28 78 234 }
 				color2 = { 255 255 255 }
 				
 				b_porto_verzo = {
@@ -10680,7 +11130,7 @@ k_monte_castello = {
 			}
 			
 			c_autaria = {
-				color = { 78 89 240 }
+				color = { 18 89 240 }
 				color2 = { 255 255 255 }
 				
 				b_porto_real = {
@@ -10692,7 +11142,7 @@ k_monte_castello = {
 			}
 			
 			c_liburni = {
-				color = { 87 67 170 }
+				color = { 27 67 170 }
 				color2 = { 255 255 255 }
 				
 				b_zera = {
@@ -10702,7 +11152,7 @@ k_monte_castello = {
 			}
 			
 			c_delamata = {
-				color = { 100 109 210 }
+				color = { 50 109 210 }
 				color2 = { 255 255 255 }
 				
 				b_delamata = {
@@ -10718,12 +11168,11 @@ k_monte_castello = {
 
 
 e_estalia = {
-	color = { 158 101 22 }
+	color = { 178 141 22 }
 	color2 = { 255 255 255 }
 
 	capital = 553 #Magritta
 	
-
 k_portua = {
 	color = { 40 71 155 }
 	color2 = { 255 255 255 }
@@ -10735,7 +11184,7 @@ k_santa_clair = {
 	color = { 87 130 8 }
 	color2 = { 255 255 255 }
 	
-	capital = 1114 #Isla Santa Clair
+	capital = 919 #Isla Santa Clair
 }
 
 k_avila = {
@@ -11014,27 +11463,8 @@ k_irrana = {
 				}
 			}
 		}
-		d_santa_clair = {
-			color = { 128 151 72 }
-			color2 = { 255 255 255 }
-		
-			capital = 1114 #Isla Santa Clair
-			
-			c_santa_clair = {
-				color = { 138 151 92 }
-				color2 = { 255 255 255 }
-					
-				b_santa_clair = {
-				}
-				b_point_de_segundo = {
-				}
-				b_santo_de_yuna = {
-				}
-				b_laguna_au_paix = {
-				}
-			}
-		}
 	}
+	
 	k_obregon = {
 		color = { 106 157 42 }
 		color2 = { 255 255 255 }
@@ -11781,6 +12211,7 @@ k_irrana = {
 				}
 			}
 		}
+		
 		d_piraneo = {
 			color = { 221 10 30 }
 			color2 = { 255 255 255 }
@@ -11833,8 +12264,6 @@ k_irrana = {
 		color2 = { 255 255 255 }
 		
 		capital = 559 #Fierra
-		
-		culture = astur
 		
 		d_fierroso = {
 			color = { 133 39 18 }
@@ -11947,6 +12376,35 @@ k_irrana = {
 				}
 			}
 		}
+	}
+	
+	k_calafina = {
+		color = { 153 139 18 }
+		color2 = { 255 255 255 }
+		
+		capital = 919 #Isla Santa Clair
+		
+		d_santa_clair = {
+			color = { 128 151 72 }
+			color2 = { 255 255 255 }
+		
+			capital = 919 #Isla Santa Clair
+			
+			c_santa_clair = {
+				color = { 138 151 92 }
+				color2 = { 255 255 255 }
+					
+				b_santa_clair = {
+				}
+				b_point_de_segundo = {
+				}
+				b_santo_de_yuna = {
+				}
+				b_laguna_au_paix = {
+				}
+			}
+		}
+	
 		d_nacary_isles = {
 			color = { 40 67 140 }
 			color2 = { 255 255 255 }
@@ -12013,56 +12471,11 @@ k_irrana = {
 }
 
 
-	k_mykenos = {
+	k_aegos = {
 		color = { 225 194 27 }
 		color2 = { 255 255 255 }
 	
 		capital = 657 #Myrmidens
-	
-		d_skiros = {
-			color = { 200 199 70 }
-			color2 = { 255 255 255 }
-			
-			capital = 641 #Skiros
-			
-			c_domatburg = {
-				color = { 210 190 80 }
-				color2 = { 255 255 255 }
-				
-				b_domatburg = {
-				}
-				b_alemento = {
-				}
-				b_fidalguia = {
-				}
-			}	
-			
-			c_zvorak = {
-				color = { 230 187 100 }
-				color2 = { 255 255 255 }
-				
-				b_zvorak = {
-				}
-				b_myrmenatus = {
-				}
-				b_arcadia = {
-				}
-			}	
-			
-			c_skiros = {
-				color = { 201 178 120 }
-				color2 = { 255 255 255 }
-				
-				b_mallia = {
-				}
-				b_karpathos = {
-				}
-				b_ctesia = {
-				}
-				b_hoplitum = {
-				}
-			}	
-		}
 	
 		d_kampos = {
 			color = { 230 159 20 }
@@ -12114,7 +12527,28 @@ k_irrana = {
 				color = { 240 189 20 }
 				color2 = { 255 255 255 }
 				
+				breton = "Esterel"
+				nortagnese = "Esterel"
+				armoric = "Esterel"
+				mousillonian = "Esterel"
+				carcassian = "Esterel"
+				gisoren = "Esterel"
+				bourgon = "Esterel"
+				gascon = "Esterel"
+				marcheur = "Esterel"
+				
 				b_vardanos = {
+				
+				breton = "Esterel"
+				nortagnese = "Esterel"
+				armoric = "Esterel"
+				mousillonian = "Esterel"
+				carcassian = "Esterel"
+				gisoren = "Esterel"
+				bourgon = "Esterel"
+				gascon = "Esterel"
+				marcheur = "Esterel"
+				
 				}
 				b_orchomenaia = {
 				}
@@ -12164,6 +12598,18 @@ k_irrana = {
 				}
 			}	
 			
+			c_achaes = {
+				color = { 210 148 130 }
+				color2 = { 255 255 255 }
+				
+				b_achaes = {
+				}
+				b_kratus = {
+				}
+				b_aleria = {
+				}
+			}
+			
 			c_pilos = {
 				color = { 190 168 60 }
 				color2 = { 255 255 255 }
@@ -12207,84 +12653,23 @@ k_irrana = {
 				b_ageapolis = {
 				}
 			}
-		}		
-	
-		d_endochra = {
-			color = { 220 189 120 }
-			color2 = { 255 255 255 }
-			
-			capital = 664 #Achaes
-			
-			c_pelpeonna = {
-				color = { 230 200 154 }
-				color2 = { 255 255 255 }
-				
-				b_pelepos = {
-				}
-				b_tanasia = {
-				}
-				b_polypolis = {
-				}
-				b_mysos = {
-				}
-			}	
-			
-			c_thessos = {
-				color = { 200 140 110 }
-				color2 = { 255 255 255 }
-				
-				b_thessos = {
-				}
-				b_olvia = {
-				}
-				b_gla = {
-				}
-			}	
-			
-			c_achaes = {
-				color = { 210 148 130 }
-				color2 = { 255 255 255 }
-				
-				b_achaes = {
-				}
-				b_kratus = {
-				}
-				b_aleria = {
-				}
-				b_rhodesia = {
-				}
-				b_eretra = {
-				}
-			}	
-		}		
+		}				
 	}	
 
 
-	k_the_great_vale = {
+	k_stygian_wood = {
 		color = { 55 154 67 }
 		color2 = { 255 255 255 }
 	
-		capital = 690 #Akendorf
+		capital = 693 #Mirke
 	
-		d_wilderwald = {
-			color = { 50 179 80 }
+		d_schwarzwald = {
+			color = { 50 119 40 }
 			color2 = { 255 255 255 }
 			
-			capital = 690 #Akendorf
-			
-			c_styratia = {
-				color = { 78 167 89 }
-				color2 = { 255 255 255 }
-				
-				b_styratia = {
-				}
-				b_kurbelstadt = {
-				}
-				b_guttrocknen = {
-				}
-			}	
-			
-			c_heiligerberg = {
+			capital = 688 #Munzig
+
+			c_munzig = {
 				color = { 57 189 54 }
 				color2 = { 255 255 255 }
 				
@@ -12295,6 +12680,20 @@ k_irrana = {
 				b_parratt = {
 				}
 				b_auspolhaus = {
+				}
+				b_bruda = {
+				}
+			}	
+			
+			c_styratia = {
+				color = { 128 127 189 }
+				color2 = { 255 255 255 }
+				
+				b_styratia = {
+				}
+				b_kurbelstadt = {
+				}
+				b_guttrocknen = {
 				}
 			}	
 			
@@ -12311,26 +12710,14 @@ k_irrana = {
 				b_wicht_werfer_ruhe = {
 				}
 			}	
-			
-			c_kalk = {
-				color = { 89 171 98 }
-				color2 = { 255 255 255 }
-				
-				b_villa_kalk = {
-				}
-				b_berlginbor = {
-				}
-				b_banner_hugel = {
-				}
-			}	
 		}
-	
-		d_mirkenwald = {
-			color = { 20 189 120 }
+		
+		d_wilderwald = {
+			color = { 50 179 80 }
 			color2 = { 255 255 255 }
 			
-			capital = 693 #Mirke
-			
+			capital = 689 #Sturgun
+
 			c_sturgun = {
 				color = { 43 167 120 }
 				color2 = { 255 255 255 }
@@ -12355,8 +12742,27 @@ k_irrana = {
 				}
 				b_baumriesen = {
 				}
-			}	
+			}
 			
+			c_kalk = {
+				color = { 89 171 98 }
+				color2 = { 255 255 255 }
+				
+				b_villa_kalk = {
+				}
+				b_berlginbor = {
+				}
+				b_banner_hugel = {
+				}
+			}
+		}
+	
+		d_mirkenwald = {
+			color = { 20 189 120 }
+			color2 = { 255 255 255 }
+			
+			capital = 693 #Mirke
+						
 			c_mirke = {
 				color = { 65 167 101 }
 				color2 = { 255 255 255 }
@@ -12385,145 +12791,159 @@ k_irrana = {
 		}
 	}
 
-	k_starnek = {
+	k_badlands = {
 		color = { 150 84 77 }
 		color2 = { 255 255 255 }
 	
-		capital = 701 #Starnek
+		capital = 712 #Iron Rock
 	
-		d_geist = {
-			color = { 120 69 50 }
+		d_gyrn = {
+			color = { 100 40 40 }
 			color2 = { 255 255 255 }
 			
-			capital = 695 #Geistenmund
+			capital = 736 #Adryn
 			
-			c_geistenmund = {
-				color = { 120 98 56 }
+			c_adryn = {
+				color = { 89 56 50 }
 				color2 = { 255 255 255 }
 				
-				b_geistenmund = {
+				b_adryn = {
 				}
-				b_dieters_circle = {
+				b_karon = {
 				}
-				b_the_deep_dyke = {
+				b_bassit = {
 				}
-				b_morrenhof = {
+				b_asteron = {
 				}
-			}
-			
-			c_bythan = {
-				color = { 100 76 50 }
+			}	
+				
+			c_anaxia = {
+				color = { 109 50 67 }
 				color2 = { 255 255 255 }
 				
-				b_bythan = {
+				b_anaxia = {
 				}
-				b_plathaphyne = {
+				b_trebizo = {
 				}
-				b_thorsivar = {
+			}	
+			
+			c_afayan = {
+				color = { 120 78 78 }
+				color2 = { 255 255 255 }
+				
+				b_afayan = {
 				}
-			}
-		}			
-
-		d_starnek = {
-			color = { 170 99 90 }
+				b_samanda = {
+				}
+				b_teion = {
+				}
+			}	
+		}
+		
+		d_clazomene = {
+			color = { 160 109 90 }
 			color2 = { 255 255 255 }
 			
-			capital = 701 #Starnek
+			capital = 708 #Clazo
 			
-			c_zenres = {
-				color = { 189 102 76 }
+			c_clazo = {
+				color = { 209 87 78 }
 				color2 = { 255 255 255 }
 				
-				b_zenres = {
+				b_clazo = {
 				}
-				b_castelvin = {
+				b_dardano = {
 				}
-				b_drach = {
+				b_mileta = {
 				}
-			}
-
-			c_starnek = {
-				color = { 190 103 98 }
-				color2 = { 255 255 255 }
-				
-				b_starnek = {
-				}
-				b_orontonas = {
-				}
-				b_quarteras = {
-				}
-				b_urkenberg = {
-				}
-				b_sineward = {
-				}
-			}
+			}	
 			
-			c_brovska = {
-				color = { 178 120 101 }
+			c_knidus = {
+				color = { 204 89 56 }
 				color2 = { 255 255 255 }
 				
-				b_brovska = {
+				b_knidus = {
 				}
-				b_porthos = {
+				b_thorax = {
 				}
-				b_aramilla = {
+				b_narete = {
+				}
+			}	
+			
+			c_paragorn = {
+				color = { 130 104 45 }
+				color2 = { 255 255 255 }
+				
+				b_paragorn = {
+				}
+				b_elea = {
+				}
+			}	
+			
+			c_luwaia = {
+				color = { 201 101 115 }
+				color2 = { 255 255 255 }
+				
+				b_luwaia = {
+				}
+				b_tauricas = {
+				}
+				b_sandwash = {
+				}
+			}	
+		}
+		
+		d_kolluk = {
+			color = { 140 99 90 }
+			color2 = { 255 255 255 }
+			
+			capital = 746 #Bayat
+			
+			c_kybel = {
+				color = { 156 76 41 }
+				color2 = { 255 255 255 }
+				
+				b_kybel = {
+				}
+				b_dhorrensburg = {
+				}
+				b_lambracs = {
+				}
+			}		
+			
+			c_bayat = {
+				color = { 151 45 76 }
+				color2 = { 255 255 255 }
+				
+				b_bayat = {
+				}
+				b_balatir = {
+				}
+				b_matyas_fold = {
+				}
+				b_galdutako_herri = {
+				}
+			}		
+			
+			c_porsuk = {
+				color = { 130 17 56 }
+				color2 = { 255 255 255 }
+				
+				b_porsuk = {
+				}
+				b_bicharnos = {
+				}
+				b_sarabosna = {
 				}
 			}
 		}
-	
-		d_fatandira = {
-			color = { 160 69 70 }
-			color2 = { 255 255 255 }
-			
-			capital = 699 #Fatandira
-			
-			c_fatandira = {
-				color = { 167 34 67 }
-				color2 = { 255 255 255 }
-				
-				b_fatandira = {
-				}
-				b_fatanbad = {
-				}
-				b_jabroni = {
-				}
-				b_vitrolle = {
-				}
-			}
-			
-			c_levrellian = {
-				color = { 130 52 32 }
-				color2 = { 255 255 255 }
-				
-				b_levrellian = {
-				}
-				b_charamis = {
-				}
-				b_dartagne = {
-				}
-				b_gesunkenklinge = {
-				}
-			}
-		}
-	
+		
 		d_haflok = {
 			color = { 150 99 100 }
 			color2 = { 255 255 255 }
 			
 			capital = 707 #Haflok
-			
-			c_karzik = {
-				color = { 178 103 120 }
-				color2 = { 255 255 255 }
-				
-				b_karzik = {
-				}
-				b_graystak = {
-				}
-				b_la_volpissa = {
-				}
-			}
-			
+						
 			c_gulthac = {
 				color = { 167 120 87 }
 				color2 = { 255 255 255 }
@@ -12531,6 +12951,8 @@ k_irrana = {
 				b_salzac = {
 				}
 				b_payens = {
+				}
+				b_la_volpissa = {
 				}
 			}
 			
@@ -12579,6 +13001,8 @@ k_irrana = {
 				}
 				b_the_blacktor = {
 				}
+				b_graystak = {
+				}
 			}
 			
 			c_karsack = {
@@ -12612,8 +13036,6 @@ k_irrana = {
 				}
 				b_greendel = {
 				}
-				b_cilla = {
-				}
 			}	
 			
 			c_crios = {
@@ -12628,6 +13050,7 @@ k_irrana = {
 				}
 			}	
 		}
+		
 		d_bebrikia = {
 			color = { 120 89 60 }
 			color2 = { 255 255 255 }
@@ -12676,13 +13099,496 @@ k_irrana = {
 		}
 	}
 
-	
-	k_kharnos = {
-		color = { 15 174 147 }
+
+	k_stygia = {
+		color = { 185 124 37 }
 		color2 = { 255 255 255 }
 	
-		capital = 667 #Heldegrad
+		capital = 698 #Zenres
+
+		d_starnek = {
+			color = { 250 199 90 }
+			color2 = { 255 255 255 }
+			
+			capital = 698 #Zenres
+			
+			c_zenres = {
+				color = { 189 102 76 }
+				color2 = { 255 255 255 }
+				
+				breton = "Saint Pierre"
+				nortagnese = "Saint Pierre"
+				armoric = "Saint Pierre"
+				mousillonian = "Saint Pierre"
+				carcassian = "Saint Pierre"
+				gisoren = "Saint Pierre"
+				bourgon = "Saint Pierre"
+				gascon = "Saint Pierre"
+				marcheur = "Saint Pierre"
+				
+				b_zenres = {
+				}
+				b_castelvin = {
+				}
+				b_drach = {
+				}
+			}
+			
+			c_dhouda = {
+				color = { 174 120 156 }
+				color2 = { 255 255 255 }
+				
+				b_dhouda = {
+				}
+				b_claramunda = {
+				}
+				b_hermessin = {
+				}
+				b_constancz = {
+				}
+			}
+			
+			c_bythan = {
+				color = { 100 76 50 }
+				color2 = { 255 255 255 }
+				
+				b_bythan = {
+				}
+				b_plathaphyne = {
+				}
+				b_thorsivar = {
+				}
+			}
+		}
+	
+		d_fatandira = {
+			color = { 190 169 70 }
+			color2 = { 255 255 255 }
+			
+			capital = 699 #Fatandira
+			
+			c_fatandira = {
+				color = { 167 34 67 }
+				color2 = { 255 255 255 }
+				
+				b_fatandira = {
+				}
+				b_fatanbad = {
+				}
+				b_jabroni = {
+				}
+				b_vitrolle = {
+				}
+			}
+			
+			c_levrellian = {
+				color = { 130 52 32 }
+				color2 = { 255 255 255 }
+				
+				b_levrellian = {
+				}
+				b_charamis = {
+				}
+				b_dartagne = {
+				}
+				b_gesunkenklinge = {
+				}
+			}
+		}
+	
+		d_masse = {
+			color = { 190 109 40 }
+			color2 = { 255 255 255 }
+			
+			capital = 685 #Masserschloss
+			
+			bjornling = Varmrland
+			sarl = Varmrland
+			aesling = Varmrland
+			varg = Varmrland
+			baersonling = Varmrland
+			skaeling = Varmrland
+			graeling = Varmrland
+			fjarmann = Varmrland
+			
+			c_masserschloss = {
+				color = { 150 89 76 }
+				color2 = { 255 255 255 }
+				
+				b_masserschloss = {
+				}
+				b_gongilo = {
+				}
+				b_medok = {
+				}
+				b_timohir = {
+				}
+			}
+			
+			c_raven_barrow = {
+				color = { 200 125 63 }
+				color2 = { 255 255 255 }
+				
+				b_thale = {
+				}
+				b_raven_barrow = {
+				}
+				b_machus = {
+				}
+				b_minark = {
+				}
+			}
+			
+			c_somjek = {
+				color = { 150 110 120 }
+				color2 = { 255 255 255 }
+				
+				breton = "Chabourg"
+				nortagnese = "Chabourg"
+				armoric = "Chabourg"
+				mousillonian = "Chabourg"
+				carcassian = "Chabourg"
+				gisoren = "Chabourg"
+				bourgon = "Chabourg"
+				gascon = "Chabourg"
+				marcheur = "Chabourg"
+				
+				b_somjek = {
+				
+				breton = "Chabourg"
+				nortagnese = "Chabourg"
+				armoric = "Chabourg"
+				mousillonian = "Chabourg"
+				carcassian = "Chabourg"
+				gisoren = "Chabourg"
+				bourgon = "Chabourg"
+				gascon = "Chabourg"
+				marcheur = "Chabourg"
+				
+				}
+				b_mykadon = {
+				}
+				b_stallis = {
+				}
+				b_szomol = {
+				}
+			}
+			
+			c_moslac = {
+				color = { 161 198 200 }
+				color2 = { 255 255 255 }
+				
+				breton = "Charleroi"
+				nortagnese = "Charleroi"
+				armoric = "Charleroi"
+				mousillonian = "Charleroi"
+				carcassian = "Charleroi"
+				gisoren = "Charleroi"
+				bourgon = "Charleroi"
+				gascon = "Charleroi"
+				marcheur = "Charleroi"
+				
+				b_moslac = {
+				
+				breton = "Charleroi"
+				nortagnese = "Charleroi"
+				armoric = "Charleroi"
+				mousillonian = "Charleroi"
+				carcassian = "Charleroi"
+				gisoren = "Charleroi"
+				bourgon = "Charleroi"
+				gascon = "Charleroi"
+				marcheur = "Charleroi"
+				
+				}
+				b_pestesvar = {
+				}
+				b_temergom = {
+				}
+				b_feheriszod = {
+				}
+			}
+		}
 		
+		d_hvagir = {
+			color = { 80 179 150 }
+			color2 = { 255 255 255 }
+			
+			capital = 675 #Vidovdan
+
+			c_albusdorf = {
+				color = { 76 198 120 }
+				color2 = { 255 255 255 }
+				
+				b_albusdorf = {
+				}
+				b_vinzeford = {
+				}
+				b_brancamal = {
+				}
+				b_gresse = {
+				}
+			}
+						
+			c_vidovdan = {
+				color = { 120 189 98 }
+				color2 = { 255 255 255 }
+				
+				b_vidovdan = {
+				}
+				b_hvagirdorf = {
+				}
+				b_crotea = {
+				}
+				b_sirbea = {
+				}
+				b_erdelea = {
+				}
+			}
+			
+			c_mornell = {
+				color = { 78 150 67 }
+				color2 = { 255 255 255 }
+				
+				b_mornellia = {
+				}
+				b_donnigan_moat = {
+				}
+				b_swyne_point = {
+				}
+			}
+		}
+		
+		d_the_galat = {
+			color = { 100 129 150 }
+			color2 = { 255 255 255 }
+			
+			capital = 702 #Brovska
+
+			c_brovska = {
+				color = { 178 120 101 }
+				color2 = { 255 255 255 }
+				
+				b_brovska = {
+				}
+				b_porthos = {
+				}
+				b_aramilla = {
+				}
+				b_cilla = {
+				}
+				b_karzik = {
+				}
+			}
+			
+			c_galiti = {
+				color = { 78 100 176 }
+				color2 = { 255 255 255 }
+				
+				b_galiti = {
+				}
+				b_lippolit = {
+				}
+				b_sonrai = {
+				}
+			}
+			
+			c_malko = {
+				color = { 109 166 150 }
+				color2 = { 255 255 255 }
+				
+				b_malko = {
+				}
+				b_tor_anrok = {
+				}
+				b_the_warden = {
+				}
+			}
+			
+		}
+		
+		d_sarngul = {
+			color = { 150 119 70 }
+			color2 = { 255 255 255 }
+			
+			capital = 865 #Masserschloss
+			
+			c_geistenmund = {
+				color = { 120 98 56 }
+				color2 = { 255 255 255 }
+				
+				b_geistenmund = {
+				}
+				b_dieters_circle = {
+				}
+				b_the_deep_dyke = {
+				}
+				b_morrenhof = {
+				}
+			}
+			
+			c_quaterain = {
+				color = { 141 118 80 }
+				color2 = { 255 255 255 }
+				
+				b_quaterain = {
+				}
+				b_mornaisse = {
+				}
+				b_chablau_le_valiant = {
+				}
+				b_treuil = {
+				}
+			}
+			
+			c_varenka = {
+				color = { 144 65 60 }
+				color2 = { 255 255 255 }
+				
+				b_karls_folly = {
+				}
+				b_maek_schloss = {
+				}
+				b_the_warrens = {
+				}
+			}
+		}
+	}
+	
+	k_paraskiros = {
+		color = { 65 94 177 }
+		color2 = { 255 255 255 }
+	
+		capital = 723 #Khypris
+
+		d_khypria = {
+			color = { 90 109 180 }
+			color2 = { 255 255 255 }
+			
+			capital = 723 #Khypris
+
+			c_khypris = {
+				color = { 78 100 176 }
+				color2 = { 255 255 255 }
+				
+				b_khypris = {
+				}
+				b_maltane = {
+				}
+				b_valendra = {
+				}
+				b_philany = {
+				}
+				b_keltut = {
+				}
+				b_strigoviste = {
+				}
+			}	
+			
+			c_cabanal = {
+				color = { 80 120 210 }
+				color2 = { 255 255 255 }
+				
+				breton = "Charlesbourg"
+				nortagnese = "Charlesbourg"
+				armoric = "Charlesbourg"
+				mousillonian = "Charlesbourg"
+				carcassian = "Charlesbourg"
+				gisoren = "Charlesbourg"
+				bourgon = "Charlesbourg"
+				gascon = "Charlesbourg"
+				marcheur = "Charlesbourg"
+		
+				b_cabanal = {
+				
+				breton = "Charlesbourg"
+				nortagnese = "Charlesbourg"
+				armoric = "Charlesbourg"
+				mousillonian = "Charlesbourg"
+				carcassian = "Charlesbourg"
+				gisoren = "Charlesbourg"
+				bourgon = "Charlesbourg"
+				gascon = "Charlesbourg"
+				marcheur = "Charlesbourg"
+		
+				}
+				b_velliko = {
+				}
+				b_tyrnostar = {
+				}
+				b_cranes_fist = {
+				}
+			}
+
+			c_mentreda = {
+				color = { 23 67 145 }
+				color2 = { 255 255 255 }
+				
+				breton = "Herriot"
+				nortagnese = "Herriot"
+				armoric = "Herriot"
+				mousillonian = "Herriot"
+				carcassian = "Herriot"
+				gisoren = "Herriot"
+				bourgon = "Herriot"
+				gascon = "Herriot"
+				marcheur = "Herriot"
+				
+				b_mentreda = {
+				breton = "Château-Herriot"
+				nortagnese = "Château-Herriot"
+				armoric = "Château-Herriot"
+				mousillonian = "Château-Herriot"
+				carcassian = "Château-Herriot"
+				gisoren = "Château-Herriot"
+				bourgon = "Château-Herriot"
+				gascon = "Château-Herriot"
+				marcheur = "Château-Herriot"
+				}
+				b_mithiris = {
+				}
+				b_aexinos = {
+				}
+				b_euxin = {
+				}
+			}	
+			
+			c_brasov = {
+				color = { 34 87 78 }
+				color2 = { 255 255 255 }
+				
+				breton = "Sainte Thérèse"
+				nortagnese = "Sainte Thérèse"
+				armoric = "Sainte Thérèse"
+				mousillonian = "Sainte Thérèse"
+				carcassian = "Sainte Thérèse"
+				gisoren = "Sainte Thérèse"
+				bourgon = "Sainte Thérèse"
+				gascon = "Sainte Thérèse"
+				marcheur = "Sainte Thérèse"
+				
+				b_brasov = {
+				
+				breton = "Sainte Thérèse"
+				nortagnese = "Sainte Thérèse"
+				armoric = "Sainte Thérèse"
+				mousillonian = "Sainte Thérèse"
+				carcassian = "Sainte Thérèse"
+				gisoren = "Sainte Thérèse"
+				bourgon = "Sainte Thérèse"
+				gascon = "Sainte Thérèse"
+				marcheur = "Sainte Thérèse"
+				}
+				b_eszterhazy = {
+				}
+				b_matyadi = {
+				}
+				b_rakosvar = {
+				}
+			}
+			
+		}
+
 		d_kharnos = {
 			color = { 20 99 80 }
 			color2 = { 255 255 255 }
@@ -12703,6 +13609,18 @@ k_irrana = {
 				}
 			}
 			
+			c_aldium = {
+				color = { 107 89 90 }
+				color2 = { 255 255 255 }
+				
+				b_aldium = {
+				}
+				b_the_claws = {
+				}
+				b_red_sentry = {
+				}
+			}
+
 			c_mortensholm = {
 				color = { 9 120 89 }
 				color2 = { 255 255 255 }
@@ -12714,6 +13632,8 @@ k_irrana = {
 				b_borduritsa = {
 				}
 				b_dacs = {
+				}
+				b_gram = {
 				}
 			}
 
@@ -12730,25 +13650,9 @@ k_irrana = {
 				b_serene_grove = {
 				}
 			}
-			
-			c_magysvar = {
-				color = { 34 87 78 }
-				color2 = { 255 255 255 }
-				
-				b_eszterhazy = {
-				}
-				b_strigoviste = {
-				}
-				b_temergom = {
-				}
-				b_matyadi = {
-				}
-				b_rakosvar = {
-				}
-			}
 		}
-
-		d_veneta = {
+	
+		d_scarosio = {
 			color = { 20 159 130 }
 			color2 = { 255 255 255 }
 			
@@ -12758,11 +13662,45 @@ k_irrana = {
 				color = { 30 176 156 }
 				color2 = { 255 255 255 }
 				
+				breton = "Dijonville"
+				nortagnese = "Dijonville"
+				armoric = "Dijonville"
+				mousillonian = "Dijonville"
+				carcassian = "Dijonville"
+				gisoren = "Dijonville"
+				bourgon = "Dijonville"
+				gascon = "Dijonville"
+				marcheur = "Dijonville"
+				
 				b_arnalos = {
+				
+				breton = "Dijonville"
+				nortagnese = "Dijonville"
+				armoric = "Dijonville"
+				mousillonian = "Dijonville"
+				carcassian = "Dijonville"
+				gisoren = "Dijonville"
+				bourgon = "Dijonville"
+				gascon = "Dijonville"
+				marcheur = "Dijonville"
 				}
 				b_proxema = {
 				}
 				b_calpe = {
+				}
+			}	
+			
+			c_pelpeonna = {
+				color = { 130 100 154 }
+				color2 = { 255 255 255 }
+				
+				b_pelepos = {
+				}
+				b_tanasia = {
+				}
+				b_polypolis = {
+				}
+				b_mysos = {
 				}
 			}	
 			
@@ -12779,246 +13717,118 @@ k_irrana = {
 				b_grasers_flick = {
 				}
 			}	
-		}	
-	}
-	
-	k_hvagir = {
-		color = { 15 104 127 }
-		color2 = { 255 255 255 }
-	
-		capital = 675 #Hvagir
-
-			
-		d_malko = {
-			color = { 120 169 170 }
-			color2 = { 255 255 255 }
-			
-			capital = 694 #Malko
-			
-			c_malko = {
-				color = { 109 166 150 }
-				color2 = { 255 255 255 }
-				
-				b_malko = {
-				}
-				b_tor_anrok = {
-				}
-				b_the_warden = {
-				}
-			}
-			
-			c_varenka = {
-				color = { 144 165 160 }
-				color2 = { 255 255 255 }
-				
-				b_karls_folly = {
-				}
-				b_maek_schloss = {
-				}
-				b_the_warrens = {
-				}
-			}
-			
-			c_aldium = {
-				color = { 107 189 190 }
-				color2 = { 255 255 255 }
-				
-				b_aldium = {
-				}
-				b_the_claws = {
-				}
-				b_red_sentry = {
-				}
-			}
 		}
-
-		d_hvagir = {
-			color = { 80 179 150 }
+		
+		d_drakon_coast = {
+			color = { 60 79 120 }
 			color2 = { 255 255 255 }
 			
-			capital = 675 #Hvagir
-
-				
-			c_bruda = {
-				color = { 78 178 130 }
+			capital = 678 #Matorca
+			
+			c_spinda = {
+				color = { 78 50 150 }
 				color2 = { 255 255 255 }
 				
-				b_bruda = {
+				b_spinda = {
 				}
-				b_fools_stead = {
+				b_burcanda = {
 				}
-				b_gram = {
-				}
-				b_bridgepoint = {
-				}
-			}
-			
-			c_albusdorf = {
-				color = { 76 198 120 }
-				color2 = { 255 255 255 }
-				
-				b_albusdorf = {
-				}
-				b_vinzeford = {
-				}
-				b_brancamal = {
-				}
-				b_gresse = {
-				}
-			}
-			
-			c_hvagir = {
-				color = { 120 189 98 }
-				color2 = { 255 255 255 }
-				
-				b_hvagirdorf = {
-				}
-				b_crotea = {
-				}
-				b_sirbea = {
-				}
-				b_erdelea = {
-				}
-			}
-			
-			c_timohir = {
-				color = { 150 210 120 }
-				color2 = { 255 255 255 }
-				
-				b_timohir = {
-				}
-				b_mykadon = {
-				}
-				b_stallis = {
-				}
-				b_szomol = {
-				}
-			}
-			
-			c_mornell = {
-				color = { 78 150 67 }
-				color2 = { 255 255 255 }
-				
-				b_mornellia = {
-				}
-				b_donnigan_moat = {
-				}
-				b_swyne_point = {
-				}
-			}
-		}
-	
-		d_masse = {
-			color = { 30 149 150 }
-			color2 = { 255 255 255 }
-			
-			capital = 680 #Moslac
-			
-			c_quaterain = {
-				color = { 41 178 180 }
-				color2 = { 255 255 255 }
-				
-				b_quaterain = {
-				}
-				b_mornaisse = {
-				}
-				b_chablau_le_valiant = {
-				}
-				b_treuil = {
-				}
-			}
-			
-			c_moslac = {
-				color = { 61 198 200 }
-				color2 = { 255 255 255 }
-				
-				b_moslac = {
-				}
-				b_brasov = {
-				}
-				b_pestesvar = {
-				}
-				b_feheriszod = {
-				}
-			}
-		}
-	
-		d_the_galat = {
-			color = { 40 99 150 }
-			color2 = { 255 255 255 }
-			
-			capital = 683 #Galiti
-			
-			c_galiti = {
-				color = { 78 100 176 }
-				color2 = { 255 255 255 }
-				
-				b_galiti = {
-				}
-				b_lippolit = {
-				}
-				b_sonrai = {
-				}
-			}
-			
-			c_dhouda = {
-				color = { 74 120 156 }
-				color2 = { 255 255 255 }
-				
-				b_dhouda = {
-				}
-				b_claramunda = {
-				}
-				b_hermessin = {
-				}
-				b_constancz = {
-				}
-			}
-		}
-	}
-
-	k_khypria = {
-		color = { 55 54 157 }
-		color2 = { 255 255 255 }
-	
-		capital = 723 #Khypris
-
-		d_khypris = {
-			color = { 90 109 180 }
-			color2 = { 255 255 255 }
-			
-			capital = 723 #Khypris
-			
-			c_maltane = {
-				color = { 98 120 210 }
-				color2 = { 255 255 255 }
-				
-				b_velliko = {
-				}
-				b_tyrnostar = {
-				}
-				b_cranes_fist = {
-				}
-			}
-						
-			c_khypris = {
-				color = { 78 100 176 }
-				color2 = { 255 255 255 }
-				
-				b_khypris = {
-				}
-				b_cavanal = {
-				}
-				b_valendra = {
-				}
-				b_philany = {
-				}
-				b_keltut = {
+				b_chersotar = {
 				}
 			}	
 			
+			c_lament = {
+				color = { 190 103 98 }
+				color2 = { 255 255 255 }
+				
+				b_lament = {
+				}
+				b_orontonas = {
+				}
+				b_quarteras = {
+				}
+				b_urkenberg = {
+				}
+				b_sineward = {
+				}
+			}
+
+			c_matorca = {
+				color = { 100 92 160 }
+				color2 = { 255 255 255 }
+				
+				breton = "Beauport"
+				nortagnese = "Beauport"
+				armoric = "Beauport"
+				mousillonian = "Beauport"
+				carcassian = "Beauport"
+				gisoren = "Beauport"
+				bourgon = "Beauport"
+				gascon = "Beauport"
+				marcheur = "Beauport"
+				
+				b_matorca = {
+				}
+				b_amisus = {
+				}
+				b_seuth = {
+				}
+			}
+		}
+
+		d_skiros = {
+			color = { 100 199 170 }
+			color2 = { 255 255 255 }
+			
+			capital = 641 #Skiros
+			
+			c_domatburg = {
+				color = { 110 190 180 }
+				color2 = { 255 255 255 }
+				
+				b_domatburg = {
+				}
+				b_alemento = {
+				}
+				b_fidalguia = {
+				}
+			}	
+			
+			c_zvorak = {
+				color = { 130 187 200 }
+				color2 = { 255 255 255 }
+				
+				b_zvorak = {
+				}
+				b_myrmenatus = {
+				}
+				b_arcadia = {
+				}
+			}	
+			
+			c_skiros = {
+				color = { 101 178 220 }
+				color2 = { 255 255 255 }
+				
+				b_mallia = {
+				}
+				b_karpathos = {
+				}
+				b_ctesia = {
+				}
+				b_hoplitum = {
+				}
+			}	
+		}
+	
+		d_mirasino = {
+			color = { 120 159 160 }
+			color2 = { 255 255 255 }
+			
+			capital = 663 #Thessos
+			
 			c_mognia = {
-				color = { 67 87 169 }
+				color = { 47 87 169 }
 				color2 = { 255 255 255 }
 				
 				b_mognia = {
@@ -13033,59 +13843,31 @@ k_irrana = {
 				color = { 79 67 189 }
 				color2 = { 255 255 255 }
 				
+				b_ulricstad = {
+				}
 				b_hinrikness = {
 				}
 				b_golyat = {
 				}
-				b_ulricstad = {
-				}
 				b_tyavit = {
 				}
 			}
-			
-			c_matorca = {
-				color = { 100 92 160 }
+			c_thessos = {
+				color = { 100 140 210 }
 				color2 = { 255 255 255 }
 				
-				b_matorca = {
+				b_thessos = {
 				}
-				b_amisus = {
+				b_olvia = {
 				}
-				b_seuth = {
+				b_gla = {
 				}
-			}			
-		}
-	
-		d_spinda = {
-			color = { 50 69 160 }
-			color2 = { 255 255 255 }
-			
-			capital = 679 #Spinda
-			
-			c_spinda = {
-				color = { 78 50 150 }
-				color2 = { 255 255 255 }
-				
-				b_spinda = {
+				b_rhodesia = {
 				}
-				b_burcanda = {
+				b_eretra = {
 				}
-				b_chersotar = {
-				}
-			}	
-			
-			c_masserschloss = {
-				color = { 50 89 176 }
-				color2 = { 255 255 255 }
-				
-				b_masserschloss = {
-				}
-				b_gongilo = {
-				}
-				b_medok = {
-				}
-			}	
-		}
+			}		
+		}		
 	}
 
 	k_barak_varr = {
@@ -13180,7 +13962,7 @@ k_irrana = {
 	}
 
 	k_strygos = {
-		color = { 155 24 27 }
+		color = { 125 24 27 }
 		color2 = { 255 255 255 }
 	
 		capital = 770 #Mourkain
@@ -13298,51 +14080,8 @@ k_irrana = {
 			}
 		}
 
-		d_gyrn = {
-			color = { 100 40 40 }
-			color2 = { 255 255 255 }
-			
-			capital = 736 #Adryn
-			
-			c_adryn = {
-				color = { 89 56 50 }
-				color2 = { 255 255 255 }
-				
-				b_adryn = {
-				}
-				b_karon = {
-				}
-				b_bassit = {
-				}
-				b_asteron = {
-				}
-			}	
-				
-			c_anaxia = {
-				color = { 109 50 67 }
-				color2 = { 255 255 255 }
-				
-				b_anaxia = {
-				}
-				b_trebizo = {
-				}
-			}	
-			
-			c_afayan = {
-				color = { 120 78 78 }
-				color2 = { 255 255 255 }
-				
-				b_afayan = {
-				}
-				b_samanda = {
-				}
-				b_teion = {
-				}
-			}	
-		}
-		
 		d_anksary = {
-			color = { 150 30 40 }
+			color = { 150 60 10 }
 			color2 = { 255 255 255 }
 			
 			capital = 750 #Arz
@@ -13374,7 +14113,7 @@ k_irrana = {
 			}
 						
 			c_irmak = {
-				color = { 145 65 87 }
+				color = { 145 35 87 }
 				color2 = { 255 255 255 }
 				
 				b_irmak = {
@@ -13455,51 +14194,6 @@ k_irrana = {
 				b_vani = {
 				}
 				b_granite_hill = {
-				}
-			}
-		}
-	
-		d_kolluk = {
-			color = { 160 59 50 }
-			color2 = { 255 255 255 }
-			
-			capital = 746 #Bayat
-			
-			c_kybel = {
-				color = { 156 76 41 }
-				color2 = { 255 255 255 }
-				
-				b_kybel = {
-				}
-				b_dhorrensburg = {
-				}
-				b_lambracs = {
-				}
-			}		
-			
-			c_bayat = {
-				color = { 151 45 76 }
-				color2 = { 255 255 255 }
-				
-				b_bayat = {
-				}
-				b_balatir = {
-				}
-				b_matyas_fold = {
-				}
-				b_galdutako_herri = {
-				}
-			}		
-			
-			c_porsuk = {
-				color = { 130 17 56 }
-				color2 = { 255 255 255 }
-				
-				b_porsuk = {
-				}
-				b_bicharnos = {
-				}
-				b_sarabosna = {
 				}
 			}
 		}
@@ -13671,7 +14365,7 @@ k_irrana = {
 	}
 	
 	k_magnata = {
-		color = { 175 104 67 }
+		color = { 225 104 37 }
 		color2 = { 255 255 255 }
 	
 		capital = 760 #Rhothira
@@ -13837,95 +14531,6 @@ k_irrana = {
 				}
 			}	
 		}
-
-		d_clazomene = {
-			color = { 220 109 90 }
-			color2 = { 255 255 255 }
-			
-			capital = 708 #Clazo
-			
-			c_clazo = {
-				color = { 209 87 78 }
-				color2 = { 255 255 255 }
-				
-				b_clazo = {
-				}
-				b_dardano = {
-				}
-				b_mileta = {
-				}
-			}	
-			
-			c_knidus = {
-				color = { 204 89 56 }
-				color2 = { 255 255 255 }
-				
-				b_knidus = {
-				}
-				b_thorax = {
-				}
-				b_narete = {
-				}
-			}	
-		}
-	
-		d_pontis = {
-			color = { 240 130 60 }
-			color2 = { 255 255 255 }
-			
-			capital = 722 #Aig
-			
-			c_paragorn = {
-				color = { 130 104 45 }
-				color2 = { 255 255 255 }
-				
-				b_paragorn = {
-				}
-				b_elea = {
-				}
-			}	
-			
-			c_thale = {
-				color = { 244 103 53 }
-				color2 = { 255 255 255 }
-				
-				b_thale = {
-				}
-				b_machus = {
-				}
-				b_minark = {
-				}
-			}
-			
-			c_aig = {
-				color = { 223 67 45 }
-				color2 = { 255 255 255 }
-				
-				b_aig = {
-				}
-				b_mithiris = {
-				}
-				b_aexinos = {
-				}
-				b_waterdeep = {
-				}
-				b_euxin = {
-				}
-			}	
-			
-			c_luwaia = {
-				color = { 201 61 55 }
-				color2 = { 255 255 255 }
-				
-				b_luwaia = {
-				}
-				b_tauricas = {
-				}
-				b_sandwash = {
-				}
-			}	
-		}		
-		
 	}
 	
 
@@ -13963,15 +14568,15 @@ k_irrana = {
 				color = { 78 89 230 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Kazad Zanhirn"
+				dwarf_main = "Kazad Zanhirn"
 				dwarf_norse = "Kazad Zanhirn"
-				dwarven_chaos = "Kazad Zanhirn"		
+				dwarf_chaos = "Kazad Zanhirn"		
 								
 				b_bloodhorn_citadel = {
 								
-				dwarven_main = "Khazid Zanhirn"
+				dwarf_main = "Khazid Zanhirn"
 				dwarf_norse = "Khazid Zanhirn"
-				dwarven_chaos = "Khazid Zanhirn"		
+				dwarf_chaos = "Khazid Zanhirn"		
 				
 				}
 				b_khadiz_gorum = {
@@ -14158,6 +14763,7 @@ e_drak_ankor = {
 			baersonling = Skargi
 			skaeling = Skargi
 			graeling = Skargi
+			fjarmann = Skargi
 				
 			c_kraka_ornsmotek = {
 				color = { 230 180 210 }
@@ -14196,6 +14802,7 @@ e_drak_ankor = {
 				baersonling = Skargi
 				skaeling = Skargi
 				graeling = Skargi
+				fjarmann = Skargi
 				
 				b_kazad_dumond = {
 				}
@@ -14389,9 +14996,9 @@ e_drak_ankor = {
 				color = { 148 189 189 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Kraka Dorden"
+				dwarf_main = "Kraka Dorden"
 				dwarf_norse = "Kraka Dorden"
-				dwarven_chaos = "Kraka Dorden"
+				dwarf_chaos = "Kraka Dorden"
 				
 				b_kraka_dorden = {
 				}
@@ -14564,6 +15171,7 @@ e_drak_ankor = {
 			baersonling = Ladogash
 			skaeling = Ladogash
 			graeling = Ladogash
+			fjarmann = Lagodash
 			
 			c_kylklava_valley = {
 				color = { 123 178 140 }
@@ -14604,6 +15212,8 @@ e_drak_ankor = {
 				color = { 174 203 102 }
 				color2 = { 255 255 255 }
 				
+				b_sjoktraken = {
+				}
 				b_barraka_khagerack = {
 				}
 				b_barraka_umokral = {
@@ -14719,7 +15329,7 @@ e_drak_ankor = {
 }	
 			
 e_karak_ankor = {
-	color = { 238 51 52 }
+	color = { 208 11 32 }
 	color2 = { 255 255 255 }
 	
 	capital = 451 #Karaz-a-Karak
@@ -14740,9 +15350,9 @@ e_karak_ankor = {
 				color = { 178 167 190 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karag Dron"
+				dwarf_main = "Karag Dron"
 				dwarf_norse = "Karag Dron"
-				dwarven_chaos = "Karag Dron"
+				dwarf_chaos = "Karag Dron"
 
 				b_karag_dron = {
 				}
@@ -14791,16 +15401,16 @@ e_karak_ankor = {
 			
 			capital = 465 #Karak Drazh
 			
-			dwarven_main = Kadazgul
+			dwarf_main = Kadazgul
 			dwarf_norse = Kadazgul
-			dwarven_chaos = Kadazgul
+			dwarf_chaos = Kadazgul
 							
 			c_squigoruz = {
 				color = { 176 171 179 }
 				color2 = { 255 255 255 }
-				dwarven_main = Squigoruz
+				dwarf_main = Squigoruz
 				dwarf_norse = Squigoruz
-				dwarven_chaos = Squigoruz
+				dwarf_chaos = Squigoruz
 				
 				b_squigoruz = {
 				}
@@ -14816,9 +15426,9 @@ e_karak_ankor = {
 				color = { 197 196 197 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karak Drahz"
+				dwarf_main = "Karak Drahz"
 				dwarf_norse = "Karak Drahz"
-				dwarven_chaos = "Karak Drahz"
+				dwarf_chaos = "Karak Drahz"
 				
 				b_karak_drazh = {
 				}
@@ -14913,15 +15523,15 @@ e_karak_ankor = {
 				color = { 235 199 199 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karag Haraz"
+				dwarf_main = "Karag Haraz"
 				dwarf_norse = "Karag Haraz"
-				dwarven_chaos = "Karag Haraz"
+				dwarf_chaos = "Karag Haraz"
 								
 				b_karag_haraz = {
 				
-				dwarven_main = "Karag Haraz"
+				dwarf_main = "Karag Haraz"
 				dwarf_norse = "Karag Haraz"
-				dwarven_chaos = "Karag Haraz"
+				dwarf_chaos = "Karag Haraz"
 				
 				}
 				b_grung_dorbim = {
@@ -15007,9 +15617,9 @@ e_karak_ankor = {
 			
 			capital = 461 #Varag Kadrin
 			
-			dwarven_main = "Varag Kadrin"
+			dwarf_main = "Varag Kadrin"
 			dwarf_norse = "Varag Kadrin"
-			dwarven_chaos = "Varag Kadrin"
+			dwarf_chaos = "Varag Kadrin"
 							
 			c_varag_kadrin = {
 				color = { 209 233 241 }
@@ -15121,9 +15731,9 @@ e_karak_ankor = {
 				color = { 248 156 109 }
 				color2 = { 255 255 255 }
 
-			dwarven_main = "Kadrin Azril"
+			dwarf_main = "Kadrin Azril"
 			dwarf_norse = "Kadrin Azril"
-			dwarven_chaos = "Kadrin Azril"				
+			dwarf_chaos = "Kadrin Azril"				
 				
 				b_mingol_azril = {
 				}
@@ -15147,21 +15757,21 @@ e_karak_ankor = {
 				color = { 230 166 142 }
 				color2 = { 255 255 255 }
 
-				dwarven_main = "Karag Agrilwutraz"
+				dwarf_main = "Karag Agrilwutraz"
 				dwarf_norse = "Karag Agrilwutraz"	
-				dwarven_chaos = "Karag Agrilwutraz"				
+				dwarf_chaos = "Karag Agrilwutraz"				
 				
 				b_silverspear_hold = {
 
-				dwarven_main = "Karak Agrilwutraz"
+				dwarf_main = "Karak Agrilwutraz"
 				dwarf_norse = "Karak Agrilwutraz"	
-				dwarven_chaos = "Karak Agrilwutraz"		
+				dwarf_chaos = "Karak Agrilwutraz"		
 				}
 				b_silverspear_spire = {
 
-				dwarven_main = "Und Agrilwutraz"
+				dwarf_main = "Und Agrilwutraz"
 				dwarf_norse = "Und Agrilwutraz"	
-				dwarven_chaos = "Und Agrilwutraz"		
+				dwarf_chaos = "Und Agrilwutraz"		
 				}
 				b_grongol_ankroth = {
 				}
@@ -15180,23 +15790,23 @@ e_karak_ankor = {
 			
 			capital = 451 #Karaz-a-Karak
 
-			dwarven_main = "Karaz-a-Karak"
+			dwarf_main = "Karaz-a-Karak"
 			dwarf_norse = "Karaz-a-Karak"
-			dwarven_chaos = "Karaz-a-Karak"			
+			dwarf_chaos = "Karaz-a-Karak"			
 			
 			c_karaz_a_karak = {
 				color = { 209 141 85 }
 				color2 = { 255 255 255 }
 
-				dwarven_main = "Karaz-a-Karak"
+				dwarf_main = "Karaz-a-Karak"
 				dwarf_norse = "Karaz-a-Karak"
-				dwarven_chaos = "Karaz-a-Karak"			
+				dwarf_chaos = "Karaz-a-Karak"			
 				
 				b_karaz_a_karak = {
 
-				dwarven_main = "Karaz-a-Karak"
+				dwarf_main = "Karaz-a-Karak"
 				dwarf_norse = "Karaz-a-Karak"
-				dwarven_chaos = "Karaz-a-Karak"						
+				dwarf_chaos = "Karaz-a-Karak"						
 				
 				}
 				b_karaz_ungol_bar = {
@@ -15451,9 +16061,9 @@ e_karak_ankor = {
 				color = { 200 234 209 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karak Izor"
+				dwarf_main = "Karak Izor"
 				dwarf_norse = "Karak Izor"			
-				dwarven_chaos = "Karak Izor"	
+				dwarf_chaos = "Karak Izor"	
 				
 				b_karak_izor = {
 				}
@@ -15703,15 +16313,15 @@ e_karak_ankor = {
 				color = { 87 89 140 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karak Varn"
+				dwarf_main = "Karak Varn"
 				dwarf_norse = "Karak Varn"
-				dwarven_chaos = "Karak Varn"
+				dwarf_chaos = "Karak Varn"
 								
 				b_karak_varn = {
 				
-				dwarven_main = "Karak Varn"
+				dwarf_main = "Karak Varn"
 				dwarf_norse = "Karak Varn"
-				dwarven_chaos = "Karak Varn"		
+				dwarf_chaos = "Karak Varn"		
 				
 				}
 				b_khazid_aldum = {
@@ -15764,9 +16374,9 @@ e_karak_ankor = {
 				color = { 77 90 143 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karak Grom"
+				dwarf_main = "Karak Grom"
 				dwarf_norse = "Karak Grom"
-				dwarven_chaos = "Karak Grom"
+				dwarf_chaos = "Karak Grom"
 				
 				b_karag_grom = {
 					holy_site = ancestor_gods
@@ -15785,9 +16395,9 @@ e_karak_ankor = {
 				color = { 88 91 198 }
 				color2 = { 255 255 255 }				
 				
-				dwarven_main = "Karak Gunbad"
+				dwarf_main = "Karak Gunbad"
 				dwarf_norse = "Karak Gunbad"	
-				dwarven_chaos = "Karak Gunbad"							
+				dwarf_chaos = "Karak Gunbad"							
 				
 				b_kazad_gunbad = {
 				}
@@ -15911,9 +16521,9 @@ e_karak_ankor = {
 				color = { 209 14 45 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karag Yar-Duraz"
+				dwarf_main = "Karag Yar-Duraz"
 				dwarf_norse = "Karag Yar-Duraz"
-				dwarven_chaos = "Karag Yar-Duraz"		
+				dwarf_chaos = "Karag Yar-Duraz"		
 								
 				b_mingol_khrum = {
 				}
@@ -15927,9 +16537,9 @@ e_karak_ankor = {
 				color = { 190 68 41 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Zan Umgak"
+				dwarf_main = "Zan Umgak"
 				dwarf_norse = "Zan Umgak"
-				dwarven_chaos = "Zan Umgak"		
+				dwarf_chaos = "Zan Umgak"		
 				
 				b_seep_gore = {
 				}
@@ -15952,9 +16562,9 @@ e_karak_ankor = {
 				color = { 240 89 30 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karak Ungor"
+				dwarf_main = "Karak Ungor"
 				dwarf_norse = "Karak Ungor"
-				dwarven_chaos = "Karak Ungor"
+				dwarf_chaos = "Karak Ungor"
 				
 				b_karak_ungor = {
 				holy_site = ancestor_gods
@@ -15999,9 +16609,9 @@ e_karak_ankor = {
 				color = { 230 56 110 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karak Karlnir"
+				dwarf_main = "Karak Karlnir"
 				dwarf_norse = "Karak Karlnir"			
-				dwarven_chaos = "Karak Karlnir"	
+				dwarf_chaos = "Karak Karlnir"	
 				
 				b_karlnir_kazad = {
 				}
@@ -16117,9 +16727,9 @@ e_karak_ankor = {
 				color = { 234 55 99 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karak Kadrin"
+				dwarf_main = "Karak Kadrin"
 				dwarf_norse = "Karak Kadrin"		
-				dwarven_chaos = "Karak Kadrin"
+				dwarf_chaos = "Karak Kadrin"
 				
 				b_karak_kadrin = {
 				}
@@ -16179,9 +16789,9 @@ e_karak_ankor = {
 			
 			capital = 444 #Gormizzar
 				
-			dwarven_main = "Kadrin Gorm"
+			dwarf_main = "Kadrin Gorm"
 			dwarf_norse = "Kadrin Gorm"			
-			dwarven_chaos = "Kadrin Gorm"			
+			dwarf_chaos = "Kadrin Gorm"			
 				
 			c_gormizzar = {
 				color = { 200 56 10 }
@@ -16200,14 +16810,6 @@ e_karak_ankor = {
 				b_gelt = {
 				}
 			}
-			
-			c_chade = {
-				color = { 131 56 59 }
-				color2 = { 255 255 255 }
-				
-				b_chade = {
-				}
-			}			
 		}
 	}		
 
@@ -16286,9 +16888,9 @@ e_karak_ankor = {
 				color = { 230 144 187 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karag Dromar"
+				dwarf_main = "Karag Dromar"
 				dwarf_norse = "Karag Dromar"
-				dwarven_chaos = "Karag Dromar"
+				dwarf_chaos = "Karag Dromar"
 				
 				b_karag_dromar = {
 				}
@@ -16304,9 +16906,9 @@ e_karak_ankor = {
 				color = { 210 141 130 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Haz-Drazh Kadrin"
+				dwarf_main = "Haz-Drazh Kadrin"
 				dwarf_norse = "Haz-Drazh Kadrin"
-				dwarven_chaos = "Haz-Drazh Kadrin"
+				dwarf_chaos = "Haz-Drazh Kadrin"
 				
 				b_kazad_haz_drazh_kadrin = {
 					holy_site = sigmarite
@@ -16357,9 +16959,9 @@ e_karak_ankor = {
 				color = { 178 100 87 }
 				color2 = { 255 255 255 }
 							
-				dwarven_main = "Karak Hirn"
+				dwarf_main = "Karak Hirn"
 				dwarf_norse = "Karak Hirn"
-				dwarven_chaos = "Karak Hirn"
+				dwarf_chaos = "Karak Hirn"
 				
 				b_karak_hirn = {
 				}
@@ -16487,9 +17089,9 @@ e_karak_ankor = {
 				color = { 190 144 132 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Kazad-Azril-Karak"
+				dwarf_main = "Kazad-Azril-Karak"
 				dwarf_norse = "Kazad-Azril-Karak"
-				dwarven_chaos = "Kazad-Azril-Karak"		
+				dwarf_chaos = "Kazad-Azril-Karak"		
 								
 				b_kazad_azril_karak = {
 				}
@@ -16684,14 +17286,14 @@ e_karak_ankor = {
 				color = { 100 109 108 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karag Orrud"
+				dwarf_main = "Karag Orrud"
 				dwarf_norse = "Karag Orrud"
-				dwarven_chaos = "Karag Orrud"		
+				dwarf_chaos = "Karag Orrud"		
 				
 				b_karag_orrud = {
-				dwarven_main = "Karag Orrud"
+				dwarf_main = "Karag Orrud"
 				dwarf_norse = "Karag Orrud"
-				dwarven_chaos = "Karag Orrud"
+				dwarf_chaos = "Karag Orrud"
 				}
 				b_grimshank = {
 				}
@@ -16732,14 +17334,14 @@ e_karak_ankor = {
 				color = { 100 90 90 }
 				color2 = { 255 255 255 }
 				
-				dwarven_main = "Karag Shathur"
+				dwarf_main = "Karag Shathur"
 				dwarf_norse = "Karag Shathur"
-				dwarven_chaos = "Karag Shathur"		
+				dwarf_chaos = "Karag Shathur"		
 
 				b_misty_keep = {
-				dwarven_main = "Migdhal Shathur"
+				dwarf_main = "Migdhal Shathur"
 				dwarf_norse = "Migdhal Shathur"
-				dwarven_chaos = "Migdhal Shathur"		
+				dwarf_chaos = "Migdhal Shathur"		
 				}
 				b_moat_of_the_dolphin = {
 				}

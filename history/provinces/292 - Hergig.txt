@@ -8,8 +8,8 @@ max_settlements = 5
 b_hergig = castle
 b_muden = city
 b_stockse = city
-b_estorf = temple
-b_dunstigfort = castle
+#b_estorf = temple
+#b_dunstigfort = castle
 
 # Misc
 culture = hochlander

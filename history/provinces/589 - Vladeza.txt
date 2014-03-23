@@ -7,8 +7,8 @@ title = c_vladeza
 max_settlements = 4
 b_vladeza = castle
 b_corcio = city
-b_talaberdi = temple
-b_stilio = castle
+#b_talaberdi = temple
+#b_stilio = castle
 
 # Misc
 culture = miraglian

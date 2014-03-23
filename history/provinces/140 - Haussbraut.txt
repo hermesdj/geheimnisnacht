@@ -7,7 +7,7 @@ title = c_haussbraut
 max_settlements = 3
 b_hausslidha = castle
 b_artenirans_vale = city
-b_kulum = city
+#b_kulum = city
 
 # Misc
 culture = baersonling

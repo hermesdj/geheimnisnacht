@@ -7,8 +7,8 @@ title = c_yremois
 max_settlements = 4
 b_yremy = castle
 b_bosquieu = city
-b_fonte = castle
-b_le_chatre = city
+#b_fonte = castle
+#b_le_chatre = city
 
 # Misc
 culture = armoric

@@ -1,0 +1,17 @@
+# 1139 Pashon
+
+# County Title
+title = c_pashon
+
+# Settlements
+max_settlements = 3
+b_pashon = castle
+b_kahum = city
+b_buto = temple
+
+# Misc
+culture = kashite
+religion = nehekharan_gods
+
+
+# History

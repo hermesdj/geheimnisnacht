@@ -8,7 +8,7 @@ max_settlements = 4
 b_thorn = castle
 b_soignac = temple
 b_lisieux = temple
-b_vicaut = city
+#b_vicaut = city
 
 # Misc
 culture = nortagnese

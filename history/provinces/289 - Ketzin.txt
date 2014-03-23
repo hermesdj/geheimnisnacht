@@ -7,7 +7,7 @@ title = c_ketzin
 max_settlements = 3
 b_havel = castle
 b_knittlingen = city
-b_lichtenberg = temple
+#b_lichtenberg = temple
 
 # Misc
 culture = hochlander

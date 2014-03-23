@@ -112,7 +112,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -149,7 +149,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 
@@ -395,5 +395,113 @@ add_trait="weak"
 
 1987.1.10={birth="1987.1.10"}
 2045.10.28={death=yes}
+}
+
+4300020={
+name = "Landuin"
+dynasty = 27125
+dna = "panobmoipep"
+culture = carcassian
+religion = lady_of_the_lake
+military = 5
+diplomacy = 2
+stewardship = 6
+intrigue = 6
+learning = 4
+add_trait = "fortune_builder"
+1269.1.1={birth=yes}
+1358.7.13={death=yes}
+}
+
+4300021={
+name = "Aurengarda"
+female = yes
+dynasty = 27101
+dna = "cflbdlpanjc"
+culture = carcassian
+religion = lady_of_the_lake
+military = 1
+diplomacy = 5
+stewardship = 4
+intrigue = 6
+learning = 0
+add_trait = "charismatic_negotiator"
+add_trait = "proud"
+add_trait = "gluttonous"
+add_trait = "cynical"
+1986.1.1={birth=yes}
+2036.10.11={death=yes}
+}
+
+4300022={
+name = "Jasperto"
+dynasty = 27075
+dna = "aifbpbcjehj"
+culture = carcassian
+religion = lady_of_the_lake
+military = 3
+diplomacy = 7
+stewardship = 1
+intrigue = 2
+learning = 2
+add_trait = "elusive_shadow"
+add_trait = "ambitious"
+2001.1.1={birth=yes}
+2072.9.19={death=yes}
+}
+
+4300023={
+name = "Sigismundo"
+dynasty = 27094
+dna = "bhfghhcgdni"
+culture = carcassian
+religion = lady_of_the_lake
+military = 3
+diplomacy = 3
+stewardship = 3
+intrigue = 3
+learning = 3
+add_trait = "indulgent_wastrel"
+add_trait = "slothful"
+add_trait = "envious"
+add_trait = "craven"
+1986.1.1={birth=yes}
+2037.11.21={death=yes}
+}
+
+4300024={
+name = "Josselin"
+dynasty = 27098
+dna = "hndcngndgfe"
+culture = carcassian
+religion = lady_of_the_lake
+military = 2
+diplomacy = 3
+stewardship = 4
+intrigue = 6
+learning = 5
+add_trait = "fortune_builder"
+add_trait = "cynical"
+add_trait = "gluttonous"
+1951.1.1={birth=yes}
+2016.12.5={death=yes}
+}
+
+4300025={
+name = "Arnul"
+dynasty = 27101
+dna = "hkmoceipiaa"
+culture = carcassian
+religion = lady_of_the_lake
+military = 2
+diplomacy = 5
+stewardship = 4
+intrigue = 2
+learning = 3
+add_trait = "skilled_tactician"
+add_trait = "arbitrary"
+add_trait = "proud"
+1994.1.1={birth=yes}
+2035.8.8={death=yes}
 }
 

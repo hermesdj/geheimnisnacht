@@ -1,0 +1,18 @@
+# 1138 Enavot
+
+# County Title
+title = c_enavot
+
+# Settlements
+max_settlements = 4
+b_kogi = castle
+b_naharin = city
+b_sahure = temple
+b_akarun = city
+
+# Misc
+culture = kashite
+religion = nehekharan_gods
+
+
+# History

@@ -7,12 +7,12 @@ title = c_levrellian
 max_settlements = 4
 b_levrellian = castle
 b_charamis = temple
-b_dartagne = castle
-b_gesunkenklinge = city
+#b_dartagne = castle
+#b_gesunkenklinge = city
 
 # Misc
-culture = tobaran
-religion = classical_gods
+culture = marcheur
+religion = lady_of_the_lake
 
 
 # History

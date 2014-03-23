@@ -8,8 +8,8 @@ max_settlements = 5
 b_vercuso = castle
 b_ragil = city
 b_vermunte = temple
-b_beffardo = city
-b_sircolosa = castle
+#b_beffardo = city
+#b_sircolosa = castle
 
 # Misc
 culture = sartosan_tilean

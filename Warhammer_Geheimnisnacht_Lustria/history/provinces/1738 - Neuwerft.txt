@@ -1,0 +1,16 @@
+# 1738 Neuwerft
+
+# County Title
+title = c_neuwerft
+
+# Settlements
+max_settlements = 2
+b_neuwerft = castle
+b_kraheturm = temple
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

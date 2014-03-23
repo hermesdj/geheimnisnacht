@@ -4,13 +4,13 @@
 title = c_tobaro
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 b_castello_della_porta = castle
 b_upper_tobaro = city
 b_lower_tobaro = city
 b_santo_tomasso = castle
-b_savena = temple
-b_dandolo = castle
+#b_savena = temple
+#b_dandolo = castle
 
 # Misc
 culture = tobaran

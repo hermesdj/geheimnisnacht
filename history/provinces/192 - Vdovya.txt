@@ -7,8 +7,8 @@ title = c_vdovya
 max_settlements = 4
 b_vdovya = castle
 b_belava = city
-b_sosnovy_bor = temple
-b_roshal = city
+#b_sosnovy_bor = temple
+#b_roshal = city
 
 # Misc
 culture = ungol

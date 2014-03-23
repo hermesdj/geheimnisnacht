@@ -7,8 +7,8 @@ title = c_karak_grentaz
 max_settlements = 4
 b_karak_grentaz = castle
 b_kazad_hraban = city
-b_grung_ont = city
-b_khazid_bamkin = castle
+#b_grung_ont = city
+#b_khazid_bamkin = castle
 
 # Misc
 culture = dwarf_main

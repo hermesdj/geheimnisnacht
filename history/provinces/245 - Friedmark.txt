@@ -7,11 +7,11 @@ title = c_friedmark
 max_settlements = 3
 b_sokh = castle
 b_brass_keep = castle
-b_friedberg = city
+#b_friedberg = city
 
 # Misc
-culture = ostlander
-religion = ulrican
+culture = hochlander
+religion = old_faith
 
 
 # History

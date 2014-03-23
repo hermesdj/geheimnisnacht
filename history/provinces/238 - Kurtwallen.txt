@@ -8,7 +8,7 @@ max_settlements = 4
 b_kurtwallen = castle
 b_traunreut = temple
 b_trostberg = castle
-b_wildberg = city
+#b_wildberg = city
 
 # Misc
 culture = nordlander

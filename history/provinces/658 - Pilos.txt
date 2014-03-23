@@ -8,7 +8,7 @@ max_settlements = 4
 b_mursili = castle
 b_kizil = city
 b_chirisoph = temple
-b_myrmigora = temple
+#b_myrmigora = temple
 
 # Misc
 culture = myken

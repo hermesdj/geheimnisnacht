@@ -6,8 +6,8 @@ title = c_kraka_uilorag
 # Settlements
 max_settlements = 3
 b_kraka_uilorag = castle
-b_grung_jhorkan = city
-b_kazad_yllivum = city
+#b_grung_jhorkan = city
+#b_kazad_yllivum = city
 
 # Misc
 culture = dwarf_chaos

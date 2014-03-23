@@ -1,0 +1,16 @@
+# 1659 Axabaxx
+
+# County Title
+title = c_axabaxx
+
+# Settlements
+max_settlements = 2
+b_axabaxx = castle
+#b_taryatu_chulutu = city
+
+# Misc
+culture = mung
+religion = chaos
+
+
+# History

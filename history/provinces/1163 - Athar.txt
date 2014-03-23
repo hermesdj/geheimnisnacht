@@ -1,0 +1,16 @@
+# 1163 Athar
+
+# County Title
+title = c_athar
+
+# Settlements
+max_settlements = 2
+b_athar = castle
+b_erib = temple
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

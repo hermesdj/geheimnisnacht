@@ -24,6 +24,14 @@
 	liege="e_the_empire"
 }
 
+2369.1.1 = {
+	holder = 900209 #First Wilhelm from Ubersreik
+}
+
+2386.11.17 = {
+	holder = 900211
+}
+
 2429.7.16={  
 	holder = 900039 #Wilhelm III The Wise Holswig-Schleistein of Reikland 
 }

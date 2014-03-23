@@ -7,7 +7,7 @@ title = c_scozzese
 max_settlements = 3
 b_scozzese = castle
 b_trepico = city
-b_ladreno = temple
+#b_ladreno = temple
 
 # Misc
 culture = umbrian

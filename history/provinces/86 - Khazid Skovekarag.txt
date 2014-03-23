@@ -6,9 +6,9 @@ title = c_khazid_skovekarag
 # Settlements
 max_settlements = 4
 b_khazid_skovekarag = castle
-b_kazad_ertul = city
-b_grung_tium = temple
-b_kraka_khazul = castle
+#b_kazad_ertul = city
+#b_grung_tium = temple
+#b_kraka_khazul = castle
 
 # Misc
 culture = dwarf_norse

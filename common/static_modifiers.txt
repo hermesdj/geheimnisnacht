@@ -445,6 +445,13 @@ d_order_of_the_winter_throne_modifier = {
 	heavy_infantry = 600
 	knights = 300
 }
+
+d_ragnarhalt_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+	knights = 300
+}
+
 #Sigmar
 d_knights_sigmars_blood_modifier = {
 	levy_size = 1
@@ -541,6 +548,13 @@ d_horned_hunters_modifier = {
 	heavy_infantry = 600
 	knights = 300
 }
+
+d_order_of_the_raven_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+	knights = 300
+}
+
 #Grail
 d_knights_origo_modifier = {
 	levy_size = 1
@@ -592,6 +606,51 @@ d_reiksguard_modifier = {
 }
 
 #Imperial
+
+d_ragged_company_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+}
+
+d_scarlet_company_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+}
+
+d_hammershields_of_black_tower_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+}
+
+d_schwarzspears_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+}
+
+d_swords_of_nuln_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+}
+
+d_sea_devils_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+}
+
+d_guard_of_the_golden_cross_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+}
+
+d_regiment_of_foot_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+}
+
+d_altdorf_blackbolts_modifier = {
+	levy_size = 1
+	heavy_infantry = 600
+}
 
 d_carroburg_greatswords_modifier = {
 	levy_size = 1
@@ -803,6 +862,12 @@ d_dobryrion_company_modifier = {
 }
 
 #Chaos
+
+d_swords_of_chaos_modifier = {
+	levy_size = 1
+	light_infantry = 600
+	archers = 300
+}
 
 d_purple_hand_modifier = {
 	levy_size = 1

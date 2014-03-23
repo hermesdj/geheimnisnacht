@@ -7,8 +7,8 @@ title = c_uvetsyn
 max_settlements = 4
 b_uvetsyn = castle
 b_rossosh = city
-b_onega = temple
-b_norilsk = city
+#b_onega = temple
+#b_norilsk = city
 
 # Misc
 culture = gospodar

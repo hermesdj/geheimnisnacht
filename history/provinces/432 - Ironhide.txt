@@ -1,0 +1,17 @@
+# 432 Ironhide
+
+# County Title
+title = c_ironhide
+
+# Settlements
+max_settlements = 3
+b_enragg = castle
+#b_kriken = temple
+#b_noveria = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

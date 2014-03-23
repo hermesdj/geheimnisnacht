@@ -7,7 +7,7 @@ title = c_carmandois
 max_settlements = 3
 b_camiens = castle
 b_artagnan = castle
-b_jaraffe = temple
+#b_jaraffe = temple
 
 # Misc
 culture = mousillonian

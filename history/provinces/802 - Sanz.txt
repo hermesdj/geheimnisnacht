@@ -8,7 +8,7 @@ max_settlements = 4
 b_sanz = castle
 b_melis = city
 b_ferragus = temple
-b_savuile = city
+#b_savuile = city
 
 # Misc
 culture = nortagnese

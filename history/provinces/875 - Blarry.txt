@@ -7,8 +7,8 @@ title = c_blarry
 max_settlements = 4
 b_montlac = castle
 b_blarges = temple
-b_bourg_le_duc = castle
-b_grisdame = city
+#b_bourg_le_duc = castle
+#b_grisdame = city
 
 # Misc
 culture = breton

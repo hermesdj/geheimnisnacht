@@ -1,0 +1,16 @@
+# 412 Overjul
+
+# County Title
+title = c_overjul
+
+# Settlements
+max_settlements = 2
+b_juntum = castle
+#b_horakil = temple
+
+# Misc
+culture = kul
+religion = chaos
+
+
+# History

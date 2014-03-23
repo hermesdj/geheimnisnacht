@@ -6,12 +6,12 @@ title = c_akendorf
 # Settlements
 max_settlements = 4
 b_akendorf = castle
-b_sturmenberg = city
-b_fahranleger = temple
-b_wicht_werfer_ruhe = castle
+#b_sturmenberg = city
+#b_fahranleger = temple
+#b_wicht_werfer_ruhe = castle
 
 # Misc
-culture = reiklander
+culture = neueslander
 religion = sigmarite
 
 

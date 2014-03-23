@@ -1,0 +1,18 @@
+# 1137 Shomu
+
+# County Title
+title = c_shomu
+
+# Settlements
+max_settlements = 4
+b_shomu = castle
+b_medamud = city
+b_pe_dep = temple
+b_medenit = city
+
+# Misc
+culture = kashite
+religion = nehekharan_gods
+
+
+# History

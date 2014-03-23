@@ -7,7 +7,7 @@ title = c_undrivar_bar
 max_settlements = 3
 b_undrivar_bar_ungol = castle
 b_kazad_viktor = city
-b_yarak_krimbo = temple
+#b_yarak_krimbo = temple
 
 # Misc
 culture = goblin_main

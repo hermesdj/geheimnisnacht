@@ -7,7 +7,7 @@ title = c_kylklava_valley
 max_settlements = 3
 b_kraka_kylklava = castle
 b_kazad_sertiol = castle
-b_grung_tiazol = city
+#b_grung_tiazol = city
 
 # Misc
 culture = dwarf_norse

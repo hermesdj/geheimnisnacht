@@ -1,0 +1,17 @@
+# 1280 Kurshu
+
+# County Title
+title = c_kurshu
+
+# Settlements
+max_settlements = 3
+b_kurshu = castle
+b_skullport = city
+#b_rosszutvonal = city
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

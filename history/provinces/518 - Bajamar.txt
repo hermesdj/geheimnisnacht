@@ -6,8 +6,8 @@ title = c_bajamar
 max_settlements = 4
 b_biscague = city
 b_pertro = castle
-b_grazan = temple
-b_redana = city
+#b_grazan = temple
+#b_redana = city
 
 #Misc
 culture = norteno

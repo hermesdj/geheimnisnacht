@@ -7,9 +7,9 @@ title = c_kraka_untylum
 max_settlements = 5
 b_kraka_untylum = castle
 b_grung_fyjolum = city
-b_grung_kazidul = city
-b_grung_hudum = city
-b_khazid_haarta = castle
+#b_grung_kazidul = city
+#b_grung_hudum = city
+#b_khazid_haarta = castle
 
 # Misc
 culture = dwarf_chaos

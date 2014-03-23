@@ -6,8 +6,8 @@ title = c_murilla
 max_settlements = 4
 b_tranado = castle
 b_abbranga = temple
-b_motrane = castle
-b_sechaza = temple
+#b_motrane = castle
+#b_sechaza = temple
 
 #Misc
 culture = norteno

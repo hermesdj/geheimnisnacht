@@ -8,9 +8,9 @@ max_settlements = 5
 b_khazid_koganusan = city
 b_grim_barra = city
 b_barak_angazklad = castle
-b_barak_thaggoraki = temple
-b_barak_irkul = castle
-b_grim_garra = city
+#b_barak_thaggoraki = temple
+#b_barak_irkul = castle
+#b_grim_garra = city
 
 # Misc
 culture = dwarf_main

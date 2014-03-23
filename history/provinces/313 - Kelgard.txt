@@ -7,8 +7,8 @@ title = c_kelgard
 max_settlements = 4
 b_kelgard = castle
 b_trulben = city
-b_salmfahre = castle
-b_nehren = city
+#b_salmfahre = castle
+#b_nehren = city
 
 # Misc
 culture = wissenlander

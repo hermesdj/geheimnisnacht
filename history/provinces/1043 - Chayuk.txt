@@ -7,11 +7,11 @@ title = c_chayuk
 max_settlements = 3
 b_chayuk = castle
 b_mamur = city
-b_maraq = temple
+#b_maraq = temple
 
 # Misc
-culture = ramaccan
-religion = ormazd
+culture = sartosan_tilean
+religion = stromfels
 
 
 # History

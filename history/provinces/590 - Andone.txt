@@ -7,8 +7,8 @@ title = c_andone
 max_settlements = 4
 b_andone = castle
 b_ilperio = city
-b_san_matteo = temple
-b_lucreziana = castle
+#b_san_matteo = temple
+#b_lucreziana = castle
 
 # Misc
 culture = miraglian

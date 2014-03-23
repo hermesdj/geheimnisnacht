@@ -1,0 +1,16 @@
+# 487 Ossarl
+
+# County Title
+title = c_ossarl
+
+# Settlements
+max_settlements = 2
+b_ossarl = castle
+#b_lizoz = city
+
+# Misc
+culture = dolgan
+religion = chaos
+
+
+# History

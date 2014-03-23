@@ -131,8 +131,8 @@ learning = 9
 add_trait = "poet"
 add_trait = "elusive_shadow"
 add_trait="content"
-add_trait="stressed"
-add_trait="depressed"
+
+
 
 1999.8.25={birth=yes}
 2043.8.7={death=yes}
@@ -470,8 +470,8 @@ intrigue = 6
 learning = 5
 
 add_trait = "scholarly_theologian"
-add_trait="depressed"
-add_trait="stressed"
+
+
 add_trait="drunkard"
 
 2009.6.11={birth=yes}
@@ -911,8 +911,8 @@ learning = 9
 add_trait = "poet"
 add_trait = "elusive_shadow"
 add_trait="content"
-add_trait="stressed"
-add_trait="depressed"
+
+
 
 1999.8.25={birth=yes}
 2043.8.7={death=yes}

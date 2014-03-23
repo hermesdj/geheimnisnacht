@@ -4,9 +4,10 @@
 title = c_merxheim
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 b_merxheim = castle
-b_lemgo = temple
+#b_lemgo = temple
+#b_weinheim = temple
 
 # Misc
 culture = reiklander

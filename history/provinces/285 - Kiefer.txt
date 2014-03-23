@@ -7,8 +7,8 @@ title = c_kiefer
 max_settlements = 4
 b_fort_schippel = castle
 b_koerin = city
-b_breder = temple
-b_eichewaldchen = city
+#b_breder = temple
+#b_eichewaldchen = city
 
 # Misc
 culture = hochlander

@@ -135,7 +135,7 @@ add_trait = "creature_orc"
 add_trait = "poet"
 add_trait = "elusive_shadow"
 add_trait="content"
-add_trait="stressed"
+
 
 
 1969.8.25={birth=yes}
@@ -480,7 +480,7 @@ learning = 5
 add_trait = "creature_orc"
 add_trait = "scholarly_theologian"
 
-add_trait="stressed"
+
 add_trait="drunkard"
 
 1976.6.11={birth=yes}
@@ -940,7 +940,7 @@ add_trait = "creature_orc"
 add_trait = "poet"
 add_trait = "elusive_shadow"
 add_trait="content"
-add_trait="stressed"
+
 
 
 1969.8.25={birth=yes}
@@ -1418,7 +1418,7 @@ learning = 10
 add_trait = "creature_orc"
 add_trait = "impaler"
 add_trait = "mastermind_theologian"
-add_trait="stressed"
+
 
 
 
@@ -1754,7 +1754,7 @@ learning = 9
 add_trait = "creature_orc"
 add_trait = "hunter"
 add_trait = "indulgent_wastrel"
-add_trait="stressed"
+
 
 
 

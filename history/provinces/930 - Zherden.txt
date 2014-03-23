@@ -6,7 +6,7 @@ title = c_zherden
 # Settlements
 max_settlements = 2
 b_zherdenschlosse = castle
-b_zherden = city
+#b_zherden = city
 
 # Misc
 culture = ostermarker
@@ -14,3 +14,5 @@ religion = vampiric
 
 
 # History
+
+2155.1.1 = { religion = sigmarite }

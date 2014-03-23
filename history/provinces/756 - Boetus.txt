@@ -7,7 +7,7 @@ title = c_boetus
 max_settlements = 3
 b_boetus = castle
 b_sittace = city
-b_tranapase = temple
+#b_tranapase = temple
 
 # Misc
 culture = myken

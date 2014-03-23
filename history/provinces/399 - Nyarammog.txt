@@ -1,0 +1,20 @@
+# 399 Nyarammog
+
+# County Title
+title = c_nyarammog
+
+# Settlements
+max_settlements = 6
+b_nyarammog = castle
+b_gaim_bol = castle
+b_tsaragg = temple
+b_zoth = city
+#b_krali = city
+#b_wyrdz = castle
+
+# Misc
+culture = hastling
+religion = tzeentch
+
+
+# History

@@ -6,7 +6,7 @@ title = c_gerhof
 # Settlements
 max_settlements = 2
 b_gerhof = castle
-b_helsee = temple
+#b_helsee = temple
 
 # Misc
 culture = sylvanian

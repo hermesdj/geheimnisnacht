@@ -7,7 +7,7 @@ title = c_lorenzo
 max_settlements = 3
 b_venerato_lorenzo = castle
 b_aquatreno = city
-b_bradio = temple
+#b_bradio = temple
 
 # Misc
 culture = reman

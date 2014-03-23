@@ -1,0 +1,17 @@
+# 1201 Uvs
+
+# County Title
+title = c_khamchata
+
+# Settlements
+max_settlements = 3
+b_urmurt = castle
+b_yhdeksan = temple
+#b_stader = city
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

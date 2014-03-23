@@ -7,8 +7,8 @@ title = c_kazad_grontunt
 max_settlements = 4
 b_kazad_grontunt = castle
 b_khazid_artulyok = city
-b_kraka_tunkul = city
-b_mount_fyvel = castle
+#b_kraka_tunkul = city
+#b_mount_fyvel = castle
 
 # Misc
 culture = dwarf_norse

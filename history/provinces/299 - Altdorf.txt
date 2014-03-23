@@ -10,12 +10,17 @@ b_domplatz_bezirk = temple
 b_reikmarkt = city
 b_werksviertel = city
 b_reikhoch = city
-b_niederwind = castle
-b_oberhausen = city
+#b_niederwind = castle
+#b_oberhausen = temple
+#b_konigplatz = castle
+#b_lachsinseldorf = city
+#b_reikinseldorf = city
+#b_nordpark = city
 
 # Misc
 culture = reiklander
 religion = sigmarite
 
+terrain = city
 
 # History

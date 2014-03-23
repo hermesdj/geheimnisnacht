@@ -4,10 +4,10 @@ title = c_edeta
 
 #Settlements
 max_settlements = 4
-b_edeta = temple
-b_san_luiz = castle
-b_tollada = city
-b_odalana = castle
+b_edeta = castle
+b_san_luiz = city
+#b_tollada = city
+#b_odalana = castle
 
 #Misc
 culture = galice

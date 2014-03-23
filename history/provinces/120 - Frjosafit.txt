@@ -7,8 +7,8 @@ title = c_frjosafit
 max_settlements = 4
 b_fryjstaad = castle
 b_rerivik = city
-b_durnvik = city
-b_khargalitan = castle
+#b_durnvik = city
+#b_khargalitan = castle
 
 # Misc
 culture = aesling

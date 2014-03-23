@@ -7,7 +7,7 @@ title = c_bjarkavig
 max_settlements = 3
 b_bjarkavig = castle
 b_worms = temple
-b_svinborhovit = city
+#b_svinborhovit = city
 
 # Misc
 culture = bjornling

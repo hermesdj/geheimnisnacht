@@ -8,7 +8,7 @@ b_tobiedo = castle
 b_nuceras = temple
 b_bedejaz = city
 b_polvisa = city
-b_strara = castle
+#b_strara = castle
 
 #Misc
 culture = astur

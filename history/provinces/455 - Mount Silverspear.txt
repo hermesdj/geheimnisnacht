@@ -9,8 +9,8 @@ b_silverspear_hold = castle
 b_silverspear_spire = city
 b_grongol_ankroth = temple
 b_grung_ekram = castle
-b_grimnigor_ungol = city
-b_okular = temple
+#b_grimnigor_ungol = city
+#b_okular = temple
 
 # Misc
 culture = orc_main

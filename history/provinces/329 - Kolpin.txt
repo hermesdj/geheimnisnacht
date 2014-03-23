@@ -8,9 +8,9 @@ max_settlements = 6
 b_welleborn = castle
 b_trebbus = city
 b_missen = castle
-b_zutzen = temple
-b_sydow = castle
-b_nossen = city
+#b_zutzen = temple
+#b_sydow = castle
+#b_nossen = city
 
 # Misc
 culture = talabeclander

@@ -1,0 +1,16 @@
+# 1665 Ngama
+
+# County Title
+title = c_ngama
+
+# Settlements
+max_settlements = 2
+b_ngama = castle
+#b_kurultai = city
+
+# Misc
+culture = chi_an
+religion = chaos
+
+
+# History

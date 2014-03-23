@@ -6,8 +6,8 @@ title = c_dornhan
 # Settlements
 max_settlements = 3
 b_fort_karls = castle
-b_dornhan = city
-b_sankt_veit = temple
+#b_dornhan = city
+#b_sankt_veit = temple
 
 # Misc
 culture = orc_main

@@ -9,8 +9,8 @@ b_karak_hirn = castle
 b_grung_rakakadan = city
 b_khazid_vank = temple
 b_grung_skrim = castle
-b_khazid_ruvalkund = castle
-b_grongil_tariem = temple
+#b_khazid_ruvalkund = castle
+#b_grongil_tariem = temple
 
 # Misc
 culture = dwarf_main

@@ -132,9 +132,9 @@ intrigue = 7
 learning = 2
 
 add_trait = "midas_touched"
-add_trait="stressed"
 
-add_trait="depressed"
+
+
 
 1984.10.27={birth=yes}
 2060.9.19={death=yes}

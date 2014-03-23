@@ -134,7 +134,7 @@ intrigue = 6
 learning = 9
 add_trait = "impaler"
 add_trait = "mastermind_theologian"
-add_trait="stressed"
+
 
 
 
@@ -154,7 +154,7 @@ intrigue = 0
 learning = 0
 add_trait = "impaler"
 add_trait = "mastermind_theologian"
-add_trait="depressed"
+
 add_trait="ill"
 add_trait="drunkard"
 

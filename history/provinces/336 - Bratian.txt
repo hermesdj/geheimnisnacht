@@ -7,8 +7,8 @@ title = c_bratian
 max_settlements = 4
 b_bratian = castle
 b_grunwald = temple
-b_meskirch = city
-b_rudesheim = temple
+#b_meskirch = city
+#b_rudesheim = temple
 
 # Misc
 culture = talabeclander

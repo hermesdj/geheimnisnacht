@@ -10,12 +10,21 @@ b_grafsmund = castle
 b_ulricsmund = temple
 b_altmarkt = city
 b_neumarkt = city
-b_the_freiburg = temple
-b_sudengarten = temple
+#b_freiburg = temple
+#b_sudengarten = temple
+#b_nordgarten = city
+#b_altquartier = temple
+#b_wynd = temple
+#b_geldmund = city
+#b_kaufseit = castle
+#b_brotkopfs = temple
+#b_osttor = castle
+#b_westtor = castle
 
 # Misc
 culture = middenlander
 religion = ulrican
 
+terrain = city
 
 # History

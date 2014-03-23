@@ -7,7 +7,7 @@ title = c_kolaz_ungor
 max_settlements = 3
 b_kolaz_ungor = city
 b_gurthang = temple
-b_korebarrack = castle
+#b_korebarrack = castle
 
 # Misc
 culture = dwarf_main

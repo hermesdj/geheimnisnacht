@@ -109,6 +109,11 @@ b_haagen = {
 	religion = sigmarite
 }
 
+b_von_saponatheim = {
+	culture = reiklander
+	religion = sigmarite
+}
+
 #Merchant Houses of Marienburg
 
 b_van_onderzoeker = {
@@ -186,12 +191,12 @@ b_akkerman = {
 	religion = sigmarite
 }
 
-#Merchant Houses of Neues Emskrank  Societas Mercatoria Septentrionalis
+#Merchant Houses of Neues Emskrank / Societas Mercatoria Septentrionalis / Northern Mercantile Society
 
 
 b_riemanns = {
 	culture = ostlander
-	religion = ulrican
+	religion = sigmarite
 }
 
 b_von_schweinfass = {
@@ -208,7 +213,6 @@ b_kaimeister = {
 	culture = nordlander
 	religion = ulrican
 }
-
 
 b_schutzman = {
 	culture = ostlander

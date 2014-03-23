@@ -7,7 +7,7 @@ title = c_malstedt
 max_settlements = 3
 b_malstedt = castle
 b_sotturm = temple
-b_delberz = castle
+#b_delberz = castle
 
 # Misc
 culture = middenlander

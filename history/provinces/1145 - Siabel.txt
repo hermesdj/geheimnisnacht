@@ -1,0 +1,17 @@
+# 1145 Siabel
+
+# County Title
+title = c_siabel
+
+# Settlements
+max_settlements = 3
+b_siabel = castle
+b_haroer = city
+b_dardarun = temple
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

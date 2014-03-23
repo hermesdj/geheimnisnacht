@@ -7,7 +7,7 @@ title = c_dassel
 max_settlements = 3
 b_dassel = temple
 b_smallhof = castle
-b_felde = city
+#b_felde = city
 
 # Misc
 culture = ostlander
@@ -15,3 +15,5 @@ religion = ulrican
 
 
 # History
+
+2450.1.1 = { capital = b_smallhof }

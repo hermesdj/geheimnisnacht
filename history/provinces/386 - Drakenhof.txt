@@ -9,7 +9,7 @@ b_castle_drakenhof = castle
 b_drakenhof = city
 b_pfaffbach = temple
 b_senkehof = city
-b_castle_senkhof = castle
+#b_castle_senkhof = castle
 
 # Misc
 culture = sylvanian

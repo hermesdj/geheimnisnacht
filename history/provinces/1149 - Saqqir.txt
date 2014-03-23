@@ -1,0 +1,17 @@
+# 1149 Saqqir
+
+# County Title
+title = c_saqqir
+
+# Settlements
+max_settlements = 3
+b_saqqir = castle
+b_debo = city
+b_dajasa = city
+
+# Misc
+culture = canopic
+religion = nehekharan_gods
+
+
+# History

@@ -4,10 +4,11 @@
 title = c_oehling
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_oehling = castle
 b_schollach = temple
-b_niedling = city
+#b_niedling = city
+#b_rohrwald = city
 
 # Misc
 culture = stirlander

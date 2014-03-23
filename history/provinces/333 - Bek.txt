@@ -8,9 +8,9 @@ max_settlements = 6
 b_bek = castle
 b_vienau = castle
 b_stratenheim = temple
-b_ertburg = castle
-b_kappelburg = temple
-b_ahlbeck = city
+#b_ertburg = castle
+#b_kappelburg = temple
+#b_ahlbeck = city
 
 # Misc
 culture = talabeclander

@@ -6,9 +6,9 @@ title = c_roterwald
 # Settlements
 max_settlements = 4
 b_kralle = castle
-b_efeuast = city
-b_schaudereiche = castle
-b_stolzklotz = city
+#b_efeuast = city
+#b_schaudereiche = castle
+#b_stolzklotz = city
 
 # Misc
 culture = nordlander

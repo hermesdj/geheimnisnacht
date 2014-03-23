@@ -6,8 +6,8 @@ title = c_sandoval
 max_settlements = 4
 b_iltria = castle
 b_ortega = city
-b_trafolga = castle
-b_nertiva = castle
+#b_trafolga = castle
+#b_nertiva = castle
 
 #Misc
 culture = obregonese

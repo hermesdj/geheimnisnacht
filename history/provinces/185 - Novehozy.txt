@@ -7,7 +7,7 @@ title = c_novehozy
 max_settlements = 3
 b_novehozy = castle
 b_dmitrov = city
-b_asha = temple
+#b_asha = temple
 
 # Misc
 culture = ungol

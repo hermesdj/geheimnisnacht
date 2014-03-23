@@ -7,7 +7,7 @@ title = c_gauschdorf
 max_settlements = 3
 b_gauschdorf = castle
 b_schonfeld = temple
-b_rastatt = castle
+#b_rastatt = castle
 
 # Misc
 culture = ostlander

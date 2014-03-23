@@ -42,7 +42,7 @@ add_trait="kind"
 
 700002={
 name = "Wenzel"
-dynasty = 11009
+dynasty = 11069
 culture = talabeclander
 religion = taalite
 military = 9
@@ -60,7 +60,7 @@ add_trait="weak"
 
 700003={
 name = "Anselm"
-dynasty = 11010
+dynasty = 11070
 culture = talabeclander
 religion = taalite
 military = 8
@@ -76,11 +76,12 @@ add_trait="cruel"
 add_trait="wroth"
 
 1999.1.8={birth=yes}
-2016.8.10={death=yes}
+2036.8.10={death=yes}
 }
 
 700004={
-name = "Martin"
+name = "Felizitas"
+female = yes
 dynasty = 11012
 culture = talabeclander
 religion = taalite
@@ -96,8 +97,8 @@ add_trait="tall"
 add_trait="temperate"
 add_trait="chaste"
 
-1978.12.18={birth=yes}
-2019.12.24={death=yes}
+1998.12.18={birth=yes}
+2049.12.24={death=yes}
 }
 
 700005={
@@ -116,7 +117,7 @@ add_trait = "hedonist"
 add_trait = "tough_soldier"
 add_trait="trusting"
 add_trait="content"
-add_trait="stressed"
+
 
 1975.5.14={birth=yes}
 2068.8.9={death=yes}
@@ -135,7 +136,7 @@ learning = 0
 add_trait = "creature_human"
 add_trait = "gardener"
 add_trait = "flamboyant_schemer"
-add_trait="depressed"
+
 add_trait="humble"
 1979.4.27={birth=yes}
 2039.2.28={death=yes}
@@ -1680,5 +1681,919 @@ add_trait = "paranoid"
 add_trait = "proud"
 2475.7.1={birth=yes}
 2522.5.5={death=yes}
+}
+
+700085={
+name = "Rudolf"
+dynasty = 11136
+dna = "mgoahkndlpm"
+culture = reiklander
+religion = sigmarite
+military = 4
+diplomacy = 2
+stewardship = 7
+intrigue = 5
+learning = 4
+add_trait = "midas_touched"
+add_trait = "paranoid"
+add_trait = "wroth"
+add_trait = "humble"
+2480.1.1={birth=yes}
+2532.2.25={death=yes}
+}
+
+700086={
+name = "Emil"
+dynasty = 11139
+dna = "kmbniplieag"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 8
+stewardship = 7
+intrigue = 6
+learning = 6
+add_trait = "underhanded_rogue"
+add_trait = "brave"
+add_trait = "paranoid"
+1972.1.1={birth=yes}
+2044.8.6={death=yes}
+}
+
+700087={
+name = "Katrinelya"
+female = yes
+dynasty = 11137
+dna = "abieiiooogl"
+culture = talabeclander
+religion = taalite
+military = 1
+diplomacy = 1
+stewardship = 0
+intrigue = 6
+learning = 5
+add_trait = "tough_soldier"
+add_trait = "trusting"
+2473.1.1={birth=yes}
+2499.3.15 = {add_spouse=700088}
+2535.2.6={death=yes}
+}
+
+700088={
+name = "Niav"
+dynasty = 11138
+dna = "bmhpnaffmho"
+culture = talabeclander
+religion = taalite
+military = 5
+diplomacy = 3
+stewardship = 0
+intrigue = 1
+learning = 3
+add_trait = "fortune_builder"
+add_trait = "temperate"
+add_trait = "shy"
+2470.1.1={birth=yes}
+2499.3.15 = {add_spouse=700087}
+2536.11.25={death=yes}
+}
+
+700089={
+name = "Nathalie"
+female = yes
+dynasty = 11126
+dna = "eggpkjohhbn"
+culture = talabeclander
+religion = taalite
+military = 2
+diplomacy = 0
+stewardship = 4
+intrigue = 5
+learning = 7
+add_trait = "flamboyant_schemer"
+add_trait = "shy"
+add_trait = "patient"
+add_trait = "lustful"
+1972.1.1={birth=yes}
+2032.5.13={death=yes}
+}
+
+700090={
+name = "Grettel"
+female = yes
+dynasty = 11125
+dna = "nmppiahcaim"
+culture = talabeclander
+religion = taalite
+military = 6
+diplomacy = 4
+stewardship = 0
+intrigue = 2
+learning = 4
+add_trait = "elusive_shadow"
+add_trait = "shy"
+1992.1.1={birth=yes}
+2063.7.15={death=yes}
+}
+
+700091={
+name = "Jutte"
+female = yes
+dynasty = 11009
+dna = "gjbfjloagnb"
+culture = talabeclander
+religion = taalite
+military = 1
+diplomacy = 2
+stewardship = 4
+intrigue = 2
+learning = 6
+add_trait = "underhanded_rogue"
+add_trait = "cynical"
+add_trait = "depressed"
+2455.5.1={birth=yes}
+2504.10.1={death=yes}
+}
+
+700092={
+name = "Josef"
+dynasty = 11009
+dna = "pdafhiakion"
+culture = talabeclander
+religion = taalite
+military = 1
+diplomacy = 4
+stewardship = 7
+intrigue = 4
+learning = 5
+mother = 700091
+add_trait = "fortune_builder"
+2480.1.1={birth=yes}
+2550.6.6={death=yes}
+}
+
+700093={
+name = "Luitprand"
+dynasty = 11009
+dna = "podlgmkhkck"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 4
+stewardship = 6
+intrigue = 1
+learning = 5
+add_trait = "flamboyant_schemer"
+add_trait = "hedonist"
+add_trait = "diligent"
+add_trait = "zealous"
+add_trait = "just"
+add_trait = "ill"
+mother = 700091
+2484.3.1={birth=yes}
+2542.5.13={death=yes}
+}
+
+700094={
+name = "Rolf"
+dynasty = 11009
+dna = "jfhfhjehejc"
+culture = talabeclander
+religion = taalite
+military = 5
+diplomacy = 6
+stewardship = 5
+intrigue = 8
+learning = 4
+mother = 700091
+add_trait = "tough_soldier"
+2490.11.1={birth=yes}
+2540.1.30={death=yes}
+}
+
+700095={
+name = "Zecharias"
+dynasty = 11010
+dna = "cpjniiagmlc"
+culture = talabeclander
+religion = taalite
+military = 3
+diplomacy = 5
+stewardship = 3
+intrigue = 7
+learning = 5
+add_trait = "underhanded_rogue"
+add_trait = "envious"
+2401.11.1={birth=yes}
+2467.1.6={death=yes}
+}
+
+700096={
+name = "Georg"
+dynasty = 11010
+dna = "kbcnipholme"
+culture = talabeclander
+religion = taalite
+military = 5
+diplomacy = 6
+stewardship = 3
+intrigue = 8
+learning = 1
+father = 700095
+add_trait = "misguided_warrior"
+add_trait = "ambitious"
+add_trait = "gregarious"
+add_trait = "trusting"
+2431.11.1={birth=yes}
+2460.3.23={death=yes}
+}
+
+700097={
+name = "Felizitas"
+female = yes
+dynasty = 11010
+dna = "mhkiojfnfna"
+culture = talabeclander
+religion = taalite
+military = 1
+diplomacy = 4
+stewardship = 6
+intrigue = 4
+learning = 4
+father = 700096
+add_trait = "skilled_tactician"
+add_trait = "duelist"
+add_trait = "shy"
+add_trait = "charitable"
+add_trait = "wroth"
+add_trait = "envious"
+2451.5.1={birth=yes}
+2493.4.11={death=yes}
+}
+
+700098={
+name = "Charlotte"
+female = yes
+dynasty = 11010
+dna = "ojfflioppbk"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 4
+stewardship = 1
+intrigue = 3
+learning = 5
+mother = 700097
+add_trait = "elusive_shadow"
+add_trait = "zealous"
+add_trait = "arbitrary"
+add_trait = "depressed"
+2472.11.1={birth=yes}
+2511.7.26={death=yes}
+}
+
+700099={
+name = "Lambert"
+dynasty = 11010
+dna = "ogjjkeeambg"
+culture = talabeclander
+religion = taalite
+military = 7
+diplomacy = 1
+stewardship = 5
+intrigue = 3
+learning = 7
+mother = 700097
+add_trait = "thrifty_clerk"
+add_trait = "gardener"
+add_trait = "humble"
+add_trait = "leper"
+2475.1.1={birth=yes}
+2514.6.28={death=yes}
+}
+
+700100={
+name = "Theodor"
+dynasty = 11010
+dna = "ahghjlilgpg"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 1
+stewardship = 3
+intrigue = 3
+learning = 5
+father = 700099
+add_trait = "thrifty_clerk"
+add_trait = "kind"
+2500.5.1={birth=yes}
+2550.1.9={death=yes}
+}
+
+700101={
+name = "Frances"
+female = yes
+dynasty = 11010
+dna = "egdpbkkkefe"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 1
+stewardship = 4
+intrigue = 6
+learning = 4
+father = 700100
+add_trait = "detached_priest"
+add_trait = "gregarious"
+2519.1.1={birth=yes}
+2589.6.10={death=yes}
+}
+
+700102={
+name = "Gretchen"
+female = yes
+dynasty = 11010
+dna = "hoadkahgpan"
+culture = talabeclander
+religion = taalite
+military = 3
+diplomacy = 4
+stewardship = 7
+intrigue = 4
+learning = 7
+father = 700100
+add_trait = "charismatic_negotiator"
+add_trait = "mystic"
+2520.1.1={birth=yes}
+2546.5.18={death=yes}
+}
+
+700103={
+name = "Annemarie"
+female = yes
+dynasty = 11010
+dna = "lapjcbbhjoe"
+culture = talabeclander
+religion = taalite
+military = 3
+diplomacy = 1
+stewardship = 8
+intrigue = 3
+learning = 5
+father = 700100
+add_trait = "tough_soldier"
+add_trait = "diligent"
+add_trait = "honest"
+add_trait = "chaste"
+2529.11.1={birth=yes}
+2574.10.5={death=yes}
+}
+
+700104={
+name = "Heilwig"
+female = yes
+dynasty = 11014
+dna = "eiglaonmkdk"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 6
+stewardship = 1
+intrigue = 4
+learning = 3
+add_trait = "elusive_shadow"
+add_trait = "honest"
+2434.3.1={birth=yes}
+2490.2.12={death=yes}
+}
+
+700105={
+name = "Manfred"
+dynasty = 11014
+dna = "mdcmnmafbhh"
+culture = talabeclander
+religion = taalite
+military = 3
+diplomacy = 3
+stewardship = 3
+intrigue = 5
+learning = 3
+mother = 700104
+add_trait = "underhanded_rogue"
+2465.3.1={birth=yes}
+2526.6.5={death=yes}
+}
+
+700106={
+name = "Sigrid"
+female = yes
+dynasty = 11014
+dna = "kllfjkgdfjp"
+culture = talabeclander
+religion = taalite
+military = 2
+diplomacy = 3
+stewardship = 3
+intrigue = 6
+learning = 3
+mother = 700104
+add_trait = "skilled_tactician"
+add_trait = "trusting"
+add_trait = "temperate"
+add_trait = "greedy"
+2477.1.1={birth=yes}
+2531.11.4={death=yes}
+}
+
+700107={
+name = "Natali"
+female = yes
+dynasty = 11014
+dna = "cgoegdhlfcp"
+culture = talabeclander
+religion = taalite
+military = 2
+diplomacy = 2
+stewardship = 4
+intrigue = 6
+learning = 0
+mother = 700106
+add_trait = "tough_soldier"
+2500.5.1={birth=yes}
+2541.11.7={death=yes}
+}
+
+700108={
+name = "Volrad"
+dynasty = 11014
+dna = "koiccaddjei"
+culture = talabeclander
+religion = taalite
+military = 3
+diplomacy = 4
+stewardship = 3
+intrigue = 5
+learning = 5
+father = 700105
+add_trait = "charismatic_negotiator"
+add_trait = "honest"
+add_trait = "content"
+add_trait = "brave"
+2518.3.1={birth=yes}
+2588.9.26={death=yes}
+}
+
+700109={
+name = "Olfin"
+dynasty = 11014
+dna = "donfaabodlp"
+culture = talabeclander
+religion = taalite
+military = 6
+diplomacy = 6
+stewardship = 3
+intrigue = 5
+learning = 4
+mother = 700106
+add_trait = "tough_soldier"
+add_trait = "duelist"
+add_trait = "honest"
+add_trait = "gluttonous"
+add_trait = "greedy"
+2520.9.1={birth=yes}
+2583.12.25={death=yes}
+}
+
+700110={
+name = "Becka"
+female = yes
+dynasty = 11014
+dna = "mjklddioikg"
+culture = talabeclander
+religion = taalite
+military = 8
+diplomacy = 5
+stewardship = 8
+intrigue = 8
+learning = 2
+father = 700108
+add_trait = "misguided_warrior"
+add_trait = "hedonist"
+add_trait = "wroth"
+add_trait = "paranoid"
+add_trait = "ambitious"
+2549.9.1={birth=yes}
+2617.2.10={death=yes}
+}
+
+700111={
+name = "Jozef"
+dynasty = 11014
+dna = "nnaieffcgld"
+culture = talabeclander
+religion = taalite
+military = 1
+diplomacy = 4
+stewardship = 5
+intrigue = 5
+learning = 4
+father = 700109
+add_trait = "thrifty_clerk"
+add_trait = "wroth"
+add_trait = "deceitful"
+add_trait = "charitable"
+add_trait = "cynical"
+2560.9.1={birth=yes}
+2627.7.22={death=yes}
+}
+
+700112={
+name = "Tobias"
+dynasty = 11018
+dna = "kkpknpoalkb"
+culture = talabeclander
+religion = taalite
+military = 2
+diplomacy = 5
+stewardship = 0
+intrigue = 3
+learning = 5
+add_trait = "naive_appeaser"
+add_trait = "envious"
+add_trait = "cynical"
+2444.5.1={birth=yes}
+2497.12.18={death=yes}
+}
+
+700113={
+name = "Beatrix"
+female = yes
+dynasty = 11018
+dna = "jkgepllhblo"
+culture = talabeclander
+religion = taalite
+military = 5
+diplomacy = 2
+stewardship = 5
+intrigue = 3
+learning = 4
+father = 700112
+add_trait = "grey_eminence"
+add_trait = "temperate"
+add_trait = "cruel"
+add_trait = "brave"
+2466.9.1={birth=yes}
+2494.6.18={death=yes}
+}
+
+700114={
+name = "Ulrich"
+dynasty = 11018
+dna = "fadenepljad"
+culture = talabeclander
+religion = taalite
+military = 2
+diplomacy = 6
+stewardship = 6
+intrigue = 7
+learning = 4
+father = 700112
+add_trait = "grey_eminence"
+add_trait = "temperate"
+add_trait = "trusting"
+2474.11.1={birth=yes}
+2534.10.12={death=yes}
+}
+
+700115={
+name = "Mathias"
+dynasty = 11018
+dna = "henkkclpbbo"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 2
+stewardship = 0
+intrigue = 5
+learning = 7
+father = 700114
+add_trait = "skilled_tactician"
+2503.9.1={birth=yes}
+2557.10.1={death=yes}
+}
+
+700116={
+name = "Reymer"
+dynasty = 11018
+dna = "ogdplmkmobb"
+culture = talabeclander
+religion = taalite
+military = 6
+diplomacy = 1
+stewardship = 1
+intrigue = 7
+learning = 4
+father = 700114
+add_trait = "flamboyant_schemer"
+add_trait = "temperate"
+add_trait = "arbitrary"
+2508.5.1={birth=yes}
+2573.1.23={death=yes}
+}
+
+700117={
+name = "Britta"
+female = yes
+dynasty = 11018
+dna = "aigojonbahc"
+culture = talabeclander
+religion = taalite
+military = 5
+diplomacy = 4
+stewardship = 5
+intrigue = 3
+learning = 4
+father = 700114
+add_trait = "elusive_shadow"
+add_trait = "wroth"
+2518.1.1={birth=yes}
+2556.8.20={death=yes}
+}
+
+700118={
+name = "Andrea"
+female = yes
+dynasty = 11017
+dna = "ahjkgkipahn"
+culture = talabeclander
+religion = taalite
+military = 3
+diplomacy = 4
+stewardship = 6
+intrigue = 1
+learning = 4
+add_trait = "tough_soldier"
+add_trait = "patient"
+add_trait = "charitable"
+add_trait = "brave"
+2451.11.1={birth=yes}
+2495.7.22={death=yes}
+}
+
+700119={
+name = "Rudi"
+dynasty = 11017
+dna = "icpfnppagbc"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 2
+stewardship = 5
+intrigue = 7
+learning = 5
+mother = 700118
+add_trait = "skilled_tactician"
+add_trait = "arbitrary"
+add_trait = "honest"
+add_trait = "gregarious"
+2472.9.1={birth=yes}
+2515.1.12={death=yes}
+}
+
+700120={
+name = "Leberecht"
+dynasty = 11017
+dna = "aafjmpfnbff"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 3
+stewardship = 3
+intrigue = 4
+learning = 4
+mother = 700118
+add_trait = "tough_soldier"
+add_trait = "arbitrary"
+2479.1.1={birth=yes}
+2527.11.17={death=yes}
+}
+
+700121={
+name = "Hannelore"
+female = yes
+dynasty = 11017
+dna = "mnnlephadje"
+culture = talabeclander
+religion = taalite
+military = 3
+diplomacy = 4
+stewardship = 2
+intrigue = 4
+learning = 3
+mother = 700118
+add_trait = "tough_soldier"
+add_trait = "honest"
+add_trait = "charitable"
+add_trait = "cruel"
+add_trait = "patient"
+add_trait = "ill"
+2483.5.1={birth=yes}
+2537.2.7={death=yes}
+}
+
+700122={
+name = "Seifried"
+dynasty = 11017
+dna = "jocafcmmnlc"
+culture = talabeclander
+religion = taalite
+military = 3
+diplomacy = 4
+stewardship = 2
+intrigue = 8
+learning = 4
+mother = 700121
+add_trait = "skilled_tactician"
+add_trait = "mystic"
+add_trait = "trusting"
+add_trait = "envious"
+2518.1.1={birth=yes}
+2551.4.20={death=yes}
+}
+
+700123={
+name = "Volker"
+dynasty = 11019
+dna = "fbbhelpgelb"
+culture = talabeclander
+religion = taalite
+military = 2
+diplomacy = 0
+stewardship = 8
+intrigue = 5
+learning = 5
+add_trait = "midas_touched"
+add_trait = "celibate"
+add_trait = "wroth"
+2451.7.1={birth=yes}
+2519.11.14={death=yes}
+}
+
+700124={
+name = "Franz"
+dynasty = 11019
+dna = "hejlhijhmaf"
+culture = talabeclander
+religion = taalite
+military = 4
+diplomacy = 4
+stewardship = 0
+intrigue = 5
+learning = 4
+father = 700123
+add_trait = "brilliant_strategist"
+add_trait = "celibate"
+2487.3.1={birth=yes}
+2543.3.30={death=yes}
+}
+
+700125={
+name = "Franza"
+female = yes
+dynasty = 11019
+dna = "llmpmncliln"
+culture = talabeclander
+religion = taalite
+military = 6
+diplomacy = 3
+stewardship = 8
+intrigue = 1
+learning = 3
+father = 700123
+add_trait = "charismatic_negotiator"
+add_trait = "diligent"
+add_trait = "greedy"
+add_trait = "patient"
+add_trait = "lunatic"
+2496.9.1={birth=yes}
+2530.10.6={death=yes}
+}
+
+700126={
+name = "Volker"
+dynasty = 11019
+dna = "engpjblehmi"
+culture = talabeclander
+religion = taalite
+military = 6
+diplomacy = 7
+stewardship = 8
+intrigue = 1
+learning = 1
+mother = 700125
+add_trait = "underhanded_rogue"
+add_trait = "chaste"
+add_trait = "just"
+2516.11.1={birth=yes}
+2561.9.26={death=yes}
+}
+
+700127={
+name = "Volker"
+dynasty = 11019
+dna = "ifcmbjonpki"
+culture = talabeclander
+religion = taalite
+military = 1
+diplomacy = 4
+stewardship = 4
+intrigue = 5
+learning = 3
+mother = 700125
+add_trait = "charismatic_negotiator"
+add_trait = "deceitful"
+add_trait = "proud"
+add_trait = "wroth"
+2519.1.1={birth=yes}
+2555.12.3={death=yes}
+}
+
+700128={
+name = "Irma"
+female = yes
+dynasty = 11140
+dna = "kophljokonp"
+culture = talabeclander
+religion = taalite
+military = 3
+diplomacy = 6
+stewardship = 3
+intrigue = 4
+learning = 2
+add_trait = "thrifty_clerk"
+add_trait = "cynical"
+add_trait = "charitable"
+add_trait = "gregarious"
+2490.1.1={birth=yes}
+2538.12.10={death=yes}
+}
+
+700129={
+name = "Viktor"
+dynasty = 11141
+dna = "hcdhanchecd"
+culture = talabeclander
+religion = taalite
+military = 5
+diplomacy = 0
+stewardship = 5
+intrigue = 0
+learning = 2
+add_trait = "tough_soldier"
+add_trait = "trusting"
+add_trait = "greedy"
+2474.7.1={birth=yes}
+2529.2.17={death=yes}
+}
+
+700130={
+name = "Debora"
+female = yes
+dynasty = 11142
+dna = "fallmdaoikf"
+culture = talabeclander
+religion = taalite
+military = 0
+diplomacy = 4
+stewardship = 3
+intrigue = 4
+learning = 7
+add_trait = "thrifty_clerk"
+add_trait = "arbitrary"
+add_trait = "ambitious"
+add_trait = "envious"
+add_trait = "wounded"
+2488.11.1={birth=yes}
+2548.1.28={death=yes}
+}
+
+
+700131={
+name = "Johan"
+dynasty = 11144
+dna = "akdkccfmplk"
+culture = talabeclander
+religion = taalite
+military = 8
+diplomacy = 4
+stewardship = 5
+intrigue = 7
+learning = 3
+add_trait = "indulgent_wastrel"
+add_trait = "ambitious"
+add_trait = "kind"
+add_trait = "greedy"
+2486.1.1={birth=yes}
+2560.3.22={death=yes}
 }
 

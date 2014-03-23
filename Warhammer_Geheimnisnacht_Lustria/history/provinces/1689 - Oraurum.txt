@@ -1,0 +1,16 @@
+# 1689 Oraurum
+
+# County Title
+title = c_oraurum
+
+# Settlements
+max_settlements = 2
+b_oraurum_castra = castle
+b_treydersoobshcheniye = city
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

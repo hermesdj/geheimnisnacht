@@ -46,7 +46,7 @@ b_agarthe;Agarthe;;;;;;;;;;;;;x
 b_agat;Agat;;;;;;;;;;;;;x
 b_agden;Agden;;;;;;;;;;;;;x
 b_ageapolis;Ageapolis;;;;;;;;;;;;;x
-b_agheiten;Agheiten;;;;;;;;;;;;;x
+b_agbeiten;Agbeiten;;;;;;;;;;;;;x
 b_agkoramaz;Agkoramaz;;;;;;;;;;;;;x
 b_agmoi;Agmoi;;;;;;;;;;;;;x
 b_agoras;Agoras;;;;;;;;;;;;;x
@@ -4097,7 +4097,7 @@ b_tyrumal;Tyrumal;;;;;;;;;;;;;x
 b_tyrunal;Tyrunal;;;;;;;;;;;;;x
 b_ubadir;Ubadir;;;;;;;;;;;;;x
 b_ubaidr;Ubaidr;;;;;;;;;;;;;x
-b_ubersreik;Ubersreik;;;;;;;;;;;;;x
+b_ubersreik;Übersreik;;;;;;;;;;;;;x
 b_ubrique;Ubrique;;;;;;;;;;;;;x
 b_udachny;Udachny;;;;;;;;;;;;;x
 b_udeg;Udeg;;;;;;;;;;;;;x
@@ -4373,7 +4373,7 @@ b_wilstort;Wilstort;;;;;;;;;;;;;x
 b_winkel;Winkel;;;;;;;;;;;;;x
 b_winkelmarkt;Winkelmarkt;;;;;;;;;;;;;x
 b_winsen;Winsen;;;;;;;;;;;;;x
-b_wissenberg;Wissenberg;;;;;;;;;;;;;x
+b_wissenburg;Wissenburg;;;;;;;;;;;;;x
 b_wittenhausen;Wittenhausen;;;;;;;;;;;;;x
 b_wittgendorf;Wittgendorf;;;;;;;;;;;;;x
 b_wizna;Wizna;;;;;;;;;;;;;x
@@ -4382,7 +4382,7 @@ b_woldegsk;Woldegsk;;;;;;;;;;;;;x
 b_wolfenburg;Wolfenburg;;;;;;;;;;;;;x
 b_wolferzahn;Wolferzahn;;;;;;;;;;;;;x
 b_wolfsbach;Wolfsbach;;;;;;;;;;;;;x
-b_worden;Wörden;;;;;;;;;;;;;x
+b_worden;Wördern;;;;;;;;;;;;;x
 b_worlitz;Worlitz;;;;;;;;;;;;;x
 b_worlitz;Worlitz;;;;;;;;;;;;;x
 b_wouduin;Wouduin;;;;;;;;;;;;;x
@@ -4918,7 +4918,7 @@ d_wasai;Wasai;;;;;;;;;;;;;x
 d_waveriders_of_slaanesh;Waveriders of Slaanesh;;;;;;;;;;;;;x
 d_wellighugel;Wellighugel;;;;;;;;;;;;;x
 d_wilderwald;Wilderwald;;;;;;;;;;;;;x
-d_wissenberg;Wissenberg;;;;;;;;;;;;;x
+d_wissenburg;Wissenburg;;;;;;;;;;;;;x
 d_wolfenburg;Wolfenburg;;;;;;;;;;;;;x
 d_wulf;Wulf;;;;;;;;;;;;;x
 d_wurmer;Wurmer;;;;;;;;;;;;;x
@@ -5126,7 +5126,7 @@ d_cult_of_vylmar;Cult of Vylmar;;;;;;;;;;;;;x
 d_cult_of_nagash;Cult of Nagash;;;;;;;;;;;;;x
 d_cult_of_the_red_redemption;Cult of the Red Redemption;;;;;;;;;;;;;x
 d_cult_of_the_true_grail;Cult of the True Grail;;;;;;;;;;;;;x
-d_cult_of_taal_and_rhya;Cult of Taal and Rhya;;;;;;;;;;;;;x
+k_cult_of_taal_and_rhya;Cult of Taal and Rhya;;;;;;;;;;;;;x
 d_estalian_inquisition;Estalian Inquisition;;;;;;;;;;;;;x
 d_tilean_inquisition;Tilean Inquisition;;;;;;;;;;;;;x
 d_swords_of_ulric;Swords of Ulric;;;;;;;;;;;;;x
@@ -5218,7 +5218,7 @@ b_khaz_bryn_karaz;Khaz-Bryn Karaz;;;;;;;;;;;;;x
 b_karak_bryngil;Karak Bryngil;;;;;;;;;;;;;x
 b_jordikar;Jordikar;;;;;;;;;;;;;x
 b_ungol_bryni;Ungol Bryni;;;;;;;;;;;;;x
-d_ubersreik;Ubersreik;;;;;;;;;;;;;x
+d_ubersreik;Übersreik;;;;;;;;;;;;;x
 b_brandenburg;Brandenburg;;;;;;;;;;;;;x
 b_castle_wittgendorf;Castle Wittgendorf;;;;;;;;;;;;;x
 d_geisterforst;Geisterforst;;;;;;;;;;;;;x
@@ -5234,7 +5234,7 @@ b_winkler;Winkler;;;;;;;;;;;;;x
 b_vijfswinkel;Vijfswinkel;;;;;;;;;;;;;x
 b_smeele;Smeele;;;;;;;;;;;;;x
 b_neues_emskrank;Neues Emskrank;;;;;;;;;;;;;x
-d_societas_mercatoria_septentrionalis;Societas Mercatoria Septentrionalis;;;;;;;;;;;;;x
+d_societas_mercatoria_septentrionalis;Northern Mercantile Society;;;;;;;;;;;;;x
 b_van_de_kuypers;Smeele;;;;;;;;;;;;;x
 b_de_roelef;de Roelef;;;;;;;;;;;;;x
 b_van_haagen;van Haagen;;;;;;;;;;;;;x
@@ -5272,7 +5272,7 @@ b_zipf;Zipf;;;;;;;;;;;;;x
 b_van_raemerswijk;van Raemerswijk;;;;;;;;;;;;;x
 b_seppel;Seppel;;;;;;;;;;;;;x
 k_west_mark;West Mark;;;;;;;;;;;;;x
-k_lichtenburg;Lichtenburg;;;;;;;;;;;;;x
+k_lichtenberg;Lichtenberg;;;;;;;;;;;;;x
 d_knights_mariner;Knights Mariner;;;;;;;;;;;;;x
 d_sons_of_manann;Sons of Manann;;;;;;;;;;;;;x
 d_horned_hunters;Horned Hunters;;;;;;;;;;;;;x
@@ -5298,3 +5298,273 @@ d_blitzfelsen;Blitzfelsen;;;;;;;;;;;;;x
 d_wissetal;Wissetal;;;;;;;;;;;;;x
 b_tierhugel;Tierhugel;;;;;;;;;;;;;x
 b_weilerberg;Weilerburg;;;;;;;;;;;;;x
+b_muhlfeld;Muhlfeld;;;;;;;;;;;;;x
+b_siegenhausen;Siegenhausen;;;;;;;;;;;;;x
+b_thann;Thann;;;;;;;;;;;;;x
+b_volsbach;Volsbach;;;;;;;;;;;;;x
+b_mantel;Mantel;;;;;;;;;;;;;x
+b_gebenbach;Gebenbach;;;;;;;;;;;;;x
+b_spalt;Spalt;;;;;;;;;;;;;x
+b_kulz;Kulz;;;;;;;;;;;;;x
+b_arnedorf;Arnedorf;;;;;;;;;;;;;x
+b_krauthof;Krauthof;;;;;;;;;;;;;x
+b_sumpfrand;Sumpfrand;;;;;;;;;;;;;x
+b_koztowny;Koztowny;;;;;;;;;;;;;x
+b_von_saponatheim;von Saponatheim;;;;;;;;;;;;;x
+b_longingbruck;Longingbruck;;;;;;;;;;;;;x
+b_hocheleben;Hocheleben;;;;;;;;;;;;;x
+b_colmfahre;Colmfähre;;;;;;;;;;;;;x
+b_thalheim;Thalheim;;;;;;;;;;;;;x
+k_sjothedrungr;Sjothveðrungr;;;;;;;;;;;;;x
+d_pfeildorf;Pfeildorf;;;;;;;;;;;;;x
+d_meissen;Meissen;;;;;;;;;;;;;x
+d_soll;Söll;;;;;;;;;;;;;x
+b_rohrwald;Rohrwald;;;;;;;;;;;;;x
+b_tannfeld;Tannfeld;;;;;;;;;;;;;x
+b_schattental;Schattental;;;;;;;;;;;;;x
+b_pfungzig;Pfungzig;;;;;;;;;;;;;x
+b_hutten;Hutten;;;;;;;;;;;;;x
+b_leedleton;Leedleton;;;;;;;;;;;;;x
+b_fernfeld;Fernfeld;;;;;;;;;;;;;x
+b_tottletop;Tottletop;;;;;;;;;;;;;x
+b_wurzelnschilf;Wurzelnschilf;;;;;;;;;;;;;x
+b_durbheim;Durbheim;;;;;;;;;;;;;x
+b_mehikoorma;Mehikoorma;;;;;;;;;;;;;x
+b_urskoydok;Urskoydok;;;;;;;;;;;;;x
+b_piast;Piast;;;;;;;;;;;;;x
+b_nidzica;Nidzica;;;;;;;;;;;;;x
+b_merkantly;Merkantly;;;;;;;;;;;;;x
+b_pasziema;Pasziema;;;;;;;;;;;;;x
+b_grakiziema;Grakiziema;;;;;;;;;;;;;x
+b_dockziema;Dockziema;;;;;;;;;;;;;x
+b_reskcyn;Reskcyn;;;;;;;;;;;;;x
+b_miresheny;Miresheny;;;;;;;;;;;;;x
+b_ustnidora;Ustnidora;;;;;;;;;;;;;x
+b_ursenivo;Ursenivo;;;;;;;;;;;;;x
+b_posantra;Posantra;;;;;;;;;;;;;x
+b_zvenkovya;Zvenkovya;;;;;;;;;;;;;x
+b_borokovo;Borokovo;;;;;;;;;;;;;x
+b_zimniy_dvorets;Zimniy Dvorets;;;;;;;;;;;;;x
+b_lynskdok;Lynskdok;;;;;;;;;;;;;x
+b_handelbezirk;Handelbezirk;;;;;;;;;;;;;x
+b_universistat;Universistat;;;;;;;;;;;;;x
+b_aldigplatz;Aldigplatz;;;;;;;;;;;;;x
+b_weston;Weston;;;;;;;;;;;;;x
+b_industrielplatz;Industrielplatz;;;;;;;;;;;;;x
+b_kaufman_bezirk;Kaufman Bezirk;;;;;;;;;;;;;x
+b_seemannsliedplatz;Seemannsliedplatz;;;;;;;;;;;;;x
+b_reikinseldorf;Reikinseldorf;;;;;;;;;;;;;x
+b_nordpark;Nordpark;;;;;;;;;;;;;x
+b_lachsinseldorf;Lachsinseldorf;;;;;;;;;;;;;x
+b_konigplatz;Königplatz;;;;;;;;;;;;;x
+b_altquartier;Altquartier;;;;;;;;;;;;;x
+b_nordgarten;Nordgarten;;;;;;;;;;;;;x
+b_wynd;Wynd;;;;;;;;;;;;;x
+b_geldmund;Geldmund;;;;;;;;;;;;;x
+b_kaufseit;Kaufseit;;;;;;;;;;;;;x
+b_brotkopfs;Brotkopfs;;;;;;;;;;;;;x
+b_osttor;Osttor;;;;;;;;;;;;;x
+b_westtor;Westtor;;;;;;;;;;;;;x
+b_oudgeldwijk;Oudgeldwijk;;;;;;;;;;;;;x
+b_doodkanaal;Doodkanaal;;;;;;;;;;;;;x
+b_kruiersmuur;Kruiersmuur;;;;;;;;;;;;;x
+b_goudberg;Goudberg;;;;;;;;;;;;;x
+b_paleisbuurt;Paleisbuurt;;;;;;;;;;;;;x
+b_handelaarmarkt;Handelaarmarkt;;;;;;;;;;;;;x
+b_noordmuur;Noordmuur;;;;;;;;;;;;;x
+b_vlakland;Vlakland;;;;;;;;;;;;;x
+b_kaldach;Kaldach;;;;;;;;;;;;;x
+b_rottefach;Rottefache;;;;;;;;;;;;;x
+b_hochloff;Hochloff;;;;;;;;;;;;;x
+b_walfen;Walfen;;;;;;;;;;;;;x
+b_hartsklein;Hartsklein;;;;;;;;;;;;;x
+b_schlafebild;Schlafebild;;;;;;;;;;;;;x
+b_jagerhausen;Jagerhausen;;;;;;;;;;;;;x
+b_schoninghagen;Schoninghagen;;;;;;;;;;;;;x
+b_grevenfeld;Grevenfeld;;;;;;;;;;;;;x
+b_immelscheld;Immelscheld;;;;;;;;;;;;;x
+b_hunxe;Hunxe;;;;;;;;;;;;;x
+b_holzbeck;Holzbeck;;;;;;;;;;;;;x
+b_lindenheim;Lindenheim;;;;;;;;;;;;;x
+b_warrenburg;Warrenburg;;;;;;;;;;;;;x
+b_elsterweld;Elsterweld;;;;;;;;;;;;;x
+b_zurin;Zurin;;;;;;;;;;;;;x
+b_harferfahre;Harferfähre;;;;;;;;;;;;;x
+b_hernhausen;Hernhausen;;;;;;;;;;;;;x
+b_waldfahrte;Waldfahrte;;;;;;;;;;;;;x
+b_urhausen;Urhausen;;;;;;;;;;;;;x
+b_grossreiche;Grossreiche;;;;;;;;;;;;;x
+b_liebstadt;Liebstadt;;;;;;;;;;;;;x
+b_krugers_blick_hugel;Krugers Blick Hugel;;;;;;;;;;;;;x
+b_sprotau;Sprotau;;;;;;;;;;;;;x
+b_breitblatt;Breitblatt;;;;;;;;;;;;;x
+b_kutzleben;Kutzleben;;;;;;;;;;;;;x
+b_grundach;Gründach;;;;;;;;;;;;;x
+b_rotha;Rotha;;;;;;;;;;;;;x
+b_bad_dankerode;Bad Dankerode;;;;;;;;;;;;;x
+b_bachra;Bachra;;;;;;;;;;;;;x
+b_bad_tensalza;Bad Tensalza;;;;;;;;;;;;;x
+b_koppens;Koppens;;;;;;;;;;;;;x
+b_schwartzehalt;Schwartzehalt;;;;;;;;;;;;;x
+b_talge;Talge;;;;;;;;;;;;;x
+b_geltwold;Geldwold;;;;;;;;;;;;;x
+b_eastadt;Eastadt;;;;;;;;;;;;;x
+b_morrstrecke;Morrstrecke;;;;;;;;;;;;;x
+b_kratersee;Kratersee;;;;;;;;;;;;;x
+b_sudensteinbruch;Sudensteinbruch;;;;;;;;;;;;;x
+b_erdewerke;Erdewerke;;;;;;;;;;;;;x
+b_biberdorf;Biberdorf;;;;;;;;;;;;;x
+b_armedorf;Armedorf;;;;;;;;;;;;;x
+b_amosstein;Amosstein;;;;;;;;;;;;;x
+b_furtzhausen;Fursthausen;;;;;;;;;;;;;x
+b_brandstadt;Brandstadt;;;;;;;;;;;;;x
+b_mattersheim;Mattersheim;;;;;;;;;;;;;x
+b_eschedorf;Eschedorf;;;;;;;;;;;;;x
+b_wurstheim;Wurstheim;;;;;;;;;;;;;x
+b_konigsdorf;Konigsdorf;;;;;;;;;;;;;x
+b_segeldorf;Segeldorf;;;;;;;;;;;;;x
+b_bleichdorf;Bleichdorf;;;;;;;;;;;;;x
+b_arschel;Arschel;;;;;;;;;;;;;x
+b_wahnfurt;Wahnfurt;;;;;;;;;;;;;x
+b_kotzenheim;Kotzenheim;;;;;;;;;;;;;x
+b_zecher;Zecher;;;;;;;;;;;;;x
+b_frederheim;Frederheim;;;;;;;;;;;;;x
+b_grossbad;Grossbad;;;;;;;;;;;;;x
+b_furtild;Furtild;;;;;;;;;;;;;x
+b_bundesmarkt;Bundesmarkt;;;;;;;;;;;;;x
+b_dorchen;Dorchen;;;;;;;;;;;;;x
+b_geldrecht;Geldrecht;;;;;;;;;;;;;x
+b_braunwurt;Braunwurt;;;;;;;;;;;;;x
+b_gluckshalt;Gluckshalt;;;;;;;;;;;;;x
+b_heiligen;Heiligen;;;;;;;;;;;;;x
+b_rechtlich;Rechtlich;;;;;;;;;;;;;x
+b_autler;Autler;;;;;;;;;;;;;x
+b_teufelfeuer;Teufelfeuer;;;;;;;;;;;;;x
+b_blutroch;Blutroch;;;;;;;;;;;;;x
+b_braundorf;Braundorf;;;;;;;;;;;;;x
+b_winkelhausen;Winkelhausen;;;;;;;;;;;;;x
+b_taalgrunhaarwald;Taalgrunhaarwald;;;;;;;;;;;;;x
+b_norderingen;Norderingen;;;;;;;;;;;;;x
+b_arenburg;Arenburg;;;;;;;;;;;;;x
+k_nuln;Nuln;;;;;;;;;;;;;x
+k_talabheim;Talabheim;;;;;;;;;;;;;x
+k_middenheim;Middenheim;;;;;;;;;;;;;x
+k_altdorf;Altdorf;;;;;;;;;;;;;x
+d_order_of_the_raven;Order of the Raven;;;;;;;;;;;;;x
+d_vergenland;Vergenland;;;;;;;;;;;;;x
+d_talumfang;Talumfang;;;;;;;;;;;;;x
+d_uhland;Uhland;;;;;;;;;;;;;x
+d_khypria;Khypria;;;;;;;;;;;;;x
+k_sarngul;Sarngul;;;;;;;;;;;;;x
+k_eagle_confederacy;Eagle Confederacy;;;;;;;;;;;;;x
+d_drakon_coast;Drakon Coast;;;;;;;;;;;;;x
+d_scarosio;Scarosio;;;;;;;;;;;;;x
+d_mirasino;Mirasino;;;;;;;;;;;;;x
+d_schwarzwald;Schwarzwald;;;;;;;;;;;;;x
+d_sarngul;Sarngul;;;;;;;;;;;;;x
+d_kuldevind;Kuldevind;;;;;;;;;;;;;x
+d_ildelver;Ildelver;;;;;;;;;;;;;x
+k_the_isles;The Isles;;;;;;;;;;;;;x
+k_stygia;Stygia;;;;;;;;;;;;;x
+k_stygian_wood;Stygian Wood;;;;;;;;;;;;;x
+b_lament;Lament;;;;;;;;;;;;;x
+b_raven_barrow;Raven Barrow;;;;;;;;;;;;;x
+d_kikkerlandje;Kikkerlandje;;;;;;;;;;;;;x
+b_rangenhof;Rangenhof;;;;;;;;;;;;;x
+b_somjek;Somjek;;;;;;;;;;;;;x
+b_vidovdan;Vidovdan;;;;;;;;;;;;;x
+b_wordern;Wördern;;;;;;;;;;;;;x
+k_northern_border_confederacy;Northern Border Confederacy;;;;;;;;;;;;;x
+k_badlands;Badlands;;;;;;;;;;;;;x
+k_aegos;Aegos;;;;;;;;;;;;;x
+d_luparno;Luparno;;;;;;;;;;;;;x
+k_paraskiros;Paraskiros;;;;;;;;;;;;;x
+b_maltane;Maltane;;;;;;;;;;;;;x
+b_cabanal;Cabanal;;;;;;;;;;;;;x
+b_mentreda;Mentreda;;;;;;;;;;;;;x
+k_ungols;Ungols;;;;;;;;;;;;;x
+k_ropsmenn;Ropsmenn;;;;;;;;;;;;;x
+k_norvard;Norvard;;;;;;;;;;;;;x
+d_ragged_company;Ragged Company;;;;;;;;;;;;;x
+d_scarlet_company;Scarlet Company;;;;;;;;;;;;;x
+d_hammershields_of_black_tower;Hammershields of Black Tower;;;;;;;;;;;;;x
+d_schwarzspears;Schwarzspears;;;;;;;;;;;;;x
+d_swords_of_nuln;Swords of Nuln;;;;;;;;;;;;;x
+d_sea_devils;Sea-Devils;;;;;;;;;;;;;x
+d_guard_of_the_golden_cross;Guard of the Golden Cross;;;;;;;;;;;;;x
+d_regiment_of_foot;Regiment of Foot;;;;;;;;;;;;;x
+d_altdorf_blackbolts;Altdorf Blackbolts;;;;;;;;;;;;;x
+k_calafina;Calafina;;;;;;;;;;;;;x
+d_knights_panther;Knights Panther;;;;;;;;;;;;;x
+d_knights_sigmars_blood;Knights of Sigmar's Blood;;;;;;;;;;;;;x
+d_knights_griffon;Knights Griffon;;;;;;;;;;;;;x
+d_knights_black_rose;Knights of the Black Rose;;;;;;;;;;;;;x
+d_knights_blazing_sun;Knights of the Blazing Sun;;;;;;;;;;;;;x
+d_knights_broken_sword;Knights of the Broken Sword;;;;;;;;;;;;;x
+d_knights_everlasting_light;Knights of the Everlasting Light;;;;;;;;;;;;;x
+d_knights_white_wolf;Knights of the White Wolf;;;;;;;;;;;;;x
+d_reiksguard;Reiksguard;;;;;;;;;;;;;x
+d_desert_dogs;Desert Dogs;;;;;;;;;;;;;x
+d_leopolds_leopard_company;Leopard Company;;;;;;;;;;;;;x
+d_brazangas_besiegers;Besiegers;;;;;;;;;;;;;x
+d_dragon_company;Dragon Company;;;;;;;;;;;;;x
+d_knights_origo;Knights of Origo;;;;;;;;;;;;;x
+d_flagellant_warband;Flagellant Warband;;;;;;;;;;;;;x
+d_red_redemption;Red Redemption;;;;;;;;;;;;;x
+d_vanguard_of_khorne;Vanguard of Khorne;;;;;;;;;;;;;x
+d_desolators_of_nurgle;Desolators of Nurgle;;;;;;;;;;;;;x
+d_heralds_of_tzeentch;Heralds of Tzeentch;;;;;;;;;;;;;x
+d_ravagers_of_slaanesh;Ravagers of Slaanesh;;;;;;;;;;;;;x
+d_knights_of_the_cleansing_flame;Knights of the Cleansing Flame;;;;;;;;;;;;;x
+d_bearmen_of_ursulo;Bearmen of Ursulo;;;;;;;;;;;;;x
+d_alcatani_fellowship;Alcatani Fellowship;;;;;;;;;;;;;x
+d_riccos_republican_guard;Republican Guard;;;;;;;;;;;;;x
+d_cursed_company;Cursed Company;;;;;;;;;;;;;x
+d_mother_crushers;Mother Crushers;;;;;;;;;;;;;x
+d_spike_clan_commandos;Spike-Clan Commandos;;;;;;;;;;;;;x
+d_fighting_cocks;Fighting Cocks;;;;;;;;;;;;;x
+d_marksmen_of_miragliano;Marksmen of Miragliano;;;;;;;;;;;;;x
+d_tichi_huchis_raiders;Tichi-Huchi's Raiders;;;;;;;;;;;;;x
+d_vesperos_vendetta;Vespero's Vendetta;;;;;;;;;;;;;x
+d_volands_venators;Venators;;;;;;;;;;;;;x
+d_birdmen_of_catrazza;Birdmen of Catrazza;;;;;;;;;;;;;x
+d_bronzinos_galloper_guns;Galloper Guns;;;;;;;;;;;;;x
+d_black_mountain_boys;Black Mountain Boys;;;;;;;;;;;;;x
+d_aklands_death_commandos;Death Commandos;;;;;;;;;;;;;x
+d_battle_chariots_of_bogdan;Battle Chariots;;;;;;;;;;;;;x
+d_notlobs_bolt_throwers;Bolt-Throwers;;;;;;;;;;;;;x
+d_throgs_hobgoblin_despoilers;Hobgoblin Despoilers;;;;;;;;;;;;;x
+d_nightmare_legion;Nightmare Legion;;;;;;;;;;;;;x
+d_skarlocs_wood_elf_archers;Wood Elf Archers of Skarloc;;;;;;;;;;;;;x
+d_bowmen_of_prince_oreon;Bowmen of Prince Oreon;;;;;;;;;;;;;x
+d_vanaheim_marauders;Vanaheim Marauders;;;;;;;;;;;;;x
+d_kathleen_chargers;Kathleen Chargers;;;;;;;;;;;;;x
+d_blue_face_boyz;Blue Face Boyz;;;;;;;;;;;;;x
+d_broken_tooth_boyz;Broken Tooth Boyz;;;;;;;;;;;;;x
+d_dead_head_boyz;Dead-Head Boyz;;;;;;;;;;;;;x
+d_slayer_legion;Slayer Legion;;;;;;;;;;;;;x
+d_siren_isles_sailors;Siren Isles Sailors;;;;;;;;;;;;;x
+d_sartosan_hulks;Sartosan Hulks;;;;;;;;;;;;;x
+d_norscan_seafarers;Norscan Seafarers;;;;;;;;;;;;;x
+d_erengrad_convoy;Erengrad Convoy;;;;;;;;;;;;;x
+d_marienburg_merchant_fleet;Marienburg Merchant Fleet;;;;;;;;;;;;;x
+d_swords_of_chaos;Swords of Chaos;;;;;;;;;;;;;x
+k_araz;Araz;;;;;;;;;;;;;x
+k_kura;Kura;;;;;;;;;;;;;x
+d_altaya;Altaya;;;;;;;;;;;;;x
+d_svarg;Svarg;;;;;;;;;;;;;x
+k_zanbaijin;Zanbaijin;;;;;;;;;;;;;x
+d_zanbaijin;Zanbaijin;;;;;;;;;;;;;x
+b_zanbaijin;Zanbaijin;;;;;;;;;;;;;x
+b_nyarammog;Nyarammog;;;;;;;;;;;;;x
+b_shuraab;shuraab;;;;;;;;;;;;;x
+b_cynagoth;Cynagoth;;;;;;;;;;;;;x
+b_iqatha;Iqatha;;;;;;;;;;;;;x
+b_tsaragg;Tsaragg;;;;;;;;;;;;;x
+b_zoth;Zoth;;;;;;;;;;;;;x
+b_kathuul;Kathuul;;;;;;;;;;;;;x
+b_ghatoraz;Ghatoraz;;;;;;;;;;;;;x
+b_nurgathar;Nurgathar;;;;;;;;;;;;;x
+b_sarog;Sarog;;;;;;;;;;;;;x
+b_rakaska;Rakaska;;;;;;;;;;;;;x
+b_largor;Largor;;;;;;;;;;;;;x

@@ -1,0 +1,19 @@
+# 1027 Ghafsa
+
+# County Title
+title = c_ghafsa
+
+# Settlements
+max_settlements = 5
+b_ghafsa = castle
+b_firuzk = castle
+b_mashoor = temple
+#b_wadi_zahk = city
+#b_urim = castle
+
+# Misc
+culture = cophic
+religion = ormazd
+
+
+# History

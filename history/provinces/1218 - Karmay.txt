@@ -1,0 +1,18 @@
+# 1218 Karmay
+
+# County Title
+title = c_karmay
+
+# Settlements
+max_settlements = 4
+b_nanai = castle
+b_skyrrin = temple
+b_finnabor = city
+#b_geta = castle
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

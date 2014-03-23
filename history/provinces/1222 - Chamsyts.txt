@@ -1,0 +1,16 @@
+# 1222 Chamsyts
+
+# County Title
+title = c_chamsyts
+
+# Settlements
+max_settlements = 2
+b_chamsyts = castle
+#b_retti = temple
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

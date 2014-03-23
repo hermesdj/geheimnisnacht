@@ -8,7 +8,7 @@ max_settlements = 4
 b_kodradfief = castle
 b_valfisk = temple
 b_dodved = temple
-b_earzum = city
+#b_earzum = city
 
 # Misc
 culture = skaeling

@@ -8,7 +8,7 @@ max_settlements = 4
 b_maulan = castle
 b_beauclerc = temple
 b_thibaudon = castle
-b_vendaine = temple
+#b_vendaine = temple
 
 # Misc
 culture = breton

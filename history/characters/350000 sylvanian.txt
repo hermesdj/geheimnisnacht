@@ -1,21 +1,26 @@
 350000={
 name = "Vlad" #Vlad von Carstein in 2010
 dynasty = 19000
-culture = sylvanian
+culture = immortal_imperial
 religion = vampiric
 military = 8
 diplomacy = 2
 stewardship = 11
 intrigue = 6
-learning = 0
+learning = 6
 add_trait = "impaler"
 add_trait = "master_tactician"
 add_trait="cruel"
 add_trait="honest"
+add_trait="gregarious"
+add_trait="brave"
+add_trait="proud"
 add_trait="vampire_carstein_visible"
 
-1985.10.3={birth="1985.10.3"}
-2051.1.22={death="2051.1.22"}
+1771.11.4={birth=yes}
+1771.11.4={effect={culture=sylvanian}}
+1797.5.10 = {add_spouse=350026}
+2051.3.22={death=yes}
 }
 
 350001={
@@ -98,6 +103,7 @@ add_trait="vampire_carstein_visible"
 add_trait="humble"
 
 1977.2.29={birth=yes}
+2000.5.10 = {add_spouse=350013}
 2036.9.29={death=yes}
 }
 
@@ -137,7 +143,7 @@ add_trait = "mastermind_theologian"
 add_trait="temperate"
 add_trait="vampire_carstein_visible"
 
-add_trait="depressed"
+
 
 1965.1.2={birth="1965.1.2"}
 2069.5.15={death="2069.5.15"}
@@ -155,7 +161,7 @@ intrigue = 4
 learning = 3
 add_trait = "hunter"
 add_trait = "tough_soldier"
-add_trait="stressed"
+
 add_trait="lustful"
 add_trait="drunkard"
 add_trait="vampire_carstein_visible"
@@ -207,7 +213,8 @@ add_trait="lisp"
 }
 
 350010={
-name = "Frederik"
+name = "Nevena"
+female = yes
 dynasty = 19038
 culture = sylvanian
 religion = vampiric
@@ -219,10 +226,9 @@ learning = 0
 add_trait = "scholar"
 add_trait = "thrifty_clerk"
 add_trait="homosexual"
+add_trait="vampire_carstein_visible"
 
-
-
-1969.1.1={birth="1969.1.1"}
+1989.1.1={birth="1969.1.1"}
 2030.3.17={death="2030.3.17"}
 }
 
@@ -280,11 +286,13 @@ learning = 10
 add_trait = "hunter"
 add_trait = "indulgent_wastrel"
 add_trait="proud"
-add_trait="slothful"
+add_trait="slow"
 add_trait="patient"
+add_trait="chaste"
 
-1988.2.30={birth="1988.2.30"}
-2037.10.24={death="2037.10.24"}
+1988.2.30={birth=yes}
+2000.5.10 = {add_spouse=350004}
+2037.10.24={death=yes}
 }
 
 350014={
@@ -408,85 +416,7 @@ add_trait="cruel"
 2040.11.27={death="2040.11.27"}
 }
 
-350020={
-name = "Vlad" #Vlad von Carstein's first identity in Sylvania
-dynasty = 19000
-culture = sylvanian
-religion = sigmarite
-military = 8
-diplomacy = 2
-stewardship = 11
-intrigue = 6
-learning = 0
-add_trait = "impaler"
-add_trait = "master_tactician"
-add_trait="cruel"
-add_trait="honest"
-add_trait="vampire_carstein_hidden"
-
-1773.11.4={birth="1773.11.4"}
-1817.4.14={death="1817.4.14"}
-}
-
-350021={
-name = "Vlad" #Vlad von Carstein's second identity in Sylvania
-dynasty = 19000
-culture = sylvanian
-religion = sigmarite
-military = 8
-diplomacy = 2
-stewardship = 11
-intrigue = 6
-learning = 0
-add_trait = "impaler"
-add_trait = "master_tactician"
-add_trait="cruel"
-add_trait="honest"
-add_trait="vampire_carstein_hidden"
-
-1801.10.2={birth="1801.10.2"}
-1842.9.15={death="1842.9.15"}
-}
-
-350022={
-name = "Vlad" #Vlad von Carstein's third identity in Sylvania
-dynasty = 19000
-culture = sylvanian
-religion = sigmarite
-military = 8
-diplomacy = 2
-stewardship = 11
-intrigue = 6
-learning = 0
-add_trait = "impaler"
-add_trait = "master_tactician"
-add_trait="cruel"
-add_trait="honest"
-add_trait="vampire_carstein_hidden"
-
-1839.4.26={birth="1839.4.26"}
-1870.2.7={death="1870.2.7"}
-}
-
-350023={
-name = "Vlad" #Vlad von Carstein's fourth identity in Sylvania
-dynasty = 19000
-culture = sylvanian
-religion = sigmarite
-military = 8
-diplomacy = 2
-stewardship = 11
-intrigue = 6
-learning = 0
-add_trait = "impaler"
-add_trait = "master_tactician"
-add_trait="cruel"
-add_trait="honest"
-add_trait="vampire_carstein_hidden"
-
-1851.8.21={birth="1851.8.21"}
-1895.9.16={death="1895.9.16"}
-}
+###########
 
 350024={
 name = "Nikole"
@@ -503,6 +433,7 @@ learning = 7
 add_trait = "flamboyant_schemer"
 add_trait = "diligent"
 add_trait = "kind"
+add_trait="vampire_carstein_visible"
 1992.1.1={birth=yes}
 2098.9.24={death=yes}
 }
@@ -522,7 +453,95 @@ learning = 2
 add_trait = "elusive_shadow"
 add_trait = "hedonist"
 add_trait = "humble"
+add_trait="vampire_carstein_hidden"
 2497.1.1={birth=yes}
 2570.7.11={death=yes}
+}
+
+
+350026={
+name = "Isabella"
+female = yes
+dynasty = 19003
+culture = immortal_imperial
+religion = vampiric
+military = 5
+diplomacy = 6
+stewardship = 4
+intrigue = 8
+learning = 9
+add_trait = "scholar"
+add_trait = "grey_eminence"
+add_trait="cruel"
+add_trait="fair"
+add_trait="proud"
+add_trait="vampire_carstein_visible"
+
+1775.7.29={birth=yes}
+1775.7.29={effect={culture=sylvanian}}
+1797.5.10 = {add_spouse=350000}
+2051.3.22={death=yes}
+}
+
+350027={
+name = "Hugh"
+dynasty = 19112
+dna = "jncldchoien"
+culture = sylvanian
+religion = sigmarite
+military = 3
+diplomacy = 7
+stewardship = 3
+intrigue = 4
+learning = 4
+add_trait = "grey_eminence"
+add_trait = "cynical"
+add_trait = "deceitful"
+2484.1.1={birth=yes}
+2586.2.22={death=yes}
+}
+
+350028={
+name = "Mannfred"
+dynasty = 19000
+dna = "bicmgbekfah"
+culture = sylvanian
+religion = sigmarite
+military = 7
+diplomacy = 3
+stewardship = 5
+intrigue = 7
+learning = 8
+add_trait = "master_tactician"
+add_trait = "brave"
+add_trait = "temperate"
+add_trait = "cruel"
+add_trait = "proud"
+add_trait = "tall"
+add_trait = "vampire_carstein_hidden"
+2475.1.1={birth=yes}
+2672.10.17={death=yes}
+}
+
+350029={
+name = "Gabriella"
+female = yes
+dynasty = 19113
+dna = "ccnbnilhfbl"
+culture = sylvanian
+religion = sigmarite
+military = 0
+diplomacy = 7
+stewardship = 4
+intrigue = 3
+learning = 1
+add_trait = "charismatic_negotiator"
+add_trait = "arbitrary"
+add_trait = "cruel"
+add_trait = "proud"
+add_trait = "tall"
+add_trait = "vampire_carstein_hidden"
+2488.1.1={birth=yes}
+2560.11.8={death=yes}
 }
 

@@ -7,7 +7,7 @@ d_knights_white_wolf = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 274 #Middenheim
 
@@ -31,7 +31,7 @@ d_order_of_the_howling_wolf = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 274 #Middenheim
 
@@ -55,7 +55,7 @@ d_order_of_the_winter_throne = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 274 #Middenheim
 
@@ -75,6 +75,30 @@ d_order_of_the_winter_throne = {
 	modifier = d_order_of_the_winter_throne_modifier
 }
 
+d_ragnarhalt = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	#graphical_culture = holygfx
+
+	capital = 70 #Olricstaad
+
+	religion = ulrican
+	culture = nordlander
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	holy_order = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	monthly_income = 3
+	
+	modifier = d_ragnarhalt_modifier
+}
+
 
 ###Sigmar
 
@@ -82,7 +106,7 @@ d_knights_sigmars_blood = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 299 #Altdorf
 
@@ -106,7 +130,7 @@ d_templars_of_sigmar = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 299 #Altdorf
 
@@ -130,7 +154,7 @@ d_knights_griffon = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 309 #Nuln
 
@@ -155,7 +179,7 @@ d_knights_broken_sword = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 357 #Averheim
 
@@ -179,7 +203,7 @@ d_sisters_of_sigmar = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 370 #Mordheim
 
@@ -203,7 +227,7 @@ d_sisters_of_faith_and_chastity = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 299 #Altdorf
 
@@ -229,7 +253,7 @@ d_knights_blazing_sun = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 330 #Talabheim
 
@@ -275,7 +299,7 @@ d_order_of_the_righteous_spear = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 553 #Magritta
 
@@ -299,7 +323,7 @@ d_order_of_fury = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 553 #Magritta
 
@@ -323,7 +347,7 @@ d_knights_everlasting_light = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 366 #Bechafen
 
@@ -347,7 +371,7 @@ d_knights_panther = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 553 #Magritta
 
@@ -371,7 +395,7 @@ d_order_of_sword_and_scale = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 553 #Magritta
 
@@ -397,7 +421,7 @@ d_knights_black_rose = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 343 #Wurtbad
 
@@ -421,7 +445,7 @@ d_longshanks = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 330 #Talabheim
 
@@ -445,7 +469,7 @@ d_horned_hunters = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 330 #Talabheim
 
@@ -465,13 +489,37 @@ d_horned_hunters = {
 	modifier = d_horned_hunters_modifier
 }
 
+d_order_of_the_raven = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	#graphical_culture = holygfx
+	
+	capital = 375 #Sternieste
+
+	religion = taalite
+	culture = stirlander
+	
+	title = "GRANDMASTER"
+	foa = "GRANDMASTER_FOA"
+
+	holy_order = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	monthly_income = 3
+	
+	modifier = d_order_of_the_raven_modifier
+}
+
 ### Grail
 
 d_knights_origo = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 1021 #Fyrus
 
@@ -495,7 +543,7 @@ d_knights_lily = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 844 #Bastonne
 
@@ -519,7 +567,7 @@ d_chevaliers_notre_dame_bataille = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 884 #Quenelles
 
@@ -545,7 +593,7 @@ d_knights_mariner = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 222 #Marienburg
 
@@ -569,7 +617,7 @@ d_sons_of_manann = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 222 #Marienburg
 
@@ -595,7 +643,7 @@ d_dragon_company = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 451 #Karaz-a-Karak
 
@@ -623,7 +671,7 @@ d_slayer_legion = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
 	
-	graphical_culture = holygfx
+	#graphical_culture = holygfx
 	
 	capital = 451 #Karaz-a-Karak
 

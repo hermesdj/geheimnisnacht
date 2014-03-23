@@ -1,0 +1,20 @@
+# 1333 - Lichtungmarkt
+
+# County Title
+title = c_lichtungmarkt
+
+# Settlements
+max_settlements = 5
+b_kaldach = castle
+b_rottefach = temple
+#b_hochloff = city
+#b_walfen = city
+#b_hartsklein = city
+#b_schlafebild = castle
+
+# Misc
+culture = reiklander
+religion = sigmarite
+
+
+# History

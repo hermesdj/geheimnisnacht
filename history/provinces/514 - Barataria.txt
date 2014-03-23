@@ -7,7 +7,7 @@ max_settlements = 4
 b_hernazea = castle
 b_puebla = temple
 b_entrada = city
-b_tordesalles = castle
+#b_tordesalles = castle
 
 #Misc
 culture = norteno

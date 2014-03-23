@@ -7,8 +7,8 @@ title = c_tanngniost
 max_settlements = 4
 b_heorot = castle
 b_jayrlsvik = city
-b_kaugang = city
-b_tanngniostvik = castle
+#b_kaugang = city
+#b_tanngniostvik = castle
 
 # Misc
 culture = skaeling

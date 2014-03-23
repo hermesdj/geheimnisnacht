@@ -8,9 +8,9 @@ max_settlements = 6
 b_quenelles = castle
 b_chateau_carrard = city
 b_coeur_sacre = temple
-b_gambette = temple
-b_clerrard = temple
-b_rochemaure = castle
+#b_gambette = temple
+#b_clerrard = temple
+#b_rochemaure = castle
 
 # Misc
 culture = breton

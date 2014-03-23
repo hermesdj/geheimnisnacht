@@ -7,11 +7,11 @@ title = c_varenka
 max_settlements = 3
 b_karls_folly = castle
 b_maek_schloss = castle
-b_the_warrens = city
+#b_the_warrens = city
 
 # Misc
-culture = hochlander
-religion = sigmarite
+culture = fjarmann
+religion = norse
 
 
 # History

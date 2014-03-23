@@ -1,0 +1,18 @@
+# 390 Aydemir
+
+# County Title
+title = c_aydemir
+
+# Settlements
+max_settlements = 4
+b_cherna = castle
+b_kaynardzha = city
+b_sitovo = temple
+#b_kakrina = city
+
+# Misc
+culture = tahmak
+religion = chaos
+
+
+# History

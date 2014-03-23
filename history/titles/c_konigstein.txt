@@ -1,6 +1,5 @@
-2010.1.1=
-{
-liege="k_sylvania"
+2010.1.1 = {
+	liege="k_sylvania"
 }
 
 2010.1.1 = {
@@ -8,5 +7,17 @@ liege="k_sylvania"
 }
 
 2145.3.15 = {
-liege="k_stirland"
+	liege="k_stirland"
+}
+
+2480.1.1 = {
+	holder = 300043
+}
+
+2505.7.1 = {
+	holder = 300045
+}
+
+2545.1.19 = {
+	holder = 300044
 }

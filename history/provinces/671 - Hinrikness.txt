@@ -1,4 +1,4 @@
-# 671 Hinrikness
+# 671 Hinrikness or Hinterborg
 
 # County Title
 title = c_hinrikness
@@ -6,9 +6,9 @@ title = c_hinrikness
 # Settlements
 max_settlements = 4
 b_hinrikness = castle
-b_golyat = city
 b_ulricstad = temple
-b_tyavit = castle
+#b_golyat = city
+#b_tyavit = castle
 
 # Misc
 culture = orc_main
@@ -16,3 +16,6 @@ religion = greenskin_gods
 
 
 # History
+
+2521.1.1 = { religion = norse }
+2521.1.1 = { culture = skaeling }

@@ -7,8 +7,8 @@ title = c_blodh_hals
 max_settlements = 4
 b_illiligr = castle
 b_halstjald = temple
-b_helanik = temple
-b_semelheim = castle
+#b_helanik = temple
+#b_semelheim = castle
 
 # Misc
 culture = aesling

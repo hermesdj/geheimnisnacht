@@ -7,8 +7,8 @@ title = c_varaland
 max_settlements = 4
 b_sigismunds_rise = castle
 b_truskholm = city
-b_hedaby = city
-b_fiskrheim = temple
+#b_hedaby = city
+#b_fiskrheim = temple
 
 # Misc
 culture = skaeling

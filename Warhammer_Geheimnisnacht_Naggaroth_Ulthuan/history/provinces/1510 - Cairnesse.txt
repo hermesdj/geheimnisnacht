@@ -1,0 +1,15 @@
+# 1510 Cairnesse
+
+# County Title
+title = c_cairnesse
+
+# Settlements
+max_settlements = 3
+b_cairnesse = castle
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

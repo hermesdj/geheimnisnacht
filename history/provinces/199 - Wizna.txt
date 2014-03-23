@@ -7,7 +7,7 @@ title = c_wizna
 max_settlements = 3
 b_wizna = castle
 b_mogocha = city
-b_kstovo = temple
+#b_kstovo = temple
 
 # Misc
 culture = gospodar

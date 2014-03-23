@@ -114,7 +114,7 @@ learning = 1
 add_trait = "amateurish_plotter"
 add_trait="humble"
 add_trait="trusting"
-add_trait="stressed"
+
 
 2007.3.27={birth="2007.3.27"}
 2047.4.1={death="2047.4.1"}
@@ -133,7 +133,7 @@ learning = 0
 add_trait = "impaler"
 add_trait = "grey_eminence"
 add_trait="chaste"
-add_trait="depressed"
+
 add_trait="ill"
 
 2001.5.10={birth="2001.5.10"}

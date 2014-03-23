@@ -8,7 +8,7 @@ max_settlements = 4
 b_goranitch = castle
 b_lyakhovichi = city
 b_kossovo = temple
-b_raion = city
+#b_raion = city
 
 # Misc
 culture = ropsmann

@@ -7,7 +7,7 @@ title = c_vinteerholm
 max_settlements = 3
 b_vinteerholm = castle
 b_skogenberg = castle
-b_kzarla = castle
+#b_kzarla = castle
 
 # Misc
 culture = baersonling

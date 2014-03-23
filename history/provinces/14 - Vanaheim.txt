@@ -7,7 +7,7 @@ title = c_vanaheim
 max_settlements = 3
 b_wilstort = castle
 b_yaginslof = temple
-b_khargoula = city
+#b_khargoula = city
 
 # Misc
 culture = bjornling

@@ -7,7 +7,7 @@ title = c_pavezzano
 max_settlements = 3
 b_pavezzano = castle
 b_abrasso = city
-b_pesceta = temple
+#b_pesceta = temple
 
 # Misc
 culture = lucian

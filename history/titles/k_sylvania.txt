@@ -1,20 +1,9 @@
+1580.2.6 = {
+	law = true_cognatic_succession
+	law = centralization_2
+}
+
 1797.3.19 = {
-	holder = 350020
-}
-
-1817.4.14 = {
-	holder = 350021
-}
-
-1842.9.15 = {
-	holder = 350022
-}
-
-1870.2.7 = {
-	holder = 350023
-}
-
-1997.12.17 = {
 	holder = 350000
 }
 

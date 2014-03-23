@@ -9,8 +9,8 @@ b_carcassonne = castle
 b_castres = city
 b_albi = castle
 b_lavaur_du_graal = temple
-b_narsonne = castle
-b_mayogne = city
+#b_narsonne = castle
+#b_mayogne = city
 
 # Misc
 culture = carcassian

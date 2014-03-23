@@ -6,7 +6,7 @@ title = c_trantine_hills
 # Settlements
 max_settlements = 2
 b_consola = castle
-b_drescido = city
+#b_drescido = city
 
 # Misc
 culture = umbrian

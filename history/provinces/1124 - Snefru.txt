@@ -1,0 +1,15 @@
+# 1124 Snefru
+
+# County Title
+title = c_snefru
+
+# Settlements
+max_settlements = 1
+b_snefru = castle
+
+# Misc
+culture = canopic
+religion = nehekharan_gods
+
+
+# History

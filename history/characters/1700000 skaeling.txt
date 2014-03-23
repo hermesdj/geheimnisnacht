@@ -130,7 +130,7 @@ stewardship = 11
 intrigue = 9
 learning = 1
 add_trait = "amateurish_plotter"
-add_trait="stressed"
+
 add_trait="ill"
 
 1953.7.30={birth="1953.7.30"}
@@ -151,7 +151,7 @@ learning = 7
 add_trait = "falconer"
 add_trait = "detached_priest"
 add_trait="drunkard"
-add_trait="depressed"
+
 
 
 2002.5.19={birth="2002.5.19"}
@@ -290,8 +290,8 @@ add_trait="proud"
 add_trait="patient"
 add_trait="arbitrary"
 
-1995.3.24={birth="1995.3.24"}
-2026.10.19={death="2026.10.19"}
+1995.3.24={birth=yes}
+2026.10.19={death=yes}
 }
 
 1700015={
@@ -310,8 +310,8 @@ add_trait="just"
 add_trait="ambitious"
 add_trait="zealous"
 
-1951.10.5={birth="1951.10.5"}
-2055.9.29={death="2055.9.29"}
+1951.10.5={birth=yes}
+2055.9.29={death=yes}
 }
 
 1700016={
@@ -330,15 +330,15 @@ add_trait="cynical"
 add_trait="gregarious"
 add_trait="kind"
 
-2010.8.21={birth="2010.8.21"}
-2035.11.15={death="2035.11.15"}
+2010.8.21={birth=yes}
+2035.11.15={death=yes}
 }
 
 1700017={
 name = "Kılan"
 dynasty = 58027
 culture = skaeling
-religion = norse
+religion = ulrican
 military = 0
 diplomacy = 0
 stewardship = 11
@@ -346,12 +346,12 @@ intrigue = 6
 learning = 9
 add_trait = "scholar"
 add_trait = "charismatic_negotiator"
-add_trait="craven"
+add_trait="zealot"
 add_trait="paranoid"
 add_trait="greedy"
 
-1956.6.10={birth="1956.6.10"}
-2025.6.10={death="2025.6.10"}
+1956.6.10={birth=yes}
+2025.6.10={death=yes}
 }
 
 1700018={
@@ -368,8 +368,8 @@ add_trait = "mystic"
 add_trait = "tough_soldier"
 add_trait="honest"
 
-1956.6.8={birth="1956.6.8"}
-2059.9.6={death="2059.9.6"}
+1956.6.8={birth=yes}
+2059.9.6={death=yes}
 }
 
 1700019={
@@ -389,7 +389,299 @@ add_trait="weak"
 add_trait="tall"
 add_trait="cruel"
 
-1989.5.15={birth="1989.5.15"}
-2017.12.1={death="2017.12.1"}
+1989.5.15={birth=yes}
+2017.12.1={death=yes}
+}
+
+1700020={
+name = "Yngwulf"
+dynasty = 58110
+dna = "heoabebanfl"
+culture = skaeling
+religion = norse
+military = 4
+diplomacy = 2
+stewardship = 2
+intrigue = 6
+learning = 4
+add_trait = "thrifty_clerk"
+add_trait = "duelist"
+add_trait = "just"
+add_trait = "brave"
+add_trait = "ambitious"
+2479.1.1={birth=yes}
+2529.1.27={death=yes}
+}
+
+1700021={
+name = "Hinrik"
+dynasty = 58111
+dna = "dlpdfcfdmib"
+culture = skaeling
+religion = norse
+military = 6
+diplomacy = 3
+stewardship = 3
+intrigue = 6
+learning = 1
+add_trait = "intricate_webweaver"
+add_trait = "envious"
+2424.9.1={birth=yes}
+2481.11.3={death=yes}
+}
+
+1700022={
+name = "Svanr"
+dynasty = 58111
+dna = "fbjcagmaijb"
+culture = skaeling
+religion = norse
+military = 5
+diplomacy = 3
+stewardship = 3
+intrigue = 5
+learning = 0
+father = 1700021
+add_trait = "flamboyant_schemer"
+add_trait = "lustful"
+2448.3.1={birth=yes}
+2505.10.18={death=yes}
+}
+
+1700023={
+name = "Hinrik"
+dynasty = 58111
+dna = "fchgaecladn"
+culture = skaeling
+religion = norse
+military = 3
+diplomacy = 7
+stewardship = 2
+intrigue = 3
+learning = 3
+father = 1700022
+add_trait = "flamboyant_schemer"
+add_trait = "content"
+2462.1.1={birth=yes}
+2515.2.13={death=yes}
+}
+
+1700024={
+name = "Hinrik"
+dynasty = 58111
+dna = "epcpenpfeka"
+culture = skaeling
+religion = norse
+military = 2
+diplomacy = 4
+stewardship = 6
+intrigue = 3
+learning = 5
+father = 1700023
+add_trait = "misguided_warrior"
+add_trait = "ambitious"
+add_trait = "humble"
+add_trait = "charitable"
+2488.5.1={birth=yes}
+2545.4.22={death=yes}
+}
+
+1700025={
+name = "Dalla"
+female = yes
+dynasty = 58111
+dna = "piambmlgplm"
+culture = skaeling
+religion = norse
+military = 6
+diplomacy = 4
+stewardship = 5
+intrigue = 4
+learning = 4
+father = 1700024
+add_trait = "elusive_shadow"
+add_trait = "hunter"
+add_trait = "greedy"
+add_trait = "deceitful"
+add_trait = "lustful"
+add_trait = "diligent"
+2509.7.1={birth=yes}
+2565.8.14={death=yes}
+}
+
+1700026={
+name = "Hinrik"
+dynasty = 58111
+dna = "akfbpeebojf"
+culture = skaeling
+religion = norse
+military = 4
+diplomacy = 3
+stewardship = 5
+intrigue = 2
+learning = 4
+father = 1700024
+add_trait = "flamboyant_schemer"
+add_trait = "scholar"
+add_trait = "patient"
+add_trait = "lustful"
+add_trait = "diligent"
+add_trait = "proud"
+2513.5.1={birth=yes}
+2577.6.10={death=yes}
+}
+
+1700027={
+name = "Ivar"
+dynasty = 58111
+dna = "npcjpcpjclj"
+culture = skaeling
+religion = norse
+military = 3
+diplomacy = 3
+stewardship = 7
+intrigue = 6
+learning = 5
+father = 1700024
+add_trait = "skilled_tactician"
+add_trait = "cynical"
+2518.5.1={birth=yes}
+2586.5.2={death=yes}
+}
+
+1700028={
+name = "Æsa"
+female = yes
+dynasty = 58111
+dna = "lgnphmnkbni"
+culture = skaeling
+religion = norse
+military = 7
+diplomacy = 2
+stewardship = 4
+intrigue = 2
+learning = 2
+father = 1700022
+add_trait = "misguided_warrior"
+2464.9.1={birth=yes}
+2527.11.23={death=yes}
+}
+
+1700029={
+name = "Dís"
+female = yes
+dynasty = 58112
+dna = "afkcjffokhh"
+culture = skaeling
+religion = norse
+military = 5
+diplomacy = 4
+stewardship = 7
+intrigue = 5
+learning = 4
+mother = 1700028
+add_trait = "elusive_shadow"
+add_trait = "hunter"
+2488.9.1={birth=yes}
+2562.1.12={death=yes}
+}
+
+1700030={
+name = "Leif"
+dynasty = 58113
+dna = "lookkaienig"
+culture = skaeling
+religion = norse
+military = 4
+diplomacy = 7
+stewardship = 2
+intrigue = 7
+learning = 7
+mother = 1700028
+add_trait = "naive_appeaser"
+add_trait = "drunkard"
+2497.1.1={birth=yes}
+2576.10.23={death=yes}
+}
+
+1700031={
+name = "Ásvor"
+female = yes
+dynasty = 58114
+dna = "alnkfikdijd"
+culture = skaeling
+religion = norse
+military = 4
+diplomacy = 5
+stewardship = 2
+intrigue = 1
+learning = 3
+mother = 1700028
+add_trait = "underhanded_rogue"
+add_trait = "diligent"
+2507.5.1={birth=yes}
+2564.1.5={death=yes}
+}
+
+1700032={
+name = "Hinrik"
+dynasty = 58115
+dna = "ljggbfeifmd"
+culture = skaeling
+religion = norse
+military = 1
+diplomacy = 4
+stewardship = 3
+intrigue = 2
+learning = 4
+father = 1700022
+add_trait = "flamboyant_schemer"
+add_trait = "gregarious"
+add_trait = "deceitful"
+add_trait = "cruel"
+add_trait = "deceitful"
+2470.1.1={birth=yes}
+2521.6.22={death=yes}
+}
+
+1700033={
+name = "Bothildr"
+female = yes
+dynasty = 58116
+dna = "lgmhkfeloej"
+culture = skaeling
+religion = norse
+military = 4
+diplomacy = 6
+stewardship = 5
+intrigue = 4
+learning = 1
+father = 1700032
+add_trait = "fortune_builder"
+add_trait = "content"
+2493.1.1={birth=yes}
+2538.11.14={death=yes}
+}
+
+1700034={
+name = "Oddleif"
+female = yes
+dynasty = 58117
+dna = "cljobdagfme"
+culture = skaeling
+religion = norse
+military = 1
+diplomacy = 5
+stewardship = 1
+intrigue = 4
+learning = 3
+father = 1700032
+add_trait = "fortune_builder"
+add_trait = "impaler"
+add_trait = "deceitful"
+add_trait = "greedy"
+add_trait = "wroth"
+2510.11.1={birth=yes}
+2577.3.26={death=yes}
 }
 

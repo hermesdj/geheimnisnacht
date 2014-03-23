@@ -20,10 +20,6 @@
 	holder = 400000
 }
 
-2028.12.15 = {
-	holder = 0
-}
-
 2304.12.5 = {
 	liege="e_the_empire"
 }

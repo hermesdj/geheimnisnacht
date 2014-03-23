@@ -1,0 +1,17 @@
+# 1015 al-Birkah
+
+# County Title
+title = c_al_birkah
+
+# Settlements
+max_settlements = 3
+b_al_birkah = castle
+b_dhu_zabi = city
+#b_gila = temple
+
+# Misc
+culture = tevari
+religion = ormazd
+
+
+# History

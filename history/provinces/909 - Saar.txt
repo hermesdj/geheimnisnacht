@@ -6,8 +6,8 @@ title = c_saar
 # Settlements
 max_settlements = 3
 b_saar = city
-b_huuzel = castle
-b_sallizes = temple
+#b_huuzel = castle
+#b_sallizes = temple
 
 # Misc
 culture = orc_main
@@ -15,3 +15,6 @@ religion = greenskin_gods
 
 
 # History
+
+2155.1.1 = { religion = lady_of_the_lake }
+2155.1.1 = { culture = nortagnese }

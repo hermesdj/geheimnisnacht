@@ -1,0 +1,18 @@
+# 1144 Nout
+
+# County Title
+title = c_nout
+
+# Settlements
+max_settlements = 4
+b_nout = castle
+b_khargia = city
+b_wenes = temple
+b_wakhaf = city
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

@@ -7,8 +7,8 @@ title = c_tasselonne
 max_settlements = 4
 b_tasselonne = castle
 b_romny = castle
-b_narpellier = temple
-b_mortaux = city
+#b_narpellier = temple
+#b_mortaux = city
 
 # Misc
 culture = carcassian

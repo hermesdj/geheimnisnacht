@@ -1,0 +1,16 @@
+# 1390 Karauva
+
+# County Title
+title = c_karauva
+
+# Settlements
+max_settlements = 2
+b_karauva = castle
+b_zhabatath = castle
+
+# Misc
+culture = ghrondari
+religion = cytharai
+
+
+# History

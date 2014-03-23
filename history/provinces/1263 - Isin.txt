@@ -1,0 +1,17 @@
+# 1263 Isin
+
+# County Title
+title = c_isin
+
+# Settlements
+max_settlements = 3
+b_bidar = castle
+#b_crobak = temple
+#b_fort_isin = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

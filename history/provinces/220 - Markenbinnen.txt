@@ -7,7 +7,7 @@ title = c_markenbinnen
 max_settlements = 3
 b_oudesluis = castle
 b_markenbinnen = city
-b_wijdenes = temple
+#b_wijdenes = temple
 
 # Misc
 culture = westerlander

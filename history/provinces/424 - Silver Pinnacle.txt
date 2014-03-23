@@ -8,8 +8,8 @@ max_settlements = 4
 b_kazad_azril_karak = castle
 b_barak_azril_grong = castle
 b_kazad_gromgol = temple
-b_azril_thindrongol = city
-b_grungazan = temple
+#b_azril_thindrongol = city
+#b_grungazan = temple
 
 # Misc
 culture = lahmian

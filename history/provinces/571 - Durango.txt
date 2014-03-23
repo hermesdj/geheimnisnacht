@@ -6,8 +6,8 @@ title = c_durango
 max_settlements = 4
 b_durango = castle
 b_guaniar = temple
-b_ogalfa = city
-b_la_tajada = castle
+#b_ogalfa = city
+#b_la_tajada = castle
 
 #Misc
 culture = montanese

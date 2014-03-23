@@ -8,7 +8,7 @@ max_settlements = 4
 b_champebourg = castle
 b_maisonrie = city
 b_sainte_chapelle = temple
-b_issoroux = temple
+#b_issoroux = temple
 
 # Misc
 culture = orc_main
@@ -16,3 +16,6 @@ religion = greenskin_gods
 
 
 # History
+
+2155.1.1 = { religion = lady_of_the_lake }
+2155.1.1 = { culture = breton }

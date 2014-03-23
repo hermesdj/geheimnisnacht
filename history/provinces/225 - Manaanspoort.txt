@@ -7,7 +7,7 @@ title = c_manaanspoort
 max_settlements = 3
 b_texel = city
 b_venhuizen = city
-b_vogolenzang = castle
+#b_vogolenzang = castle
 
 # Misc
 culture = westerlander

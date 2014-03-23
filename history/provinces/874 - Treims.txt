@@ -7,8 +7,8 @@ title = c_treims
 max_settlements = 4
 b_treims = castle
 b_ravagine = temple
-b_velannes = temple
-b_parsivagne = city
+#b_velannes = temple
+#b_parsivagne = city
 
 # Misc
 culture = breton

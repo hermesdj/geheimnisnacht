@@ -7,7 +7,7 @@ title = c_uts
 max_settlements = 3
 b_uts = castle
 b_itik = temple
-b_uyljik = castle
+#b_uyljik = castle
 
 # Misc
 culture = graeling

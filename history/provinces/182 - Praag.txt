@@ -4,17 +4,19 @@
 title = c_praag
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 b_praag = castle
 b_uskovic = city
 b_gutaidra = temple
 b_chaglev = city
-b_ivanovo = temple
-b_zhabinkha = city
+#b_ivanovo = temple
+#b_zhabinkha = city
+#b_lynskdok = city
 
 # Misc
 culture = gospodar
 religion = northern_gods
 
+terrain = city
 
 # History

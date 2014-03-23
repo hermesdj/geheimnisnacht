@@ -9,13 +9,21 @@ b_festunginsel = castle
 b_faulestadt = city
 b_der_halbinsel = castle
 b_altestadt = city
-b_neuestadt = city
 b_tempel_quarter = temple
-b_westdorf = city
+#b_neuestadt = city
+#b_westdorf = city
+#b_seemannsliedplatz = city
+#b_kaufman_bezirk = temple
+#b_industrielplatz = castle
+#b_weston = castle
+#b_aldigplatz = temple
+#b_universistat = city
+#b_handelbezirk = temple
 
 # Misc
 culture = wissenlander
 religion = sigmarite
 
+terrain = city
 
 # History

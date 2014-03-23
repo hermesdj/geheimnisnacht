@@ -6,8 +6,8 @@ title = c_aponnia
 # Settlements
 max_settlements = 3
 b_aponnia = castle
-b_hartolden = city
-b_osomi = city
+#b_hartolden = city
+#b_osomi = city
 
 # Misc
 culture = sarl

@@ -1,0 +1,16 @@
+# 1184 Norisk
+
+# County Title
+title = c_norisk
+
+# Settlements
+max_settlements = 2
+b_norisk = castle
+#b_hyrog = city
+
+# Misc
+culture = yusak
+religion = chaos
+
+
+# History

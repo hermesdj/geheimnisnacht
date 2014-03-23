@@ -8,5 +8,13 @@ liege="k_sylvania"
 }
 
 2145.3.15 = {
-liege="k_stirland"
+	liege="k_stirland"
+}
+
+2145.3.15 = {
+	liege="d_drakenhohenzug"
+}
+
+2499.5.2 = {
+	holder = 350027
 }

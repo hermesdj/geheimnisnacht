@@ -7,8 +7,8 @@ title = c_tintannil
 max_settlements = 4
 b_tintannil = castle
 b_cardonac = city
-b_beaulys = temple
-b_sennais = castle
+#b_beaulys = temple
+#b_sennais = castle
 
 # Misc
 culture = nortagnese

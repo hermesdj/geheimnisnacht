@@ -6,8 +6,8 @@ title = c_pinnesberg
 # Settlements
 max_settlements = 3
 b_pinnesberg = castle
-b_heilbronn = castle
-b_sankt_goar = city
+#b_heilbronn = castle
+#b_sankt_goar = city
 
 # Misc
 culture = drakwalder

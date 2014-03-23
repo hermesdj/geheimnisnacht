@@ -114,7 +114,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -140,7 +140,7 @@ add_trait="content"
 2045.7.2={death=yes}}
 
 5150007={
-name = "Gómez"
+name = "Gomez"
 dynasty = 37007
 culture = avilian
 religion = classical_gods
@@ -151,7 +151,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 
@@ -220,7 +220,7 @@ add_trait = "underhanded_rogue"
 }
 
 5150011={
-name = "Tomás"
+name = "Cifar"
 dynasty = 37011
 culture = avilian
 religion = classical_gods
@@ -231,11 +231,9 @@ intrigue = 0
 learning = 4
 add_trait = "scholar"
 add_trait = "scholarly_theologian"
-
-
 add_trait="fair"
 
-1993.2.8={birth=yes}
+1973.2.8={birth=yes}
 2067.4.28={death=yes}
 }
 

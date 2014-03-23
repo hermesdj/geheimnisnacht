@@ -8,7 +8,7 @@ max_settlements = 4
 b_kraka_ungrim = castle
 b_grung_ghjorkken = castle
 b_khazid_uljyl = castle
-b_kraka_haruzit = castle
+#b_kraka_haruzit = castle
 
 # Misc
 culture = dwarf_chaos

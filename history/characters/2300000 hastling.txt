@@ -115,7 +115,7 @@ add_trait = "poet"
 add_trait = "dutiful_cleric"
 add_trait="tall"
 add_trait="ill"
-add_trait="stressed"
+
 
 1976.8.28={birth="1976.8.28"}
 2015.8.9={death="2015.8.9"}
@@ -133,7 +133,7 @@ intrigue = 6
 learning = 9
 add_trait = "falconer"
 add_trait = "tough_soldier"
-add_trait="depressed"
+
 add_trait="trusting"
 
 

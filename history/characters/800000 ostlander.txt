@@ -147,7 +147,8 @@ add_trait= "stressed"
 }
 
 800007={
-name = "Anselm"
+name = "Penka"
+female = yes
 dynasty = 18060
 culture = ostlander
 religion = ulrican
@@ -163,7 +164,7 @@ add_trait = "detached_priest"
 add_trait= "temperate"
 add_trait= "lustful"
 
-1973.2.7={birth=yes}
+1979.2.7={birth=yes}
 2059.10.18={death=yes}
 }
 
@@ -1892,7 +1893,7 @@ name = "Jens-Peter" #Neues Merchant founder
 dynasty = 18109
 dna = "nmdiniaimhe"
 culture = ostlander
-religion = ulrican
+religion = sigmarite
 military = 6
 diplomacy = 4
 stewardship = 5
@@ -1903,7 +1904,7 @@ add_trait = "skilled_tactician"
 add_trait = "chaste"
 add_trait = "ambitious"
 add_trait = "diligent"
-2441.5.1={birth=yes}
+2436.5.1={birth=yes}
 2487.1.3={death=yes}
 }
 
@@ -1924,7 +1925,7 @@ add_trait = "hunter"
 add_trait = "gregarious"
 add_trait = "quick"
 2495.11.19={birth=yes}
-2018.1.21 = {add_spouse=200001}
+2518.1.21 = {add_spouse=200001}
 2562.2.5={death=yes}
 }
 
@@ -1971,3 +1972,19 @@ add_trait = "gluttonous"
 2052.2.13={death=yes}
 }
 
+800091={
+name = "Martin"
+dynasty = 18111
+dna = "nmdiniaimhe"
+culture = ostlander
+religion = ulrican
+military = 5
+diplomacy = 1
+stewardship = 6
+intrigue = 4
+learning = 2
+add_trait = "creature_human"
+add_trait = "skilled_tactician"
+2489.12.21={birth=yes}
+2542.5.23={death=yes}
+}

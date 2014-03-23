@@ -7,7 +7,7 @@ title = c_skraklaz_ungor
 max_settlements = 3
 b_skraklaz_ungor = city
 b_garmsbad = castle
-b_kar_maggrund = temple
+#b_kar_maggrund = temple
 
 # Misc
 culture = dwarf_main

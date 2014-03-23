@@ -7,9 +7,9 @@ title = c_oberstyre
 max_settlements = 5
 b_fort_oberstyre = castle
 b_raab = temple
-b_gablitz = castle
-b_murieste = temple
-b_tenneck = city
+#b_gablitz = castle
+#b_murieste = temple
+#b_tenneck = city
 
 # Misc
 culture = stirlander
@@ -17,3 +17,5 @@ religion = vampiric
 
 
 # History
+
+2155.1.1 = { religion = sigmarite }

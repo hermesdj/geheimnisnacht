@@ -7,8 +7,8 @@ title = c_sammergall
 max_settlements = 4
 b_sammergall_fort = castle
 b_maisondun = city
-b_severel = castle
-b_coutancal = city
+#b_severel = castle
+#b_coutancal = city
 
 # Misc
 culture = breton

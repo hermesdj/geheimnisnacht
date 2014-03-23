@@ -6,8 +6,8 @@ title = c_montenas
 max_settlements = 4
 b_montarnal = castle
 b_merido = castle
-b_talado = city
-b_garatoz = temple
+#b_talado = city
+#b_garatoz = temple
 
 #Misc
 culture = montanese

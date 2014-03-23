@@ -552,7 +552,7 @@ learning = 9
 add_trait = "creature_halfling"
 add_trait = "poet"
 add_trait = "intricate_webweaver"
-add_trait="depressed"
+
 
 1935.9.23={birth=yes}
 1968.2.23 = {add_spouse=550024}

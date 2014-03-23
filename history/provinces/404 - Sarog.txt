@@ -1,0 +1,20 @@
+# 404 Sarog
+
+# County Title
+title = c_sarog
+
+# Settlements
+max_settlements = 6
+b_sarog = castle
+b_rakaska = castle
+b_leskovdol = temple
+b_largor = city
+#b_vakarel = castle
+#b_paloc = castle
+
+# Misc
+culture = kul
+religion = chaos
+
+
+# History

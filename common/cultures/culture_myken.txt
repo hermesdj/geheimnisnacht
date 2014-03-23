@@ -9,22 +9,48 @@ myken_group = {
 		color = { 0.9 0.4 0.5 }
 
 		male_names = {
-			Adrianos Akakios Alexandros_Alexander Alexios_Alexis Anastasios Anatolios Andreas_Andrew Andronikos_Andronicus Anthemios Anthimos Antiochos Antonios_Antoninus Apollonios Arsenios Artemios Athanasios_Athanasius Bardas
-			Bartholomaios_Bartolomeus Basileios_Basil Belisarios Boethios Bosporios Christophoros Chrysanthos Chrysogonos Damianos Daniel_Daniel David_David Demetrios_Demetrius Diogenes Dionysios_Dionysus Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios_Eustace Evangelos Gabriel_Gabriel Gennadios Georgios_George Gerasimos Germanos Gregoras_Gregory Gregorios_Gregory Hektorios Helias Heraklios_Heracles Hierotheos Himerios
-			Hippolytos Hypatios Iakobos_Jacob Ignatios_Ignatius Innokentios Ioannes_John Ioannikios Iordanes Ioseph_Joseph Isaakios Isaias Isidoros Ioulianos_Julian Ioustinianos Ioustinos Kaisarios
-			Kallinikos Kallistos Komitas Konstantinos Konstantios_Constantine Kosmas_Cosmas Kyriakos Kyrillos_Cyril Kyros Laurentios_Laurence Lazaros Leon_Leo Leontios Loukas Makarios Manuel Markos_Marcus
-			Matthaios_Matthew Maurikios Maximos Megistos Meletios Methodios Michail_Michael Narses Neophytos Nikephoros Niketas Nikodemos Nikolaos_Nicholas Niphon Orestes Pamphilios Pankratios Pantoleon Paschalis
-			Pavlos_Paul Pelagios_Pelagius Petros_Peter Philaretos Philippos_Philip Philotheos Phokas Photios Polykarpos Porphyrios Prokopios_Procopius Pyrros Raphail Romanos_Roman Sabas Samuel_Samuel Serapion Sebastianos_Sebastian Sergios Stephanos_Stephen
-			Staurakios Symeon_Simon Symmachos Theocharistos Theodoros_Theodore Theodosios Theodotos_Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas_Thomas Tiberios 
-			Timotheos Tryphon Valerios Zacharias Zenobios Zenon
+			Abramius Ablabius Abundanitus Acindynus Adrianos Agapetus Agnellus Akakios Alexandros_Alexander Alexios_Alexis Alyattes Amirrutzes Ammonianus Ampelius Anastasios Anastasius Anatolicus Anatolios Anatolius Andreas_Andrew Andronicus Andronikos_Andronicus Anicius Anthemios Anthemius Anthimos Anthimus Antiochos Antonios_Antoninus Apollonios Arcadius Armatus Armenius Armentarius Arsaphius Arsenios Arsenius Artemios Asbadus Asterius Athanasios_Athanasius Auxitius Avienus 
+			Babylas Bacauda Baduaruis Bardas Bartholomaios_Bartolomeus Basileios_Basil Basiliakos Batzas Beatus Belisarios Beppolenus Boethios Boethius Bonifatius Bosporios Bryennius Butlilinus 
+			Callinicus Calopodius Cantacuzenes Carellus Carinus Castinus Cerularius Charegiselus Chilbudius Christoboulus Christophoros Christophorus Chroniates Chrysanthos Chrysogonos Colluthus Comentas Comentiolus Cometas Comitas Comitiolus Constantianus Constantinianus Constantinus Corippus Cosmas Cresconius Cyricus Cyril 
+			Dalmatius Damasus Damianos Damianus Daniel_Daniel Danielus David_David Decentius Demetrios_Demetrius Deuterius Didymus Diogenes Dionysios_Dionysus Diosconis Domentziolus Domianus Domnicus Domninus Domnitziolus Donus Dorotheos Dorotheus Droserius Dulcissinuis Dulcitius Dynamius 
+			Eirenaios Ennodius Epiphanius Eudaemon Eudoxios Eudoxius Eugenios Eulalius Eulampius Eulogius Eupatarius Euphemios Euphemius Euphratas Euphronius Eusebios Eusebius Eustathios_Eustace Eustathius Eustochius Eustratios Eustratius Euthalius Eutolmius Eutychianus Eutychius Evangelos 
+			Florentinus Florentius Florian Florus Formosos Francio Fructosus Fulgentius 
+			Gabriel_Gabriel Gabrielius Gallienus Genethlius Gennadios Gennadius Georgios_George Georgius Gerasimos Germanos Germanus Gerontius Glycerius Godilas Gratian Gregoras Gregoras_Gregory Gregorios_Gregory 
+			Hannibalianus Hektorios Helias Helladius Heraclius Heraklios_Heracles Hermongenes Hierotheos Himerios Himerius Hippolytos Honoratus Honorius Hydatius Hypatios 
+			Iacobus Iakobos_Jacob Ianuarius Ignatios_Ignatius Ignatius Innocentius Innokentios Ioannes_John Ioannikios Ionnacius Ionnes Iordanes Ioseph Ioseph_Joseph Iosephius Iosephus Ioulianos_Julian Ioustinianos Ioustinos Iovinus Iovivus Irenaeus Isaaces Isaacius Isaakios Isaias Isidoros Isidorus 
+			Kaisarios Kallinikos Kallistos Komitas Konstantinos Konstantios_Constantine Kosmas_Cosmas Kyriakos Kyrillos_Cyril Kyros 
+			Lactanius Laskaris Latinius Laurentios_Laurence Lazaros Lecapenus Leon_Leo Leontios Leontius Loukas 
+			Magnentius Makarios Manuel Marcian Markos_Marcus Marthanes Martinianus Martyrius Maruthus Matthaios_Matthew Maurentius Maurianus Mauricius Maurikios Maurinus Maurus Maxentius Maximianus Maximin Maximinus Maximos Megas Megistos Megistus Meletios Meletius Melminius Menas Mercurius Methodios Methodius Michaelius Michail_Michael Moschus Mundus Musonius 
+			Narses Nazares Neophytos Nepotian Nicephorus Nicetas Nicetius Nichomachus Nikephoros Niketas Nikodemos Nikolaos_Nicholas Niphon Nonnosus Nonnus 
+			Olybrius Olympius Opilio Orestes Origen 
+			Pachymeres Palamas Palladius Pamphilios Pamphilus Pancratius Pankratios Pantagathus Pantoleon Pardus Parthenius Paschalis Pastor Paternus Patricius Paulus Pavlos_Paul Pegarius Pelagios_Pelagius Pelagius Perigenes Petronas Petros_Peter Philagrius Philaretos Philaretus Philippicus Philippos_Philip Phillippus Philotheos Philoxenus Phoebammon Phokas Photinus Photios Plutinus Polykarpos Porphyrios Potamius Praesentinus Praetextatus Principius Priscian Probus Prokopios_Procopius Pyrros 
+			Raphail Regino Rogatus Romanos_Roman 
+			Sabas Samuel_Samuel Sarapammon Satabus Scholasticus Sebastianos_Sebastian Sebastianus Senuthius Serapion Sergios Simocatta Sittas Smaragdus Speciosus Stauracius Staurakios Stephanos_Stephen Stilicho Strategius Syagricus Syagrius Symeon_Simon Symeonius Symmachos 
+			Tarchaniotes Theocharistos Theocharistus Theoctistus Theodoracius Theodore Theodoretus Theodoricus Theodoros_Theodore Theodorus Theodosios Theodotos_Theodat Theodoulos Theodulus Theogenius Theoktistos Theon Theopemptus Theophanes Theophilius Theophilos Theophilus Theophylact Theophylactus Theophylaktos Theotimus Thomas_Thomas Tiberios Timotheos Trasaric Trasaricus Tribonianus Tribunas Tryphon Tzimisas Tzittas 
+			Urbicus 
+			Vaanes Valerios Varazes Vasacius Venantius Venerandus Vetranis Viator Victorinus Vigilius Virus Vitalianus Vitalius Volusian 
+			Zacharias Zemarchus Zeno Zenobios Zenobius Zenon Ziper Zoilus 
 		}
 		female_names = {
-			Adriana Agathe_Agatha Agne_Agnes Aikaterine Alexandra Alexeia Anastasia_Anastasia Anna_Anna Anthe Anthousa Antipatra Antonina Apollonia Athanasia Barbara Basileia Basilissa
-			Chrysogone Damiane Demetra Dionysia Dorothea_Dorothy Aigidia Eirene_Irene Elaiodora Epiphania Eudokia_Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne_Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene_Helen Hypatia Ioanna_Joan Ioulia_Juliana Iouliana_Juliana Iustina Kale Konstantine Kyra Kyriake
-			Leontia Margarita_Margaret Maria_Maria Markia Martha_Martha Melissa_Melisende Nikarete Nikoletta Nonna Parthena Pavlina Pelagia Petronella_Petronilla Philippa_Philippa Phyllis Pulcheria Rhodanthe Romane Romylia Sergia Sibylla_Sibylla
-			Simonis Sophia_Sophia Stephania_Stephania Thekla Theochariste Theodora_Theodora Theodosia_Theodosia Theognosia Theoktiste Theophano Thomais Valeria Viviana Xene Zenobia Zoe
+			Adeodata Adriana Adula Aetheria Agathe_Agatha Agne_Agnes Agnella Aigidia Aikaterine Alexandra Alexandria Alexeia Anastasia_Anastasia Anna_Anna Anthe Anthousa Antipatra Antonina Anzoy Apollonia Appa Arabia Argentea Armentaria Athanasia Augustina Aureliana 
+			Barbara Basileia Basilia Basilina Basilissa Basina Baudegundis Bobila Bore 
+			Campana Candida Catella Cervella Cesarea Charito Chrysogone Clementina Columba Comito Consolantia Constantia Constantina Cyra 
+			Damiane Damiane Demetra Destasia Didyma Dionysia Domentzia Dominica Domnica Domnola Dorothea_Dorothy 
+			Eirene_Irene Elaiodora Elena Epiphania Erchantrudis Eudocia Eudokia_Eudocia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne_Euphrosyne Eupraxia Eusebia Eustathia Evanthia Evantia 
+			Gabrielia Garyphallia Georgia Germana Gordia Gordiana Gregoria Gundesvinda 
+			Helena Helene_Helen Herena Hesychia Honorata Honoria Hypatia 
+			Ianuaria Ioanna_Joan Ionna Ionnia Ionnina Ioulia_Juliana Iouliana_Juliana Italica Iustina 
+			Kale Konstantine Kyra Kyriake 
+			Labinia Leocadia Leontia 
+			Margarita_Margaret Maria_Maria Markia Marozia Martha_Martha Masticana Maximina Megaris Megethia Melissa_Melisende Minervina Minicea Myrmidia 
+			Nereida Nicasia Nikarete Nikoletta Nonna 
+			Palatina Parthena Pasara Passara Pateria Patricia Paula Paulina Pavlina Pelagia Pericleia Petronella_Petronilla Philippa_Philippa Phyllis Placidia Placidina Pompeiana Praeiecta Proba Probina Proseria Pulcheria 
+			Rhodanthe Romane Romylia Rustica Rusticana 
+			Salvianella Sergia Sibylla_Sibylla Sidonia Simonis Sophia_Sophia Stephania_Stephania Syagria 
+			Tetradia Thekla Theocharista Theochariste Theodora_Theodora Theodoracis Theodosia_Theodosia Theognosia Theoktiste Theophano Thomais 
+			Valeria Veneranda Vera Verena Vesta Vigilantia Vigilia Vitula Viviana Viviana 
+			Xene 
+			Zenobia Zoe 
 		}
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.

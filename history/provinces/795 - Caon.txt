@@ -8,7 +8,7 @@ max_settlements = 4
 b_caon = castle
 b_antours = temple
 b_dulcine = castle
-b_juvignac = city
+#b_juvignac = city
 
 # Misc
 culture = armoric

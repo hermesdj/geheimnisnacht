@@ -7,8 +7,8 @@ title = c_mittelwig
 max_settlements = 4
 b_mittelwig = castle
 b_brockel = temple
-b_guthugel = castle
-b_kupfengrube = city
+#b_guthugel = castle
+#b_kupfengrube = city
 
 # Misc
 culture = middenlander

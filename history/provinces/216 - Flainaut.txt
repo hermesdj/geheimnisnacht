@@ -8,8 +8,8 @@ max_settlements = 5
 b_neveutin = castle
 b_gasse = city
 b_orsinge = castle
-b_anbruges = castle
-b_courtriers = temple
+#b_anbruges = castle
+#b_courtriers = temple
 
 # Misc
 culture = nortagnese

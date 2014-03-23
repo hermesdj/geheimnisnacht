@@ -4,15 +4,16 @@
 title = c_mortensholm
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_mortensholm = castle
 b_syldavia = city
-b_borduritsa = temple
-b_dacs = castle
+#b_borduritsa = temple
+#b_dacs = castle
+#b_gram = temple
 
 # Misc
-culture = breton
-religion = lady_of_the_lake
+culture = fjarmann
+religion = norse
 
 
 # History

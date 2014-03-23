@@ -1,0 +1,16 @@
+# 1663 Dorno
+
+# County Title
+title = c_dorno
+
+# Settlements
+max_settlements = 2
+b_dorno = castle
+#b_mulaan = temple
+
+# Misc
+culture = chi_an
+religion = chaos
+
+
+# History

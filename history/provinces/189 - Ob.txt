@@ -7,7 +7,7 @@ title = c_ob
 max_settlements = 3
 b_ob = castle
 b_pochep = city
-b_shali = temple
+#b_shali = temple
 
 # Misc
 culture = gospodar

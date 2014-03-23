@@ -1,0 +1,17 @@
+# 408 Skutare
+
+# County Title
+title = c_skutare
+
+# Settlements
+max_settlements = 3
+b_skutare = castle
+#b_krumovo = city
+#b_iskra = city
+
+# Misc
+culture = kul
+religion = chaos
+
+
+# History

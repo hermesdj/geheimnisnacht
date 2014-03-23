@@ -9,8 +9,8 @@ b_parravon = castle
 b_jouinard = city
 b_hemmerle = castle
 b_vingtienne = temple
-b_arlasque = city
-b_vines = temple
+#b_arlasque = city
+#b_vines = temple
 
 # Misc
 culture = bourgon

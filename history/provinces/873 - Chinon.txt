@@ -7,7 +7,7 @@ title = c_chinon
 max_settlements = 3
 b_chinon = castle
 b_lannay = city
-b_brissonour = castle
+#b_brissonour = castle
 
 # Misc
 culture = breton

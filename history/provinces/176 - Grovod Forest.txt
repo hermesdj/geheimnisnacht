@@ -8,7 +8,7 @@ max_settlements = 4
 b_andreapolis = castle
 b_kotelnikovovik = city
 b_lysvanash = temple
-b_mezenisky = city
+#b_mezenisky = city
 
 # Misc
 culture = ropsmann

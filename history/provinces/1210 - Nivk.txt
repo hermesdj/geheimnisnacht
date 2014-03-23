@@ -1,0 +1,16 @@
+# 1210 Nivk
+
+# County Title
+title = c_nivk
+
+# Settlements
+max_settlements = 2
+b_tankovo = castle
+b_dagur = temple
+
+# Misc
+culture = aghol
+religion = chaos
+
+
+# History

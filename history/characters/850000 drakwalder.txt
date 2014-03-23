@@ -133,7 +133,7 @@ add_trait = "scholar"
 add_trait = "midas_touched"
 add_trait="trusting"
 add_trait="temperate"
-add_trait="depressed"
+
 
 1996.6.22={birth="yes"}
 2049.12.7={death="yes"}
@@ -912,5 +912,120 @@ add_trait = "fortune_builder"
 add_trait = "brave"
 2001.1.1={birth=yes}
 2045.4.5={death=yes}
+}
+
+850046={
+name = "Grettel"
+female = yes
+dynasty = 15042
+dna = "napiahhapkb"
+culture = drakwalder
+religion = old_faith
+military = 2
+diplomacy = 4
+stewardship = 3
+intrigue = 6
+learning = 6
+add_trait = "indulgent_wastrel"
+add_trait = "temperate"
+add_trait = "humble"
+2480.11.1={birth=yes}
+2541.6.10={death=yes}
+}
+
+850047={
+name = "Athela"
+female = yes
+dynasty = 15042
+dna = "pendncmcppp"
+culture = drakwalder
+religion = old_faith
+military = 8
+diplomacy = 5
+stewardship = 0
+intrigue = 4
+learning = 4
+mother = 850046
+add_trait = "tough_soldier"
+add_trait = "greedy"
+add_trait = "gluttonous"
+add_trait = "trusting"
+2513.7.1={birth=yes}
+2563.3.17={death=yes}
+}
+
+850048={
+name = "Steffen"
+dynasty = 15042
+dna = "hdcnccllhka"
+culture = drakwalder
+religion = old_faith
+military = 4
+diplomacy = 2
+stewardship = 3
+intrigue = 2
+learning = 3
+mother = 850046
+add_trait = "charismatic_negotiator"
+add_trait = "craven"
+2518.1.1={birth=yes}
+2571.10.6={death=yes}
+}
+
+850049={
+name = "Vincentus"
+dynasty = 1000000
+dna = "ankmbogbmnj"
+culture = drakwalder
+religion = old_faith
+military = 6
+diplomacy = 5
+stewardship = 1
+intrigue = 8
+learning = 0
+add_trait = "skilled_tactician"
+add_trait = "proud"
+add_trait = "content"
+add_trait = "diligent"
+2475.9.1={birth=yes}
+2549.1.11={death=yes}
+}
+
+850050={
+name = "Eva"
+female = yes
+dynasty = 1000001
+dna = "pfncfohjnjn"
+culture = drakwalder
+religion = old_faith
+military = 1
+diplomacy = 1
+stewardship = 4
+intrigue = 4
+learning = 5
+father = 850049
+add_trait = "flamboyant_schemer"
+add_trait = "charitable"
+add_trait = "brave"
+2496.7.1={birth=yes}
+2560.11.19={death=yes}
+}
+
+850051={
+name = "Cordula"
+female = yes
+dynasty = 1000002
+dna = "ikhlkklpiih"
+culture = drakwalder
+religion = old_faith
+military = 3
+diplomacy = 5
+stewardship = 5
+intrigue = 6
+learning = 5
+father = 850049
+add_trait = "brilliant_strategist"
+2500.1.1={birth=yes}
+2536.8.17={death=yes}
 }
 

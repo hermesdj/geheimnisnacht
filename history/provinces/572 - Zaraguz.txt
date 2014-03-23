@@ -6,8 +6,8 @@ title = c_zaraguz
 max_settlements = 4
 b_zaraguz = castle
 b_raganos = city
-b_santalucia = temple
-b_protelia = city
+#b_santalucia = temple
+#b_protelia = city
 
 #Misc
 culture = montanese

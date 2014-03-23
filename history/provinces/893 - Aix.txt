@@ -7,8 +7,8 @@ title = c_aix
 max_settlements = 4
 b_aix_le_comte = castle
 b_villefranche = city
-b_pierrole = temple
-b_colonce = city
+#b_pierrole = temple
+#b_colonce = city
 
 # Misc
 culture = carcassian

@@ -8,7 +8,7 @@ max_settlements = 4
 b_zabow = castle
 b_kamysh = city
 b_svatinevo = temple
-b_irinasgrad = city
+#b_irinasgrad = city
 
 # Misc
 culture = gospodar

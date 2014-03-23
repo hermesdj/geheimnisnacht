@@ -8,7 +8,7 @@ max_settlements = 4
 b_adryn = castle
 b_karon = city
 b_bassit = castle
-b_asteron = temple
+#b_asteron = temple
 
 # Misc
 culture = orc_main

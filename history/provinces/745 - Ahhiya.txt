@@ -6,7 +6,7 @@ title = c_ahhiya
 # Settlements
 max_settlements = 2
 b_ahhiya = castle
-b_tronas = temple
+#b_tronas = temple
 
 # Misc
 culture = orc_main

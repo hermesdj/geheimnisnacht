@@ -6,11 +6,11 @@ title = c_isenbuttel
 # Settlements
 max_settlements = 3
 b_isenbuttel = castle
-b_fintel = temple
-b_basdahl = castle
+#b_fintel = temple
+#b_basdahl = castle
 
 # Misc
-culture = drakwalder
+culture = middenlander
 religion = ulrican
 
 

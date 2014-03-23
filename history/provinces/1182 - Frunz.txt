@@ -1,0 +1,15 @@
+# 1182 Frunz
+
+# County Title
+title = c_frunz
+
+# Settlements
+max_settlements = 1
+b_frunz = castle
+
+# Misc
+culture = khazag
+religion = chaos
+
+
+# History

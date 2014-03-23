@@ -7,7 +7,7 @@ title = c_kazad_belegar
 max_settlements = 3
 b_kazad_belegar = castle
 b_khazid_hykoram = city
-b_nainfar = temple
+#b_nainfar = temple
 
 # Misc
 culture = dwarf_main

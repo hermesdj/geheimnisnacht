@@ -1,0 +1,16 @@
+# 1250 Hattran
+
+# County Title
+title = c_hattran
+
+# Settlements
+max_settlements = 2
+b_hattran = castle
+#b_mitzu = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

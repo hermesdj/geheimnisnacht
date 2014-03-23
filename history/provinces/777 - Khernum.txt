@@ -7,8 +7,8 @@ title = c_khernum
 max_settlements = 4
 b_kherna = castle
 b_totyom = city
-b_saprovista = temple
-b_nekbrake = castle
+#b_saprovista = temple
+#b_nekbrake = castle
 
 # Misc
 culture = orc_main

@@ -100,6 +100,7 @@ add_trait="content"
 
 1600005={
 name = "Ortjo"
+female = yes
 dynasty = 32008
 culture = ungol
 religion = northern_gods
@@ -112,7 +113,6 @@ add_trait = "hunter"
 add_trait = "amateurish_plotter"
 add_trait="chaste"
 add_trait="ill"
-add_trait="stressed"
 
 1964.1.16={birth="1964.1.16"}
 2059.7.25={death="2059.7.25"}
@@ -120,6 +120,7 @@ add_trait="stressed"
 
 1600006={
 name = "Mirona"
+female = yes
 dynasty = 32006
 culture = ungol
 religion = northern_gods
@@ -130,7 +131,7 @@ intrigue = 8
 learning = 9
 add_trait = "falconer"
 add_trait = "tough_soldier"
-add_trait="depressed"
+
 
 
 
@@ -202,6 +203,7 @@ add_trait="lustful"
 
 1600010={
 name = "Kostja"
+female = yes
 dynasty = 32012
 culture = ungol
 religion = northern_gods
@@ -216,8 +218,8 @@ add_trait="lisp"
 
 
 
-2002.9.17={birth="2002.9.17"}
-2017.2.6={death="2017.2.6"}
+1994.9.17={birth=yes}
+2057.2.6={death=yes}
 }
 
 1600011={
@@ -302,6 +304,7 @@ add_trait="just"
 
 1600015={
 name = "Piri"
+female = yes
 dynasty = 32018
 culture = ungol
 religion = northern_gods
@@ -362,6 +365,7 @@ add_trait="craven"
 
 1600018={
 name = "Faina"
+female = yes
 dynasty = 32099
 culture = ungol
 religion = northern_gods
@@ -394,5 +398,66 @@ add_trait="weak"
 
 1974.9.4={birth=yes}
 2043.11.17={death=yes}
+}
+
+1600020={
+name = "Chankar"
+dynasty = 32144
+dna = "dgfnohgacfe"
+culture = ungol
+religion = northern_gods
+military = 6
+diplomacy = 5
+stewardship = 4
+intrigue = 6
+learning = 2
+add_trait = "charismatic_negotiator"
+add_trait = "zealous"
+add_trait = "cruel"
+add_trait = "shy"
+add_trait = "drunkard"
+1966.1.1={birth=yes}
+2003.6.22 = {add_spouse=1550038}
+2025.5.31={death=yes}
+}
+
+1600021={
+name = "Oksana"
+female = yes
+dynasty = 32023
+dna = "apacmhbjphh"
+culture = gospodar
+religion = northern_gods
+military = 4
+diplomacy = 6
+stewardship = 6
+intrigue = 0
+learning = 4
+add_trait = "charismatic_negotiator"
+add_trait = "arbitrary"
+add_trait = "greedy"
+1970.1.1={birth=yes}
+2042.4.9={death=yes}
+}
+
+1600022={
+name = "Pirjo"
+dynasty = 32073
+dna = "ndgajmepfha"
+culture = gospodar
+religion = northern_gods
+military = 5
+diplomacy = 3
+stewardship = 4
+intrigue = 3
+learning = 7
+add_trait = "flamboyant_schemer"
+add_trait = "arbitrary"
+add_trait = "cynical"
+add_trait = "zealous"
+add_trait = "greedy"
+add_trait = "ill"
+1949.1.1={birth=yes}
+2013.10.20={death=yes}
 }
 

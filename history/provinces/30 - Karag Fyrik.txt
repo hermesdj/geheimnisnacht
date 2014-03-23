@@ -7,7 +7,7 @@ title = c_karag_fyrik
 max_settlements = 3
 b_kraka_undrum = castle
 b_grung_fyrik = city
-b_kazad_uream = temple
+#b_kazad_uream = temple
 
 # Misc
 culture = skaeling

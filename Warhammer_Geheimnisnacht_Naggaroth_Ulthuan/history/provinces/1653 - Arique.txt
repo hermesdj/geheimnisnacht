@@ -1,0 +1,15 @@
+# 1653 Arique
+
+# County Title
+title = c_arique
+
+# Settlements
+max_settlements = 3
+b_arique = castle
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

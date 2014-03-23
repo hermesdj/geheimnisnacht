@@ -8,8 +8,8 @@ max_settlements = 5
 b_castle_wittgenstein = castle
 b_wittgendorf = city
 b_brackenheim = city
-b_gandersheim = temple
-b_brandenburg = castle
+#b_gandersheim = temple
+#b_brandenburg = castle
 
 # Misc
 culture = reiklander

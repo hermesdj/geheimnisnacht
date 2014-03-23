@@ -7,8 +7,8 @@ title = c_lorsace
 max_settlements = 4
 b_nantebourg = castle
 b_strancy = city
-b_betz = castle
-b_mardun = temple
+#b_betz = castle
+#b_mardun = temple
 
 # Misc
 culture = bourgon

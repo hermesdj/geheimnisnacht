@@ -7,8 +7,8 @@ title = c_morency
 max_settlements = 4
 b_morency = castle
 b_gommery = castle
-b_aumanches = castle
-b_seu = city
+#b_aumanches = castle
+#b_seu = city
 
 # Misc
 culture = carcassian

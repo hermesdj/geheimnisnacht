@@ -7,8 +7,8 @@ title = c_dun
 max_settlements = 4
 b_dun = castle
 b_bloch = temple
-b_lefevre = castle
-b_braudel = temple
+#b_lefevre = castle
+#b_braudel = temple
 
 # Misc
 culture = nortagnese

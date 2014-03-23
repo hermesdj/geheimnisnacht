@@ -5,10 +5,10 @@ title = c_farlic_hills
 
 # Settlements
 max_settlements = 4
-b_obelheim = castle
+b_obelheim = temple
 b_horno = castle
 b_badau = city
-b_geiseltal = temple
+#b_geiseltal = temple
 
 # Misc
 culture = talabeclander

@@ -8,7 +8,7 @@ max_settlements = 4
 b_ganet = temple
 b_caradue = castle
 b_lesaffre = castle
-b_audony = city
+#b_audony = city
 
 # Misc
 culture = nortagnese

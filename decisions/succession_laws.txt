@@ -149,6 +149,7 @@ succession_laws = {
 		vassal_opinion = 20
 		potential = {
 			holder_scope = {
+				NOT = { religion_group = greenskin_gods_group }
 				is_merchant_republic = no
 				is_patrician = no
 			}
@@ -183,10 +184,9 @@ succession_laws = {
 			holder_scope = {
 				religion_group = halfling_gods_group
 				religion_group = chaos_group
-				NOT = { religion_group = greenskin_gods_group }
+				religion_group = necromantic_group
 				is_merchant_republic = no
 				is_patrician = no
-				culture_group = celtic
 			}
 			OR = {
 				is_landless_type_title = no

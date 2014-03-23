@@ -7,7 +7,7 @@ title = c_khazid_grimaz
 max_settlements = 3
 b_khazid_grimaz = castle
 b_korbal_maggrond = castle
-b_felsitorn = city
+#b_felsitorn = city
 
 # Misc
 culture = dwarf_main

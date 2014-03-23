@@ -7,9 +7,9 @@ title = c_svidha_point
 max_settlements = 5
 b_farmandhor_ofridhor = castle
 b_ujungard = city
-b_tikulivik = temple
-b_earsumborg = city
-b_tyk_alutuk = castle
+#b_tikulivik = temple
+#b_earsumborg = city
+#b_tyk_alutuk = castle
 
 # Misc
 culture = aesling

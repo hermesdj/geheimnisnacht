@@ -6,8 +6,8 @@ title = c_karamandere
 # Settlements
 max_settlements = 3
 b_karamandere = castle
-b_bukharin = city
-b_lenstalin = temple
+#b_bukharin = city
+#b_lenstalin = temple
 
 # Misc
 culture = orc_main

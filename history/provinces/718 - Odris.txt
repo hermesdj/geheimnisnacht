@@ -4,11 +4,10 @@
 title = c_odris
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 b_odris = castle
 b_parysat = city
-b_greendel = temple
-b_cilla = city
+#b_greendel = temple
 
 # Misc
 culture = orc_main

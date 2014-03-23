@@ -8,7 +8,7 @@ max_settlements = 4
 b_yquem = castle
 b_larrard = city
 b_chapelle_la_dame = temple
-b_bourg_le_roi = city
+#b_bourg_le_roi = city
 
 # Misc
 culture = breton

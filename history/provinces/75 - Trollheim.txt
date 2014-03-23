@@ -8,8 +8,8 @@ max_settlements = 5
 b_narberg = castle
 b_tillbearga = city
 b_jagergrop = city
-b_hordenslag = city
-b_odensden = temple
+#b_hordenslag = city
+#b_odensden = temple
 
 # Misc
 culture = sarl

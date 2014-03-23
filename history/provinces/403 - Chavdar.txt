@@ -1,0 +1,17 @@
+# 403 Chavdar
+
+# County Title
+title = c_chavdar
+
+# Settlements
+max_settlements = 3
+b_chavdar = castle
+b_gorna_malina = castle
+#b_golema = castle
+
+# Misc
+culture = kul
+religion = chaos
+
+
+# History

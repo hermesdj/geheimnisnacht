@@ -1,0 +1,17 @@
+# 1245 Tohkar
+
+# County Title
+title = c_tohkar
+
+# Settlements
+max_settlements = 3
+b_tohkar = castle
+b_harom = temple
+#b_forrad = castle
+
+# Misc
+culture = tokmar
+religion = chaos
+
+
+# History

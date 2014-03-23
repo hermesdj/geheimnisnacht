@@ -6,8 +6,8 @@ title = c_braka_vollr
 # Settlements
 max_settlements = 3
 b_roturavik = castle
-b_fdolvuum = temple
-b_jazuum = city
+#b_fdolvuum = temple
+#b_jazuum = city
 
 # Misc
 culture = varg

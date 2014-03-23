@@ -1,8 +1,15 @@
-2010.1.1=
-{
-liege="k_talabecland"
+2010.1.1 = {
+	liege="k_talabecland"
 }
 
 2010.1.1 = {
 	holder = 700004
+}
+
+2480.1.1 = {
+	holder = 700091
+}
+
+2504.10.1 = {
+	holder = 700092
 }

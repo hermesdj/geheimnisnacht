@@ -8,10 +8,10 @@ max_settlements = 7
 b_khazad_azril_ungol = castle
 b_barak_bringrong = city
 b_khazazril = temple
-b_ekrunruk = castle
-b_undzar_ungol = city
-b_drakkungron = temple
-b_grung_azril = city
+#b_ekrunruk = castle
+#b_undzar_ungol = city
+#b_drakkungron = temple
+#b_grung_azril = city
 
 # Misc
 culture = goblin_main

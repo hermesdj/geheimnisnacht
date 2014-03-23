@@ -6,8 +6,8 @@ title = c_nettburg
 # Settlements
 max_settlements = 3
 b_fort_korver = castle
-b_trillheim = temple
-b_dargun = temple
+#b_trillheim = temple
+#b_dargun = temple
 
 # Misc
 culture = ostlander

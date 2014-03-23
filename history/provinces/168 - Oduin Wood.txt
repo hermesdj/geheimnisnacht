@@ -6,7 +6,7 @@ title = c_oduin_wood
 # Settlements
 max_settlements = 2
 b_oduin = castle
-b_sharegrav = city
+#b_sharegrav = city
 
 # Misc
 culture = ungol

@@ -8,11 +8,11 @@ daemonic_group = {
 		color = { 0.3 0.6 0.3 }
 
 		male_names = {
-			Angron
+			Angrarr
 		}
 		
 		female_names = {
-			
+			Angrarr
 		}
 
 		dynasty_title_names = yes
@@ -31,7 +31,7 @@ daemonic_group = {
 		}
 		
 		female_names = {
-			
+			Festus
 		}
 
 		dynasty_title_names = yes
@@ -46,11 +46,11 @@ daemonic_group = {
 		color = { 0.3 0.6 0.3 }
 
 		male_names = {
-			Eros
+			Slythiss
 		}
 		
 		female_names = {
-			
+			Slythiss
 		}
 
 		dynasty_title_names = yes
@@ -65,11 +65,11 @@ daemonic_group = {
 		color = { 0.3 0.6 0.3 }
 
 		male_names = {
-			Tzin
+			Tzirr
 		}
 		
 		female_names = {
-			
+			Tzirr
 		}
 
 		dynasty_title_names = yes

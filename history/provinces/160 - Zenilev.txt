@@ -8,7 +8,7 @@ max_settlements = 4
 b_fortress_of_zenilev = castle
 b_svedora = city
 b_mosty = temple
-b_vawkavysky = city
+#b_vawkavysky = city
 
 # Misc
 culture = ropsmann

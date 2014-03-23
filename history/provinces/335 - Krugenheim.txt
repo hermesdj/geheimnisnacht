@@ -8,9 +8,9 @@ max_settlements = 6
 b_krugenheim = castle
 b_trautenan = temple
 b_tauer = castle
-b_bissendorf = temple
-b_sabritz = castle
-b_gersdorf = temple
+#b_bissendorf = temple
+#b_sabritz = castle
+#b_gersdorf = temple
 
 # Misc
 culture = talabeclander
@@ -18,3 +18,5 @@ religion = taalite
 
 
 # History
+
+2155.1.1 = { culture = ostermarker }

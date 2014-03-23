@@ -8,8 +8,8 @@ max_settlements = 5
 b_brionne = castle
 b_encamp = castle
 b_sabiant = castle
-b_cidatelle = temple
-b_enguerraux = city
+#b_cidatelle = temple
+#b_enguerraux = city
 
 # Misc
 culture = gascon

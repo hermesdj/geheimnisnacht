@@ -7,9 +7,9 @@ title = c_aarnau
 max_settlements = 5
 b_aarnau = castle
 b_diever = city
-b_hollum = temple
-b_vatrop = temple
-b_zaanstad = city
+#b_hollum = temple
+#b_vatrop = temple
+#b_zaanstad = city
 
 # Misc
 culture = westerlander

@@ -6,7 +6,7 @@ title = c_kazad_hurlidan
 # Settlements
 max_settlements = 2
 b_khazid_hurlidan = castle
-b_zakang = temple
+#b_zakang = temple
 
 # Misc
 culture = dwarf_main

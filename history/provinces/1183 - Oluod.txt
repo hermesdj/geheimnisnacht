@@ -1,0 +1,16 @@
+# 1183 Oluod
+
+# County Title
+title = c_oluod
+
+# Settlements
+max_settlements = 2
+b_oluod = castle
+#b_tanga = city
+
+# Misc
+culture = khazag
+religion = chaos
+
+
+# History

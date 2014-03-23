@@ -9,7 +9,7 @@ b_montparnasse = castle
 b_voltansier = temple
 b_montestaire = castle
 b_astarnic = city
-b_jeanval = temple
+#b_jeanval = temple
 
 # Misc
 culture = bourgon

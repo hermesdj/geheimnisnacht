@@ -7,14 +7,10 @@ liege="k_ostermark"
 	holder = 750002
 }
 
-2304.12.5 = {
-	liege="e_the_empire"
+2470.1.1 = {
+	holder = 750038
 }
 
-2488.7.4 = {
-	holder = 750024 #Maximillian Dachs
-}
-
-2514.4.7 = {
-	holder = 750023 #Wolfram Hertwig
+2503.3.24 = {
+	holder = 750039
 }

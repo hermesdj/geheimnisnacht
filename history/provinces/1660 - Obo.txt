@@ -1,0 +1,17 @@
+# 1660 Obo
+
+# County Title
+title = c_obo
+
+# Settlements
+max_settlements = 3
+b_obo = castle
+b_boyuk = city
+#b_taunshi = temple
+
+# Misc
+culture = aghol
+religion = chaos
+
+
+# History

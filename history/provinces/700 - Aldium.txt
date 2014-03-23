@@ -7,10 +7,10 @@ title = c_aldium
 max_settlements = 3
 b_aldium = castle
 b_the_claws = city
-b_red_sentry = castle
+#b_red_sentry = castle
 
 # Misc
-culture = westerlander
+culture = neueslander
 religion = sigmarite
 
 

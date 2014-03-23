@@ -125,9 +125,9 @@ intrigue = 0
 learning = 1
 add_trait = "mystic"
 add_trait = "elusive_shadow"
-add_trait="stressed"
+
 add_trait="trusting"
-add_trait="depressed"
+
 
 1971.8.6={birth=yes}
 2048.10.24={death=yes}

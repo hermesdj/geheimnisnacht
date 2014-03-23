@@ -6,8 +6,8 @@ title = c_hettasha
 # Settlements
 max_settlements = 3
 b_hettasha = castle
-b_telebor = city
-b_thyn = temple
+#b_telebor = city
+#b_thyn = temple
 
 # Misc
 culture = myken

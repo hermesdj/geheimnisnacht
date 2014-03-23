@@ -7,8 +7,8 @@ title = c_kaminski
 max_settlements = 4
 b_fort_kaminski = castle
 b_fort_straghov = castle
-b_heltum = city
-b_krepasc = temple
+#b_heltum = city
+#b_krepasc = temple
 
 # Misc
 culture = ungol

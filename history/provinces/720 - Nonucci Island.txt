@@ -6,7 +6,7 @@ title = c_nonucci_island
 # Settlements
 max_settlements = 2
 b_villa_nonucci = castle
-b_porto_nonucci = city
+#b_porto_nonucci = city
 
 # Misc
 culture = reman

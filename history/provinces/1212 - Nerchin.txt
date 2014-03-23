@@ -1,0 +1,17 @@
+# 1201 Uvs
+
+# County Title
+title = c_nerchin
+
+# Settlements
+max_settlements = 3
+b_donxi = castle
+b_oold = temple
+#b_naglbor = city
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

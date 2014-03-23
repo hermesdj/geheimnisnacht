@@ -1,6 +1,6 @@
 2010.1.1=
 {
-liege="k_veles"
+liege="k_kura"
 }
 
 2010.1.1 = {

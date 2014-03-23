@@ -1,0 +1,17 @@
+# 1478 Coronis
+
+# County Title
+title = c_coronis
+
+# Settlements
+max_settlements = 3
+b_orru = castle
+b_tayhure = city
+b_naryss = city
+
+# Misc
+culture = tiranoci
+religion = cadai
+
+
+# History

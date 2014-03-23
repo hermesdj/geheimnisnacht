@@ -1,0 +1,16 @@
+# 1202 Tarim
+
+# County Title
+title = c_tarim
+
+# Settlements
+max_settlements = 2
+b_aina = castle
+b_merqi = temple
+
+# Misc
+culture = mung
+religion = chaos
+
+
+# History

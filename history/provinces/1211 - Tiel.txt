@@ -1,0 +1,17 @@
+# 1211 Tiel
+
+# County Title
+title = c_tiel
+
+# Settlements
+max_settlements = 3
+b_tiel = castle
+b_prausk = temple
+#b_garrot = city
+
+# Misc
+culture = aghol
+religion = chaos
+
+
+# History

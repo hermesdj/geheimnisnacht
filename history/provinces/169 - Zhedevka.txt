@@ -8,7 +8,7 @@ max_settlements = 4
 b_zhedevka = castle
 b_dagnyper = city
 b_myadel = temple
-b_krupki = city
+#b_krupki = city
 
 # Misc
 culture = ungol

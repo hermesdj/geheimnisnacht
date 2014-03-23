@@ -1,0 +1,16 @@
+# 456 Haraz
+
+# County Title
+title = c_haraz
+
+# Settlements
+max_settlements = 2
+b_haraz = castle
+#b_ubaidr = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

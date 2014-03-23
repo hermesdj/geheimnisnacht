@@ -4,16 +4,18 @@ title = c_magritta
 
 #Settlements
 max_settlements = 7
-b_magritta = temple
 b_castillo_de_magritta = castle
+b_magritta = city
 b_inquisitoria_general = temple
 b_san_carlos = city
 b_san_sebastiano = castle
-b_televaro = city
-b_morica = city
+#b_televaro = city
+#b_morica = city
 
 #Misc
 culture = astur
 religion = classical_gods
+
+terrain = city
 
 #History

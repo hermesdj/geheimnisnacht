@@ -7,8 +7,8 @@ title = c_everkjole
 max_settlements = 4
 b_kjolvevik = castle
 b_ulyl_pyjorovik = temple
-b_kaldrkastali = city
-b_vintrholm = castle
+#b_kaldrkastali = city
+#b_vintrholm = castle
 
 # Misc
 culture = varg

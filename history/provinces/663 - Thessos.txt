@@ -4,13 +4,15 @@
 title = c_thessos
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 b_thessos = castle
 b_olvia = city
-b_gla = temple
+#b_gla = temple
+#b_rhodesia = city
+#b_eretra = city
 
 # Misc
-culture = reman
+culture = oltremari
 religion = classical_gods
 
 

@@ -6,8 +6,8 @@ title = c_blotno
 # Settlements
 max_settlements = 3
 b_blotno = castle
-b_kasli = city
-b_kashin = temple
+#b_kasli = city
+#b_kashin = temple
 
 # Misc
 culture = gospodar

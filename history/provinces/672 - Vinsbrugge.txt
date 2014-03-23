@@ -7,12 +7,12 @@ title = c_vinsbrugge
 max_settlements = 4
 b_burkesburg = castle
 b_albane = city
-b_castle_tuscarno = castle
-b_serene_grove = temple
+#b_castle_tuscarno = castle
+#b_serene_grove = temple
 
 # Misc
-culture = gascon
-religion = lady_of_the_lake
+culture = fjarmann
+religion = norse
 
 
 # History

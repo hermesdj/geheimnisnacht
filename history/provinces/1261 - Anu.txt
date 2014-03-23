@@ -1,0 +1,18 @@
+# 1261 Anu
+
+# County Title
+title = c_anu
+
+# Settlements
+max_settlements = 4
+b_anu = castle
+b_kishra = temple
+b_stone_claw = castle
+#b_komorit = castle
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

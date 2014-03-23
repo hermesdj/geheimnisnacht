@@ -6,3 +6,8 @@ liege="k_nordland"
 	holder = 650007
 }
 
+
+2470.1.1 = {
+	holder = 650093
+}
+

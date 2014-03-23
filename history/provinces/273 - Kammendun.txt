@@ -6,9 +6,9 @@ title = c_kammendun
 # Settlements
 max_settlements = 4
 b_kammendun = castle
-b_pritzstock = temple
-b_leichlinberg = temple
-b_merkendorf = city
+#b_pritzstock = temple
+#b_leichlinberg = temple
+#b_merkendorf = city
 
 # Misc
 culture = middenlander

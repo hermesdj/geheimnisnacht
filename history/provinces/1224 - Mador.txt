@@ -1,0 +1,16 @@
+# 1224 Mador
+
+# County Title
+title = c_mador
+
+# Settlements
+max_settlements = 2
+b_mador = castle
+#b_nedhri = temple
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

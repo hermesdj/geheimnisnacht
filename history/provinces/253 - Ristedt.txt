@@ -8,8 +8,8 @@ max_settlements = 5
 b_castle_lenkster = castle
 b_ristedt = city
 b_wendorf = temple
-b_kienbaum = castle
-b_oranienburg = temple
+#b_kienbaum = castle
+#b_oranienburg = temple
 
 # Misc
 culture = ostlander

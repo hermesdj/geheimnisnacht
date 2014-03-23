@@ -8,7 +8,7 @@ max_settlements = 4
 b_grasse = castle
 b_valins = temple
 b_tiercay = castle
-b_cornes = city
+#b_cornes = city
 
 # Misc
 culture = gisoren

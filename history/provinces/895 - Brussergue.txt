@@ -8,8 +8,8 @@ max_settlements = 5
 b_brusse = temple
 b_tourasque = temple
 b_balamoir = castle
-b_calotte = city
-b_sombrac = city
+#b_calotte = city
+#b_sombrac = city
 
 # Misc
 culture = carcassian

@@ -1,0 +1,16 @@
+# 1236 Olkoron
+
+# County Title
+title = c_olkoron
+
+# Settlements
+max_settlements = 2
+b_golyamo = castle
+b_absath = castle
+
+# Misc
+culture = tahmak
+religion = chaos
+
+
+# History

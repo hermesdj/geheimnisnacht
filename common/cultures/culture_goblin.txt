@@ -1,9 +1,9 @@
 
 goblin_group = {
-	graphical_culture = westerngfx
+	graphical_culture = greenskinsgfx
 
 	goblin_main = {
-		graphical_culture = norsegfx
+		graphical_culture = greenskinsgfx
 
 		color = { 0.2 0.9 0.2 }
 

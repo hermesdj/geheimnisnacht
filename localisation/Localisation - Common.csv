@@ -28,6 +28,8 @@ BM_GREAT_WAR_AGAINST_CHAOS;Great War Against Chaos;;;;;;;;;;;;;x
 BM_GREAT_WAR_AGAINST_CHAOS_DESC;Innumerable hordes pour from Norsca and the Chaos Wastes under the banner of Asavar Kul, Everchosen of Chaos.;;;;;;;;;;;;;x
 BM_MAGNUS_THE_PIOUS;Magnus the Pious;;;;;;;;;;;;;x
 BM_MAGNUS_THE_PIOUS_DESC;The Empire is united for the first time in a thousand years.;;;;;;;;;;;;;x
+BM_NORTHERN_MERCANTILE_SOCIETY;The Northern Mercantile Society;;;;;;;;;;;;;x
+BM_NORTHERN_MERCANTILE_SOCIETY_DESC;In a bid to regain some of the trade lost from the secession of Marienburg, the Electors of Hochland, Ostland and Nordland have funded the foundation of a new merchant league in the Sea of Claws. Based in the towns of Neues Emskrank and Salkalten, Jens-Peter hopes to build a profitable enterprise in the northern Empire. With fierce opposition from the establised powers in Marienburg and Erengrad, the survival of the Northern Mercantile Society is not guaranteed.;;;;;;;;;;;;;x
 BM_STORM_OF_CHAOS;Storm of Chaos;;;;;;;;;;;;;x
 BM_STORM_OF_CHAOS_DESC;Archaon the Everchosen leads the forces of Chaos south to destroy Kislev, the Empire, and the world.;;;;;;;;;;;;;x
 BM_THE_END;The End;;;;;;;;;;;;;x
@@ -36,7 +38,7 @@ LOADING_TIP_0;Small steps corrupt.;;;;;;;;;;;;;x
 LOADING_TIP_1;"Deliver us, Lord Sigmar, from the savage race of Northmen which lays waste our realm" - Common Nordlander prayer;;;;;;;;;;;;;x
 LOADING_TIP_2;Never confuse a Tilean with an Estalian.;;;;;;;;;;;;;x
 LOADING_TIP_3;KILL FOR KHORNE! KILL FOR KHORNE! KILL FOR KHORNE!;;;;;;;;;;;;;x
-LOADING_TIP_4;The cross is a popular symbol in the Empire. The left, right, and upper arms represent the tribes uniting from the east, west and north, and the lower arm represents the Dwarfs.;;;;;;;;;;;;;x
+LOADING_TIP_4;The cross is a popular symbol in the Empire. The left, right, and upper arms represent the human tribes uniting, and the lower arm represents the Dwarfs.;;;;;;;;;;;;;x
 LOADING_TIP_5;The fleur de lys is a common symbol in Bretonnia. The flower is the sacred emblem of the Lady of the Lake, and grows around holy sites.;;;;;;;;;;;;;x
 LOADING_TIP_6;In the Chaos Wastes, time and space lose consistancy the further north you travel.;;;;;;;;;;;;;x
 LOADING_TIP_7;The Hung are the least trustworthy people in the world, even among the treacherous savages of the north.;;;;;;;;;;;;;x

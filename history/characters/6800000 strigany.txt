@@ -112,7 +112,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -149,7 +149,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 

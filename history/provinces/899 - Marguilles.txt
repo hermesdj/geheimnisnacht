@@ -7,8 +7,8 @@ title = c_marguilles
 max_settlements = 4
 b_marguilles = castle
 b_maisemane = city
-b_chausefort = castle
-b_chermercy = temple
+#b_chausefort = castle
+#b_chermercy = temple
 
 # Misc
 culture = orc_main
@@ -16,3 +16,6 @@ religion = greenskin_gods
 
 
 # History
+
+2155.1.1 = { religion = lady_of_the_lake }
+2155.1.1 = { culture = carcassian }

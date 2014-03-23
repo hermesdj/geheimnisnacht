@@ -7,7 +7,7 @@ title = c_kazad_frukund
 max_settlements = 3
 b_kazad_frukund = castle
 b_frukund_ungol = city
-b_barak_nur = temple
+#b_barak_nur = temple
 
 # Misc
 culture = dwarf_main

@@ -8,7 +8,7 @@ max_settlements = 4
 b_grung_dobekzhuf = castle
 b_kazad_urital = castle
 b_khazid_hungard = temple
-b_kraka_hurivik = castle
+#b_kraka_hurivik = castle
 
 # Misc
 culture = dwarf_norse

@@ -7,7 +7,7 @@ title = c_frondee
 max_settlements = 3
 b_sablenay = temple
 b_salignac = city
-b_maisongraal = castle
+#b_maisongraal = castle
 
 # Misc
 culture = gisoren

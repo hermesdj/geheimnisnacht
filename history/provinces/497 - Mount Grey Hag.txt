@@ -1,0 +1,18 @@
+# 497 Mount Grey Hag
+
+# County Title
+title = c_mount_grey_hag
+
+# Settlements
+max_settlements = 4
+b_greyspire = castle
+b_prukold = castle
+#b_garukold = temple
+#b_qarbold = city
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

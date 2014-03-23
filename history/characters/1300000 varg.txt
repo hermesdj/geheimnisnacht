@@ -129,7 +129,7 @@ intrigue = 11
 learning = 3
 add_trait = "gardener"
 add_trait = "scholarly_theologian"
-add_trait="stressed"
+
 
 
 
@@ -149,7 +149,7 @@ intrigue = 2
 learning = 3
 add_trait = "gardener"
 add_trait = "misguided_warrior"
-add_trait="depressed"
+
 add_trait="lustful"
 
 
@@ -450,8 +450,8 @@ learning = 7
 add_trait = "gardener"
 add_trait = "tough_soldier"
 add_trait="content"
-add_trait="stressed"
-add_trait="depressed"
+
+
 
 1993.12.28={birth="1993.12.28"}
 2029.11.27={death="2029.11.27"}

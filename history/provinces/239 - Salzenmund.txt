@@ -8,9 +8,9 @@ max_settlements = 6
 b_salzenmund = castle
 b_oldenlitz = city
 b_grafenrich = castle
-b_beeckerhoven = temple
-b_silver_hills = city
-b_coswig = castle
+#b_beeckerhoven = temple
+#b_silver_hills = city
+#b_coswig = castle
 
 # Misc
 culture = nordlander

@@ -7,8 +7,8 @@ title = c_reves
 max_settlements = 4
 b_turris_vigilans = castle
 b_reves = castle
-b_leurs = temple
-b_alenfront = city
+#b_leurs = temple
+#b_alenfront = city
 
 # Misc
 culture = gascon

@@ -1,0 +1,17 @@
+# 1114 Shurak
+
+# County Title
+title = c_shurak
+
+# Settlements
+max_settlements = 3
+b_shurak = castle
+b_piy = city
+b_esna = temple
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

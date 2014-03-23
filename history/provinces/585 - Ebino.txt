@@ -8,7 +8,7 @@ max_settlements = 4
 b_ebino = castle
 b_orcassa = city
 b_santa_elena = temple
-b_copponi = castle
+#b_copponi = castle
 
 # Misc
 culture = miraglian

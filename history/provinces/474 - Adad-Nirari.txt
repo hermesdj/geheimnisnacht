@@ -1,0 +1,16 @@
+# 474 Adad-Nirari
+
+# County Title
+title = c_adad_nirari
+
+# Settlements
+max_settlements = 2
+b_nirari = castle
+#b_underholm = city
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

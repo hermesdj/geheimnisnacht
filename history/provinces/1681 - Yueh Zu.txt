@@ -1,0 +1,16 @@
+# 1681 Yueh Zu
+
+# County Title
+title = c_yueh_zu
+
+# Settlements
+max_settlements = 2
+b_yueh_zu = castle
+#b_jelme = temple
+
+# Misc
+culture = mung
+religion = chaos
+
+
+# History

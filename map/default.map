@@ -1,4 +1,4 @@
-max_provinces = 2250
+max_provinces = 2300
 sea_starts = 1820
 definitions = "definition.csv"
 provinces = "provinces.bmp"
@@ -18,4 +18,23 @@ static = "static.txt"
 tree = { 3 4 7 10 }
 major_rivers = 
 {
+	2272 #Halkild
+	2273 #Iisgalt
+	2278 #River Sannez
+	2279 #River Morceaux
+	1836 1837 1885 2058 2059 2276 #River Grismerie
+	2244 2245 2246 2247 #River Stir
+	1850 1852 2248 2249 #River Aver
+	2250 #River Soll
+	1851 2251 2252 2253 #River Reik
+	2254 2255 2256 #River Urskoy
+	1843 1978 2048 2257 2258 #River Talabec
+	2259 2260 2261 2262 2263 #River Tobol/Tolsol
+	2264 #River Dypvann
+	2265 2280 #River Brienne
+	2266 #River Tarmos
+	2267 #River Guadriz
+	2268 2269 2270 #River Starnek
+	2274 #Ursfjord
+	1835 1977 2053 #Korv Ozero/Drakflojt
 }

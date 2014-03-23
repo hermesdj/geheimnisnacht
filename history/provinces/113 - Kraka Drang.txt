@@ -8,7 +8,7 @@ max_settlements = 4
 b_kraka_drang = castle
 b_grung_hrazgh = city
 b_kazad_teratum = castle
-b_khazid_hakumel = temple
+#b_khazid_hakumel = temple
 
 # Misc
 culture = dwarf_norse

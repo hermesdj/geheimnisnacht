@@ -8,10 +8,10 @@ max_settlements = 4
 b_scheinfeld = castle
 b_calden = city
 b_uder = castle
-b_nupstedt = temple
+#b_nupstedt = temple
 
 # Misc
-culture = drakwalder
+culture = reiklander
 religion = sigmarite
 
 

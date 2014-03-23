@@ -1,0 +1,17 @@
+# 1239 Kurshun
+
+# County Title
+title = c_kurshun
+
+# Settlements
+max_settlements = 3
+b_voisil = castle
+b_debelt = temple
+#b_emona = castle
+
+# Misc
+culture = dolgan
+religion = chaos
+
+
+# History

@@ -7,8 +7,8 @@ title = c_kraka_borkum
 max_settlements = 4
 b_kraka_borkum = castle
 b_khazid_opilyum = temple
-b_kraka_carvag = city
-b_kazad_durop = castle
+#b_kraka_carvag = city
+#b_kazad_durop = castle
 
 # Misc
 culture = dwarf_chaos

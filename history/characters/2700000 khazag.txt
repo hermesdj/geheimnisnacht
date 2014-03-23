@@ -113,7 +113,7 @@ add_trait = "falconer"
 add_trait = "dutiful_cleric"
 add_trait="trusting"
 add_trait="ill"
-add_trait="stressed"
+
 
 1984.12.19={birth="1984.12.19"}
 2052.8.11={death="2052.8.11"}
@@ -132,7 +132,7 @@ learning = 7
 add_trait = "hedonist"
 add_trait = "skilled_tactician"
 add_trait="chaste"
-add_trait="depressed"
+
 
 
 1955.2.20={birth="1955.2.20"}

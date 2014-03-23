@@ -1,0 +1,20 @@
+# 395 Kathuul
+
+# County Title
+title = c_kathuul
+
+# Settlements
+max_settlements = 6
+b_kathuul = castle
+b_levski = castle
+b_ghatoraz = temple
+b_nurgathar = city
+#b_saraya = temple
+#b_zalgu = city
+
+# Misc
+culture = tokmar
+religion = chaos
+
+
+# History

@@ -7,8 +7,8 @@ title = c_ramsau
 max_settlements = 4
 b_ramsau = castle
 b_kircham = temple
-b_blutdorf = castle
-b_mendig = castle
+#b_blutdorf = castle
+#b_mendig = castle
 
 # Misc
 culture = stirlander

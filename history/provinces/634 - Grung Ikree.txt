@@ -7,7 +7,7 @@ title = c_grung_ikree
 max_settlements = 3
 b_grung_ikree = castle
 b_khadiz_gondol = city
-b_karak_yaril = temple
+#b_karak_yaril = temple
 
 # Misc
 culture = dwarf_main

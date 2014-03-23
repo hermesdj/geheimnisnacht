@@ -1,0 +1,20 @@
+# 272 Suderende
+
+# County Title
+title = c_suderende
+
+# Settlements
+max_settlements = 5
+b_jagerhausen = castle
+b_schoninghagen = city
+b_grevenfeld = city
+#b_immelscheld = temple
+#b_hunxe = city
+#b_holzbeck = castle
+
+# Misc
+culture = middenlander
+religion = ulrican
+
+
+# History

@@ -6,8 +6,8 @@ title = c_lambruso
 # Settlements
 max_settlements = 3
 b_lambrusco = castle
-b_abazzo = city
-b_pegerlino = temple
+#b_abazzo = city
+#b_pegerlino = temple
 
 # Misc
 culture = miraglian

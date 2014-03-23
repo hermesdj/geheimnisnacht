@@ -7,8 +7,8 @@ title = c_teeth_of_the_kraken
 max_settlements = 4
 b_ships_end = castle
 b_isle_of_elska = temple
-b_ygurnylsvik = city
-b_ityluvik = city
+#b_ygurnylsvik = city
+#b_ityluvik = city
 
 # Misc
 culture = varg

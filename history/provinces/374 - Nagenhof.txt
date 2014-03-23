@@ -8,9 +8,9 @@ max_settlements = 6
 b_nagenhof = castle
 b_osterwald = city
 b_mielau = temple
-b_eisental = temple
-b_nachtdorf = city
-b_blutfort = city
+#b_eisental = temple
+#b_nachtdorf = city
+#b_blutfort = city
 
 # Misc
 culture = ostermarker
@@ -18,3 +18,5 @@ religion = vampiric
 
 
 # History
+
+2155.1.1 = { religion = taalite }

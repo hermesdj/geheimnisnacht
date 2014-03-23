@@ -1,7 +1,6 @@
 
-1930.5.8=
-{
-liege="e_talabecland"
+1930.5.8 = {
+	liege="e_talabecland"
 }
 
 1930.5.8 = {
@@ -16,20 +15,26 @@ liege="e_talabecland"
 	holder = 700029
 }
 
-2009.8.20=
-{
-liege="k_ostland"
+2009.8.20 = {
+	liege="k_ostland"
 }
 
 2009.8.20 = {
 	holder = 800011
 }
 
-2009.10.2 =
-{
-liege="d_griffonwald"
+2009.10.2 = {
+	liege="d_griffonwald"
 }
 
 2009.10.2 = {
 	holder = 800012
+}
+
+2310.1.1 = {
+	liege="d_geisterforst"
+}
+
+2490.1.1 = {
+	holder = 750044
 }

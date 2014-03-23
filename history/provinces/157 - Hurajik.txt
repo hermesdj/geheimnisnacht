@@ -8,7 +8,7 @@ max_settlements = 4
 b_hurajik = castle
 b_hjolid = city
 b_pahany_prava = temple
-b_svislach = city
+#b_svislach = city
 
 # Misc
 culture = ungol

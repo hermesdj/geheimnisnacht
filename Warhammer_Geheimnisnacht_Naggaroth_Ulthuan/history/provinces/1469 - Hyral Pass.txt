@@ -1,0 +1,16 @@
+# 1469 Hyral Pass
+
+# County Title
+title = c_hyral_pass
+
+# Settlements
+max_settlements = 2
+b_hyral_fortress = castle
+b_fuurem = castle
+
+# Misc
+culture = tiranoci
+religion = cadai
+
+
+# History

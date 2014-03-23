@@ -7,9 +7,9 @@ title = c_gotland
 max_settlements = 5
 b_gotland = castle
 b_holmsteinn = temple
-b_ulfenwyr = city
-b_yulfen_vale = city
-b_artolden = castle
+#b_ulfenwyr = city
+#b_yulfen_vale = city
+#b_artolden = castle
 
 # Misc
 culture = sarl

@@ -1,0 +1,17 @@
+# 411 Arda
+
+# County Title
+title = c_arda
+
+# Settlements
+max_settlements = 3
+b_varvara = castle
+b_chuchur = temple
+#b_kasak = castle
+
+# Misc
+culture = dolgan
+religion = chaos
+
+
+# History

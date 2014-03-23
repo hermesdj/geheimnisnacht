@@ -5,11 +5,11 @@ title = c_kemperbad
 
 # Settlements
 max_settlements = 5
-b_kemperbad = castle
-b_unterbaum = city
+b_kemperbad = city
+b_unterbaum = temple
 b_erzgeb = castle
-b_oederan = castle
-b_winkel = city
+#b_oederan = castle
+#b_winkel = city
 
 # Misc
 culture = talabeclander

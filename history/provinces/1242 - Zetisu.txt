@@ -1,0 +1,17 @@
+# 1242 Zetisu
+
+# County Title
+title = c_zetisu
+
+# Settlements
+max_settlements = 3
+b_permin = castle
+b_mikil = temple
+#b_skorul = castle
+
+# Misc
+culture = dolgan
+religion = chaos
+
+
+# History

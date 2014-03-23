@@ -9,7 +9,7 @@ b_muros = city
 b_lisoba = temple
 b_san_enrique = city
 b_zeba = castle
-b_penhasco = city
+#b_penhasco = city
 
 #Misc
 culture = avilian

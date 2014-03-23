@@ -1,0 +1,18 @@
+# 498 Pazuzu
+
+# County Title
+title = c_pazuzu
+
+# Settlements
+max_settlements = 4
+b_pazuzubad = castle
+b_grung_azgrabar = castle
+b_darkiron = temple
+#b_zaltu = city
+
+# Misc
+culture = dwarf_chaos
+religion = hashut
+
+
+# History

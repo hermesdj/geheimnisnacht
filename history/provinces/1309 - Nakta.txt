@@ -1,0 +1,16 @@
+# 1309 Nakta
+
+# County Title
+title = c_nakta
+
+# Settlements
+max_settlements = 2
+b_nakta = castle
+b_maltak = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

@@ -6,9 +6,9 @@ title = c_seidewald
 # Settlements
 max_settlements = 4
 b_knorreibe = castle
-b_dornigdorf = temple
-b_taubchensdorf = castle
-b_beengendereichhornchensdorf = city
+#b_dornigdorf = temple
+#b_taubchensdorf = castle
+#b_beengendereichhornchensdorf = city
 
 # Misc
 culture = drakwalder

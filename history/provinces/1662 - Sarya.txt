@@ -1,0 +1,16 @@
+# 1662 Sarya
+
+# County Title
+title = c_sarya
+
+# Settlements
+max_settlements = 2
+b_sarya = castle
+#b_ondas = city
+
+# Misc
+culture = mung
+religion = chaos
+
+
+# History

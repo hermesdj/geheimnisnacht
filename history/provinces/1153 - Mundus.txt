@@ -1,0 +1,16 @@
+# 1153 Mundus
+
+# County Title
+title = c_mundus
+
+# Settlements
+max_settlements = 2
+b_mundus = castle
+b_exitus = temple
+
+# Misc
+culture = kashite
+religion = nehekharan_gods
+
+
+# History

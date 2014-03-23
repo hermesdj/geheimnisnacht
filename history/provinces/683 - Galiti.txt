@@ -6,11 +6,11 @@ title = c_galiti
 # Settlements
 max_settlements = 3
 b_galiti = castle
-b_lippolit = city
-b_sonrai = temple
+#b_lippolit = city
+#b_sonrai = temple
 
 # Misc
-culture = drakwalder
+culture = neueslander
 religion = sigmarite
 
 

@@ -7,8 +7,8 @@ title = c_bourgou
 max_settlements = 4
 b_degenas = castle
 b_noverre = city
-b_richeline = temple
-b_thirlieu = city
+#b_richeline = temple
+#b_thirlieu = city
 
 # Misc
 culture = breton

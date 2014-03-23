@@ -1,0 +1,17 @@
+# 1279 Inred
+
+# County Title
+title = c_inred
+
+# Settlements
+max_settlements = 3
+b_inred = castle
+b_molag = temple
+#b_gordrun = city
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

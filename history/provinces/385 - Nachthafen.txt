@@ -7,8 +7,8 @@ title = c_nachthafen
 max_settlements = 4
 b_nachtschlosse = castle
 b_nachthafen = city
-b_gallhof = temple
-b_gallerschlosse = castle
+#b_gallhof = temple
+#b_gallerschlosse = castle
 
 # Misc
 culture = sylvanian

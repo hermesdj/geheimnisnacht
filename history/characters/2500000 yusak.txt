@@ -131,9 +131,9 @@ intrigue = 5
 learning = 1
 add_trait = "falconer"
 add_trait = "skilled_tactician"
-add_trait="stressed"
+
 add_trait="humble"
-add_trait="depressed"
+
 
 1979.12.20={birth="1979.12.20"}
 2031.3.15={death="2031.3.15"}
@@ -376,7 +376,7 @@ add_trait = "intricate_webweaver"
 add_trait="paranoid"
 
 
-1979.1.29={birth="1979.1.29"}
+1979.1.29={birth=yes}
 2045.3.6={death="2045.3.6"}
 }
 

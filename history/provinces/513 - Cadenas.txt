@@ -7,7 +7,7 @@ max_settlements = 4
 b_cadenas = castle
 b_calafa = temple
 b_san_miguel = city
-b_liriazo = city
+#b_liriazo = city
 
 #Misc
 culture = norteno

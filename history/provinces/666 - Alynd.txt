@@ -7,12 +7,12 @@ title = c_alynd
 max_settlements = 4
 b_alynd = castle
 b_basica = city
-b_mackay = temple
-b_grasers_flick = castle
+#b_mackay = temple
+#b_grasers_flick = castle
 
 # Misc
-culture = wissenlander
-religion = sigmarite
+culture = oltremari
+religion = classical_gods
 
 
 # History

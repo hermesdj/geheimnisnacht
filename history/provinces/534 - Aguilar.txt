@@ -7,8 +7,8 @@ title = c_aguilar
 max_settlements = 4
 b_cebreros = castle
 b_ados = city
-b_san_jorge = city
-b_davalos = castle
+#b_san_jorge = city
+#b_davalos = castle
 
 #Misc
 culture = obregonese

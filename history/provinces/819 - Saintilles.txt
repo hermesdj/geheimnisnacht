@@ -8,7 +8,7 @@ max_settlements = 4
 b_saintilles = castle
 b_siege_perilous = castle
 b_pompignan = temple
-b_athos = city
+#b_athos = city
 
 # Misc
 culture = armoric

@@ -7,7 +7,7 @@ max_settlements = 4
 b_javea = castle
 b_amelga = city
 b_dabatta = city
-b_deragon = temple
+#b_deragon = temple
 
 #Misc
 culture = astur

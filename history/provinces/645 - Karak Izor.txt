@@ -7,7 +7,7 @@ title = c_karak_izor
 max_settlements = 3
 b_karak_izor = castle
 b_grungi_khaz = temple
-b_drakkinboren = temple
+#b_drakkinboren = temple
 
 # Misc
 culture = dwarf_main

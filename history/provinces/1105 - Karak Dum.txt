@@ -7,8 +7,8 @@ title = c_karak_dum
 max_settlements = 4
 b_karak_dum = castle
 b_haglkorn_ungor = castle
-b_grung_holr = city
-b_grung_bronn = city
+#b_grung_holr = city
+#b_grung_bronn = city
 
 # Misc
 culture = dwarf_main

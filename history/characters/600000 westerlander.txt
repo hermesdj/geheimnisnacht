@@ -145,7 +145,7 @@ add_trait = "creature_human"
 add_trait = "falconer"
 add_trait = "scholarly_theologian"
 add_trait="content"
-add_trait="stressed"
+
 1978.5.21={birth=yes}
 2020.2.26={death=yes}
 }
@@ -165,7 +165,7 @@ mother = 600085
 add_trait = "creature_human"
 add_trait = "falconer"
 add_trait = "charismatic_negotiator"
-add_trait="depressed"
+
 add_trait="drunkard"
 add_trait="lustful"
 
@@ -609,7 +609,7 @@ learning = 10
 add_trait = "creature_human"
 add_trait = "hedonist"
 add_trait = "mastermind_theologian"
-add_trait="stressed"
+
 add_trait="homosexual"
 
 
@@ -2979,6 +2979,7 @@ add_trait = "skilled_tactician"
 add_trait = "hedonist"
 add_trait = "gregarious"
 2453.11.1={birth=yes}
+2492.1.21 = {add_spouse=200002}
 2532.5.21={death=yes}
 }
 
@@ -3180,6 +3181,7 @@ stewardship = 1
 intrigue = 4
 learning = 2
 father = 600138
+mother = 200002
 add_trait = "creature_human"
 add_trait = "skilled_tactician"
 add_trait = "content"
@@ -3369,4 +3371,183 @@ add_trait = "kind"
 2481.1.1={birth=yes}
 2542.11.20={death=yes}
 }
+
+600158={
+name = "Gozewijn"
+dynasty = 13340
+dna = "fgpjbmecpai"
+culture = westerlander
+religion = sigmarite
+military = 1
+diplomacy = 5
+stewardship = 2
+intrigue = 4
+learning = 1
+add_trait = "naive_appeaser"
+add_trait = "duelist"
+add_trait = "diligent"
+add_trait = "wroth"
+2471.3.1={birth=yes}
+2534.8.25={death=yes}
+}
+
+600159={
+name = "Arthur"
+dynasty = 13425
+dna = "cncmnlmoepl"
+culture = westerlander
+religion = sigmarite
+military = 2
+diplomacy = 4
+stewardship = 1
+intrigue = 0
+learning = 4
+add_trait = "underhanded_rogue"
+add_trait = "patient"
+add_trait = "paranoid"
+2480.9.1={birth=yes}
+2549.4.7={death=yes}
+}
+
+600160={
+name = "Gijsbert"
+dynasty = 13384
+dna = "hncghfbbnac"
+culture = westerlander
+religion = sigmarite
+military = 1
+diplomacy = 6
+stewardship = 2
+intrigue = 3
+learning = 2
+add_trait = "flamboyant_schemer"
+add_trait = "proud"
+add_trait = "temperate"
+add_trait = "chaste"
+2442.11.1={birth=yes}
+2514.11.23={death=yes}
+}
+
+600161={
+name = "Olda"
+female = yes
+dynasty = 13384
+dna = "dffcpebpjoc"
+culture = westerlander
+religion = sigmarite
+military = 6
+diplomacy = 8
+stewardship = 6
+intrigue = 3
+learning = 1
+father = 600160
+add_trait = "tough_soldier"
+add_trait = "chaste"
+add_trait = "zealous"
+add_trait = "greedy"
+add_trait = "honest"
+2481.1.1={birth=yes}
+2545.9.20={death=yes}
+}
+
+600162={
+name = "Joossine"
+female = yes
+dynasty = 13384
+dna = "beohdplkfli"
+culture = westerlander
+religion = sigmarite
+military = 3
+diplomacy = 8
+stewardship = 4
+intrigue = 2
+learning = 4
+mother = 600161
+add_trait = "thrifty_clerk"
+add_trait = "patient"
+2504.5.1={birth=yes}
+2544.4.20={death=yes}
+}
+
+600163={
+name = "Tomas"
+dynasty = 13384
+dna = "fbjbmbfjlnj"
+culture = westerlander
+religion = sigmarite
+military = 7
+diplomacy = 0
+stewardship = 5
+intrigue = 3
+learning = 8
+mother = 600161
+add_trait = "underhanded_rogue"
+add_trait = "trusting"
+add_trait = "ambitious"
+2511.1.1={birth=yes}
+2577.9.2={death=yes}
+}
+
+600164={
+name = "Helga"
+female = yes
+dynasty = 13384
+dna = "edldjcgppmh"
+culture = westerlander
+religion = sigmarite
+military = 2
+diplomacy = 6
+stewardship = 4
+intrigue = 5
+learning = 8
+father = 600160
+add_trait = "charismatic_negotiator"
+add_trait = "duelist"
+add_trait = "wroth"
+add_trait = "honest"
+2487.1.1={birth=yes}
+2538.3.5={death=yes}
+}
+
+600165={
+name = "Loretta"
+female = yes
+dynasty = 13384
+dna = "jplhejcmjcj"
+culture = westerlander
+religion = sigmarite
+military = 4
+diplomacy = 7
+stewardship = 8
+intrigue = 5
+learning = 5
+mother = 600164
+add_trait = "detached_priest"
+add_trait = "scholar"
+add_trait = "humble"
+add_trait = "zealous"
+add_trait = "craven"
+add_trait = "lustful"
+2510.1.1={birth=yes}
+2531.2.8={death=yes}
+}
+
+600166={
+name = "Gozwin"
+dynasty = 13484
+dna = "jdlhajccjcj"
+culture = westerlander
+religion = sigmarite
+military = 4
+diplomacy = 7
+stewardship = 8
+intrigue = 5
+learning = 5
+mother = 600164
+add_trait = "detached_priest"
+add_trait = "scholar"
+2500.10.5={birth=yes}
+2551.5.18={death=yes}
+}
+
 

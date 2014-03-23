@@ -7,7 +7,7 @@ title = c_nornin
 max_settlements = 3
 b_grongol_norn = castle
 b_kro_ungor = temple
-b_grung_dal = castle
+#b_grung_dal = castle
 
 # Misc
 culture = dwarf_main

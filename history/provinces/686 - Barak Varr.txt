@@ -9,9 +9,9 @@ b_barak_varr = castle
 b_grunbar = castle
 b_barvarak_ungol = city
 b_thrinn_morak = temple
-b_darnum_gorun = city
-b_khazid_varr = castle
-b_kurgazar_varr = temple
+#b_darnum_gorun = city
+#b_khazid_varr = castle
+#b_kurgazar_varr = temple
 
 # Misc
 culture = dwarf_main

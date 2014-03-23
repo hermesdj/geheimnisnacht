@@ -7,16 +7,25 @@ title = c_marienburg
 max_settlements = 7
 b_rijkers_isle = castle
 b_winkelmarkt = city
-b_guilder_veld = castle
+b_guilder_veld = city
 b_tempelwijk = temple
-b_suiddock = city
-b_rijkspoort = city
-b_ostmuur = city
+#b_suiddock = city
+#b_rijkspoort = city
+#b_ostmuur = temple
+#b_oudgeldwijk = city
+#b_doodkanaal = city
+#b_kruiersmuur = castle
+#b_goudberg = castle
+#b_paleisbuurt = temple
+#b_handelaarmarkt = city
+#b_noordmuur = temple
+#b_vlakland = city
 
 # Misc
 culture = westerlander
 religion = sigmarite
 
+terrain = city
 
 # History
 

@@ -1,0 +1,16 @@
+# 1204 Baatar
+
+# County Title
+title = c_baatar
+
+# Settlements
+max_settlements = 2
+b_udigi = castle
+#b_kangjia = temple
+
+# Misc
+culture = mung
+religion = chaos
+
+
+# History

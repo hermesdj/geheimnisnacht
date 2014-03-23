@@ -6,8 +6,8 @@ title = c_calis
 max_settlements = 4
 b_campastello = castle
 b_zaopala = temple
-b_celiasto = castle
-b_doacado = castle
+#b_celiasto = castle
+#b_doacado = castle
 
 #Misc
 culture = tigarrese

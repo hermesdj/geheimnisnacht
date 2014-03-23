@@ -1,0 +1,16 @@
+# 1680 Toba
+
+# County Title
+title = c_toba
+
+# Settlements
+max_settlements = 2
+b_toba = castle
+#b_zandar = temple
+
+# Misc
+culture = mung
+religion = chaos
+
+
+# History

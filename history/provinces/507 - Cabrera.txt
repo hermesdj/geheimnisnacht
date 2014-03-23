@@ -8,7 +8,7 @@ b_cabral = castle
 b_estacrez = temple
 b_seniofredo = temple
 b_cabanellas = city
-b_corroga = temple
+#b_corroga = temple
 
 #Misc
 culture = norteno

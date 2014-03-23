@@ -112,7 +112,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -149,7 +149,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 
@@ -395,5 +395,59 @@ add_trait="weak"
 
 1991.1.10={birth=yes}
 2045.10.28={death=yes}
+}
+
+4500020={
+name = "Guillem"
+dynasty = 26051
+dna = "lkjeploejhn"
+culture = bourgon
+religion = lady_of_the_lake
+military = 3
+diplomacy = 7
+stewardship = 1
+intrigue = 5
+learning = 7
+add_trait = "tough_soldier"
+add_trait = "shy"
+add_trait = "trusting"
+1984.1.1={birth=yes}
+2047.4.8={death=yes}
+}
+
+4500021={
+name = "Piers"
+dynasty = 26067
+dna = "gkajbebkbcg"
+culture = bourgon
+religion = lady_of_the_lake
+military = 8
+diplomacy = 4
+stewardship = 6
+intrigue = 0
+learning = 6
+add_trait = "underhanded_rogue"
+add_trait = "humble"
+add_trait = "arbitrary"
+1965.1.1={birth=yes}
+2028.11.18={death=yes}
+}
+
+4500022={
+name = "Floris"
+dynasty = 26069
+dna = "goceobjkbnh"
+culture = bourgon
+religion = lady_of_the_lake
+military = 4
+diplomacy = 5
+stewardship = 1
+intrigue = 4
+learning = 7
+add_trait = "underhanded_rogue"
+add_trait = "diligent"
+add_trait = "drunkard"
+1976.1.1={birth=yes}
+2031.1.4={death=yes}
 }
 

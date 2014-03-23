@@ -39,7 +39,8 @@ add_trait = "honest"
 }
 
 750002={
-name = "Günzel"
+name = "Stoyanka"
+female = yes
 dynasty = 21042
 culture = ostermarker
 religion = taalite
@@ -54,7 +55,7 @@ add_trait = "gregarious"
 
 add_trait = "weak"
 
-1986.8.26={birth=yes}
+1991.8.26={birth=yes}
 2036.10.13={death=yes}
 }
 
@@ -658,3 +659,354 @@ add_trait = "humble"
 2471.3.15={birth=yes}
 2534.5.27={death=yes}
 }
+
+750034={
+name = "Stefan"
+dynasty = 21111
+dna = "lbaphjnamhp"
+culture = ostermarker
+religion = taalite
+military = 2
+diplomacy = 4
+stewardship = 4
+intrigue = 8
+learning = 7
+add_trait = "tough_soldier"
+2495.1.1={birth=yes}
+2546.9.22={death=yes}
+}
+
+750035={
+name = "Maximillian"
+dynasty = 21112
+dna = "icjpnphjpih"
+culture = ostermarker
+religion = taalite
+military = 3
+diplomacy = 2
+stewardship = 7
+intrigue = 5
+learning = 1
+add_trait = "skilled_tactician"
+add_trait = "gluttonous"
+2475.7.1={birth=yes}
+2512.3.2={death=yes}
+}
+
+750036={
+name = "Konrad"
+dynasty = 21112
+dna = "epmnhnpcbba"
+culture = ostermarker
+religion = taalite
+military = 5
+diplomacy = 3
+stewardship = 5
+intrigue = 4
+learning = 5
+father = 750035
+add_trait = "elusive_shadow"
+add_trait = "stressed"
+2493.7.1={birth=yes}
+2549.6.6={death=yes}
+}
+
+750037={
+name = "Hanni"
+female = yes
+dynasty = 21112
+dna = "chjiklmfklj"
+culture = ostermarker
+religion = taalite
+military = 3
+diplomacy = 3
+stewardship = 3
+intrigue = 5
+learning = 3
+father = 750035
+add_trait = "tough_soldier"
+add_trait = "content"
+add_trait = "charitable"
+add_trait = "arbitrary"
+2500.11.1={birth=yes}
+2525.11.26={death=yes}
+}
+
+750038={
+name = "Stefania"
+female = yes
+dynasty = 21113
+dna = "kiokndkmpdj"
+culture = ostermarker
+religion = taalite
+military = 2
+diplomacy = 3
+stewardship = 4
+intrigue = 7
+learning = 1
+add_trait = "flamboyant_schemer"
+add_trait = "mystic"
+add_trait = "content"
+add_trait = "chaste"
+add_trait = "humble"
+2462.5.1={birth=yes}
+2503.3.24={death=yes}
+}
+
+750039={
+name = "Edmund"
+dynasty = 21113
+dna = "oinbhkpgeho"
+culture = ostermarker
+religion = taalite
+military = 4
+diplomacy = 5
+stewardship = 4
+intrigue = 3
+learning = 4
+mother = 750038
+add_trait = "underhanded_rogue"
+add_trait = "wroth"
+add_trait = "patient"
+add_trait = "ill"
+2482.3.1={birth=yes}
+2534.11.4={death=yes}
+}
+
+750040={
+name = "Richeza"
+female = yes
+dynasty = 21113
+dna = "phpfgfolbcl"
+culture = ostermarker
+religion = taalite
+military = 3
+diplomacy = 6
+stewardship = 4
+intrigue = 5
+learning = 4
+mother = 750038
+add_trait = "thrifty_clerk"
+add_trait = "duelist"
+add_trait = "ambitious"
+add_trait = "craven"
+add_trait = "temperate"
+2488.3.1={birth=yes}
+2561.3.1={death=yes}
+}
+
+750041={
+name = "Marta"
+female = yes
+dynasty = 21113
+dna = "ehohkpemjpe"
+culture = ostermarker
+religion = taalite
+military = 2
+diplomacy = 6
+stewardship = 5
+intrigue = 4
+learning = 1
+mother = 750038
+add_trait = "thrifty_clerk"
+2496.1.1={birth=yes}
+2567.9.23={death=yes}
+}
+
+750042={
+name = "Ugo"
+dynasty = 21114
+dna = "lfnddlhbfmn"
+culture = ostermarker
+religion = taalite
+military = 4
+diplomacy = 5
+stewardship = 1
+intrigue = 4
+learning = 3
+add_trait = "flamboyant_schemer"
+add_trait = "impaler"
+add_trait = "cruel"
+add_trait = "temperate"
+add_trait = "wroth"
+add_trait = "lustful"
+2468.11.1={birth=yes}
+2516.10.15={death=yes}
+}
+
+750043={
+name = "Oswald"
+dynasty = 21114
+dna = "cnofidbbakh"
+culture = ostermarker
+religion = taalite
+military = 1
+diplomacy = 3
+stewardship = 6
+intrigue = 2
+learning = 4
+father = 750042
+add_trait = "misguided_warrior"
+add_trait = "lustful"
+add_trait = "deceitful"
+2492.9.1={birth=yes}
+2562.4.21={death=yes}
+}
+
+750044={
+name = "Gotthold"
+dynasty = 21116
+dna = "fmnbbbegikj"
+culture = ostermarker
+religion = taalite
+military = 4
+diplomacy = 6
+stewardship = 4
+intrigue = 6
+learning = 4
+add_trait = "indulgent_wastrel"
+add_trait = "paranoid"
+add_trait = "proud"
+2479.1.1={birth=yes}
+2535.1.27={death=yes}
+}
+
+750045={
+name = "Ursmar"
+dynasty = 21116
+dna = "ehomcldmdnb"
+culture = ostermarker
+religion = taalite
+military = 2
+diplomacy = 1
+stewardship = 8
+intrigue = 4
+learning = 1
+father = 750044
+add_trait = "skilled_tactician"
+add_trait = "greedy"
+add_trait = "chaste"
+add_trait = "craven"
+2506.1.1={birth=yes}
+2569.10.6={death=yes}
+}
+
+750046={
+name = "Hermann"
+dynasty = 21115
+dna = "ojlhngkfgml"
+culture = ostermarker
+religion = taalite
+military = 4
+diplomacy = 6
+stewardship = 3
+intrigue = 0
+learning = 6
+add_trait = "midas_touched"
+add_trait = "envious"
+add_trait = "trusting"
+add_trait = "gregarious"
+2480.1.1={birth=yes}
+2531.6.4={death=yes}
+}
+
+750047={
+name = "Gergana"
+female = yes
+dynasty = 21115
+dna = "bogddmogell"
+culture = ostermarker
+religion = taalite
+military = 7
+diplomacy = 4
+stewardship = 7
+intrigue = 7
+learning = 0
+father = 750046
+add_trait = "fortune_builder"
+add_trait = "chaste"
+add_trait = "gregarious"
+add_trait = "greedy"
+add_trait = "ambitious"
+2496.1.1={birth=yes}
+2559.5.29={death=yes}
+}
+
+750048={
+name = "Binhilde"
+female = yes
+dynasty = 21115
+dna = "lomdoebcalk"
+culture = ostermarker
+religion = taalite
+military = 0
+diplomacy = 3
+stewardship = 3
+intrigue = 4
+learning = 5
+father = 750046
+add_trait = "naive_appeaser"
+add_trait = "celibate"
+2501.9.1={birth=yes}
+2565.9.1={death=yes}
+}
+
+750049={
+name = "Karel"
+dynasty = 21117
+dna = "njldjepopem"
+culture = ostermarker
+religion = taalite
+military = 5
+diplomacy = 8
+stewardship = 2
+intrigue = 4
+learning = 3
+add_trait = "intricate_webweaver"
+add_trait = "hedonist"
+add_trait = "slothful"
+add_trait = "chaste"
+add_trait = "cruel"
+2464.7.1={birth=yes}
+2518.7.23={death=yes}
+}
+
+750050={
+name = "Richard"
+dynasty = 21117
+dna = "cbfnafhefbd"
+culture = ostermarker
+religion = taalite
+military = 5
+diplomacy = 6
+stewardship = 2
+intrigue = 3
+learning = 4
+father = 750049
+add_trait = "tough_soldier"
+add_trait = "patient"
+add_trait = "humble"
+2487.11.1={birth=yes}
+2548.8.5={death=yes}
+}
+
+750051={
+name = "Ladislau"
+dynasty = 21117
+dna = "ipnbomiomgb"
+culture = ostermarker
+religion = taalite
+military = 5
+diplomacy = 8
+stewardship = 3
+intrigue = 8
+learning = 6
+father = 750050
+add_trait = "naive_appeaser"
+add_trait = "wroth"
+add_trait = "honest"
+add_trait = "kind"
+2508.11.1={birth=yes}
+2580.4.2={death=yes}
+}
+

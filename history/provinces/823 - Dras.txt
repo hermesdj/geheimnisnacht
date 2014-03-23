@@ -7,8 +7,8 @@ title = c_dras
 max_settlements = 4
 b_sigmarsheim = castle
 b_naizon = city
-b_brignac = castle
-b_jardins_du_chagrin = temple
+#b_brignac = castle
+#b_jardins_du_chagrin = temple
 
 # Misc
 culture = mousillonian

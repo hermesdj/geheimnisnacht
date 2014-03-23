@@ -8,8 +8,8 @@ max_settlements = 5
 b_grenzstadt = castle
 b_lobenstein = city
 b_betzenstein = temple
-b_franzburg = city
-b_ichenhausen = castle
+#b_franzburg = city
+#b_ichenhausen = castle
 
 # Misc
 culture = averlander

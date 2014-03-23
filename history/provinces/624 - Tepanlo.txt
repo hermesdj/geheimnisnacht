@@ -7,7 +7,7 @@ title = c_tepanlo
 max_settlements = 3
 b_tepanlo = castle
 b_petorna = city
-b_arrabbiatta = temple
+#b_arrabbiatta = temple
 
 # Misc
 culture = lucian

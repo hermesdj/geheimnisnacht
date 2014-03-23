@@ -7,7 +7,7 @@ max_settlements = 4
 b_azuara = city
 b_hamasollo = city
 b_ratona = temple
-b_nunido = city
+#b_nunido = city
 
 #Misc
 culture = norteno

@@ -1,0 +1,20 @@
+# 1244 Azkaroth
+
+# County Title
+title = c_azkaroth
+
+# Settlements
+max_settlements = 6
+b_azkaroth = temple
+b_kummen = castle
+b_dagron = city
+#b_hydarox = temple
+#b_karphoom = temple
+#b_logsber = temple
+
+# Misc
+culture = tokmar
+religion = chaos
+
+
+# History

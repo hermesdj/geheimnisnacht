@@ -7,12 +7,12 @@ title = c_fatandira
 max_settlements = 4
 b_fatandira = castle
 b_fatanbad = city
-b_jabroni = castle
-b_vitrolle = city
+#b_jabroni = castle
+#b_vitrolle = city
 
 # Misc
-culture = tigarrese
-religion = classical_gods
+culture = marcheur
+religion = lady_of_the_lake
 
 
 # History

@@ -1,0 +1,17 @@
+# 1135 Peret 
+
+# County Title
+title = c_peret
+
+# Settlements
+max_settlements = 3
+b_peret = castle
+b_napata = city
+b_nedyt = temple
+
+# Misc
+culture = canopic
+religion = nehekharan_gods
+
+
+# History

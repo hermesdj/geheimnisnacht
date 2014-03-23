@@ -6,8 +6,8 @@ title = c_fauligmere
 # Settlements
 max_settlements = 3
 b_leydenhove = castle
-b_salfen = temple
-b_fauligmere = castle
+#b_salfen = temple
+#b_fauligmere = castle
 
 # Misc
 culture = westerlander

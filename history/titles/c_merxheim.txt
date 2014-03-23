@@ -1,15 +1,15 @@
 2010.1.1 = {
-liege="d_schildermark"
+	liege="d_uhland"
 }
 
 2010.1.1 = {
 	holder = 900007
 }
 
-2409.5.12 = {
-liege="k_reikland"
+2490.5.12 = {
+	holder = 900117
 }
 
-2409.5.12 = {
-	holder = 900082
+2525.5.21 = {
+	holder = 900116
 }

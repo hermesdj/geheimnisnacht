@@ -8,7 +8,7 @@ max_settlements = 4
 b_salair = castle
 b_podolsky = city
 b_novy_oskol = temple
-b_neya = city
+#b_neya = city
 
 # Misc
 culture = ungol

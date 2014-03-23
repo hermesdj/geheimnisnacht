@@ -4,12 +4,10 @@
 title = c_achaes
 
 # Settlements
-max_settlements = 5
+max_settlements = 3
 b_achaes = castle
 b_kratus = castle
-b_aleria = temple
-b_rhodesia = city
-b_eretra = city
+#b_aleria = temple
 
 # Misc
 culture = orc_main

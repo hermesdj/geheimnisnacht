@@ -7,8 +7,8 @@ title = c_skyggehaug
 max_settlements = 4
 b_skyggehaug = castle
 b_katimavik = temple
-b_varnus_triumph = castle
-b_cunilivik = city
+#b_varnus_triumph = castle
+#b_cunilivik = city
 
 # Misc
 culture = sarl

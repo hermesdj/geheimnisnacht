@@ -7,7 +7,7 @@ title = c_polotsk
 max_settlements = 3
 b_polotsk = castle
 b_vitebsk = city
-b_plast = temple
+#b_plast = temple
 
 # Misc
 culture = gospodar

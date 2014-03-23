@@ -6,9 +6,9 @@ title = c_kasos
 # Settlements
 max_settlements = 4
 b_kasos = castle
-b_mesombria = castle
-b_phocum = temple
-b_rhodope = city
+#b_mesombria = castle
+#b_phocum = temple
+#b_rhodope = city
 
 # Misc
 culture = myken

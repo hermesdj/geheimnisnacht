@@ -7,7 +7,7 @@ title = c_ergrens_peninsula
 max_settlements = 3
 b_ergrenvik = castle
 b_tyloks_point = temple
-b_port_of_erevum = city
+#b_port_of_erevum = city
 
 # Misc
 culture = varg

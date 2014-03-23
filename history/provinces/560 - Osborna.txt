@@ -8,7 +8,7 @@ b_reboalas = castle
 b_themoa = temple
 b_catanza = city
 b_danatoda = city
-b_erasolo = castle
+#b_erasolo = castle
 
 #Misc
 culture = astur

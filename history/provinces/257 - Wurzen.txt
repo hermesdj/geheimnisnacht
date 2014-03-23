@@ -8,8 +8,8 @@ max_settlements = 5
 b_wurzen = castle
 b_csenger = city
 b_dorog = city
-b_boven = castle
-b_penzlin = city
+#b_boven = castle
+#b_penzlin = city
 
 # Misc
 culture = ostlander

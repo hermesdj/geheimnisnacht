@@ -7,7 +7,7 @@ title = c_brabois
 max_settlements = 3
 b_talteuille = castle
 b_radeburg = city
-b_reric = temple
+#b_reric = temple
 
 # Misc
 culture = nortagnese

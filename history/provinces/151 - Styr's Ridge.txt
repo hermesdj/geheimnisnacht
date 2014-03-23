@@ -7,7 +7,7 @@ title = c_styrs_ridge
 max_settlements = 3
 b_styrvik = city
 b_hedelborg = castle
-b_hcraeum = temple
+#b_hcraeum = temple
 
 # Misc
 culture = sarl

@@ -9,8 +9,8 @@ b_gisoreux = castle
 b_galencay = temple
 b_vaucou_les_chevaliers = castle
 b_ceurs = city
-b_melonge = temple
-b_forquelone = city
+#b_melonge = temple
+#b_forquelone = city
 
 # Misc
 culture = gisoren

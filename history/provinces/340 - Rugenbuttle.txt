@@ -1,0 +1,17 @@
+# 340 Rugenbuttle
+
+# County Title
+title = c_rugenbuttle
+
+# Settlements
+max_settlements = 3
+b_rugenbuttle = castle
+b_velden = temple
+#b_weilheim = city
+
+# Misc
+culture = ostermarker
+religion = taalite
+
+
+# History

@@ -7,8 +7,8 @@ title = c_harskamp
 max_settlements = 4
 b_harskamp = castle
 b_stedum = city
-b_oostwold = city
-b_loenen = temple
+#b_oostwold = city
+#b_loenen = temple
 
 # Misc
 culture = westerlander

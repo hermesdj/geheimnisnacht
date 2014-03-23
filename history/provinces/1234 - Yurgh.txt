@@ -1,0 +1,16 @@
+# 1234 Yurgh
+
+# County Title
+title = c_yurgh
+
+# Settlements
+max_settlements = 2
+b_yurgh = castle
+#b_lika = temple
+
+# Misc
+culture = gharhar
+religion = chaos
+
+
+# History

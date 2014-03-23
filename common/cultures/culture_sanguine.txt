@@ -33,10 +33,51 @@ sanguine_group = {
 		color = { 1.0 0.4 0.1 }
 
 		male_names = {
-
+			Alf Ambrose Ambrosius Anders Andrash Andrea Andreas Andreu Andrew Andries Andrzej Angbert Anthon Anthonius Antoni August 
+			Baptiste Barbo Barthélemy Bartholomeus Barto Besnik Bo Boiko Boldo 
+			Cappi Caspar Chal Chalie Chalin Chik 
+			Danor David Dederich Derrick Django Djordji Dukker Durriken 
+			Eldred Emaus Emilian Erik Ernst 
+			Felippo Ferka Fonso Franciscus Frederic 
+			Gabriel Gagino George Geralt Guaril Gudada Gunari György 
+			Halmar Hamelen Hans Hanzi Harman herman Ion Ionos 
+			Jacobo Jacque Jaime Jal Jean Jean Jehan Jens Joannes Johan Johan Johannes John Juan Juan Julius Jurgen 
+			Karl Karloman Kaster Kosma Kung 
+			Ladislaus Lambert Lel Lennor Leonard Loiza Lothar Luca Ludwig Luitpold Lukas 
+			Marko Martin Martin Martino Merikano Michael Michele Michell Miguel Mihai Mihali Mikal Milosh Miquiel Mircea Morrslieb Mortimer 
+			Nicolao Nicolaus Nicols Nicu 
+			Othi Oti 
+			Pali Palque Panuel Paulo Pesha Petrus Petsha Philip Philippe Pierre Pitivo Pitti Plamen Pugg Punka 
+			Rorik Rorke Rott Rurik 
+			Saban Shandor Sigmund Simionce Sindel Skald Steben Stefan Stephen Stevo 
+			Talgris Tamás Tawno Tem Thomas Tobar Tomas Tomás Torgo 
+			Walther Walther Wasili Wesh Wilhelm Willem 
+			Yanko Yanoro Yorrick Yorson Yoska 
+			Zardoz Zindel Zindelo 
 		}
 		female_names = {
-
+			Aisha Aishe Anastasia Anis Asa Ashena Augusta Avia 
+			Beata Bella 
+			Candice Celeste Cherri Clare Clarissa Cojiñí Condesa Cordel 
+			Darklis Dika Donka Drina 
+			Emmanaia Esma Esmeralda Esti Ethelenda Eva Everilda 
+			Fatima Felicita Fifika Florica Franka 
+			Gabrielle Germaine Gildí Giselda 
+			Harriet Hilde 
+			Jaelle Jaelle Jax Jeanne Jenni Joan Joffy Jofranka Jutter 
+			Kassandra Kassi Katerin Katherine Kim Kira Kirsten Kizzy Krystal 
+			Lajariá Lala Lilah Luludja Luminitsa Luna Luzi Lydia Lyuba Lyubitshka 
+			Mairenni Majaris Mako Mala Manishie Marousia Milbrer Mirela Miri Monisha Morgana Morticia Muria Myrmidia 
+			Nadya Nicole Nuri 
+			Ocán Oceane
+			Peneli Polly 
+			Rayne Rosa 
+			Sanpurananzi Sara Saskia Shofranka Sif Sigrid Sile Simza Sinfi Sirena Sofi Stanka Stella Suri Swanhild Syeira 
+			Tabitha Talaitha Tomašis Trejú Triss Truffeni Tshilaba Tsura Tsuritsa 
+			Ucho Ujaranza 
+			Vadoma Vera Verena Violca Viollca 
+			Yazmin Yennifer Yvonne 
+			Zemfira Zoe Zora Zujenia 
 		}
 
 		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.

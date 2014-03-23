@@ -7,7 +7,7 @@ title = c_khazid_nekewukaz
 max_settlements = 3
 b_khazid_nekewukaz = castle
 b_barak_obama = castle
-b_grongil_ankron = temple
+#b_grongil_ankron = temple
 
 # Misc
 culture = dwarf_main

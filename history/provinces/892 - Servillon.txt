@@ -7,7 +7,7 @@ title = c_servillon
 max_settlements = 3
 b_servillon = castle
 b_muscance = temple
-b_salagou = castle
+#b_salagou = castle
 
 # Misc
 culture = carcassian

@@ -8,7 +8,7 @@ max_settlements = 4
 b_chateau_guerac = castle
 b_circle_de_guerac = temple
 b_sable = temple
-b_meillant = city
+#b_meillant = city
 
 # Misc
 culture = gisoren

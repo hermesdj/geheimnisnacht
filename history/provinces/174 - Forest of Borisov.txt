@@ -7,7 +7,7 @@ title = c_forest_of_borisov
 max_settlements = 3
 b_borisovo = castle
 b_oblastobivk = city
-b_klichevik = temple
+#b_klichevik = temple
 
 # Misc
 culture = ungol

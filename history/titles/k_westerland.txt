@@ -17,9 +17,13 @@
 }
 
 2302.7.23 = {
+	holder = 200005
+}
+
+2304.12.5 = {
+	holder = 600124
 	name = MARIENBURG
 	adjective = MARIENBURG_ADJ
-	holder = 600124
 }
 
 2304.12.5 = {

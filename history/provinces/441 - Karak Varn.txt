@@ -8,8 +8,8 @@ max_settlements = 5
 b_karak_varn = castle
 b_khazid_aldum = castle
 b_untolaz_ungor = city
-b_grung_durandum = temple
-b_khazid_grungdulum = temple
+#b_grung_durandum = temple
+#b_khazid_grungdulum = temple
 
 # Misc
 culture = goblin_main

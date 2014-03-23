@@ -8,7 +8,7 @@ max_settlements = 4
 b_toscania = castle
 b_gimignano = city
 b_fiorenta = temple
-b_amaleto = castle
+#b_amaleto = castle
 
 # Misc
 culture = miraglian

@@ -8,8 +8,8 @@ max_settlements = 5
 b_turui = castle
 b_sergyls = temple
 b_nygavik = city
-b_skartasund = castle
-b_midalfjord = city
+#b_skartasund = castle
+#b_midalfjord = city
 
 # Misc
 culture = skaeling

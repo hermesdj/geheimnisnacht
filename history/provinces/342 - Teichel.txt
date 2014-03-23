@@ -7,9 +7,9 @@ title = c_teichel
 max_settlements = 5
 b_purgg = castle
 b_klam = temple
-b_pramet = city
-b_oberwil = city
-b_munzhausen = city
+#b_pramet = city
+#b_oberwil = city
+#b_munzhausen = city
 
 # Misc
 culture = stirlander

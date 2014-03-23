@@ -1,0 +1,21 @@
+# 1121 Khemri
+
+# County Title
+title = c_khemri
+
+# Settlements
+max_settlements = 7
+b_khemri = castle
+b_mene = city
+b_settrana = temple
+b_khora_gebel = city
+b_siptah = castle
+b_henes = city
+b_yam_gebel = temple
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

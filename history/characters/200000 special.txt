@@ -46,3 +46,83 @@ add_trait = "content"
 2529.9.20={death=yes}
 }
 
+200002={
+name = "Katsu"
+female = yes
+dynasty = 9001
+dna = "bijfnojicgh"
+culture = nipponese
+religion = sigmarite
+military = 3
+diplomacy = 6
+stewardship = 7
+intrigue = 5
+learning = 1
+add_trait = "thrifty_clerk"
+add_trait = "hunter"
+add_trait = "paranoid"
+add_trait = "honest"
+add_trait = "content"
+2475.1.1={birth=yes}
+2492.1.21 = {add_spouse=600138}
+2534.4.13={death=yes}
+}
+
+200003={
+name = "Yoshitomo"
+dynasty = 13016
+dna = "iconldhafdo"
+culture = nipponese
+religion = sigmarite
+military = 2
+diplomacy = 4
+stewardship = 6
+intrigue = 6
+learning = 3
+father = 600138
+mother = 200002
+add_trait = "thrifty_clerk"
+add_trait = "patient"
+add_trait = "deceitful"
+2515.1.1={birth=yes}
+2579.6.16={death=yes}
+}
+
+200004={
+name = "Johann" #Seneschal of Averland after the death of Marius Leitdorf
+dynasty = 0
+dna = "djngnkdjbnj"
+culture = averlander
+religion = sigmarite
+military = 2
+diplomacy = 4
+stewardship = 2
+intrigue = 6
+learning = 3
+add_trait = "thrifty_clerk"
+add_trait = "gregarious"
+add_trait = "trusting"
+add_trait = "incapable"
+2494.1.1={birth=yes}
+2556.10.8={death=yes}
+}
+
+200005={
+name = "Johan" #Seneschal of Westerland after the death of Helmut van der Maacht
+dynasty = 0
+dna = "kfcgceolpbp"
+culture = westerlander
+religion = sigmarite
+military = 0
+diplomacy = 1
+stewardship = 2
+intrigue = 3
+learning = 5
+add_trait = "brilliant_strategist"
+add_trait = "gregarious"
+add_trait = "paranoid"
+add_trait = "incapable"
+2282.1.1={birth=yes}
+2369.2.18={death=yes}
+}
+

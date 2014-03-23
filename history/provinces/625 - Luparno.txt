@@ -7,8 +7,8 @@ title = c_luparno
 max_settlements = 4
 b_luparno = castle
 b_salagno = city
-b_finistro = temple
-b_monteste = castle
+#b_finistro = temple
+#b_monteste = castle
 
 # Misc
 culture = lucian

@@ -6,8 +6,8 @@ title = c_gualcazar
 max_settlements = 4
 b_gualcazar = castle
 b_zakar = city
-b_quitra = castle
-b_sidoniaceli = castle
+#b_quitra = castle
+#b_sidoniaceli = castle
 
 #Misc
 culture = montanese

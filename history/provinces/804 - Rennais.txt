@@ -7,7 +7,7 @@ title = c_rennais
 max_settlements = 3
 b_rennesse = castle
 b_bruleaux = temple
-b_carette = city
+#b_carette = city
 
 # Misc
 culture = nortagnese

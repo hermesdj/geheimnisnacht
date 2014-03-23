@@ -7,7 +7,7 @@ title = c_hragyl
 max_settlements = 3
 b_hragvik = castle
 b_eterivik = city
-b_sump = temple
+#b_sump = temple
 
 # Misc
 culture = skaeling

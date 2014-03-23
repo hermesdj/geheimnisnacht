@@ -1,0 +1,17 @@
+# 1220 Sakar
+
+# County Title
+title = c_sakar
+
+# Settlements
+max_settlements = 3
+b_sakar = castle
+#b_izhoria = temple
+#b_mergr = city
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

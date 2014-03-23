@@ -1,5 +1,5 @@
 1500000={
-name = "Malowuj"
+name = "Mana"
 dynasty = 33012
 culture = ropsmann
 religion = northern_gods
@@ -19,7 +19,7 @@ add_trait="craven"
 }
 
 1500001={
-name = "Konrad"
+name = "Jogaila"
 dynasty = 33019
 culture = ropsmann
 religion = northern_gods
@@ -39,7 +39,7 @@ add_trait="honest"
 }
 
 1500002={
-name = "Czcibor"
+name = "Dausprungas"
 dynasty = 33052
 culture = ropsmann
 religion = northern_gods
@@ -59,7 +59,7 @@ add_trait="tall"
 }
 
 1500003={
-name = "Prendota"
+name = "Bikshe"
 dynasty = 33072
 culture = ropsmann
 religion = northern_gods
@@ -79,7 +79,8 @@ add_trait="weak"
 }
 
 1500004={
-name = "Vingoldas"
+name = "Marite"
+female = yes
 dynasty = 33055
 culture = ropsmann
 religion = northern_gods
@@ -94,12 +95,12 @@ add_trait="wroth"
 add_trait="humble"
 add_trait="chaste"
 
-2001.10.6={birth="2001.10.6"}
-2055.3.20={death="2055.3.20"}
+1991.10.6={birth=yes}
+2055.3.20={death=yes}
 }
 
 1500005={
-name = "Gedigaudas"
+name = "Viesturs"
 dynasty = 33024
 culture = ropsmann
 religion = northern_gods
@@ -112,7 +113,7 @@ add_trait = "hunter"
 add_trait = "naive_appeaser"
 add_trait="temperate"
 add_trait="content"
-add_trait="stressed"
+
 
 1967.6.9={birth="1967.6.9"}
 2024.12.28={death="2024.12.28"}
@@ -160,7 +161,8 @@ add_trait="lustful"
 }
 
 1500008={
-name = "Rimantas"
+name = "Haldjas"
+female = yes
 dynasty = 33061
 culture = ropsmann
 religion = northern_gods
@@ -180,7 +182,7 @@ add_trait="homosexual"
 }
 
 1500009={
-name = "Zygimantas"
+name = "Sergonis"
 dynasty = 33064
 culture = ropsmann
 religion = northern_gods
@@ -220,7 +222,7 @@ add_trait="lisp"
 }
 
 1500011={
-name = "Rimgaila"
+name = "Olavi"
 dynasty = 33087
 culture = ropsmann
 religion = northern_gods
@@ -231,7 +233,7 @@ intrigue = 3
 learning = 4
 add_trait = "scholar"
 add_trait = "detached_priest"
-add_trait="depressed"
+
 
 
 
@@ -240,7 +242,7 @@ add_trait="depressed"
 }
 
 1500012={
-name = "Witosz"
+name = "Kurlemuse"
 dynasty = 33051
 culture = ropsmann
 religion = northern_gods
@@ -280,7 +282,7 @@ add_trait="fair"
 }
 
 1500014={
-name = "Lasukas"
+name = "Lembit"
 dynasty = 33037
 culture = ropsmann
 religion = northern_gods
@@ -300,7 +302,7 @@ add_trait="just"
 }
 
 1500015={
-name = "Sarunas"
+name = "Unnepeve"
 dynasty = 33071
 culture = ropsmann
 religion = northern_gods
@@ -320,7 +322,7 @@ add_trait="cynical"
 }
 
 1500016={
-name = "Merkelis"
+name = "Paimis"
 dynasty = 33090
 culture = ropsmann
 religion = northern_gods
@@ -340,7 +342,8 @@ add_trait="honest"
 }
 
 1500017={
-name = "Imram"
+name = "Grasus"
+female = yes
 dynasty = 33099
 culture = ropsmann
 religion = northern_gods
@@ -360,7 +363,8 @@ add_trait="kind"
 }
 
 1500018={
-name = "Piotr"
+name = "Inda"
+female = yes
 dynasty = 33022
 culture = ropsmann
 religion = northern_gods
@@ -380,7 +384,8 @@ add_trait="craven"
 }
 
 1500019={
-name = "Henryk"
+name = "Maaemä"
+female = yes
 dynasty = 33253
 culture = ropsmann
 religion = northern_gods

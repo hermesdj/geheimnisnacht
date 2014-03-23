@@ -1,0 +1,16 @@
+# 1671 Nai Khi
+
+# County Title
+title = c_nai_khi
+
+# Settlements
+max_settlements = 2
+b_toqata = castle
+#b_giray = city
+
+# Misc
+culture = chi_an
+religion = chaos
+
+
+# History

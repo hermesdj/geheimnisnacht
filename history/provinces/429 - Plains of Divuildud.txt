@@ -1,0 +1,16 @@
+# 429 Plains of Divuildud
+
+# County Title
+title = c_plains_of_the_divuildud
+
+# Settlements
+max_settlements = 2
+b_kroggoth = castle
+b_frakinstad = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

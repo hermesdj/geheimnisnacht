@@ -7,7 +7,7 @@ title = c_querigord
 max_settlements = 3
 b_courfeyrac = castle
 b_montreuil = temple
-b_thier = city
+#b_thier = city
 
 # Misc
 culture = breton

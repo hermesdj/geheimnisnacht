@@ -7,8 +7,8 @@ title = c_caprio
 max_settlements = 4
 b_caprio = castle
 b_ossonmunte = castle
-b_senelite = temple
-b_tarpano = castle
+#b_senelite = temple
+#b_tarpano = castle
 
 # Misc
 culture = sartosan_tilean

@@ -7,8 +7,8 @@ title = c_kusel
 max_settlements = 4
 b_kusel = castle
 b_lochrafurt = castle
-b_strudel = castle
-b_niebull = city
+#b_strudel = castle
+#b_niebull = city
 
 # Misc
 culture = talabeclander

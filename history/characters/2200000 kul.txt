@@ -130,7 +130,7 @@ intrigue = 5
 learning = 8
 add_trait = "poet"
 add_trait = "skilled_tactician"
-add_trait="depressed"
+
 
 
 
@@ -190,7 +190,7 @@ intrigue = 2
 learning = 4
 add_trait = "poet"
 add_trait = "misguided_warrior"
-add_trait="stressed"
+
 add_trait="legit_bastard"
 add_trait="lisp"
 

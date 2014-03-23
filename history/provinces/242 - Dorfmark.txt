@@ -7,7 +7,7 @@ title = c_dorfmark
 max_settlements = 3
 b_dorfmark = castle
 b_dunsen = city
-b_marklohe = city
+#b_marklohe = city
 
 # Misc
 culture = nordlander

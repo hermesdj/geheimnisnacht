@@ -6,7 +6,7 @@ title = c_fays
 # Settlements
 max_settlements = 2
 b_fays_la_chapelle = temple
-b_bois_des_fays = castle
+#b_bois_des_fays = castle
 
 # Misc
 culture = bourgon

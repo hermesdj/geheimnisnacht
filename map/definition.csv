@@ -269,8 +269,8 @@ province;red;green;blue;x;x
 268;126;165;34;Scheinfeld;x
 269;168;168;162;Mittelwig;x
 270;0;171;35;Carroburg;x
-271;42;174;163;Schongau;x
-272;84;177;36;Werther;x
+271;42;174;163;Nordlichturm;x
+272;84;177;36;Suderende;x
 273;126;180;164;Kammendun;x
 274;168;183;37;Middenheim;x
 275;0;186;165;Malstedt;x
@@ -308,7 +308,7 @@ province;red;green;blue;x;x
 307;84;69;181;Wittendorf;x
 308;126;72;54;Rohrhausen;x
 309;168;75;182;Nuln;x
-310;0;78;55;Wissenberg;x
+310;0;78;55;Wissenburg;x
 311;42;81;183;Derbheim;x
 312;84;84;56;Wurmgrube;x
 313;126;87;184;Kelgard;x
@@ -346,13 +346,13 @@ province;red;green;blue;x;x
 345;0;183;200;Ramsau;x
 346;42;186;73;Zaya Hills;x
 347;84;189;201;Stirhugel;x
-348;126;192;74;Worden;x
+348;126;192;74;Wordern;x
 349;168;195;202;Oberstyre;x
 350;0;198;75;Altern Forest;x
 351;42;201;203;Sleep Woods;x
-352;84;204;76;Elster;x
+352;84;204;76;Leedleton;x
 353;126;207;204;Lengenfeld;x
-354;168;210;77;Calmfahre;x
+354;168;210;77;Colmfahre;x
 355;0;0;205;Streissen;x
 356;42;3;78;Wuppertal;x
 357;84;6;206;Averheim;x
@@ -368,14 +368,14 @@ province;red;green;blue;x;x
 367;84;36;211;Fortenhaf;x
 368;126;39;84;The Veldt;x
 369;168;42;212;Rundespitze;x
-370;0;45;85;Dead Wood;x
+370;0;45;85;Mordheim;x
 371;42;48;213;Carlsbruck;x
-372;84;51;86;The Eirie Downs;x
+372;84;51;86;Kolhov;x
 373;126;54;214;Regak;x
 374;168;57;87;Nagenhof;x
-375;0;60;215;Hunger Wood;x
+375;0;60;215;Sternieste;x
 376;42;63;88;Konigstein;x
-377;84;66;216;Bylorhof Marsh;x
+377;84;66;216;Bylorhof;x
 378;126;69;89;Templehof;x
 379;168;72;217;Vanhaldenhof;x
 380;0;75;90;Grim Wood;x
@@ -396,8 +396,8 @@ province;red;green;blue;x;x
 395;0;120;225;Mokrishte;x
 396;42;123;98;Poibrene;x
 397;84;126;226;Lesichovo;x
-398;126;129;99;Bata;x
-399;168;132;227;Rakovskova;x
+398;126;129;99;Jakki;x
+399;168;132;227;Nyarammog;x
 400;0;135;0;Panitsovo;x
 401;42;138;128;Ruen;x
 402;84;141;1;Dragotintsi;x
@@ -573,13 +573,13 @@ province;red;green;blue;x;x
 572;84;12;86;Zaraguz;x
 573;126;15;214;Gualcázar;x
 574;168;18;87;Tobaro;x
-575;0;21;215;Plagued Islands;x
+575;0;21;215;Liburni;x
 576;42;24;88;Illiria;x
 577;84;27;216;Delamata;x
 578;126;30;89;Aquilas;x
 579;168;33;217;Isole Sirene;x
-580;0;36;90;West Fool's Point;x
-581;42;39;218;East Fool's Point;x
+580;0;36;90;Scordisci;x
+581;42;39;218;Autaria;x
 582;84;42;91;Udolpho;x
 583;126;45;219;Ravola;x
 584;168;48;92;Miragliano;x
@@ -665,64 +665,64 @@ province;red;green;blue;x;x
 664;168;75;32;Achaes;x
 665;0;78;160;Arnalos;x
 666;42;81;33;Alynd;x
-667;84;84;161;Kinkid;x
-668;126;87;34;Vatin;x
+667;84;84;161;Heldegrad;x
+668;126;87;34;Mortensholm;x
 669;168;90;162;Malko;x
 670;0;93;35;Mognia;x
 671;42;96;163;Hinrikness;x
-672;84;99;36;Togor;x
-673;126;102;164;Kurthan;x
-674;168;105;37;Vidovdan;x
-675;0;108;165;Hvagir;x
-676;42;111;38;Ladislis;x
-677;84;114;166;Vlacks;x
+672;84;99;36;Vinsbrugge;x
+673;126;102;164;Inkodevna;x
+674;168;105;37;Albusdorf;x
+675;0;108;165;Vidovdan;x
+676;42;111;38;Brasov;x
+677;84;114;166;Quaterain;x
 678;126;117;39;Matorca;x
-679;168;120;167;Bacs;x
+679;168;120;167;Spinda;x
 680;0;123;40;Moslac;x
-681;42;126;168;Timohir;x
-682;84;129;41;Carcahg;x
+681;42;126;168;Somjek;x
+682;84;129;41;Mornell;x
 683;126;132;169;Galiti;x
-684;168;135;42;Kuman;x
-685;0;138;170;Somjek;x
+684;168;135;42;Dhouda;x
+685;0;138;170;Masserschloss;x
 686;42;141;43;Barak Varr;x
 687;84;144;171;Styratia;x
-688;126;147;44;Kalk;x
+688;126;147;44;Munzig;x
 689;168;150;172;Sturgun;x
-690;0;153;45;Aken;x
-691;42;156;173;The Vale of Webs;x
-692;84;159;46;Sollat;x
-693;126;162;174;Sarij;x
-694;168;165;47;Velliko;x
-695;0;168;175;Mysain;x
+690;0;153;45;Akendorf;x
+691;42;156;173;Kalk;x
+692;84;159;46;Deiter;x
+693;126;162;174;Mirke;x
+694;168;165;47;Malko;x
+695;0;168;175;Geistenmund;x
 696;42;171;48;Bythan;x
-697;84;174;176;Black Spider;x
-698;126;177;49;Skull River;x
+697;84;174;176;Tanais;x
+698;126;177;49;Zenres;x
 699;168;180;177;Fatandira;x
-700;0;183;50;Brovska;x
-701;42;186;178;Starnek;x
-702;84;189;51;Aldium;x
+700;0;183;50;Aldium;x
+701;42;186;178;Lament;x
+702;84;189;51;Brovska;x
 703;126;192;179;Levrellian;x
 704;168;195;52;Varenka;x
-705;0;198;180;Karsak;x
+705;0;198;180;Turov;x
 706;42;201;53;Gulthac;x
 707;84;204;181;Haflok;x
-708;126;207;54;Carae;x
+708;126;207;54;Clazo;x
 709;168;210;182;Knidus;x
-710;0;0;55;Blood River;x
-711;42;3;183;Ironclaw;x
+710;0;0;55;Blutgar;x
+711;42;3;183;Karsack;x
 712;84;6;56;Iron Rock;x
 713;126;9;184;Matul Remrit;x
 714;168;12;57;Cimmeria;x
 715;0;15;185;Sakaryia;x
 716;42;18;58;Mushki;x
-717;84;21;186;Physika;x
-718;126;24;59;Odrys;x
-719;168;27;187;Chrios;x
+717;84;21;186;Paragorn;x
+718;126;24;59;Odris;x
+719;168;27;187;Crios;x
 720;0;30;60;Nonucci Island;x
-721;42;33;188;Thale;x
-722;84;36;61;Aig;x
+721;42;33;188;Raven Barrow;x
+722;84;36;61;Mentreda;x
 723;126;39;189;Khypris;x
-724;168;42;62;Karpathos;x
+724;168;42;62;Sapphiro;x
 725;0;45;190;Ilios;x
 726;42;48;63;Langkt Girt;x
 727;84;51;191;Langkhaz;x
@@ -930,8 +930,8 @@ province;red;green;blue;x;x
 929;127;0;94;Hundsheimerwald;x
 930;128;45;129;Zherden;x
 931;170;48;2;Stimmigen;x
-932;2;51;130;Plateau of Zorn Uzkul;x
-933;44;54;3;Mountains of Mourn;x
+932;2;51;130;Tiefenwald;x
+933;44;54;3;Talareich;x
 934;85;210;221;World's Edge Mountains;x
 935;128;60;4;Marg Be-Mard Desert;x
 936;170;63;132;Black Chasm;x
@@ -978,12 +978,12 @@ province;red;green;blue;x;x
 977;1;168;25;Swamp of Terror;x
 978;43;171;153;Bylorhof Marsh;x
 979;169;3;222;The Frostbites;x
-980;127;177;154;Dunkelsumpf;x
-981;169;180;27;Toteskindsumpf;x
+980;127;177;154;Mountains of Mourn;x
+981;169;180;27;Plateau of K'Datha;x
 982;1;183;155;Schadensumpf;x
-983;43;186;28;Laurenlorn Forest;x
+983;43;186;28;Plateau of Zorn Uzkul;x
 984;85;189;156;Drakwald Forest;x
-985;127;192;29;Midden Moors;x
+985;127;192;29;Gnoblar Country;x
 986;169;195;157;Ras Karim;x
 987;86;42;1;Kous;x
 988;169;33;227;Gardha;x
@@ -1267,9 +1267,9 @@ province;red;green;blue;x;x
 1266;43;177;33;Helgrind;x
 1267;85;180;161;Tamarkrupa;x
 1268;127;183;34;Vortrium;x
-1269;169;186;162;Rosszutvonal;x
-1270;1;189;35;Komorit;x
-1271;43;192;163;Hamu Hulladek;x
+1269;169;186;162;Eidelwiss;x
+1270;1;189;35;Grötchen;x
+1271;43;192;163;Hinterland;x
 1272;85;195;36;Daemon's Stump;x
 1273;127;198;164;Black Fortress;x
 1274;169;201;37;Pigbarter;x
@@ -1315,8 +1315,8 @@ province;red;green;blue;x;x
 1314;169;108;57;Jong-On;x
 1315;1;111;185;Rodmarin;x
 1316;43;114;58;Daoria;x
-1317;85;117;186;Arrechi;x
-1318;127;120;59;Tarpeta;x
+1317;85;117;186;Geringwald;x
+1318;127;120;59;Aussenstadt;x
 1319;1;99;75;Gringril;x
 1320;43;102;203;Karag Ril;x
 1321;85;105;76;Tromriki;x
@@ -1331,7 +1331,7 @@ province;red;green;blue;x;x
 1330;43;132;208;Karak Grong;x
 1331;85;135;81;Karag Garaz;x
 1332;127;138;209;Khaz Bryn;x
-1333;169;141;82;;x
+1333;169;141;82;Lichtungmarkt;x
 1334;169;153;42;Naggarond;x
 1335;1;156;170;Ulgarth;x
 1336;43;159;43;Mael Kabal;x
@@ -1652,7 +1652,7 @@ province;red;green;blue;x;x
 1651;85;78;186;Glittering Tower;x
 1652;127;81;59;Sar-Saroth;x
 1653;169;84;187;Arique;x
-1654;1;87;60;BLANK;x
+1654;1;87;60;Plateau of K'Datha;x
 1655;43;90;188;Isle of Flame;x
 1656;85;93;61;Isle of the Dead;x
 1657;127;96;189;Annulii Mountains;x
@@ -1773,49 +1773,49 @@ province;red;green;blue;x;x
 1772;86;24;216;Xocibiki;x
 1773;128;27;89;Tabazco;x
 1774;170;30;217;Chotec;x
-1775;2;33;90;Columbo's Island;x
-1776;44;36;218;Blood Island;x
+1775;2;33;90;Columbo's Island (Cihuan);x
+1776;44;36;218;Blood Island (Quiraz);x
 1777;86;39;91;Tlencan;x
 1778;128;42;219;Nuakka;x
 1779;170;45;92;Chipolatl;x
 1780;2;48;220;Tecnotica;x
 1781;44;51;93;Inqa;x
-1782;86;54;221;XXX;x
-1783;128;57;94;XXX;x
-1784;170;60;222;XXX;x
-1785;2;63;95;XXX;x
-1786;44;66;223;XXX;x
-1787;86;69;96;XXX;x
-1788;128;72;224;XXX;x
-1789;170;75;97;XXX;x
-1790;2;78;225;XXX;x
-1791;44;81;98;XXX;x
-1792;86;84;226;XXX;x
-1793;128;87;99;XXX;x
-1794;170;90;227;XXX;x
-1795;2;93;0;XXX;x
-1796;44;96;128;XXX;x
-1797;86;99;1;XXX;x
-1798;128;102;129;XXX;x
-1799;170;105;2;XXX;x
-1800;2;108;130;XXX;x
-1801;44;111;3;XXX;x
-1802;86;114;131;XXX;x
-1803;128;117;4;XXX;x
-1804;170;120;132;XXX;x
-1805;2;123;5;XXX;x
-1806;44;126;133;XXX;x
-1807;86;129;6;XXX;x
-1808;128;132;134;XXX;x
-1809;170;135;7;XXX;x
-1810;2;138;135;XXX;x
-1811;44;141;8;XXX;x
-1812;86;144;136;XXX;x
-1813;128;147;9;XXX;x
-1814;170;150;137;XXX;x
-1815;2;153;10;XXX;x
-1816;44;156;138;XXX;x
-1817;86;159;11;XXX;x
+1782;86;54;221;Tenquili;x
+1783;128;57;94;Cualica;x
+1784;170;60;222;Tlancuaquetza;x
+1785;2;63;95;Toteoc;x
+1786;44;66;223;Nochi;x
+1787;86;69;96;Tlepitzalo;x
+1788;128;72;224;Tianquizco;x
+1789;170;75;97;Chicahtoc;x
+1790;2;78;225;Tetepe;x
+1791;44;81;98;Mochicoatl;x
+1792;86;84;226;Amocualli;x
+1793;128;87;99;Cuahuitl;x
+1794;170;90;227;Altepeme;x
+1795;2;93;0;Ica;x
+1796;44;96;128;Atzoatl;x
+1797;86;99;1;Yetica;x
+1798;128;102;129;Huici;x
+1799;170;105;2;Tehuantin;x
+1800;2;108;130;Cocopetl;x
+1801;44;111;3;Telpotl;x
+1802;86;114;131;Atzintli;x
+1803;128;117;4;Ohuatl;x
+1804;170;120;132;Nin;x
+1805;2;123;5;Cocoquin;x
+1806;44;126;133;Cenca;x
+1807;86;129;6;Xiquihta;x
+1808;128;132;134;Tlamo;x
+1809;170;135;7;Texica;x
+1810;2;138;135;Xihuitl;x
+1811;44;141;8;Quen;x
+1812;86;144;136;Xaxocotl;x
+1813;128;147;9;Tecihuitl;x
+1814;170;150;137;Iyolo;x
+1815;2;153;10;Apiztli;x
+1816;44;156;138;Xiuhyo;x
+1817;86;159;11;Luz;x
 1818;128;162;139;;x
 1819;170;165;12;;x
 1820;169;84;37;Cold Mire;x
@@ -1834,8 +1834,8 @@ province;red;green;blue;x;x
 1833;85;123;171;The Great Mortis River;x
 1834;127;126;44;River Starnek;x
 1835;169;129;172;Drakfljot;x
-1836;1;132;45;River Grismerie;x
-1837;43;135;173;River Grismerie;x
+1836;1;132;45;River Grismerie (R);x
+1837;43;135;173;River Grismerie (R);x
 1838;85;138;46;River Brienne;x
 1839;127;141;174;River Sannez;x
 1840;169;144;47;River Lynsk;x
@@ -1845,7 +1845,7 @@ province;red;green;blue;x;x
 1844;127;156;49;River Talabec;x
 1845;169;159;177;River Reik;x
 1846;1;162;50;River Reik;x
-1847;43;165;178;River Stir;x
+1847;43;165;178;River Reik;x
 1848;85;168;51;River Stir;x
 1849;127;171;179;River Reik;x
 1850;169;174;52;River Aver;x
@@ -1883,7 +1883,7 @@ province;red;green;blue;x;x
 1882;42;39;68;Sea of Chaos;x
 1883;84;42;196;Sea of Chaos;x
 1884;126;45;69;Sea of Chaos;x
-1885;168;48;197;River Grismerie;x
+1885;168;48;197;River Grismerie (R);x
 1886;0;51;70;River Starnek;x
 1887;42;54;198;River Morceaux;x
 1888;0;54;35;River Zapadryeka;x
@@ -1950,7 +1950,7 @@ province;red;green;blue;x;x
 1949;0;114;45;Bay of Quietude;x
 1950;42;117;173;Bleak Coast;x
 1951;84;120;46;Fool's Point;x
-1952;126;123;174;Siren Sea;x
+1952;126;123;174;BLANK;x
 1953;168;126;47;Siren Sea;x
 1954;0;129;175;Gulf of Fodore;x
 1955;168;6;27;Gulf of Miragliono;x
@@ -1976,7 +1976,7 @@ province;red;green;blue;x;x
 1975;170;123;142;Sea of Chaos;x
 1976;2;126;15;The Frozen Shore;x
 1977;44;129;143;Drakfljot;x
-1978;86;132;16;River Talebec;x
+1978;86;132;16;River Talabec;x
 1979;128;135;144;Mortis Tarn;x
 1980;170;138;17;Pool of Ashes;x
 1981;2;141;145;The Great Mortis River;x
@@ -1991,15 +1991,15 @@ province;red;green;blue;x;x
 1990;170;168;22;The Black Gulf;x
 1991;2;171;150;The Black Gulf;x
 1992;44;174;23;The Black Gulf;x
-1993;86;177;151;Manann's Maw;x
+1993;86;177;151;Tona Dante;x
 1994;128;180;24;The Black Gulf;x
 1995;170;183;152;The Black Gulf;x
 1996;2;186;25;The Black Gulf;x
 1997;44;189;153;The Black Gulf;x
 1998;86;192;26;The Black Gulf;x
-1999;128;195;154;The Black Gulf;x
+1999;128;195;154;BLANK;x
 2000;170;198;27;Gulf of Sufaga;x
-2001;2;201;155;Gulf of Sufaga;x
+2001;2;201;155;BLANK;x
 2002;44;204;28;Great Ocean;x
 2003;86;207;156;The Black Gulf;x
 2004;128;210;29;The Pirate Coast;x
@@ -2019,7 +2019,7 @@ province;red;green;blue;x;x
 2018;86;39;36;Gulf of Medes;x
 2019;128;42;164;Gulf of Medes;x
 2020;170;45;37;BLANK;x
-2021;2;48;165;BLANK;x
+2021;2;48;165;Dire Straits;x
 2022;44;51;38;Gulf of Durbaita;x
 2023;86;54;166;Gulf of Durbaita;x
 2024;128;57;39;Tiranq Sea;x
@@ -2035,7 +2035,7 @@ province;red;green;blue;x;x
 2034;128;87;44;Southern Sea;x
 2035;170;90;172;Southern Sea;x
 2036;2;93;45;Southern Sea;x
-2037;44;96;173;Southern Sea;x
+2037;44;96;173;Blood River;x
 2038;86;99;46;Great Ocean;x
 2039;128;102;174;Southern Sea;x
 2040;170;105;47;Coast of Estalia;x
@@ -2046,7 +2046,7 @@ province;red;green;blue;x;x
 2045;170;120;177;Litoral Sur;x
 2046;2;123;50;River Lynsk;x
 2047;44;126;178;Great Ocean;x
-2048;86;129;51;River Talebec;x
+2048;86;129;51;River Talabec;x
 2049;128;132;179;River Rugavalk;x
 2050;170;135;52;River Rugavalk;x
 2051;2;138;180;Iisgalt;x
@@ -2055,9 +2055,9 @@ province;red;green;blue;x;x
 2054;128;147;54;Zorn Uzkul;x
 2055;170;150;182;Zorn Uzkul;x
 2056;2;153;55;River Brienne;x
-2057;44;156;183;River Brienne;x
-2058;86;159;56;River Grismerie;x
-2059;128;162;184;River Grismerie;x
+2057;44;156;183;River Brienne (R);x
+2058;86;159;56;River Grismerie (R);x
+2059;128;162;184;River Grismerie (R);x
 2060;170;165;57;River Sannez;x
 2061;2;168;185;River Lynsk;x
 2062;44;171;58;River Lynsk;x
@@ -2151,7 +2151,7 @@ province;red;green;blue;x;x
 2150;43;75;163;Sea of Storms;x
 2151;85;78;36;Sea of Storms;x
 2152;127;81;164;Lizard Sea;x
-2153;86;18;131;Sea of Chaos;x
+2153;86;18;131;South Lynsk;x
 2154;170;102;37;River Ruin;x
 2155;2;105;165;River Ruin;x
 2156;44;108;38;Falls of Doom;x
@@ -2242,44 +2242,44 @@ province;red;green;blue;x;x
 2241;44;120;148;Sea of Chaos;x
 2242;86;123;21;Sea of Chaos;x
 2243;128;126;149;Sea of Chaos;x
-2244;170;129;22;;x
-2245;2;132;150;;x
-2246;44;135;23;;x
-2247;86;138;151;;x
-2248;128;141;24;;x
-2249;170;144;152;;x
-2250;2;147;25;;x
-2251;44;150;153;;x
-2252;86;153;26;;x
-2253;128;156;154;;x
-2254;170;159;27;;x
-2255;2;162;155;;x
-2256;44;165;28;;x
-2257;86;168;156;;x
-2258;128;171;29;;x
-2259;170;174;157;;x
-2260;2;177;30;;x
-2261;44;180;158;;x
-2262;86;183;31;;x
-2263;128;186;159;;x
-2264;170;189;32;;x
-2265;2;192;160;;x
-2266;44;195;33;;x
-2267;86;198;161;;x
-2268;128;201;34;;x
-2269;170;204;162;;x
-2270;2;207;35;;x
-2271;44;210;163;;x
-2272;86;0;36;;x
-2273;128;3;164;;x
-2274;170;6;37;;x
-2275;2;9;165;;x
-2276;44;12;38;;x
-2277;86;15;166;;x
-2278;128;18;39;;x
-2279;170;21;167;;x
-2280;2;24;40;;x
-2281;44;27;168;;x
+2244;170;129;22;River Stir (R);x
+2245;2;132;150;River Stir (R);x
+2246;44;135;23;River Stir (R);x
+2247;86;138;151;River Stir (R);x
+2248;128;141;24;River Aver (R);x
+2249;170;144;152;River Aver (R);x
+2250;2;147;25;River Soll (R);x
+2251;44;150;153;River Reik (R);x
+2252;86;153;26;River Reik (R);x
+2253;128;156;154;River Reik (R);x
+2254;170;159;27;River Urskoy (R);x
+2255;2;162;155;River Urskoy (R);x
+2256;44;165;28;River Urskoy (R);x
+2257;86;168;156;River Talabec (R);x
+2258;128;171;29;River Talabec (R);x
+2259;170;174;157;River Tobol (R);x
+2260;2;177;30;River Tobol (R);x
+2261;44;180;158;River Tobol (R);x
+2262;86;183;31;River Tobol (R);x
+2263;128;186;159;River Tolsol (R);x
+2264;170;189;32;River Dypvann (R);x
+2265;2;192;160;River Brienne (R);x
+2266;44;195;33;River Tarmos (R);x
+2267;86;198;161;River Guadariz (R);x
+2268;128;201;34;River Starnek (R);x
+2269;170;204;162;River Starnek (R);x
+2270;2;207;35;River Starnek (R);x
+2271;44;210;163;River Stir (R);x
+2272;86;0;36;Halkild (R);x
+2273;128;3;164;Iisgalt (R);x
+2274;170;6;37;Ursfjord (R);x
+2275;2;9;165;River Talabec;x
+2276;44;12;38;River Grismerie (R);x
+2277;86;15;166;River Sannez;x
+2278;128;18;39;River Sannez (R);x
+2279;170;21;167;River Morceaux (R);x
+2280;2;24;40;River Brienne (R);x
+2281;44;27;168;River Lynsk;x
 2282;86;30;41;;x
 2283;128;33;169;;x
 2284;170;36;42;;x

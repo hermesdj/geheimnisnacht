@@ -1,0 +1,18 @@
+# 1031 Lugash
+
+# County Title
+title = c_lugash
+
+# Settlements
+max_settlements = 4
+b_lugash = castle
+b_elanakir = city
+b_xaun = temple
+#b_bismiya = city
+
+# Misc
+culture = medean
+religion = ormazd
+
+
+# History

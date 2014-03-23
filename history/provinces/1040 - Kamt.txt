@@ -1,0 +1,18 @@
+# 1040 Kamt
+
+# County Title
+title = c_kamt
+
+# Settlements
+max_settlements = 4
+b_kamt = castle
+b_zuwarah = temple
+b_badu = temple
+#b_kunkat = city
+
+# Misc
+culture = ramaccan
+religion = ormazd
+
+
+# History

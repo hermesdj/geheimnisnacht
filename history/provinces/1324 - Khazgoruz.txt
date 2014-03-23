@@ -8,7 +8,7 @@ max_settlements = 4
 b_khazgoruz = castle
 b_undi_khazarak = city
 b_barakabor = castle
-b_azri_grint = temple
+#b_azri_grint = temple
 
 # Misc
 culture = goblin_main

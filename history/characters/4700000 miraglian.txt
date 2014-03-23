@@ -113,7 +113,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -152,7 +152,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 
@@ -213,10 +213,6 @@ intrigue = 6
 learning = 3
 add_trait = "hedonist"
 add_trait = "underhanded_rogue"
-
-
-
-
 1992.9.26={birth=yes}
 2017.12.25={death=yes}
 }
@@ -400,5 +396,81 @@ add_trait="weak"
 
 1991.1.10={birth=yes}
 2045.10.28={death=yes}
+}
+
+
+4700020={
+name = "Borgio"
+dynasty = 42170
+dna = "ajepggpfgdh"
+culture = miraglian
+religion = classical_gods
+military = 4
+diplomacy = 6
+stewardship = 5
+intrigue = 5
+learning = 2
+add_trait = "brilliant_strategist"
+add_trait = "strong"
+add_trait = "genius"
+add_trait = "diligent"
+2455.11.1={birth=yes}
+2485.1.1={give_nickname = nick_the_besieger}
+2499.5.10 = {add_spouse=4800023}
+2503.4.15={death=yes}
+}
+
+4700021={
+name = "Lorenzo"
+dynasty = 42171
+dna = "imdmbllojae"
+culture = miraglian
+religion = classical_gods
+military = 3
+diplomacy = 4
+stewardship = 3
+intrigue = 6
+learning = 6
+add_trait = "misguided_warrior"
+add_trait = "gardener"
+add_trait = "zealous"
+add_trait = "slothful"
+2476.11.1={birth=yes}
+2522.5.25={death=yes}
+}
+
+4700022={
+name = "Giuliano"
+dynasty = 42171
+dna = "kbjohdkekdk"
+culture = miraglian
+religion = classical_gods
+military = 8
+diplomacy = 7
+stewardship = 7
+intrigue = 2
+learning = 3
+father = 4700021
+add_trait = "underhanded_rogue"
+add_trait = "kind"
+2495.11.1={birth=yes}
+2522.3.2={death=yes}
+}
+
+4700023={
+name = "Santo"
+dynasty = 42128
+dna = "icoiciabbgh"
+culture = miraglian
+religion = classical_gods
+military = 3
+diplomacy = 5
+stewardship = 7
+intrigue = 4
+learning = 5
+add_trait = "detached_priest"
+add_trait = "paranoid"
+2508.1.1={birth=yes}
+2558.7.27={death=yes}
 }
 

@@ -7,7 +7,7 @@ title = c_karak_azul
 max_settlements = 3
 b_karak_azul = castle
 b_urbinaz_hargannar = city
-b_jongardum = temple
+#b_jongardum = temple
 
 # Misc
 culture = dwarf_main

@@ -8,8 +8,8 @@ max_settlements = 5
 b_charboneau = castle
 b_montdaure = city
 b_charlebois = temple
-b_avranches = temple
-b_aujon = city
+#b_avranches = temple
+#b_aujon = city
 
 # Misc
 culture = orc_main
@@ -17,3 +17,6 @@ religion = greenskin_gods
 
 
 # History
+
+2155.1.1 = { religion = lady_of_the_lake }
+2155.1.1 = { culture = carcassian }

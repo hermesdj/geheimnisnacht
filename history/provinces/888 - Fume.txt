@@ -7,8 +7,8 @@ title = c_fume
 max_settlements = 4
 b_emilion = castle
 b_chambonnay = temple
-b_merceaux_descloux = castle
-b_leserve = temple
+#b_merceaux_descloux = castle
+#b_leserve = temple
 
 # Misc
 culture = bourgon

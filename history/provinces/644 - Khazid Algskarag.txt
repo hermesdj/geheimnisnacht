@@ -7,8 +7,8 @@ title = c_khazid_algskarag
 max_settlements = 4
 b_khazid_algskarag = castle
 b_wyrsturm = city
-b_azgora = temple
-b_lokri_ungol = city
+#b_azgora = temple
+#b_lokri_ungol = city
 
 # Misc
 culture = dwarf_main

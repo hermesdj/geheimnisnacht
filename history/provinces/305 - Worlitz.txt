@@ -7,7 +7,7 @@ title = c_worlitz
 max_settlements = 3
 b_worlitz = castle
 b_grunberg = castle
-b_diesdorf = city
+#b_diesdorf = city
 
 # Misc
 culture = reiklander

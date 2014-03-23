@@ -8,7 +8,7 @@ max_settlements = 4
 b_tower_of_varrl = castle
 b_morkestaar = castle
 b_blodhborg = city
-b_raseri = city
+#b_raseri = city
 
 # Misc
 culture = aesling

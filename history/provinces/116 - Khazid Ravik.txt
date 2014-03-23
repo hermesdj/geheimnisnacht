@@ -7,8 +7,8 @@ title = c_khazid_ravik
 max_settlements = 4
 b_khazid_ravik = castle
 b_grung_adeliom = castle
-b_grung_veranias = castle
-b_kraka_kerakool = castle
+#b_grung_veranias = castle
+#b_kraka_kerakool = castle
 
 # Misc
 culture = dwarf_norse

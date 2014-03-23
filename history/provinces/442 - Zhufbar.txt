@@ -8,9 +8,9 @@ max_settlements = 6
 b_zhufbar = castle
 b_wutraz_ungor = city
 b_gromthi_ungor = temple
-b_kazad_weralum = castle
-b_grung_hiraluret = city
-b_um_aralzum = temple
+#b_kazad_weralum = castle
+#b_grung_hiraluret = city
+#b_um_aralzum = temple
 
 # Misc
 culture = dwarf_main

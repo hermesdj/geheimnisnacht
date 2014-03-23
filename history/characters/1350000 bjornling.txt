@@ -114,7 +114,7 @@ add_trait = "poet"
 add_trait = "detached_priest"
 add_trait="trusting"
 
-add_trait="stressed"
+
 
 1951.10.3={birth="1951.10.3"}
 2036.5.14={death="2036.5.14"}
@@ -133,7 +133,7 @@ intrigue = 2
 learning = 6
 add_trait = "poet"
 add_trait = "brilliant_strategist"
-add_trait="depressed"
+
 
 add_trait="humble"
 
@@ -484,4 +484,23 @@ add_trait = "patient"
 1054.5.14={birth=yes}
 1122.3.4={death=yes}
 }
+
+1350024={
+name = "Ragnar"
+dynasty = 56111
+dna = "cebnniplgif"
+culture = bjornling
+religion = norse
+military = 2
+diplomacy = 2
+stewardship = 6
+intrigue = 5
+learning = 1
+add_trait = "elusive_shadow"
+add_trait = "chaste"
+add_trait = "gluttonous"
+2484.1.1={birth=yes}
+2574.3.27={death=yes}
+}
+
 

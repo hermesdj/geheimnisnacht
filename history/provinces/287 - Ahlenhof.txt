@@ -4,11 +4,12 @@
 title = c_ahlenhof
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_ahlenhof = castle
 b_laer = temple
 b_tussenhof = castle
-b_luthorst = city
+#b_luthorst = city
+#b_elster = city
 
 # Misc
 culture = hochlander

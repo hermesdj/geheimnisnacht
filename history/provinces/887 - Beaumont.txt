@@ -7,8 +7,8 @@ title = c_beaumont
 max_settlements = 4
 b_malmont = castle
 b_carras = city
-b_faure = castle
-b_montgisard = temple
+#b_faure = castle
+#b_montgisard = temple
 
 # Misc
 culture = bourgon

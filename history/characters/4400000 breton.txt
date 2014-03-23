@@ -14,8 +14,8 @@ add_trait="gregarious"
 add_trait="kind"
 
 
-1981.11.3={birth="1981.11.3"}
-2063.1.17={death="2063.1.17"}
+1981.11.3={birth=yes}
+2063.1.17={death=yes}
 }
 
 4400001={
@@ -34,8 +34,8 @@ add_trait="greedy"
 add_trait="craven"
 
 
-1969.5.3={birth="1969.5.3"}
-2043.2.4={death="2043.2.4"}
+1969.5.3={birth=yes}
+2043.2.4={death=yes}
 }
 
 4400002={
@@ -48,14 +48,11 @@ diplomacy = 4
 stewardship = 0
 intrigue = 9
 learning = 6
-
 add_trait = "thrifty_clerk"
-
-
 add_trait="weak"
 
-2006.11.6={birth="2006.11.6"}
-2047.4.11={death="2047.4.11"}
+2006.11.6={birth=yes}
+2047.4.11={death=yes}
 }
 
 4400003={
@@ -74,8 +71,8 @@ add_trait="honest"
 add_trait="tall"
 add_trait="wroth"
 
-1960.7.25={birth="1960.7.25"}
-2059.4.30={death="2059.4.30"}
+1960.7.25={birth=yes}
+2059.4.30={death=yes}
 }
 
 4400004={
@@ -94,8 +91,8 @@ add_trait="chaste"
 add_trait="temperate"
 add_trait="humble"
 
-1957.10.21={birth="1957.10.21"}
-2065.2.17={death="2065.2.17"}
+1957.10.21={birth=yes}
+2065.2.17={death=yes}
 }
 
 4400005={
@@ -114,8 +111,8 @@ add_trait="trusting"
 add_trait="cruel"
 add_trait="content"
 
-1978.5.6={birth="1978.5.6"}
-2057.7.28={death="2057.7.28"}
+1978.5.6={birth=yes}
+2057.7.28={death=yes}
 }
 
 4400006={
@@ -130,12 +127,12 @@ intrigue = 6
 learning = 4
 add_trait = "gardener"
 add_trait = "tough_soldier"
-add_trait="depressed"
-add_trait="stressed"
 
 
-1951.3.20={birth="1951.3.20"}
-2050.12.6={death="2050.12.6"}
+
+
+1951.3.20={birth=yes}
+2050.12.6={death=yes}
 }
 
 4400007={
@@ -154,8 +151,8 @@ add_trait="drunkard"
 add_trait="ill"
 
 
-2000.3.23={birth="2000.3.23"}
-2039.10.19={death="2039.10.19"}
+2000.3.23={birth=yes}
+2039.10.19={death=yes}
 }
 
 4400008={
@@ -174,8 +171,8 @@ add_trait = "elusive_shadow"
 add_trait="legit_bastard"
 
 
-1986.5.18={birth="1986.5.18"}
-2029.6.24={death="2029.6.24"}
+1986.5.18={birth=yes}
+2029.6.24={death=yes}
 }
 
 4400009={
@@ -190,12 +187,8 @@ intrigue = 11
 learning = 4
 add_trait = "falconer"
 add_trait = "indulgent_wastrel"
-add_trait="homosexual"
-add_trait="lisp"
-
-
-1960.11.16={birth="1960.11.16"}
-2041.4.22={death="2041.4.22"}
+1960.11.16={birth=yes}
+2041.4.22={death=yes}
 }
 
 4400010={
@@ -210,12 +203,8 @@ intrigue = 6
 learning = 6
 add_trait = "scholar"
 add_trait = "brilliant_strategist"
-
-
-add_trait="lustful"
-
-1965.2.30={birth="1965.2.30"}
-2034.7.11={death="2034.7.11"}
+1965.2.30={birth=yes}
+2034.7.11={death=yes}
 }
 
 4400011={
@@ -230,12 +219,9 @@ intrigue = 3
 learning = 8
 add_trait = "gardener"
 add_trait = "misguided_warrior"
-
 add_trait="fair"
-
-
-1999.11.18={birth="1999.11.18"}
-2033.9.27={death="2033.9.27"}
+1999.11.18={birth=yes}
+2033.9.27={death=yes}
 }
 
 4400012={
@@ -254,7 +240,7 @@ add_trait = "fortune_builder"
 add_trait="envious"
 add_trait="strong"
 
-1979.1.29={birth="1979.1.29"}
+1979.1.29={birth=yes}
 2031.5.3={death="2031.5.3"}
 }
 
@@ -274,7 +260,7 @@ add_trait="slothful"
 add_trait="patient"
 add_trait="diligent"
 
-2007.7.9={birth="2007.7.9"}
+2007.7.9={birth=yes}
 2056.2.26={death="2056.2.26"}
 }
 
@@ -294,7 +280,7 @@ add_trait="shy"
 add_trait="ambitious"
 add_trait="arbitrary"
 
-1998.9.23={birth="1998.9.23"}
+1998.9.23={birth=yes}
 2055.12.26={death="2055.12.26"}
 }
 
@@ -314,7 +300,7 @@ add_trait="cynical"
 add_trait="zealous"
 add_trait="paranoid"
 
-2001.10.12={birth="2001.10.12"}
+2001.10.12={birth=yes}
 2037.12.14={death="2037.12.14"}
 }
 
@@ -334,7 +320,7 @@ add_trait="just"
 add_trait="gregarious"
 add_trait="proud"
 
-1955.12.10={birth="1955.12.10"}
+1955.12.10={birth=yes}
 2058.1.2={death="2058.1.2"}
 }
 
@@ -354,7 +340,7 @@ add_trait="kind"
 
 add_trait="honest"
 
-1960.3.17={birth="1960.3.17"}
+1960.3.17={birth=yes}
 2041.8.6={death="2041.8.6"}
 }
 
@@ -374,7 +360,7 @@ add_trait = "naive_appeaser"
 
 add_trait="greedy"
 
-1970.9.30={birth="1970.9.30"}
+1970.9.30={birth=yes}
 2027.10.30={death="2027.10.30"}
 }
 
@@ -394,7 +380,7 @@ add_trait="weak"
 add_trait="tall"
 
 
-1970.4.23={birth="1970.4.23"}
+1970.4.23={birth=yes}
 2016.10.7={death="2016.10.7"}
 }
 
@@ -414,7 +400,7 @@ add_trait="craven"
 add_trait="wroth"
 add_trait="cruel"
 
-2000.3.3={birth="2000.3.3"}
+2000.3.3={birth=yes}
 2049.3.12={death="2049.3.12"}
 }
 
@@ -434,7 +420,7 @@ add_trait="humble"
 add_trait="content"
 add_trait="temperate"
 
-1977.5.18={birth="1977.5.18"}
+1977.5.18={birth=yes}
 2031.9.21={death="2031.9.21"}
 }
 
@@ -451,10 +437,10 @@ learning = 1
 add_trait = "gardener"
 add_trait = "amateurish_plotter"
 add_trait="chaste"
-add_trait="stressed"
-add_trait="depressed"
 
-1996.9.24={birth="1996.9.24"}
+
+
+1996.9.24={birth=yes}
 2064.1.1={death="2064.1.1"}
 }
 
@@ -474,7 +460,7 @@ add_trait="trusting"
 
 add_trait="drunkard"
 
-1998.8.1={birth="1998.8.1"}
+1998.8.1={birth=yes}
 2021.7.23={death="2021.7.23"}
 }
 
@@ -495,7 +481,7 @@ add_trait="lustful"
 
 add_trait="ill"
 
-1973.8.5={birth="1973.8.5"}
+1973.8.5={birth=yes}
 2061.1.13={death="2061.1.13"}
 }
 
@@ -511,11 +497,7 @@ intrigue = 5
 learning = 7
 add_trait = "falconer"
 add_trait = "indulgent_wastrel"
-add_trait="homosexual"
-
-add_trait="legit_bastard"
-
-2009.11.2={birth="2009.11.2"}
+2009.11.2={birth=yes}
 2031.10.23={death="2031.10.23"}
 }
 
@@ -533,9 +515,7 @@ add_trait = "mystic"
 add_trait = "misguided_warrior"
 
 
-
-
-1976.10.23={birth="1976.10.23"}
+1976.10.23={birth=yes}
 2048.10.3={death="2048.10.3"}
 }
 
@@ -555,7 +535,7 @@ add_trait="lisp"
 
 
 
-2001.2.6={birth="2001.2.6"}
+2001.2.6={birth=yes}
 2028.11.6={death="2028.11.6"}
 }
 
@@ -575,7 +555,7 @@ add_trait = "amateurish_plotter"
 add_trait="fair"
 
 
-2002.4.14={birth="2002.4.14"}
+2002.4.14={birth=yes}
 2026.1.20={death="2026.1.20"}
 }
 
@@ -595,7 +575,7 @@ add_trait="diligent"
 add_trait="strong"
 add_trait="proud"
 
-1980.10.1={birth="1980.10.1"}
+1980.10.1={birth=yes}
 2042.9.6={death="2042.9.6"}
 }
 
@@ -615,7 +595,7 @@ add_trait="slothful"
 add_trait="patient"
 add_trait="ambitious"
 
-1981.12.9={birth="1981.12.9"}
+1981.12.9={birth=yes}
 2021.3.7={death="2021.3.7"}
 }
 
@@ -635,7 +615,7 @@ add_trait="shy"
 add_trait="arbitrary"
 add_trait="just"
 
-1954.2.15={birth="1954.2.15"}
+1954.2.15={birth=yes}
 2065.3.8={death="2065.3.8"}
 }
 
@@ -655,8 +635,8 @@ add_trait="zealous"
 add_trait="cynical"
 add_trait="gregarious"
 
-1988.6.27={birth="1988.6.27"}
-2022.6.21={death="2022.6.21"}
+1988.6.27={birth=yes}
+2022.6.21={death=yes}
 }
 
 4400033={
@@ -675,6 +655,405 @@ add_trait="kind"
 add_trait="paranoid"
 add_trait="envious"
 
-1989.5.25={birth="1989.5.25"}
-2031.7.8={death="2031.7.8"}
+1989.5.25={birth=yes}
+2031.7.8={death=yes}
 }
+
+4400034={
+name = "Gilles" #Gilles le Breton
+dynasty = 25000
+dna = "nikbdnhccml"
+culture = breton
+religion = lady_of_the_lake
+military = 4
+diplomacy = 4
+stewardship = 6
+intrigue = 5
+learning = 7
+add_trait = "underhanded_rogue"
+add_trait = "greedy"
+add_trait = "slothful"
+949.1.1={birth=yes}
+977.5.10={give_nickname = nick_the_uniter}
+995.5.10={death=yes}
+}
+
+4400035={
+name = "Louis" #Louis the Rash
+dynasty = 25000
+dna = "collmnmachp"
+culture = breton
+religion = lady_of_the_lake
+military = 3
+diplomacy = 5
+stewardship = 4
+intrigue = 4
+learning = 0
+father = 4400034
+add_trait = "intricate_webweaver"
+add_trait = "slothful"
+add_trait = "gluttonous"
+add_trait = "content"
+978.1.1={birth=yes}
+1001.3.18={give_nickname = nick_the_rash}
+1089.8.3={death=yes}
+}
+
+4400036={
+name = "Tristan"
+dynasty = 25143
+dna = "lfdokfgamib"
+culture = breton
+religion = lady_of_the_lake
+military = 2
+diplomacy = 4
+stewardship = 2
+intrigue = 2
+learning = 3
+father = 4400037
+add_trait = "charismatic_negotiator"
+add_trait = "kind"
+add_trait = "diligent"
+add_trait = "honest"
+1115.1.1={birth=yes}
+1186.3.9={death=yes}
+}
+
+4400037={
+name = "Guillaume"
+dynasty = 25143
+dna = "jlmbmciomjo"
+culture = breton
+religion = lady_of_the_lake
+military = 0
+diplomacy = 5
+stewardship = 6
+intrigue = 0
+learning = 4
+father = 4400035
+add_trait = "thrifty_clerk"
+add_trait = "shy"
+add_trait = "trusting"
+add_trait = "cynical"
+1079.1.1={birth=yes}
+1108.8.3={give_nickname = nick_the_black}
+1146.3.9={death=yes}
+}
+
+4400038={
+name = "Gaston"
+dynasty = 25148
+dna = "lcfjlbnneoi"
+culture = breton
+religion = lady_of_the_lake
+military = 5
+diplomacy = 5
+stewardship = 4
+intrigue = 3
+learning = 7
+add_trait = "flamboyant_schemer"
+add_trait = "deceitful"
+add_trait = "zealous"
+2245.5.10={birth=yes}
+2290.10.6={add_spouse=4400043}
+2344.2.6={death=yes}
+}
+
+4400039={
+name = "François"
+dynasty = 25148
+dna = "gpghhlojjlh"
+culture = breton
+religion = lady_of_the_lake
+military = 6
+diplomacy = 3
+stewardship = 7
+intrigue = 4
+learning = 2
+add_trait = "flamboyant_schemer"
+add_trait = "poet"
+add_trait = "kind"
+2312.12.11={birth=yes}
+2403.7.13={death=yes}
+}
+
+4400040={
+name = "Charles"
+dynasty = 25149
+dna = "pfgliigiehh"
+culture = breton
+religion = lady_of_the_lake
+military = 3
+diplomacy = 7
+stewardship = 4
+intrigue = 2
+learning = 2
+add_trait = "thrifty_clerk"
+add_trait = "gluttonous"
+add_trait = "cynical"
+add_trait = "deceitful"
+2374.10.7={birth=yes}
+2439.1.4={give_nickname = nick_the_enormous}
+2486.6.25={death=yes}
+}
+
+4400041={
+name = "Charles"
+dynasty = 25149
+dna = "hailpndjgnp"
+culture = breton
+religion = lady_of_the_lake
+military = 7
+diplomacy = 3
+stewardship = 7
+intrigue = 3
+learning = 2
+father = 4400040
+add_trait = "charismatic_negotiator"
+add_trait = "humble"
+add_trait = "brave"
+2436.5.23={birth=yes}
+2500.6.13={death=yes}
+}
+
+4400042={
+name = "Jules"
+dynasty = 25150
+dna = "hdnpboecike"
+culture = breton
+religion = lady_of_the_lake
+military = 3
+diplomacy = 4
+stewardship = 3
+intrigue = 4
+learning = 5
+add_trait = "indulgent_wastrel"
+add_trait = "poet"
+add_trait = "deceitful"
+add_trait = "lustful"
+add_trait = "just"
+add_trait = "deceitful"
+2209.12.23={birth=yes}
+2259.9.8={give_nickname = nick_the_just}
+2297.2.19={death=yes}
+}
+
+4400043={
+name = "Belle Isoulde"
+female = yes
+dynasty = 25150
+dna = "eiojfbhnjjl"
+culture = breton
+religion = lady_of_the_lake
+military = 7
+diplomacy = 2
+stewardship = 2
+intrigue = 4
+learning = 0
+father = 4400042
+add_trait = "flamboyant_schemer"
+add_trait = "patient"
+add_trait = "gregarious"
+2269.5.19={birth=yes}
+2290.10.6={add_spouse=4400038}
+2323.7.3={death=yes}
+}
+
+4400044={
+name = "Charles"
+dynasty = 25145
+dna = "jooloaifndk"
+culture = breton
+religion = lady_of_the_lake
+military = 5
+diplomacy = 2
+stewardship = 1
+intrigue = 3
+learning = 4
+add_trait = "tough_soldier"
+add_trait = "trusting"
+add_trait = "charitable"
+add_trait = "lustful"
+1283.1.1={birth=yes}
+1413.10.23={death=yes}
+}
+
+4400045={
+name = "Jules"
+dynasty = 25147
+dna = "mppjphdlgbo"
+culture = breton
+religion = lady_of_the_lake
+military = 0
+diplomacy = 5
+stewardship = 3
+intrigue = 6
+learning = 0
+add_trait = "charismatic_negotiator"
+add_trait = "greedy"
+1492.1.1={birth=yes}
+1571.1.12={death=yes}
+}
+
+4400046={
+name = "Jean"
+dynasty = 25144
+dna = "pnmppalhjok"
+culture = breton
+religion = lady_of_the_lake
+military = 2
+diplomacy = 5
+stewardship = 2
+intrigue = 6
+learning = 5
+add_trait = "grey_eminence"
+add_trait = "envious"
+add_trait = "deceitful"
+add_trait = "humble"
+1655.1.1={birth=yes}
+1734.12.18={death=yes}
+}
+
+4400047={
+name = "Martin"
+dynasty = 25151
+dna = "njmfckcajkg"
+culture = breton
+religion = lady_of_the_lake
+military = 4
+diplomacy = 6
+stewardship = 4
+intrigue = 5
+learning = 7
+add_trait = "flamboyant_schemer"
+1519.11.21={birth=yes}
+1615.11.12={death=yes}
+}
+
+4400048={
+name = "Jean"
+dynasty = 25152
+dna = "nfonkedgmag"
+culture = breton
+religion = lady_of_the_lake
+military = 4
+diplomacy = 8
+stewardship = 5
+intrigue = 0
+learning = 4
+add_trait = "tough_soldier"
+add_trait = "mystic"
+add_trait = "trusting"
+2144.1.1={birth=yes}
+2259.9.8={death=yes}
+}
+
+4400049={
+name = "Evrard"
+dynasty = 25141
+dna = "ejobjagnfjn"
+culture = breton
+religion = lady_of_the_lake
+military = 4
+diplomacy = 2
+stewardship = 2
+intrigue = 2
+learning = 5
+add_trait = "detached_priest"
+add_trait = "gregarious"
+2005.1.1={birth=yes}
+2060.11.13={death=yes}
+}
+
+4400050={
+name = "Alphonse"
+dynasty = 25121
+dna = "jofchnolkca"
+culture = breton
+religion = lady_of_the_lake
+military = 6
+diplomacy = 2
+stewardship = 0
+intrigue = 4
+learning = 7
+add_trait = "skilled_tactician"
+add_trait = "envious"
+2003.1.1={birth=yes}
+2077.8.28={death=yes}
+}
+
+4400051={
+name = "Arnault"
+dynasty = 25135
+dna = "aaeiaeigmmi"
+culture = breton
+religion = lady_of_the_lake
+military = 6
+diplomacy = 8
+stewardship = 2
+intrigue = 4
+learning = 1
+add_trait = "charismatic_negotiator"
+add_trait = "deceitful"
+add_trait = "charitable"
+add_trait = "wroth"
+1969.1.1={birth=yes}
+2040.4.15={death=yes}
+}
+
+4400052={
+name = "Gisèle"
+female = yes
+dynasty = 25102
+dna = "fljdppehabn"
+culture = breton
+religion = lady_of_the_lake
+military = 6
+diplomacy = 5
+stewardship = 4
+intrigue = 3
+learning = 8
+add_trait = "tough_soldier"
+add_trait = "kind"
+add_trait = "trusting"
+1995.1.1={birth=yes}
+2055.9.22={death=yes}
+}
+
+4400053={
+name = "Thomas"
+dynasty = 25118
+dna = "fjefjdhglop"
+culture = breton
+religion = lady_of_the_lake
+military = 4
+diplomacy = 1
+stewardship = 2
+intrigue = 5
+learning = 3
+add_trait = "elusive_shadow"
+add_trait = "duelist"
+1990.1.1={birth=yes}
+2028.2.13={death=yes}
+}
+
+4400054={
+name = "Maurice"
+dynasty = 25098
+dna = "hplncaogohb"
+culture = breton
+religion = lady_of_the_lake
+military = 6
+diplomacy = 1
+stewardship = 0
+intrigue = 7
+learning = 2
+add_trait = "midas_touched"
+add_trait = "duelist"
+add_trait = "brave"
+add_trait = "deceitful"
+1974.1.1={birth=yes}
+2034.9.29={death=yes}
+}
+
+

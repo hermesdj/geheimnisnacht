@@ -8,7 +8,7 @@ max_settlements = 4
 b_elne = castle
 b_roussion = temple
 b_clermont = castle
-b_buzeols = temple
+#b_buzeols = temple
 
 # Misc
 culture = mousillonian

@@ -6,8 +6,8 @@ title = c_jarluns
 # Settlements
 max_settlements = 3
 b_jarlunsvik = castle
-b_arlingheim = city
-b_jorlsborg = castle
+#b_arlingheim = city
+#b_jorlsborg = castle
 
 # Misc
 culture = varg

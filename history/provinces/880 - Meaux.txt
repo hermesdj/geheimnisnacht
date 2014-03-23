@@ -7,9 +7,9 @@ title = c_meaux
 max_settlements = 5
 b_meaux = castle
 b_jaurras = castle
-b_gaumar = castle
-b_cavaignac = city
-b_massalieu = temple
+#b_gaumar = castle
+#b_cavaignac = city
+#b_massalieu = temple
 
 # Misc
 culture = breton

@@ -8,9 +8,9 @@ max_settlements = 6
 b_flussberg = castle
 b_ubersreik = city
 b_hugeldal = temple
-b_lachenbad = city
-b_hersfeld = castle
-b_hupeberg = castle
+#b_lachenbad = city
+#b_hersfeld = castle
+#b_hupeberg = castle
 
 # Misc
 culture = reiklander

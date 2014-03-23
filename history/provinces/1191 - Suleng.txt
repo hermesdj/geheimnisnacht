@@ -1,0 +1,17 @@
+# 1191 Suleng
+
+# County Title
+title = c_suleng
+
+# Settlements
+max_settlements = 3
+b_suleng = castle
+b_husk = temple
+#b_sakhal = castle
+
+# Misc
+culture = yusak
+religion = chaos
+
+
+# History

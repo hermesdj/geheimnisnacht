@@ -6,7 +6,7 @@ title = c_kazad_kol
 # Settlements
 max_settlements = 2
 b_kazad_kol = castle
-b_kazad_kol_kadrin_barak = castle
+#b_kazad_kol_kadrin_barak = castle
 
 # Misc
 culture = goblin_main

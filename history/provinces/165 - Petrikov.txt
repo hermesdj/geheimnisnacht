@@ -7,7 +7,7 @@ title = c_petrikov
 max_settlements = 3
 b_petrikov = castle
 b_vyetka = city
-b_konyikia = temple
+#b_konyikia = temple
 
 # Misc
 culture = ropsmann

@@ -8,8 +8,8 @@ max_settlements = 5
 b_iskvard = castle
 b_goslor = city
 b_tralvik = temple
-b_loiot = city
-b_bomgang = castle
+#b_loiot = city
+#b_bomgang = castle
 
 # Misc
 culture = bjornling

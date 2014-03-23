@@ -9,9 +9,9 @@ b_karak_ungor = castle
 b_ungor_ungol = city
 b_karaz_yannir = temple
 b_grung_adril = castle
-b_grungil_kromin = temple
-b_karag_hyloriz = city
-b_jondorin = castle
+#b_grungil_kromin = temple
+#b_karag_hyloriz = city
+#b_jondorin = castle
 
 # Misc
 culture = goblin_main

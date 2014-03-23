@@ -8,7 +8,7 @@ max_settlements = 4
 b_kraka = castle
 b_volva = city
 b_endring = city
-b_ulvunal = temple
+#b_ulvunal = temple
 
 # Misc
 culture = graeling

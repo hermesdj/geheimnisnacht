@@ -7,8 +7,8 @@ title = c_ferlangen
 max_settlements = 4
 b_ferlangen = castle
 b_obelstein = city
-b_aukrug = temple
-b_ochsunfurt = castle
+#b_aukrug = temple
+#b_ochsunfurt = castle
 
 # Misc
 culture = ostlander

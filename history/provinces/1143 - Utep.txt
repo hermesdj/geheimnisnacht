@@ -1,0 +1,19 @@
+# 1143 Utep
+
+# County Title
+title = c_utep
+
+# Settlements
+max_settlements = 5
+b_utep = castle
+b_iougert = castle
+b_andjet = city
+b_nakhada = temple
+b_bakhu = city
+
+# Misc
+culture = kashite
+religion = nehekharan_gods
+
+
+# History

@@ -121,7 +121,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -158,7 +158,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 
@@ -468,3 +468,45 @@ add_trait = "intricate_webweaver"
 1987.9.26={add_spouse=4950000}
 2025.5.21={death="2025.5.21"}
 }
+
+4950023={
+name = "Elena"
+female = yes
+dynasty = 46033
+dna = "nljahgckgmb"
+culture = myken
+religion = classical_gods
+military = 6
+diplomacy = 7
+stewardship = 7
+intrigue = 5
+learning = 5
+add_trait = "fortune_builder"
+add_trait = "just"
+add_trait = "diligent"
+add_trait = "cynical"
+2490.1.1={birth=yes}
+2539.12.13={death=yes}
+}
+
+4950024={
+name = "Anicius"
+dynasty = 46030
+dna = "phefpblgfpo"
+culture = myken
+religion = classical_gods
+military = 5
+diplomacy = 5
+stewardship = 7
+intrigue = 5
+learning = 5
+add_trait = "skilled_tactician"
+add_trait = "temperate"
+add_trait = "envious"
+add_trait = "zealous"
+add_trait = "wroth"
+add_trait = "stressed"
+2482.1.1={birth=yes}
+2541.1.21={death=yes}
+}
+

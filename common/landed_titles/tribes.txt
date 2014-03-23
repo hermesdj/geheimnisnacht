@@ -361,3 +361,41 @@ k_gospodars = {
 	
 	culture = gospodar
 }
+
+k_ungols = {
+	color = { 100 100 150 }
+
+	capital	= 182 #Praag
+	
+	title = "KHAN_KING"
+	title_female = "KHAN_QUEEN"		
+			
+	short_name = yes	
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	culture = ungol
+}
+
+k_ropsmenn = {
+	color = { 100 152 132 }
+
+	capital	= 175 #Erengrad
+	
+	title = "KHAN_KING"
+	title_female = "KHAN_QUEEN"		
+			
+	short_name = yes	
+	
+	tribe = yes
+		
+	allow = {
+		always = no
+	}
+	
+	culture = ropsmann
+}

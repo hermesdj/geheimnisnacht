@@ -21,12 +21,14 @@ avilian;Avilian;;;;;;;;;;;;;x
 galice;Galice;;;;;;;;;;;;;x
 obregonese;Obregonese;;;;;;;;;;;;;x
 montanese;Montanese;;;;;;;;;;;;;x
+tierrasman;Tierrasman;;;;;;;;;;;;;x
 estalian_group;Estalian;;;;;;;;;;;;;x
 lucian;Lucian;;;;;;;;;;;;;x
 umbrian;Umbrian;;;;;;;;;;;;;x
 reman;Reman;;;;;;;;;;;;;x
 miraglian;Miraglian;;;;;;;;;;;;;x
 tobaran;Tobaran;;;;;;;;;;;;;x
+oltremari;Oltremari;;;;;;;;;;;;;x
 tilean_group;Tilean;;;;;;;;;;;;;x
 sartosan_tilean;Tilean-Sartosan;;;;;;;;;;;;;x
 sartosan_norscan;Norscan-Sartosan;;;;;;;;;;;;;x
@@ -46,6 +48,7 @@ sylvanian;Sylvanian;;;;;;;;;;;;;x
 talabeclander;Talabeclander;;;;;;;;;;;;;x
 westerlander;Westerlander;;;;;;;;;;;;;x
 wissenlander;Wissenlander;;;;;;;;;;;;;x
+neueslander;Neueslander;;;;;;;;;;;;;x
 imperial_group;Imperial;;;;;;;;;;;;;x
 kislevite;Kislevite;;;;;;;;;;;;;x
 gospodar;Gospodar;;;;;;;;;;;;;x
@@ -63,6 +66,7 @@ carcassian;Carcassian;;;;;;;;;;;;;x
 gascon;Gascon;;;;;;;;;;;;;x
 mousillonian;Mousillonian;;;;;;;;;;;;;x
 nortagnese;Nortagnese;;;;;;;;;;;;;x
+marcheur;Marcheur;;;;;;;;;;;;;x
 bretonnian_group;Bretonnian;;;;;;;;;;;;;x
 aesling;Aesling;;;;;;;;;;;;;x
 baersonling;Baersonling;;;;;;;;;;;;;x
@@ -71,6 +75,7 @@ graeling;Graeling;;;;;;;;;;;;;x
 sarl;Sarl;;;;;;;;;;;;;x
 skaeling;Skaeling;;;;;;;;;;;;;x
 varg;Varg;;;;;;;;;;;;;x
+fjarmann;Fjarmann;;;;;;;;;;;;;x
 norscan_group;Norscan;;;;;;;;;;;;;x
 orc_main;Orc;;;;;;;;;;;;;x
 goblin_main;Goblin;;;;;;;;;;;;;x
@@ -382,19 +387,19 @@ temple_county_necromantic_group;Bray Warherd;;;;;;;;;;;;;x
 temple_duchy_necromantic_group;Bray Horde;;;;;;;;;;;;;x
 temple_kingdom_necromantic_group;Bray Beastherd;;;;;;;;;;;;;x
 temple_empire_necromantic_group;Empire;;;;;;;;;;;;;x
-baron_imperial_group;Burggraf;;;;;;;;;;;;;x;
-baron_female_imperial_group;Burggräfin;;;;;;;;;;;;;x;
-count_imperial_group;Vizegraf;;;;;;;;;;;;;x;
-count_female_imperial_group;Vizegräfin;;;;;;;;;;;;;x;
-duke_imperial_group;Markgraf;;;;;;;;;;;;;x;
-duke_female_imperial_group;Markgräfin;;;;;;;;;;;;;x;
+baron_imperial_group;Baron;;;;;;;;;;;;;x;
+baron_female_imperial_group;Baroness;;;;;;;;;;;;;x;
+count_imperial_group;Count;;;;;;;;;;;;;x;
+count_female_imperial_group;Countess;;;;;;;;;;;;;x;
+duke_imperial_group;Duke;;;;;;;;;;;;;x;
+duke_female_imperial_group;Duchess;;;;;;;;;;;;;x;
 king_imperial_group;Graf;;;;;;;;;;;;;x;
 king_female_imperial_group;Gräfin;;;;;;;;;;;;;x;
 emperor_imperial_group;Emperor;;;;;;;;;;;;;x;
 emperor_female_imperial_group;Empress;;;;;;;;;;;;;x;
 barony_of_imperial_group;Barony of;;;;;;;;;;;;;x;
-county_of_imperial_group;Vizegrafschaft of;;;;;;;;;;;;;x;
-duchy_of_imperial_group;Mark of;;;;;;;;;;;;;x;
+county_of_imperial_group;County of;;;;;;;;;;;;;x;
+duchy_of_imperial_group;Duchy of;;;;;;;;;;;;;x;
 kingdom_of_imperial_group;Grand County of;;;;;;;;;;;;;x;
 empire_of_imperial_group;Empire of;;;;;;;;;;;;;x;
 city_baron_imperial_group;Mayor;;;;;;;;;;;;;x;
@@ -434,8 +439,8 @@ city_kingdom_of_halfing_group;Republic of;;;;;;;;;;;;;x;
 city_empire_of_halfing_group;Imperial Republic of;;;;;;;;;;;;;x;
 baron_bretonnian_group;Baron;;;;;;;;;;;;;x;
 baron_female_bretonnian_group;Baroness;;;;;;;;;;;;;x;
-count_bretonnian_group;Viscount;;;;;;;;;;;;;x;
-count_female_bretonnian_group;Viscountess;;;;;;;;;;;;;x;
+count_bretonnian_group;Count;;;;;;;;;;;;;x;
+count_female_bretonnian_group;Countess;;;;;;;;;;;;;x;
 duke_bretonnian_group;Marquis;;;;;;;;;;;;;x;
 duke_female_bretonnian_group;Marquise;;;;;;;;;;;;;x;
 king_bretonnian_group;Duke;;;;;;;;;;;;;x;
@@ -443,7 +448,7 @@ king_female_bretonnian_group;Duchess;;;;;;;;;;;;;x;
 emperor_bretonnian_group;King;;;;;;;;;;;;;x;
 emperor_female_bretonnian_group;Queen;;;;;;;;;;;;;x;
 barony_of_bretonnian_group;Barony of;;;;;;;;;;;;;x;
-county_of_bretonnian_group;Viscounty of;;;;;;;;;;;;;x;
+county_of_bretonnian_group;County of;;;;;;;;;;;;;x;
 duchy_of_bretonnian_group;Marche of;;;;;;;;;;;;;x;
 kingdom_of_bretonnian_group;Grand Duchy of;;;;;;;;;;;;;x;
 empire_of_bretonnian_group;Kingdom of;;;;;;;;;;;;;x;
@@ -455,16 +460,16 @@ city_emperor_bretonnian_group;Lord Consul;;;;;;;;;;;;;x;
 city_barony_of_bretonnian_group;City of;;;;;;;;;;;;;x;
 city_county_of_bretonnian_group;Grand City of;;;;;;;;;;;;;x;
 city_duchy_of_bretonnian_group;League of;;;;;;;;;;;;;x;
-city_kingdom_of_bretonnian_group;Republic of;;;;;;;;;;;;;x;
-city_empire_of_bretonnian_group;Grand Republic of;;;;;;;;;;;;;x;
+city_kingdom_of_bretonnian_group;Principality of;;;;;;;;;;;;;x;
+city_empire_of_bretonnian_group;Grand Principality of;;;;;;;;;;;;;x;
 baron_kislevite_group;Dvoryanin;;;;;;;;;;;;;x;
 baron_female_kislevite_group;Dvoryanka;;;;;;;;;;;;;x;
 count_kislevite_group;Boyar;;;;;;;;;;;;;x;
 count_female_kislevite_group;Boyarynya;;;;;;;;;;;;;x;
 duke_kislevite_group;Voievode;;;;;;;;;;;;;x;
 duke_female_kislevite_group;Voievode;;;;;;;;;;;;;x;
-king_kislevite_group;Gertzog;;;;;;;;;;;;;x;
-king_female_kislevite_group;Gertzog;;;;;;;;;;;;;x;
+king_kislevite_group;Prince;;;;;;;;;;;;;x;
+king_female_kislevite_group;Princess;;;;;;;;;;;;;x;
 emperor_kislevite_group;Tzar;;;;;;;;;;;;;x;
 emperor_female_kislevite_group;Tzarina;;;;;;;;;;;;;x;
 barony_of_kislevite_group;Khutor of;;;;;;;;;;;;;x;
@@ -475,13 +480,13 @@ empire_of_kislevite_group;Tsardom of;;;;;;;;;;;;;x;
 city_baron_kislevite_group;Starosta;;;;;;;;;;;;;x;
 city_count_kislevite_group;Stolnik;;;;;;;;;;;;;x;
 city_duke_kislevite_group;Posadnik;;;;;;;;;;;;;x;
-city_king_kislevite_group;Grand Posadnik;;;;;;;;;;;;;x;
-city_emperor_kislevite_group;Tsar-Posadnik;;;;;;;;;;;;;x;
+city_king_kislevite_group;Prince;;;;;;;;;;;;;x;
+city_emperor_kislevite_group;Grand Prince;;;;;;;;;;;;;x;
 city_barony_of_kislevite_group;City of;;;;;;;;;;;;;x;
 city_county_of_kislevite_group;Grand City of;;;;;;;;;;;;;x;
 city_duchy_of_kislevite_group;League of;;;;;;;;;;;;;x;
-city_kingdom_of_kislevite_group;Republic of;;;;;;;;;;;;;x;
-city_empire_of_kislevite_group;Imperial Republic of;;;;;;;;;;;;;x;
+city_kingdom_of_kislevite_group;Principality of;;;;;;;;;;;;;x;
+city_empire_of_kislevite_group;Grand Principality of;;;;;;;;;;;;;x;
 baron_norscan_group;Chief;;;;;;;;;;;;;x;
 baron_female_norscan_group;Chieftess;;;;;;;;;;;;;x;
 count_norscan_group;Jarl;;;;;;;;;;;;;x;
@@ -499,18 +504,18 @@ kingdom_of_norscan_group;Kingdom of;;;;;;;;;;;;;x;
 empire_of_norscan_group;High Kingdom of;;;;;;;;;;;;;x;
 city_baron_norscan_group;Hetman;;;;;;;;;;;;;x;
 city_count_norscan_group;Chief Hetman;;;;;;;;;;;;;x;
-city_duke_norscan_group;Thaneling;;;;;;;;;;;;;x;
-city_king_norscan_group;Speaker;;;;;;;;;;;;;x;
-city_emperor_norscan_group;High Speaker;;;;;;;;;;;;;x;
+city_duke_norscan_group;Speaker;;;;;;;;;;;;;x;
+city_king_norscan_group;Prince;;;;;;;;;;;;;x;
+city_emperor_norscan_group;Grand Prince;;;;;;;;;;;;;x;
 city_barony_of_norscan_group;City of;;;;;;;;;;;;;x;
 city_county_of_norscan_group;Great City of;;;;;;;;;;;;;x;
-city_duchy_of_norscan_group;Thaneshir of;;;;;;;;;;;;;x;
-city_kingdom_of_norscan_group;Dominion of;;;;;;;;;;;;;x;
-city_empire_of_norscan_group;Grand Dominion of;;;;;;;;;;;;;x;
+city_duchy_of_norscan_group;League of;;;;;;;;;;;;;x;
+city_kingdom_of_norscan_group;Principality of;;;;;;;;;;;;;x;
+city_empire_of_norscan_group;Grand Principality of;;;;;;;;;;;;;x;
 baron_dolgan;Chief;;;;;;;;;;;;;x;
 baron_female_dolgan;Chieftess;;;;;;;;;;;;;x;
-count_dolgan;High Chief;;;;;;;;;;;;;x;
-count_female_dolgan;High Chieftess;;;;;;;;;;;;;x;
+count_dolgan;Tarkan;;;;;;;;;;;;;x;
+count_female_dolgan;Tarkanum;;;;;;;;;;;;;x;
 duke_dolgan;Beg;;;;;;;;;;;;;x;
 duke_female_dolgan;Begum;;;;;;;;;;;;;x;
 king_dolgan;Zar;;;;;;;;;;;;;x;
@@ -519,8 +524,8 @@ emperor_dolgan;Hetzar;;;;;;;;;;;;;x;
 emperor_female_dolgan;Hetzarina;;;;;;;;;;;;;x;
 baron_kurgan_group;Chief;;;;;;;;;;;;;x;
 baron_female_kurgan_group;Chieftess;;;;;;;;;;;;;x;
-count_kurgan_group;High Chief;;;;;;;;;;;;;x;
-count_female_kurgan_group;High Chieftess;;;;;;;;;;;;;x;
+count_kurgan_group;Tarkan;;;;;;;;;;;;;x;
+count_female_kurgan_group;Tarkanum;;;;;;;;;;;;;x;
 duke_kurgan_group;Beg;;;;;;;;;;;;;x;
 duke_female_kurgan_group;Begum;;;;;;;;;;;;;x;
 king_kurgan_group;Khan;;;;;;;;;;;;;x;
@@ -528,34 +533,34 @@ king_female_kurgan_group;Khanum;;;;;;;;;;;;;x;
 emperor_kurgan_group;Khagan;;;;;;;;;;;;;x;
 emperor_female_kurgan_group;Khatun;;;;;;;;;;;;;x;
 barony_of_kurgan_group;Chiefdom of;;;;;;;;;;;;;x;
-county_of_kurgan_group;High Chiefdom of;;;;;;;;;;;;;x;
+county_of_kurgan_group;Tarkanate of;;;;;;;;;;;;;x;
 duchy_of_kurgan_group;Begzate of;;;;;;;;;;;;;x;
 kingdom_of_kurgan_group;Khanate of;;;;;;;;;;;;;x;
 empire_of_kurgan_group;Khaganate of;;;;;;;;;;;;;x;
 barony_kurgan_group;Chiefdom;;;;;;;;;;;;;x;
-county_kurgan_group;High Chiefdom;;;;;;;;;;;;;x;
+county_kurgan_group;Tarkanate;;;;;;;;;;;;;x;
 duchy_kurgan_group;Begzate;;;;;;;;;;;;;x;
 kingdom_kurgan_group;Khanate;;;;;;;;;;;;;x;
 empire_kurgan_group;Khaganate;;;;;;;;;;;;;x;
 city_baron_kurgan_group;Hetman;;;;;;;;;;;;;x;
 city_count_kurgan_group;Chief Hetman;;;;;;;;;;;;;x;
-city_duke_kurgan_group;Thaneling;;;;;;;;;;;;;x;
-city_king_kurgan_group;Speaker;;;;;;;;;;;;;x;
-city_emperor_kurgan_group;High Speaker;;;;;;;;;;;;;x;
+city_duke_kurgan_group;Speaker;;;;;;;;;;;;;x;
+city_king_kurgan_group;Prince;;;;;;;;;;;;;x;
+city_emperor_kurgan_group;Grand Prince;;;;;;;;;;;;;x;
 city_barony_of_kurgan_group;City of;;;;;;;;;;;;;x;
 city_county_of_kurgan_group;Grand City of;;;;;;;;;;;;;x;
-city_duchy_of_kurgan_group;Thaneshir of;;;;;;;;;;;;;x;
-city_kingdom_of_kurgan_group;Dominion of;;;;;;;;;;;;;x;
-city_empire_of_kurgan_group;Grand Dominion of;;;;;;;;;;;;;x;
+city_duchy_of_kurgan_group;League of;;;;;;;;;;;;;x;
+city_kingdom_of_kurgan_group;Principality of;;;;;;;;;;;;;x;
+city_empire_of_kurgan_group;Grand Principality of;;;;;;;;;;;;;x;
 city_barony_kurgan_group;City;;;;;;;;;;;;;x;
 city_county_kurgan_group;Grand City;;;;;;;;;;;;;x;
-city_duchy_kurgan_group;Thaneshir;;;;;;;;;;;;;x;
-city_kingdom_kurgan_group;Dominion;;;;;;;;;;;;;x;
-city_empire_kurgan_group;Grand Dominion;;;;;;;;;;;;;x;
+city_duchy_kurgan_group;League;;;;;;;;;;;;;x;
+city_kingdom_kurgan_group;Principality;;;;;;;;;;;;;x;
+city_empire_kurgan_group;Grand Principality;;;;;;;;;;;;;x;
 baron_hung_group;Chief;;;;;;;;;;;;;x;
 baron_female_hung_group;Chieftess;;;;;;;;;;;;;x;
-count_hung_group;High Chief;;;;;;;;;;;;;x;
-count_female_hung_group;High Chieftess;;;;;;;;;;;;;x;
+count_hung_group;Darqan;;;;;;;;;;;;;x;
+count_female_hung_group;Darqanum;;;;;;;;;;;;;x;
 duke_hung_group;Baig;;;;;;;;;;;;;x;
 duke_female_hung_group;Baigum;;;;;;;;;;;;;x;
 king_hung_group;Khan;;;;;;;;;;;;;x;
@@ -563,12 +568,12 @@ king_female_hung_group;Khanum;;;;;;;;;;;;;x;
 emperor_hung_group;Khagan;;;;;;;;;;;;;x;
 emperor_female_hung_group;Khatun;;;;;;;;;;;;;x;
 barony_of_hung_group;Taishi of;;;;;;;;;;;;;x;
-county_of_hung_group;High Taishi of;;;;;;;;;;;;;x;
+county_of_hung_group;Darqanate of;;;;;;;;;;;;;x;
 duchy_of_hung_group;Aimag of;;;;;;;;;;;;;x;
 kingdom_of_hung_group;Khanate of;;;;;;;;;;;;;x;
 empire_of_hung_group;Khaganate of;;;;;;;;;;;;;x;
 barony_hung_group;Taishi;;;;;;;;;;;;;x;
-county_hung_group;High Taishi;;;;;;;;;;;;;x;
+county_hung_group;Darqanate;;;;;;;;;;;;;x;
 duchy_hung_group;Aimag;;;;;;;;;;;;;x;
 kingdom_hung_group;Khanate;;;;;;;;;;;;;x;
 empire_hung_group;Khaganate;;;;;;;;;;;;;x;
@@ -578,19 +583,19 @@ city_duke_hung_group;Gong;;;;;;;;;;;;;x;
 city_king_hung_group;Beise;;;;;;;;;;;;;x;
 city_emperor_hung_group;Beile;;;;;;;;;;;;;x;
 city_barony_of_hung_group;City of;;;;;;;;;;;;;x;
-city_county_of_hung_group;Great City of;;;;;;;;;;;;;x;
+city_county_of_hung_group;Grand City of;;;;;;;;;;;;;x;
 city_duchy_of_hung_group;Hoshun of;;;;;;;;;;;;;x;
 city_kingdom_of_hung_group;Hoshun-Khanate of;;;;;;;;;;;;;x;
 city_empire_of_hung_group;Hoshun-Khaganate of;;;;;;;;;;;;;x;
 city_barony_hung_group;City;;;;;;;;;;;;;x;
-city_county_hung_group;Great City;;;;;;;;;;;;;x;
+city_county_hung_group;Grand City;;;;;;;;;;;;;x;
 city_duchy_hung_group;Hoshun;;;;;;;;;;;;;x;
 city_kingdom_hung_group;Hoshun-Khanate;;;;;;;;;;;;;x;
 city_empire_hung_group;Hoshun-Khaganate;;;;;;;;;;;;;x;
 baron_estalian_group;Baron;;;;;;;;;;;;;x;
 baron_female_estalian_group;Baroness;;;;;;;;;;;;;x;
-count_estalian_group;Viscount;;;;;;;;;;;;;x;
-count_female_estalian_group;Viscountess;;;;;;;;;;;;;x;
+count_estalian_group;Count;;;;;;;;;;;;;x;
+count_female_estalian_group;Countess;;;;;;;;;;;;;x;
 duke_estalian_group;Duke;;;;;;;;;;;;;x;
 duke_female_estalian_group;Duchess;;;;;;;;;;;;;x;
 king_estalian_group;King;;;;;;;;;;;;;x;
@@ -598,7 +603,7 @@ king_female_estalian_group;Queen;;;;;;;;;;;;;x;
 emperor_estalian_group;Imperator;;;;;;;;;;;;;x;
 emperor_female_estalian_group;Imperator;;;;;;;;;;;;;x;
 barony_of_estalian_group;Barony of;;;;;;;;;;;;;x;
-county_of_estalian_group;Viscounty of;;;;;;;;;;;;;x;
+county_of_estalian_group;County of;;;;;;;;;;;;;x;
 duchy_of_estalian_group;Duchy of;;;;;;;;;;;;;x;
 kingdom_of_estalian_group;Kingdom of;;;;;;;;;;;;;x;
 empire_of_estalian_group;Empire of;;;;;;;;;;;;;x;
@@ -614,18 +619,18 @@ city_kingdom_of_estalian_group;Republic of;;;;;;;;;;;;;x;
 city_empire_of_estalian_group;Grand Republic of;;;;;;;;;;;;;x;
 baron_myken_group;Baron;;;;;;;;;;;;;x;
 baron_female_myken_group;Baroness;;;;;;;;;;;;;x;
-count_myken_group;Autarch;;;;;;;;;;;;;x;
-count_female_myken_group;Autarch;;;;;;;;;;;;;x;
+count_myken_group;Count;;;;;;;;;;;;;x;
+count_female_myken_group;Countess;;;;;;;;;;;;;x;
 duke_myken_group;Doux;;;;;;;;;;;;;x;
-duke_female_myken_group;Doux;;;;;;;;;;;;;x;
-king_myken_group;Katepano;;;;;;;;;;;;;x;
-king_female_myken_group;Katepano;;;;;;;;;;;;;x;
+duke_female_myken_group;Douxa;;;;;;;;;;;;;x;
+king_myken_group;Prince;;;;;;;;;;;;;x;
+king_female_myken_group;Princess;;;;;;;;;;;;;x;
 emperor_myken_group;Basilius;;;;;;;;;;;;;x;
 emperor_female_myken_group;Basilissa;;;;;;;;;;;;;x;
 barony_of_myken_group;Barony of;;;;;;;;;;;;;x;
-county_of_myken_group;Autarchy of;;;;;;;;;;;;;x;
-duchy_of_myken_group;Thema of;;;;;;;;;;;;;x;
-kingdom_of_myken_group;Katepanate of;;;;;;;;;;;;;x;
+county_of_myken_group;County of;;;;;;;;;;;;;x;
+duchy_of_myken_group;Duchy of;;;;;;;;;;;;;x;
+kingdom_of_myken_group;Principality of;;;;;;;;;;;;;x;
 empire_of_myken_group;Empire of;;;;;;;;;;;;;x;
 city_baron_myken_group;Mayor;;;;;;;;;;;;;x;
 city_count_myken_group;Lord Mayor;;;;;;;;;;;;;x;
@@ -640,12 +645,12 @@ city_empire_of_myken_group;Grand Republic of;;;;;;;;;;;;;x;
 
 baron_tilean_group;Baron;;;;;;;;;;;;;x;
 baron_female_tilean_group;Baron;;;;;;;;;;;;;x;
-count_tilean_group;Viscount;;;;;;;;;;;;;x;
-count_female_tilean_group;Viscountess;;;;;;;;;;;;;x;
-duke_tilean_group;Duke;;;;;;;;;;;;;x;
-duke_female_tilean_group;Duchess;;;;;;;;;;;;;x;
-king_tilean_group;King;;;;;;;;;;;;;x;
-king_female_tilean_group;Queen;;;;;;;;;;;;;x;
+count_tilean_group;Conte;;;;;;;;;;;;;x;
+count_female_tilean_group;Contessa;;;;;;;;;;;;;x;
+duke_tilean_group;Duca;;;;;;;;;;;;;x;
+duke_female_tilean_group;Duchessa;;;;;;;;;;;;;x;
+king_tilean_group;Prince;;;;;;;;;;;;;x;
+king_female_tilean_group;Princess;;;;;;;;;;;;;x;
 emperor_tilean_group;Imperator;;;;;;;;;;;;;x;
 emperor_female_tilean_group;Imperatrix;;;;;;;;;;;;;x;
 barony_of_tilean_group;Viscounty of;;;;;;;;;;;;;x;
@@ -655,62 +660,47 @@ kingdom_of_tilean_group;Principality of;;;;;;;;;;;;;x;
 empire_of_tilean_group;Empire of;;;;;;;;;;;;;x;
 city_baron_tilean_group;Podestà;;;;;;;;;;;;;x;
 city_count_tilean_group;Rettore;;;;;;;;;;;;;x;
-city_duke_tilean_group;Doge;;;;;;;;;;;;;x;
-city_king_tilean_group;Consul;;;;;;;;;;;;;x;
+city_duke_tilean_group;Cancelliere;;;;;;;;;;;;;x;
+city_king_tilean_group;Doge;;;;;;;;;;;;;x;
 city_emperor_tilean_group;Princeps;;;;;;;;;;;;;x;
 city_barony_of_tilean_group;City of;;;;;;;;;;;;;x;
 city_county_of_tilean_group;Grand City of;;;;;;;;;;;;;x;
-city_duchy_of_tilean_group;State of;;;;;;;;;;;;;x;
+city_duchy_of_tilean_group;League of;;;;;;;;;;;;;x;
 city_kingdom_of_tilean_group;Republic of;;;;;;;;;;;;;x;
 city_empire_of_tilean_group;Grand Republic of;;;;;;;;;;;;;x;
 baron_sartosan_group;Baron;;;;;;;;;;;;;x;
 baron_female_sartosan_group;Baron;;;;;;;;;;;;;x;
-count_sartosan_group;Viscount;;;;;;;;;;;;;x;
-count_female_sartosan_group;Viscountess;;;;;;;;;;;;;x;
+count_sartosan_group;Conte;;;;;;;;;;;;;x;
+count_female_sartosan_group;Contessa;;;;;;;;;;;;;x;
 duke_sartosan_group;Duke;;;;;;;;;;;;;x;
 duke_female_sartosan_group;Duchess;;;;;;;;;;;;;x;
 king_sartosan_group;Prince;;;;;;;;;;;;;x;
 king_female_sartosan_group;Princess;;;;;;;;;;;;;x;
 emperor_sartosan_group;Imperator;;;;;;;;;;;;;x;
 emperor_female_sartosan_group;Imperatrix;;;;;;;;;;;;;x;
-barony_of_sartosan_group;Viscounty of;;;;;;;;;;;;;x;
+barony_of_sartosan_group;Barony of;;;;;;;;;;;;;x;
 county_of_sartosan_group;County of;;;;;;;;;;;;;x;
 duchy_of_sartosan_group;Duchy of;;;;;;;;;;;;;x;
 kingdom_of_sartosan_group;Principality of;;;;;;;;;;;;;x;
 empire_of_sartosan_group;Empire of;;;;;;;;;;;;;x;
 city_baron_sartosan_group;Podestà;;;;;;;;;;;;;x;
 city_count_sartosan_group;Rettore;;;;;;;;;;;;;x;
-city_duke_sartosan_group;Doge;;;;;;;;;;;;;x;
-city_king_sartosan_group;Consul;;;;;;;;;;;;;x;
+city_duke_sartosan_group;Cancelliere;;;;;;;;;;;;;x;
+city_king_sartosan_group;Doge;;;;;;;;;;;;;x;
 city_emperor_sartosan_group;Princeps;;;;;;;;;;;;;x;
 city_barony_of_sartosan_group;City of;;;;;;;;;;;;;x;
 city_county_of_sartosan_group;Grand City of;;;;;;;;;;;;;x;
-city_duchy_of_sartosan_group;State of;;;;;;;;;;;;;x;
+city_duchy_of_sartosan_group;League of;;;;;;;;;;;;;x;
 city_kingdom_of_sartosan_group;Republic of;;;;;;;;;;;;;x;
 city_empire_of_sartosan_group;Grand Republic of;;;;;;;;;;;;;x;
-baron_stromfels;Captain;;;;;;;;;;;;;x;
-baron_female_stromfels;Captain;;;;;;;;;;;;;x;
-count_stromfels;Lord Captain;;;;;;;;;;;;;x;
-count_female_stromfels;Lord Captain;;;;;;;;;;;;;x;
-duke_stromfels;High Captain;;;;;;;;;;;;;x;
-duke_female_stromfels;High Captain;;;;;;;;;;;;;x;
 king_stromfels;Pirate Prince;;;;;;;;;;;;;x;
 king_female_stromfels;Pirate Princess;;;;;;;;;;;;;x;
 emperor_stromfels;Pirate King;;;;;;;;;;;;;x;
 emperor_female_stromfels;Pirate Queen;;;;;;;;;;;;;x;
-barony_of_stromfels;Viscounty of;;;;;;;;;;;;;x;
-county_of_stromfels;County of;;;;;;;;;;;;;x;
-duchy_of_stromfels;Duchy of;;;;;;;;;;;;;x;
 kingdom_of_stromfels;Pirate Principality of;;;;;;;;;;;;;x;
 empire_of_stromfels;Pirate Kingdom of;;;;;;;;;;;;;x;
-city_baron_stromfels;Captain;;;;;;;;;;;;;x;
-city_count_stromfels;Lord Captain;;;;;;;;;;;;;x;
-city_duke_stromfels;High Captain;;;;;;;;;;;;;x;
 city_king_stromfels;Pirate Prince;;;;;;;;;;;;;x;
 city_emperor_stromfels;Pirate King;;;;;;;;;;;;;x;
-city_barony_of_stromfels;City of;;;;;;;;;;;;;x;
-city_county_of_stromfels;Grand City of;;;;;;;;;;;;;x;
-city_duchy_of_stromfels;League of;;;;;;;;;;;;;x;
 city_kingdom_of_stromfels;Pirate Principality of;;;;;;;;;;;;;x;
 city_empire_of_stromfels;Pirate Kingdom of;;;;;;;;;;;;;x;
 baron_dwarven_group;Lord;;;;;;;;;;;;;x;
@@ -1128,11 +1118,18 @@ GRAND_BARONY_OF;Grand Barony of;;;;;;;;;;;;;x;
 GRAND_PRINCE;Grand Prince;;;;;;;;;;;;;x;
 GRAND_PRINCESS;Grand Princess;;;;;;;;;;;;;x;
 GRAND_PRINCIPALITY_OF;Grand Principality of;;;;;;;;;;;;;x;
+MARCHESE;Marchese;;;;;;;;;;;;;x;
+MARCHESA;Marchesa;;;;;;;;;;;;;x;
+MARCHES_OF;Marches of;;;;;;;;;;;;;x;
+KING;King;;;;;;;;;;;;;x;
+QUEEN;Queen;;;;;;;;;;;;;x;
 ELDER;Elder;;;;;;;;;;;;;x;
 HIERARCH;Hierarch;;;;;;;;;;;;;x;
 EMPEROR;Emperor;;;;;;;;;;;;;x;
 EMPRESS;Empress;;;;;;;;;;;;;x;
 EDITOR;Editor;;;;;;;;;;;;;x;
+MASTER;Master;;;;;;;;;;;;;x;
+MISTRESS;Mistress;;;;;;;;;;;;;x;
 GOVERNOR_MILITANT;Governer-Militant;;;;;;;;;;;;;x;
 SUPREME_PATRIARCH;Supreme Patriarch;;;;;;;;;;;;;x;
 SUPREME_MATRIARCH;Supreme Matriarch;;;;;;;;;;;;;x;
@@ -1140,6 +1137,8 @@ HIGH_PATRIARCH;High Patriarch;;;;;;;;;;;;;x;
 HIGH_MATRIARCH;High Matriarch;;;;;;;;;;;;;x;
 MASTER_ENGINEER;Master Engineer;;;;;;;;;;;;;x;
 KHAN_KING;Khan-King;;;;;;;;;;;;;x;
+KHAN_QUEEN;Khan-Queen;;;;;;;;;;;;;x;
+EVERCHOSEN;Everchosen;;;;;;;;;;;;;x;
 KHAN_QUEEN;Khan-Queen;;;;;;;;;;;;;x;
 GOD_SIGMAR;Sigmar;;;;;;;;;;;;;x;
 GOD_LORD_SIGMAR;Lord Sigmar;;;;;;;;;;;;;x;

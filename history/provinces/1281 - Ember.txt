@@ -1,0 +1,15 @@
+# 1281 Ember
+
+# County Title
+title = c_ember
+
+# Settlements
+max_settlements = 1
+b_emberstorm = castle
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

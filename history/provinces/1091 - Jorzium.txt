@@ -7,7 +7,7 @@ title = c_jorzium
 max_settlements = 3
 b_jorzium_ungol = castle
 b_dron = city
-b_grung_zoriz = temple
+#b_grung_zoriz = temple
 
 # Misc
 culture = dwarf_main

@@ -8,8 +8,8 @@ max_settlements = 5
 b_kirkja_hiti = castle
 b_kirkja_vitr = temple
 b_olricstaad = temple
-b_fortress_ar_unheim = castle
-b_franzssonburg = city
+#b_fortress_ar_unheim = castle
+#b_franzssonburg = city
 
 # Misc
 culture = nordlander

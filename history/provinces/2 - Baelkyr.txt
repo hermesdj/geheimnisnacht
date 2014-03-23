@@ -8,7 +8,7 @@ max_settlements = 4
 b_baelkyr = castle
 b_norvag = temple
 b_tyrunal = city
-b_jarzul = city
+#b_jarzul = city
 
 # Misc
 culture = graeling

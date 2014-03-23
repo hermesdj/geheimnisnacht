@@ -7,9 +7,9 @@ title = c_iron_rock
 max_settlements = 5
 b_iron_rock_citadel = castle
 b_bitter_dyke = castle
-b_rivenrock = city
-b_gorbin = castle
-b_green_glen = temple
+#b_rivenrock = city
+#b_gorbin = castle
+#b_green_glen = temple
 
 # Misc
 culture = orc_main

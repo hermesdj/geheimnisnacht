@@ -8,7 +8,7 @@ max_settlements = 4
 b_vitevo = castle
 b_chulym = city
 b_buy = temple
-b_bilibino = city
+#b_bilibino = city
 
 # Misc
 culture = gospodar

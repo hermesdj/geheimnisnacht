@@ -7,7 +7,7 @@ max_settlements = 4
 b_dalbia = castle
 b_rosso = city
 b_marillo = city
-b_corona = castle
+#b_corona = castle
 
 #Misc
 culture = avilian

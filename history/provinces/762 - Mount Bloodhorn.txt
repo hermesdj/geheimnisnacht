@@ -7,9 +7,9 @@ title = c_mount_bloodhorn
 max_settlements = 5
 b_bloodhorn_citadel = castle
 b_khadiz_gorum = city
-b_filikammar = temple
-b_urbaz_ungorim = temple
-b_karak_drogar = castle
+#b_filikammar = temple
+#b_urbaz_ungorim = temple
+#b_karak_drogar = castle
 
 # Misc
 culture = dwarf_main

@@ -1,0 +1,18 @@
+# 1115 Luxor
+
+# County Title
+title = c_luxor
+
+# Settlements
+max_settlements = 4
+b_luxor = castle
+b_kem_war = city
+b_koptos = temple
+b_sehel = city
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

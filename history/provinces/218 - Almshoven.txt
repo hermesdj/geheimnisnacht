@@ -4,11 +4,10 @@
 title = c_almshoven
 
 # Settlements
-max_settlements = 4
-b_tancred_castle = castle
+max_settlements = 3
 b_almshoven = temple
-b_broekwater = city
-b_bussum = city
+#b_broekwater = city
+#b_bussum = city
 
 # Misc
 culture = westerlander

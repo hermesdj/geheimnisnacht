@@ -7,8 +7,8 @@ title = c_alabreda
 max_settlements = 4
 b_alabreda = castle
 b_ropera = city
-b_bellesta = temple
-b_jibilana = castle
+#b_bellesta = temple
+#b_jibilana = castle
 
 #Misc
 culture = norteno

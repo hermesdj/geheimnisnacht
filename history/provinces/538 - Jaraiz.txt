@@ -7,7 +7,7 @@ max_settlements = 4
 b_jaraiz = castle
 b_zerdao = temple
 b_cervo = city
-b_polredo = temple
+#b_polredo = temple
 
 #Misc
 culture = obregonese

@@ -1,0 +1,17 @@
+# 1247 Kropot
+
+# County Title
+title = c_kropot
+
+# Settlements
+max_settlements = 3
+b_morvinik = castle
+b_veidhor = city
+#b_mannskar = temple
+
+# Misc
+culture = tahmak
+religion = chaos
+
+
+# History

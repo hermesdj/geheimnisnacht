@@ -6,7 +6,7 @@ title = c_winsen
 # Settlements
 max_settlements = 2
 b_winsen = castle
-b_kastof = city
+#b_kastof = city
 
 # Misc
 culture = drakwalder

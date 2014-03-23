@@ -5,17 +5,20 @@ title = c_remas
 
 # Settlements
 max_settlements = 7
+b_ostio = castle
 b_remas = city
-b_ostio = city
 b_matermyrmidia = temple
 b_iulio = castle
 b_pompeio = city
-b_crasso = temple
-b_antonio = castle
+#b_crasso = temple
+#b_antonio = castle
 
 # Misc
 culture = reman
 religion = classical_gods
 
+terrain = city
 
 # History
+
+2390.9.5 = { capital = b_remas }

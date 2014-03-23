@@ -7,7 +7,7 @@ title = c_chastillon
 max_settlements = 3
 b_chastillon = castle
 b_blomagne = castle
-b_pezenance = city
+#b_pezenance = city
 
 # Misc
 culture = armoric

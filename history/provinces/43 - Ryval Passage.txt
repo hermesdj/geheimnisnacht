@@ -7,8 +7,8 @@ title = c_ryval_passage
 max_settlements = 4
 b_ryvalvik = castle
 b_tyrumal = castle
-b_urunsal = castle
-b_velkun = castle
+#b_urunsal = castle
+#b_velkun = castle
 
 # Misc
 culture = varg

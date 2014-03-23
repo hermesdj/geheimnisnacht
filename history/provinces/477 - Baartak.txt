@@ -1,0 +1,16 @@
+# 477 Baartak
+
+# County Title
+title = c_baartak
+
+# Settlements
+max_settlements = 2
+b_baartak = castle
+#b_marrhaz = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

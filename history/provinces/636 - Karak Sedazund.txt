@@ -8,8 +8,8 @@ max_settlements = 5
 b_karak_sedazund = castle
 b_drakkingor = castle
 b_grung_gorm = temple
-b_barak_thorbal = castle
-b_ogrizar_ungol = city
+#b_barak_thorbal = castle
+#b_ogrizar_ungol = city
 
 # Misc
 culture = dwarf_main

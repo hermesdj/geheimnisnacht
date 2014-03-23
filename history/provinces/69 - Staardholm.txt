@@ -7,7 +7,7 @@ title = c_staardholm
 max_settlements = 3
 b_staardholm = city
 b_nuravik = temple
-b_wurkel = castle
+#b_wurkel = castle
 
 # Misc
 culture = sarl

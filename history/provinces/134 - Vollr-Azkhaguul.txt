@@ -7,7 +7,7 @@ title = c_vollr_azkhaguul
 max_settlements = 3
 b_fortress_of_ghall = castle
 b_gharkulivik = city
-b_tilioborg = temple
+#b_tilioborg = temple
 
 # Misc
 culture = baersonling

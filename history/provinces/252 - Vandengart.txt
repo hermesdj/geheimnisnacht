@@ -7,9 +7,9 @@ title = c_vandengart
 max_settlements = 5
 b_vandengart = castle
 b_lubrecht = city
-b_grenzburg = city
-b_irjisara = castle
-b_rheiden = city
+#b_grenzburg = city
+#b_irjisara = castle
+#b_rheiden = city
 
 # Misc
 culture = ostlander

@@ -7,7 +7,7 @@ title = c_burren
 max_settlements = 3
 b_middenmeer = castle
 b_oostzaan = city
-b_ursem = temple
+#b_ursem = temple
 
 # Misc
 culture = westerlander
@@ -15,3 +15,5 @@ religion = sigmarite
 
 
 # History
+
+2302.7.23 = { capital = b_oostzaan }

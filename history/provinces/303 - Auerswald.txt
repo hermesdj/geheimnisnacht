@@ -5,11 +5,11 @@ title = c_auerswald
 
 # Settlements
 max_settlements = 5
-b_auerswald = castle
-b_rottfurt = city
-b_freyburg = temple
-b_unstrut = city
-b_stromdorf = city
+b_auerswald = city
+b_rottfurt = castle
+#b_freyburg = temple
+#b_unstrut = city
+#b_stromdorf = city
 
 # Misc
 culture = reiklander

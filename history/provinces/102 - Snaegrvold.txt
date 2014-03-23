@@ -6,8 +6,8 @@ title = c_snaegrvold
 # Settlements
 max_settlements = 3
 b_snaegrvold = castle
-b_defindud = city
-b_weserengard = castle
+#b_defindud = city
+#b_weserengard = castle
 
 # Misc
 culture = aesling

@@ -8,7 +8,7 @@ max_settlements = 4
 b_fjisgard = city
 b_poyrvik = temple
 b_fikslburhg = castle
-b_teravumivik = temple
+#b_teravumivik = temple
 
 # Misc
 culture = graeling

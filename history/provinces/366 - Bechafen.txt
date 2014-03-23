@@ -8,9 +8,9 @@ max_settlements = 6
 b_bechafen = castle
 b_reitwen = city
 b_remer = temple
-b_bleak_moors = castle
-b_greding = city
-b_frechen = castle
+#b_bleak_moors = castle
+#b_greding = city
+#b_frechen = castle
 
 # Misc
 culture = ostermarker

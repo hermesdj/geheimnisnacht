@@ -1,0 +1,20 @@
+# 1127 Lahmia
+
+# County Title
+title = c_lahmia
+
+# Settlements
+max_settlements = 6
+b_lahmia = castle
+b_tutmos = city
+b_kherara = temple
+b_tanis = castle
+b_aruna = city
+b_rasut = temple
+
+# Misc
+culture = kashite
+religion = nehekharan_gods
+
+
+# History

@@ -8,7 +8,7 @@ max_settlements = 4
 b_rifraffa = castle
 b_copoa = city
 b_benedetto = temple
-b_avidio = castle
+#b_avidio = castle
 
 # Misc
 culture = reman

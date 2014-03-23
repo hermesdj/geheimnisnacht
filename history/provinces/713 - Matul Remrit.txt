@@ -7,9 +7,9 @@ title = c_matul_remrit
 max_settlements = 5
 b_matul_remrit = castle
 b_grung_remrit = city
-b_karag_krund = castle
-b_grorrim_bar = temple
-b_opulgrum = castle
+#b_karag_krund = castle
+#b_grorrim_bar = temple
+#b_opulgrum = castle
 
 # Misc
 culture = dwarf_main

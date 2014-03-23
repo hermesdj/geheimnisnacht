@@ -1,0 +1,16 @@
+# 1307 Gherra
+
+# County Title
+title = c_gherra
+
+# Settlements
+max_settlements = 2
+b_gherra = castle
+#b_zeni = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

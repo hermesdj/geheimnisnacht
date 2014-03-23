@@ -7,8 +7,8 @@ title = c_nilfheim
 max_settlements = 4
 b_tiruvok = castle
 b_jorlar = city
-b_nilfheim = temple
-b_larjykvic = castle
+#b_nilfheim = temple
+#b_larjykvic = castle
 
 # Misc
 culture = graeling

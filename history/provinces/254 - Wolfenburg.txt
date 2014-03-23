@@ -8,9 +8,9 @@ max_settlements = 6
 b_wolfenburg = castle
 b_levudaldorf = castle
 b_grunackeren = temple
-b_regensdorf = city
-b_zundap = city
-b_jever = temple
+#b_regensdorf = city
+#b_zundap = city
+#b_jever = temple
 
 # Misc
 culture = ostlander

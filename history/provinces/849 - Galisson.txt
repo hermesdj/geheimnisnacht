@@ -8,7 +8,7 @@ max_settlements = 4
 b_galisson = temple
 b_lomee = city
 b_trestayne = castle
-b_digne = city
+#b_digne = city
 
 # Misc
 culture = bourgon

@@ -7,7 +7,7 @@ title = c_kacirk
 max_settlements = 3
 b_kacirk = castle
 b_uzdagrad = city
-b_kopyl = temple
+#b_kopyl = temple
 
 # Misc
 culture = ungol

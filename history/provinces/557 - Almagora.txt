@@ -8,9 +8,9 @@ max_settlements = 6
 b_almagora = castle
 b_velancana = city
 b_san_rodrigo = castle
-b_tizona = city
-b_colada = temple
-b_babieca = castle
+#b_tizona = city
+#b_colada = temple
+#b_babieca = castle
 
 #Misc
 culture = astur

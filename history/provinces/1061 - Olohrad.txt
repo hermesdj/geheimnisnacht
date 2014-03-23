@@ -1,0 +1,20 @@
+# 1061 Olohrad
+
+# County Title
+title = c_olohrad
+
+# Settlements
+max_settlements = 4
+b_olohrad = castle
+b_kankoss = city
+b_agadea = temple
+b_bambarak = city
+#b_hond = city
+#b_burak = temple
+
+# Misc
+culture = wasai
+religion = akghan
+
+
+# History

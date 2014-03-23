@@ -6,8 +6,8 @@ title = c_ebria
 max_settlements = 4
 b_elchencia = castle
 b_hegiza = temple
-b_criona = castle
-b_gezia = city
+#b_criona = castle
+#b_gezia = city
 
 #Misc
 culture = astur

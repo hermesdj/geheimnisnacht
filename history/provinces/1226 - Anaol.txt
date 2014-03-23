@@ -1,0 +1,16 @@
+# 1226 Anaol
+
+# County Title
+title = c_anaol
+
+# Settlements
+max_settlements = 2
+b_anaol = castle
+#b_mektut = temple
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

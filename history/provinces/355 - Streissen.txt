@@ -4,11 +4,12 @@
 title = c_streissen
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_streissen = castle
 b_gorlitz = city
-b_kerpen = city
-b_romrod = temple
+#b_kerpen = castle
+#b_romrod = temple
+#b_siegenhausen = temple
 
 # Misc
 culture = averlander

@@ -7,7 +7,7 @@ title = c_karag_grim
 max_settlements = 3
 b_karag_grim = castle
 b_kazak_grimbar = city
-b_grung_skreebad = temple
+#b_grung_skreebad = temple
 
 # Misc
 culture = dwarf_main

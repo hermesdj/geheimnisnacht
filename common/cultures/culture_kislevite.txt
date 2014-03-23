@@ -27,7 +27,7 @@ kislevite_group = {
 			Saksa Serhiy Setyamka Shindyay Shkay Shoksha Simeon_Simon Stanislav_Stanislav Stepan_Stephen Sudislav Surt Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Syrka Strelok
 			Terentiy Tikshayka Trifon Tyueykezhut Todimir Tolya Torus Tul Tunya Tutyra Tylmache Tylze Tyushten Tyushtya
 			Uchva Uzhara
-			Varaka Varmanpaz Vasiliy_Basil Vasilko Vechkas Velmayka Viacheslav Virdyan Viryas Viryay Vlademar_Vladimir Vladimir_Vladimir Vladislav_Vladislav Voislav Volodar Vseslav Vsevolod Vyshata Vysheslav Vaja Valantyri Valeriki Vilya Vitalia Vladic Volodymyr
+			Varaka Varmanpaz Vasiliy_Basil Vasilko Vassili Vechkas Velmayka Viacheslav Virdyan Viryas Viryay Vlademar_Vladimir Vladimir_Vladimir Vladislav_Vladislav Voislav Volodar Vseslav Vsevolod Vyshata Vysheslav Vaja Valantyri Valeriki Vilya Vitalia Vladic Volodymyr
 			Yaropolk Yaroslav_Jaroslav Yefimiy Yehor Yelisey Yemelyan_Emil Yeremey Yevstafiy Yuriy_George Ydeski
 			Zikmund_Sigmund Zoltan Zoya
 		}
@@ -58,8 +58,8 @@ kislevite_group = {
 			Zabava Zvenislava Zorna Zoryana
 		}
 
-		male_patronym = "syn"
-		female_patronym = "doch"
+		male_patronym = "ovich"
+		female_patronym = "ovna"
 		prefix = no
 
 		pat_grf_name_chance = 50
@@ -104,7 +104,7 @@ kislevite_group = {
 			Zikmund_Sigmund Zlatimir Zlatislav Zoltan Zoya Zwentislav 
 		}
 		female_names = {
-			Agafya_Agatha Agrafena Alexandra Anastasia_Anastasia Anava Anna_Anna Annya Anuchinya Ashava Asrava Awaisa Ayukana Azra 
+			Agafya_Agatha Agrafena Akila Alexandra Anastasia_Anastasia Anava Anna_Anna Annya Anuchinya Ashava Asrava Awaisa Ayukana Azra 
 			Baidara Batumila Bela Boleslava Buzana Byelomila 
 			Chechama Chenksa Cherava Cherniluda Chernora Chichayka Chindyapa Chindyayka Chinzhay Chitska Chorosmira 
 			Darya Daryna Dazbogda Dobrava Dobrezhena Dobronega Dobroslava Dorbeta 
@@ -120,8 +120,8 @@ kislevite_group = {
 			Parava Pavla Pekshayka Pemka Pereyaslava Pokshava Poshayka Potekay Potyava Praskovya Praxida Prebrana Predslava Premyslava Pribislava Putyayka 
 			Radostina Ravzhava Rogneda Rostislava Ruslana Ruzava 
 			Sanalka Sangasa Sbyslava Sernyava Serzhay Setyamka Seyamka Shoika Shonzhava Shukshtoroyka Sinyava Siyamka Slyuganka Snezanya Snizhana Sobenya Sochava Sofia_Sophia Sofiya Sofiya_Sophia Styaka Svetlana Svetlana Sviatoslava Svitlana Svyatoslava Syryava 
-			Tatiana Tatka Tatyana Tatyana Tekay Temnota Teodora Tetyana Tetyava Tikshayka Torghutana Toyaksha Tudastasia Tundava Tundya 
-			Ubashya Ulita Ulyana Ulyana Unzhutka Upurga Ursula Utyayka 
+			Taira Tatiana Tatka Tatyana Tekay Temnota Teodora Tetyana Tetyava Tikshayka Torghutana Toyaksha Tudastasia Tundava Tundya 
+			Ubashya Ulita Ulyana Unzhutka Upurga Ursula Utyayka 
 			Vajena Valdava Varvara Vasalisa Vasilisa Vasylyna Veleslava Vera Vergava Verkhoslava Veselanya Vezhav Viacheslava Vidyava Vira Virtyava Vseslava 
 			Walpura 
 			Xenia 
@@ -129,8 +129,8 @@ kislevite_group = {
 			Zabava Zastivata Zivmila Zlatomira Zorna Zoryana Zvenislava 
 		}
 
-		male_patronym = "syn"
-		female_patronym = "doch"
+		male_patronym = "ovich"
+		female_patronym = "ovna"
 		prefix = no
 
 		pat_grf_name_chance = 50
@@ -152,7 +152,7 @@ kislevite_group = {
 		male_names = {
 			Aamu Aatos Ahri Aila Aina Aino Akuliina Alvi_Albianos Anatai Anita Anni_Anna Antti Anu Arhi Arhippa Arho_Arhippos Armas Aro Arsi_Arsenios Arto_Artemios Artzyn Atro_Adrianos Aulis Avrami_Aabraham Aydin
 			Baichu Belgutai
-			Chaglyn Chamuka
+			Chaglyn Chamuka Chankar
 			Darja Domna Dazhym Dazhyn Dorben
 			Eeva Eiyi Eliisa Elina Elpi Emmi Erdai Esa 
 			Faina Fekla 
@@ -168,7 +168,7 @@ kislevite_group = {
 			Paavel Paavo Paavo_Paulos Palaka Paraske Pekka Petja Petri_Peter Pietari_Peter Pinja Piri Pirjo Puntseg Preita
 			Rauha Reet Reeta Reta Riika Riina Riku Risto Roosa
 			Salli Sanni_Aleksandra Satu Sauvo Savina Savva Seere_Sergei Seni Senja Senni Sere Sero Shirleg Siina Sima Sini Sisko Soja Sonja Suren Suvi Syrtak
-			Tabani Taimi Taina Taina Taisa Tami Tanja Tanner Tapani Tarja Teppana Teppo_Stefanos Tero Terttu Teuvo Timo Toivo Tomofei Topi Torus Triinu Tuija Tuli Tumen Tuula Tuuli Tylik Tymuder Tzarin
+			Tabani Taimi Taina Taina Taisa Tambor Tami Tanja Tanner Tapani Tarja Teppana Teppo_Stefanos Tero Terttu Teuvo Timo Toivo Tomofei Topi Torus Triinu Tuija Tuli Tumen Tuula Tuuli Tylik Tymuder Tzarin
 			Ulagan Uljana_Juliana Unegen Urho Usti Utilla
 			Vachir Väinö Vala Valassi Varvara_Barbara Vechil Vechkin Veera Veli Vesa Vilhelmiina Vihtori Vihtori_Viktor Ville 
 			Warvara
@@ -178,7 +178,7 @@ kislevite_group = {
 		female_names = {
 			Aamu Aatos Ahri Aila Aina Aino Akuliina Alvi_Albianos Anatai Anita Anni_Anna Antti Anu Arhi Arhippa Arho_Arhippos Armas Aro Arsi_Arsenios Arto_Artemios Artzyn Atro_Adrianos Aulis Avrami_Aabraham Aydin
 			Baichu Belgutai
-			Chaglyn Chamuka
+			Chaglyn Chamuka Chankar
 			Darja Domna Dazhym Dazhyn Dorben
 			Eeva Eiyi Eliisa Elina Elpi Emmi Erdai Esa 
 			Faina Fekla 
@@ -194,15 +194,13 @@ kislevite_group = {
 			Paavel Paavo Paavo_Paulos Palaka Paraske Pekka Petja Petri_Peter Pietari_Peter Pinja Piri Pirjo Puntseg Preita
 			Rauha Reet Reeta Reta Riika Riina Riku Risto Roosa
 			Salli Sanni_Aleksandra Satu Sauvo Savina Savva Seere_Sergei Seni Senja Senni Sere Sero Shirleg Siina Sima Sini Sisko Soja Sonja Suren Suvi Syrtak
-			Tabani Taimi Taina Taina Taisa Tami Tanja Tanner Tapani Tarja Teppana Teppo_Stefanos Tero Terttu Teuvo Timo Toivo Tomofei Topi Torus Triinu Tuija Tuli Tumen Tuula Tuuli Tylik Tymuder Tzarin
+			Tabani Taimi Taina Taina Taisa Tambor Tami Tanja Tanner Tapani Tarja Teppana Teppo_Stefanos Tero Terttu Teuvo Timo Toivo Tomofei Topi Torus Triinu Tuija Tuli Tumen Tuula Tuuli Tylik Tymuder Tzarin
 			Ulagan Uljana_Juliana Unegen Urho Usti Utilla
 			Vachir Väinö Vala Valassi Varvara_Barbara Vechil Vechkin Veera Veli Vesa Vilhelmiina Vihtori Vihtori_Viktor Ville 
 			Warvara
 			Yob Yurin Yusin Yveg
 			Zakir
 		}
-
-		from_dynasty_prefix = "ve "
 
 		pat_grf_name_chance = 40
 		mat_grf_name_chance = 0
@@ -240,7 +238,7 @@ kislevite_group = {
 			Taevas Taevataat Taimo Taivas Taivis Taivo Talivaldis Tappete Tarvydas Tautvila Toivo Tont Tooni Toor Tooru Tovtivilas Traidenis Treniota Treniotas Tuuleisa Tuuslar 
 			Uku Uldenago Ulinniks Ulitis Unnepeve 
 			Vainius Vaino Vaishvilkas Vaisvilkas Valata Valikaila Valimantas Valve Vambola Vanaisa Vanema Veino Vello Vesike Vetseke Vidmantas Viesturs Vietso Viezo Viliendi Vingoldas Virmantas Visheiv Vishikut Vishly Visvaldis Vykantas Vytautas Vytenis 
-			Wade Waldeko Wane Wiezo Yalde Ylle Ylo Ymaut Yudki 
+			Wade Waldeko Wane Wanko Wiezo Yalde Ylle Ylo Ymaut Yudki 
 			Zivinbudas Zygimantas 
 			}
 
@@ -264,10 +262,8 @@ kislevite_group = {
 			Vaike Vanema Veteema Viba Vida
 			Weslikan
 			Ziedas Zigne		
-			}		
+		}		
 		
-		from_dynasty_prefix = "ve "
-
 		pat_grf_name_chance = 40
 		mat_grf_name_chance = 0
 		father_name_chance = 0
@@ -277,7 +273,7 @@ kislevite_group = {
 		mother_name_chance = 0
 		
 		modifier = default_culture_modifier
-		}
+	}
 		
 
 	kyazak = {
@@ -305,7 +301,7 @@ kislevite_group = {
 			Vladitaq Volodimir Viktorad Voloslav Vukdan Vlastimil
 			Yasaur Yesunir Yarmorozh
 			Zwentislav Zlatislav Zlatimir
-			}
+		}
 
 		female_names = {
 			Awaisa Anuchinya Ayukana
@@ -326,18 +322,18 @@ kislevite_group = {
 			Vera Veselanya
 			Yelena
 			Zastivata Zivmila Zlatomira
-			}		
+		}		
 		
 
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		mat_grf_name_chance = 15
+		father_name_chance = 15
 
-		pat_grm_name_chance = 5
+		pat_grm_name_chance = 15
 		mat_grm_name_chance = 40
-		mother_name_chance = 0
+		mother_name_chance = 15
 		
 		modifier = default_culture_modifier
-		}		
+	}		
 }
 

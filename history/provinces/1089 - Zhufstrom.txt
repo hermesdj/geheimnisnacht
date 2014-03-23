@@ -7,7 +7,7 @@ title = c_zhufstrom
 max_settlements = 3
 b_zhufstrom_mingol = castle
 b_zhufstrom_barak = city
-b_yorgrimmar = temple
+#b_yorgrimmar = temple
 
 # Misc
 culture = dwarf_main

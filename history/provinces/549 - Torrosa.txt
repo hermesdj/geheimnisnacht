@@ -7,7 +7,7 @@ max_settlements = 4
 b_torrosa = castle
 b_suda = city
 b_josada = temple
-b_dalve = castle
+#b_dalve = castle
 
 #Misc
 culture = astur

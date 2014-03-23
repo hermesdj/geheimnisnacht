@@ -7,8 +7,8 @@ max_settlements = 5
 b_alquezaro = city
 b_asutrias = temple
 b_dregano = castle
-b_frezion = city
-b_yasofa = temple
+#b_frezion = city
+#b_yasofa = temple
 
 #Misc
 culture = norteno

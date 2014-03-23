@@ -7,8 +7,8 @@ title = c_narvaash
 max_settlements = 4
 b_arothburg = castle
 b_narvaash = city
-b_fyjorum = city
-b_raknyl = temple
+#b_fyjorum = city
+#b_raknyl = temple
 
 # Misc
 culture = varg

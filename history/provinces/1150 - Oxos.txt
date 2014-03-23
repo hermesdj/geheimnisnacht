@@ -1,0 +1,17 @@
+# 1150 Oxos
+
+# County Title
+title = c_oxos
+
+# Settlements
+max_settlements = 3
+b_oxos = castle
+b_sais = city
+#b_marea = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

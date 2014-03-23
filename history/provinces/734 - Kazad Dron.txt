@@ -7,8 +7,8 @@ title = c_kazad_dron
 max_settlements = 4
 b_kazad_dron = castle
 b_grung_rakadem = city
-b_khazid_ralsten = temple
-b_khazid_graem = castle
+#b_khazid_ralsten = temple
+#b_khazid_graem = castle
 
 # Misc
 culture = dwarf_main

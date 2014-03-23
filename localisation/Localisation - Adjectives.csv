@@ -41,15 +41,19 @@ k_quenelles_adj;Queneller;;;;;;;;;;;;;x
 e_bretonnia_adj;Bretonnian;;;;;;;;;;;;;x
 c_altdorfer_adj;Altdorfer;;;;;;;;;;;;;x
 d_altdorfer_adj;Altdorfer;;;;;;;;;;;;;x
+k_altdorfer_adj;Altdorfer;;;;;;;;;;;;;x
 k_reikland_adj;Reiklander;;;;;;;;;;;;;x
 k_averland_adj;Averlander;;;;;;;;;;;;;x
 c_talabheim_adj;Talabheimer;;;;;;;;;;;;;x
+d_talabheim_adj;Talabheimer;;;;;;;;;;;;;x
+k_talabheim_adj;Talabheimer;;;;;;;;;;;;;x
 k_talabecland_adj;Talabeclander;;;;;;;;;;;;;x
 c_marienburg_adj;Marienburger;;;;;;;;;;;;;x
 d_marienburg_adj;Marienburger;;;;;;;;;;;;;x
 k_westerland_adj;Westerlander;;;;;;;;;;;;;x
 c_middenheim_adj;Middenheimer;;;;;;;;;;;;;x
 d_middenheim_adj;Middenheimer;;;;;;;;;;;;;x
+k_middenheim_adj;Middenheimer;;;;;;;;;;;;;x
 k_middenland_adj;Middenlander;;;;;;;;;;;;;x
 k_hochland_adj;Hochlander;;;;;;;;;;;;;x
 k_nordland_adj;Nordlander;;;;;;;;;;;;;x
@@ -66,6 +70,7 @@ d_mordheim_adj;Mordheimer;;;;;;;;;;;;;x
 k_ostermark_adj;Ostermarker;;;;;;;;;;;;;x
 c_nuln_adj;Nulner;;;;;;;;;;;;;x
 d_nuln_adj;Nulner;;;;;;;;;;;;;x
+k_nuln_adj;Nulner;;;;;;;;;;;;;x
 k_wissenland_adj;Wissenlander;;;;;;;;;;;;;x
 c_pfeildorf_adj;Pfeildorfer;;;;;;;;;;;;;x
 d_sudenland_adj;Sudenlander;;;;;;;;;;;;;x

@@ -6,7 +6,7 @@ title = c_blood_keep
 # Settlements
 max_settlements = 2
 b_blood_keep = castle
-b_la_maisontaal = temple
+#b_la_maisontaal = temple
 
 # Misc
 culture = orc_main
@@ -14,3 +14,6 @@ religion = greenskin_gods
 
 
 # History
+
+2155.1.1 = { religion = lady_of_the_lake }
+2155.1.1 = { culture = bourgon }

@@ -1,0 +1,15 @@
+# 1668 Andaka
+
+# County Title
+title = c_andaka
+
+# Settlements
+max_settlements = 1
+b_andaka = castle
+
+# Misc
+culture = chi_an
+religion = chaos
+
+
+# History

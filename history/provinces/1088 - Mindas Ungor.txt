@@ -6,7 +6,7 @@ title = c_mindas_ungor
 # Settlements
 max_settlements = 2
 b_mindas_ungor = castle
-b_hilakor_ungor = city
+#b_hilakor_ungor = city
 
 # Misc
 culture = dwarf_main

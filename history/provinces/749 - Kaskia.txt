@@ -6,8 +6,8 @@ title = c_kaskia
 # Settlements
 max_settlements = 3
 b_kaskia = castle
-b_marmor = city
-b_sosistra = temple
+#b_marmor = city
+#b_sosistra = temple
 
 # Misc
 culture = orc_main

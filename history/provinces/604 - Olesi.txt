@@ -7,7 +7,7 @@ title = c_olesi
 max_settlements = 3
 b_olesi = castle
 b_togroda = city
-b_alibana = temple
+#b_alibana = temple
 
 # Misc
 culture = reman

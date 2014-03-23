@@ -7,8 +7,8 @@ title = c_sakaryia
 max_settlements = 4
 b_dvokar = castle
 b_istvaan = castle
-b_janos_pride = city
-b_ember = castle
+#b_janos_pride = city
+#b_ember = castle
 
 # Misc
 culture = orc_main

@@ -7,7 +7,7 @@ title = c_tobol
 max_settlements = 3
 b_tobolvoiska = castle
 b_vysokaye = city
-b_malorita = temple
+#b_malorita = temple
 
 # Misc
 culture = ungol

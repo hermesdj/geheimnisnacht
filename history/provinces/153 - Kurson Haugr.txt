@@ -7,7 +7,7 @@ title = c_kurson_haugr
 max_settlements = 3
 b_kurson_haugr = temple
 b_kursons_forge = castle
-b_kursovijik = city
+#b_kursovijik = city
 
 # Misc
 culture = ropsmann

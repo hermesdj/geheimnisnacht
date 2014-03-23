@@ -7,7 +7,7 @@ title = c_chernigov
 max_settlements = 3
 b_chernigov = castle
 b_voltsara = city
-b_petergof = temple
+#b_petergof = temple
 
 # Misc
 culture = gospodar

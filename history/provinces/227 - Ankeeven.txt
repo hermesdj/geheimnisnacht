@@ -7,7 +7,7 @@ title = c_ankeeven
 max_settlements = 3
 b_ankeeven = castle
 b_de_gesp = city
-b_halfweg = city
+#b_halfweg = city
 
 # Misc
 culture = westerlander

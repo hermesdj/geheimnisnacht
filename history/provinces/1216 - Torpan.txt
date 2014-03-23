@@ -1,0 +1,17 @@
+# 1216 Torpan
+
+# County Title
+title = c_torpan
+
+# Settlements
+max_settlements = 3
+b_evenk = castle
+#b_mogholi = temple
+#b_elta = city
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

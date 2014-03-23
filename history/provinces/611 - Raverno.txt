@@ -8,10 +8,10 @@ max_settlements = 4
 b_raverno = castle
 b_arlequino = city
 b_acandosto = temple
-b_testarossa = castle
+#b_testarossa = castle
 
 # Misc
-culture = umbrian
+culture = reman
 religion = classical_gods
 
 

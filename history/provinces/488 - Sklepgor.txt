@@ -1,0 +1,17 @@
+# 488 Slkepgor
+
+# County Title
+title = c_sklepgor
+
+# Settlements
+max_settlements = 3
+b_sklepgor = castle
+#b_zilair = city
+#b_naska = city
+
+# Misc
+culture = dolgan
+religion = chaos
+
+
+# History

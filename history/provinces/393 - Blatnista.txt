@@ -1,0 +1,18 @@
+# 393 Blatnista
+
+# County Title
+title = c_blatnista
+
+# Settlements
+max_settlements = 4
+b_blatnista = castle
+b_hekoms = city
+#b_malo_konare = temple
+#b_cad = city
+
+# Misc
+culture = tahmak
+religion = chaos
+
+
+# History

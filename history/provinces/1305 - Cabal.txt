@@ -1,0 +1,16 @@
+# 1305 Cabal
+
+# County Title
+title = c_cabal
+
+# Settlements
+max_settlements = 2
+b_cabal = castle
+b_eriksveld = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

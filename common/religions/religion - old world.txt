@@ -6,7 +6,7 @@ old_world_group = {
 	pacifist = yes
 		
 		male_names = {
-		Mannslieb Seiger Sigfried Sieghard Siegschild Sigmarsen Sigmund Sighast Sighelden Sigslieb Talbert Talecht Ulrich Wolf Wolfgang Wolfram
+		Mannslieb Seiger Sigfried Sieghard Siegschild Sigismund Sigmarsen Sigmund Sighast Sighelden Sigslieb Talbert Talecht Ulrich Wolf Wolfgang Wolfram
 		}
 		
 		female_names = {

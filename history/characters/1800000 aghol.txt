@@ -132,8 +132,8 @@ intrigue = 7
 learning = 0
 add_trait = "gardener"
 add_trait = "scholarly_theologian"
-add_trait="stressed"
-add_trait="depressed"
+
+
 add_trait="humble"
 
 1979.8.15={birth="1979.8.15"}

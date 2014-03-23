@@ -6,8 +6,8 @@ title = c_valdana
 max_settlements = 4
 b_liseo = castle
 b_sondo = city
-b_orpetra = city
-b_sicala = castle
+#b_orpetra = city
+#b_sicala = castle
 
 #Misc
 culture = avilian

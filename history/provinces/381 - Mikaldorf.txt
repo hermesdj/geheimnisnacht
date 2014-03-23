@@ -7,8 +7,8 @@ title = c_mikaldorf
 max_settlements = 4
 b_mikaldorf = castle
 b_eschen = city
-b_stephansdorp = temple
-b_krondorf = city
+#b_stephansdorp = temple
+#b_krondorf = city
 
 # Misc
 culture = sylvanian
@@ -16,3 +16,5 @@ religion = vampiric
 
 
 # History
+
+2155.1.1 = { religion = sigmarite }

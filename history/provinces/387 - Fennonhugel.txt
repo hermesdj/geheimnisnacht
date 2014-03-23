@@ -7,7 +7,7 @@ title = c_fennonhugel
 max_settlements = 3
 b_konrads_watch = castle
 b_amonenburg = city
-b_aslar = city
+#b_aslar = city
 
 # Misc
 culture = sylvanian
@@ -15,3 +15,5 @@ religion = vampiric
 
 
 # History
+
+2155.1.1 = { religion = sigmarite }

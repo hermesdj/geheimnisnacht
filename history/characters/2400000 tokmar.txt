@@ -131,8 +131,8 @@ intrigue = 3
 learning = 3
 
 add_trait = "indulgent_wastrel"
-add_trait="depressed"
-add_trait="stressed"
+
+
 
 
 1969.11.14={birth="1969.11.14"}

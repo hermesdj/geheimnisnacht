@@ -6,8 +6,8 @@ title = c_kiziril
 # Settlements
 max_settlements = 3
 b_kiziril = castle
-b_angra = city
-b_cygnia = temple
+#b_angra = city
+#b_cygnia = temple
 
 # Misc
 culture = orc_main

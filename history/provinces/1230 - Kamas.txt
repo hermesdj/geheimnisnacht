@@ -1,0 +1,17 @@
+# 1230 Kamas
+
+# County Title
+title = c_kamas
+
+# Settlements
+max_settlements = 3
+b_katosa = castle
+b_viner = temple
+#b_visi = city
+
+# Misc
+culture = gharhar
+religion = chaos
+
+
+# History

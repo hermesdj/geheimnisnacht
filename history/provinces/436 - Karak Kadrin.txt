@@ -9,8 +9,8 @@ b_karak_kadrin = castle
 b_karak_harkul_alidul = temple
 b_khazid_uristum = city
 b_porinor_ungor = castle
-b_jartum_aligol = city
-b_modan_zhuf = castle
+#b_jartum_aligol = city
+#b_modan_zhuf = castle
 
 # Misc
 culture = dwarf_main

@@ -7,8 +7,8 @@ title = c_kolhov
 max_settlements = 4
 b_kolhov = castle
 b_berlner = city
-b_bahlkurk = temple
-b_helmbrechts = castle
+#b_bahlkurk = temple
+#b_helmbrechts = castle
 
 
 # Misc

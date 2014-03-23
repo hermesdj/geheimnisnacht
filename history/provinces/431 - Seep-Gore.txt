@@ -8,7 +8,7 @@ max_settlements = 4
 b_seep_gore = city
 b_thindrongol_zor = castle
 b_azamar_dok = temple
-b_kazad_akrak = castle
+#b_kazad_akrak = castle
 
 # Misc
 culture = goblin_main

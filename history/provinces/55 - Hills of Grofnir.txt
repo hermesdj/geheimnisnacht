@@ -7,8 +7,8 @@ title = c_hills_of_grofnir
 max_settlements = 4
 b_jotumirvik = city
 b_grofnirvik = city
-b_fortress_of_fyjor = castle
-b_undelyk = temple
+#b_fortress_of_fyjor = castle
+#b_undelyk = temple
 
 # Misc
 culture = varg

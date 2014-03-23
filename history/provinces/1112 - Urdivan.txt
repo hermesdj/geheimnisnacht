@@ -7,8 +7,8 @@ title = c_urdivan
 max_settlements = 4
 b_karak_urdivan = castle
 b_fadiran = city
-b_grung_urdivan = temple
-b_khazid_morngar = castle
+#b_grung_urdivan = temple
+#b_khazid_morngar = castle
 
 # Misc
 culture = dwarf_main

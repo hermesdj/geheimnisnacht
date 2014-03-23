@@ -6,8 +6,8 @@ title = c_grontfell
 # Settlements
 max_settlements = 3
 b_kraka_vlak = castle
-b_kazad_hum = city
-b_grung_durunvik = city
+#b_kazad_hum = city
+#b_grung_durunvik = city
 
 # Misc
 culture = dwarf_norse

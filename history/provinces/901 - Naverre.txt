@@ -7,8 +7,8 @@ title = c_naverre
 max_settlements = 4
 b_agden = castle
 b_pampelune = city
-b_sorneige = temple
-b_baynal = temple
+#b_sorneige = temple
+#b_baynal = temple
 
 # Misc
 culture = carcassian

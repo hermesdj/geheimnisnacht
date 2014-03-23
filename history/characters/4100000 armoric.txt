@@ -15,8 +15,8 @@ add_trait="honest"
 add_trait="gregarious"
 add_trait="kind"
 
-1981.4.30={birth=yes}
-2021.12.2={death=yes}
+1989.4.30={birth=yes}
+2035.12.2={death=yes}
 }
 
 4100001={
@@ -113,7 +113,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -150,7 +150,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 
@@ -400,3 +400,81 @@ add_trait="weak"
 2045.10.28={death=yes}
 }
 
+4100020={
+name = "Jacen"
+dynasty = 24136
+dna = "ngelfckehii"
+culture = armoric
+religion = lady_of_the_lake
+military = 5
+diplomacy = 0
+stewardship = 2
+intrigue = 6
+learning = 3
+add_trait = "skilled_tactician"
+add_trait = "duelist"
+add_trait = "honest"
+1046.1.1={birth=yes}
+1186.3.9={death=yes}
+}
+
+4100021={
+name = "Baudoin"
+dynasty = 24137
+dna = "ocghmeoagli"
+culture = armoric
+religion = lady_of_the_lake
+military = 3
+diplomacy = 4
+stewardship = 6
+intrigue = 5
+learning = 2
+add_trait = "tough_soldier"
+add_trait = "mystic"
+add_trait = "wroth"
+add_trait = "trusting"
+add_trait = "content"
+1147.1.1={birth=yes}
+1202.9.13={give_nickname = nick_dragon_slayer}
+1241.11.21={death=yes}
+}
+
+4100022={
+name = "Ballaume"
+dynasty = 24138
+dna = "opdlhhmadlg"
+culture = armoric
+religion = lady_of_the_lake
+military = 3
+diplomacy = 2
+stewardship = 3
+intrigue = 2
+learning = 3
+add_trait = "brilliant_strategist"
+add_trait = "patient"
+add_trait = "shy"
+add_trait = "zealous"
+add_trait = "shy"
+1640.1.1={birth=yes}
+1734.12.18={give_nickname = nick_the_brave}
+1799.4.12={death=yes}
+}
+
+4100023={
+name = "Godfrey"
+dynasty = 24139
+dna = "dgcofpgjnol"
+culture = armoric
+religion = lady_of_the_lake
+military = 5
+diplomacy = 6
+stewardship = 8
+intrigue = 6
+learning = 8
+add_trait = "grey_eminence"
+add_trait = "celibate"
+add_trait = "kind"
+add_trait = "zealot"
+1415.1.1={birth=yes}
+1539.12.4={death=yes}
+}

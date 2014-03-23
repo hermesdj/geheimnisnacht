@@ -7,11 +7,11 @@ title = c_sturgun
 max_settlements = 4
 b_sturgun = castle
 b_insmark = city
-b_trollewald = temple
-b_blauewasser_steinbruch = city
+#b_trollewald = temple
+#b_blauewasser_steinbruch = city
 
 # Misc
-culture = stirlander
+culture = strigany
 religion = sigmarite
 
 

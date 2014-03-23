@@ -7,8 +7,8 @@ title = c_larret
 max_settlements = 4
 b_larret = castle
 b_bourvan = city
-b_nieminges = castle
-b_roanne = temple
+#b_nieminges = castle
+#b_roanne = temple
 
 # Misc
 culture = armoric

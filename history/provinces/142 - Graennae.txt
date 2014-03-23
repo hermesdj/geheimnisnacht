@@ -7,8 +7,8 @@ title = c_graennae
 max_settlements = 4
 b_graennae = castle
 b_jaarpen = city
-b_gharzum = city
-b_hartel = temple
+#b_gharzum = city
+#b_hartel = temple
 
 # Misc
 culture = sarl

@@ -8,7 +8,7 @@ max_settlements = 4
 b_wusterberg = castle
 b_eigenhof = city
 b_rotenbach = city
-b_segeberg = city
+#b_segeberg = city
 
 # Misc
 culture = wissenlander

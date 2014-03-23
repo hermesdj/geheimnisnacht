@@ -7,8 +7,8 @@ title = c_karak_a_dumril
 max_settlements = 4
 b_karak_arko = castle
 b_karag_dumril = city
-b_kazarim = temple
-b_azrizar = castle
+#b_kazarim = temple
+#b_azrizar = castle
 
 # Misc
 culture = lahmian

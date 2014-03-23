@@ -7,8 +7,8 @@ title = c_laserno
 max_settlements = 4
 b_laserno = castle
 b_sudissima = city
-b_fino_di_terra = temple
-b_corsari = castle
+#b_fino_di_terra = temple
+#b_corsari = castle
 
 # Misc
 culture = lucian

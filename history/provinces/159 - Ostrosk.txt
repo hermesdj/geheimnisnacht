@@ -7,8 +7,8 @@ title = c_ostrosk
 max_settlements = 4
 b_fort_ostrosk = castle
 b_iwye = city
-b_smarhona = temple
-b_novgroduk = city
+#b_smarhona = temple
+#b_novgroduk = city
 
 # Misc
 culture = ropsmann

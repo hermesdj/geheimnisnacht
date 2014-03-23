@@ -7,7 +7,7 @@ title = c_cenona
 max_settlements = 3
 b_cenona = castle
 b_bertoldo = city
-b_mivoranga = temple
+#b_mivoranga = temple
 
 # Misc
 culture = miraglian

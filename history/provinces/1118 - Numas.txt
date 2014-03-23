@@ -1,0 +1,20 @@
+# 1118 Numas
+
+# County Title
+title = c_numas
+
+# Settlements
+max_settlements = 6
+b_numas = castle
+b_retenu = city
+b_alkhazzar = temple
+b_hansu = city
+b_natrun = castle
+b_moalla = city
+
+# Misc
+culture = canopic
+religion = nehekharan_gods
+
+
+# History

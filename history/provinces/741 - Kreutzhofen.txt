@@ -7,13 +7,13 @@ title = c_kreutzhofen
 max_settlements = 5
 b_kreutzhofen = castle
 b_weilerberg = city
-b_tierhugel = city
-b_serrig = city
-b_buhl = city
+#b_tierhugel = city
+#b_serrig = city
+#b_buhl = city
 
 # Misc
-culture = dwarf_main
-religion = ancestor_gods
+culture = wissenlander
+religion = sigmarite
 
 
 # History

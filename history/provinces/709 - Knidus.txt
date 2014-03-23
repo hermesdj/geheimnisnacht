@@ -6,8 +6,8 @@ title = c_knidus
 # Settlements
 max_settlements = 3
 b_knidus = castle
-b_thorax = city
-b_narete = temple
+#b_thorax = city
+#b_narete = temple
 
 # Misc
 culture = orc_main

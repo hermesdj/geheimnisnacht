@@ -6,8 +6,8 @@ title = c_igelhugel
 # Settlements
 max_settlements = 3
 b_gruyden = castle
-b_langweise = temple
-b_dohna = castle
+#b_langweise = temple
+#b_dohna = castle
 
 # Misc
 culture = hochlander

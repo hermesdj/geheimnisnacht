@@ -131,7 +131,7 @@ intrigue = 0
 learning = 9
 add_trait = "duelist"
 add_trait = "fortune_builder"
-add_trait="stressed"
+
 
 
 
@@ -151,7 +151,7 @@ intrigue = 3
 learning = 2
 
 add_trait = "tough_soldier"
-add_trait="depressed"
+
 add_trait="lustful"
 
 

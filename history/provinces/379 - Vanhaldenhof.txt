@@ -7,8 +7,8 @@ title = c_vanhaldenhof
 max_settlements = 4
 b_vanhaldenschlosse = castle
 b_vanhaldenhof = city
-b_helfurt = temple
-b_gescher = temple
+#b_helfurt = temple
+#b_gescher = temple
 
 # Misc
 culture = sylvanian
@@ -16,3 +16,5 @@ religion = vampiric
 
 
 # History
+
+2155.1.1 = { religion = sigmarite }

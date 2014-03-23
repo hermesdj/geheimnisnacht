@@ -1,0 +1,16 @@
+# 1298 Ghulakth
+
+# County Title
+title = c_ghulakth
+
+# Settlements
+max_settlements = 2
+b_ghulakth = castle
+b_charrin = temple
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

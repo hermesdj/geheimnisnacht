@@ -7,8 +7,8 @@ title = c_karag_haraz
 max_settlements = 4
 b_karag_haraz = castle
 b_grung_dorbim = city
-b_grongol_zirak = temple
-b_khazid_orgrimmar = castle
+#b_grongol_zirak = temple
+#b_khazid_orgrimmar = castle
 
 # Misc
 culture = dwarf_main

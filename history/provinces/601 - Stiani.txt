@@ -8,7 +8,7 @@ max_settlements = 4
 b_stiani = castle
 b_tavolea = city
 b_santa_mertola = temple
-b_olrico = castle
+#b_olrico = castle
 
 # Misc
 culture = umbrian

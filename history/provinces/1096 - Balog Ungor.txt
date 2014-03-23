@@ -6,7 +6,7 @@ title = c_balog_ungor
 # Settlements
 max_settlements = 2
 b_balog_ungor = city
-b_orald = castle
+#b_orald = castle
 
 # Misc
 culture = dwarf_main

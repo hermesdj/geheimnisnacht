@@ -4,11 +4,10 @@
 title = c_hagercrybs
 
 # Settlements
-max_settlements = 4
-b_weissbruck = castle
+max_settlements = 3
 b_wetzler = city
 b_wiehl = temple
-b_marktlehuen = city
+#b_marktlehuen = city
 
 # Misc
 culture = reiklander

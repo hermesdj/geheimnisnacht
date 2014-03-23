@@ -7,8 +7,8 @@ title = c_erguian
 max_settlements = 4
 b_ergy = castle
 b_hires = temple
-b_carlion = temple
-b_cazus = city
+#b_carlion = temple
+#b_cazus = city
 
 # Misc
 culture = nortagnese

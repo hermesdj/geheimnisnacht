@@ -1,0 +1,17 @@
+# 1674 One
+
+# County Title
+title = c_one
+
+# Settlements
+max_settlements = 3
+b_one = castle
+b_abishi = city
+#b_arghun = temple
+
+# Misc
+culture = chi_an
+religion = chaos
+
+
+# History

@@ -1,16 +1,16 @@
-# 296 - Graunberg
+# 350 - Eicheshatten
 
 # County Title
 title = c_eicheschatten
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 b_eicheschatten = castle
 b_molberg = city
 b_vorchdorf = city
-b_brandenberry = city
-b_birnbaum = temple
-b_bogglewort = city
+#b_brandenberry = city
+#b_birnbaum = temple
+#b_bogglewort = city
 
 # Misc
 culture = mootlander

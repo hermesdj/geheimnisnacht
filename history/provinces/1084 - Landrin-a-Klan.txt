@@ -7,7 +7,7 @@ title = c_landrin_a_klan
 max_settlements = 3
 b_landrin_a_klan = castle
 b_zarnol = city
-b_ruvalk_wazzrik = temple
+#b_ruvalk_wazzrik = temple
 
 # Misc
 culture = dwarf_main

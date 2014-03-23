@@ -1,0 +1,16 @@
+# 501 Tanahk
+
+# County Title
+title = c_tanahk
+
+# Settlements
+max_settlements = 2
+b_tanahk = castle
+b_shaush = city
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

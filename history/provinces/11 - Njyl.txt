@@ -7,7 +7,7 @@ title = c_njyl
 max_settlements = 3
 b_durakul = castle
 b_durakil = temple
-b_durakal = city
+#b_durakal = city
 
 # Misc
 culture = graeling

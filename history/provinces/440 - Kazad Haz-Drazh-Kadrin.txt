@@ -6,8 +6,8 @@ title = c_kazad_haz_drazh_kadrin
 # Settlements
 max_settlements = 3
 b_kazad_haz_drazh_kadrin = castle
-b_grung_irulizal = city
-b_kazad_grazhum = castle
+#b_grung_irulizal = city
+#b_kazad_grazhum = castle
 
 # Misc
 culture = dwarf_main

@@ -1,0 +1,16 @@
+# 1235 Ents
+
+# County Title
+title = c_ents
+
+# Settlements
+max_settlements = 2
+b_kanti = castle
+#b_yukag = temple
+
+# Misc
+culture = tahmak
+religion = nurgle
+
+
+# History

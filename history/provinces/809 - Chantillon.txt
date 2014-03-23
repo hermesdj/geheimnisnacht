@@ -7,8 +7,8 @@ title = c_chantillon
 max_settlements = 4
 b_chantillon = castle
 b_euresbourg = city
-b_tennisson = castle
-b_baux_le_cloitre = temple
+#b_tennisson = castle
+#b_baux_le_cloitre = temple
 
 # Misc
 culture = nortagnese

@@ -1,0 +1,16 @@
+# 1311 Zinir
+
+# County Title
+title = c_zinir
+
+# Settlements
+max_settlements = 2
+b_ziniran = castle
+b_akta = city
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

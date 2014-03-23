@@ -7,7 +7,7 @@ max_settlements = 4
 b_pajena = castle
 b_trebido = temple
 b_belada = castle
-b_tredate = city
+#b_tredate = city
 
 #Misc
 culture = norteno

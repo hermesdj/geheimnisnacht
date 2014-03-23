@@ -1,0 +1,16 @@
+# 1152 Sarap
+
+# County Title
+title = c_sarap
+
+# Settlements
+max_settlements = 2
+b_sarapa = castle
+b_maphar = city
+
+# Misc
+culture = kashite
+religion = nehekharan_gods
+
+
+# History

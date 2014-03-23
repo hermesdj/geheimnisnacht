@@ -7,8 +7,8 @@ title = c_malavigna
 max_settlements = 4
 b_malavigna = castle
 b_opondone = city
-b_fradesco = temple
-b_peletino = castle
+#b_fradesco = temple
+#b_peletino = castle
 
 # Misc
 culture = umbrian

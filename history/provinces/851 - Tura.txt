@@ -7,8 +7,8 @@ title = c_tura
 max_settlements = 4
 b_chasancon = castle
 b_besalogne = city
-b_ramse = temple
-b_notre_dame_du_lys = temple
+#b_ramse = temple
+#b_notre_dame_du_lys = temple
 
 # Misc
 culture = bourgon

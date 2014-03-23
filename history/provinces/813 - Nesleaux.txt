@@ -7,8 +7,8 @@ title = c_nesleaux
 max_settlements = 4
 b_nesle = temple
 b_carduel = castle
-b_chapelle_seigneure = temple
-b_herment = city
+#b_chapelle_seigneure = temple
+#b_herment = city
 
 # Misc
 culture = nortagnese

@@ -8,7 +8,7 @@ max_settlements = 4
 b_rouard = castle
 b_montsagnant = castle
 b_estagne = castle
-b_lencastel = temple
+#b_lencastel = temple
 
 # Misc
 culture = nortagnese

@@ -8,7 +8,7 @@ max_settlements = 4
 b_krakjunov = castle
 b_schonsze = city
 b_czorn = temple
-b_nevel = city
+#b_nevel = city
 
 # Misc
 culture = gospodar

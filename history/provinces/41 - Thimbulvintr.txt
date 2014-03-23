@@ -7,7 +7,7 @@ title = c_thimbulvintr
 max_settlements = 3
 b_ufulriik = castle
 b_kilarghdal = city
-b_pyrial = temple
+#b_pyrial = temple
 
 # Misc
 culture = varg

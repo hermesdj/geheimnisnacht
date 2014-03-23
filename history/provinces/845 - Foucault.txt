@@ -7,8 +7,8 @@ title = c_foucault
 max_settlements = 4
 b_foucault = castle
 b_milard = temple
-b_montalbau = temple
-b_signe = city
+#b_montalbau = temple
+#b_signe = city
 
 # Misc
 culture = breton

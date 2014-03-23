@@ -4,11 +4,11 @@ title = c_malmeria
 
 #Settlements
 max_settlements = 5
-b_mediana = temple
 b_pillaris = castle
+b_mediana = temple
 b_macaria = castle
-b_trigasta = temple
-b_yulina = city
+#b_trigasta = temple
+#b_yulina = city
 
 #Misc
 culture = astur

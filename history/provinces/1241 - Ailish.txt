@@ -1,0 +1,16 @@
+# 1241 Ailish
+
+# County Title
+title = c_ailish
+
+# Settlements
+max_settlements = 2
+b_golbma = castle
+#b_egy = temple
+
+# Misc
+culture = dolgan
+religion = chaos
+
+
+# History

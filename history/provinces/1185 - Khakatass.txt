@@ -1,0 +1,17 @@
+# 1185 Khakatass
+
+# County Title
+title = c_khakatass
+
+# Settlements
+max_settlements = 3
+b_khakatass = castle
+b_ulkhari = city
+#b_negida = castle
+
+# Misc
+culture = yusak
+religion = chaos
+
+
+# History

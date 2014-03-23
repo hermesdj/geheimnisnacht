@@ -6,8 +6,8 @@ title = c_campogrotta
 # Settlements
 max_settlements = 3
 b_campogrotta = castle
-b_santascrittora = city
-b_abani = temple
+#b_santascrittora = city
+#b_abani = temple
 
 # Misc
 culture = miraglian

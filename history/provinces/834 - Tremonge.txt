@@ -8,8 +8,8 @@ max_settlements = 5
 b_tremure = castle
 b_vantes = temple
 b_thouleon = castle
-b_doubourg = city
-b_soire = temple
+#b_doubourg = city
+#b_soire = temple
 
 # Misc
 culture = gascon

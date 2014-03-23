@@ -6,11 +6,11 @@ title = c_mognia
 # Settlements
 max_settlements = 3
 b_mognia = castle
-b_herac = city
-b_beles = city
+#b_herac = city
+#b_beles = city
 
 # Misc
-culture = reiklander
+culture = neueslander
 religion = sigmarite
 
 

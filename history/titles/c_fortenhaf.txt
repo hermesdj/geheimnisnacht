@@ -7,6 +7,10 @@ liege="k_ostermark"
 	holder = 750006
 }
 
-2490.5.2 = {
-	holder = 750033
+2480.1.1 = {
+	holder = 750035
+}
+
+2512.3.2 = {
+	holder = 750036
 }

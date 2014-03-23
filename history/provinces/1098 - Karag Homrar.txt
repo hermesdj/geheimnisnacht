@@ -6,7 +6,7 @@ title = c_karag_homrar
 # Settlements
 max_settlements = 2
 b_karag_homrar = castle
-b_karag_dwarinfel = city
+#b_karag_dwarinfel = city
 
 # Misc
 culture = dwarf_main

@@ -7,7 +7,7 @@ title = c_karak_grong
 max_settlements = 3
 b_karak_grong = castle
 b_za_lindrol = castle
-b_karag_grolik = city
+#b_karag_grolik = city
 
 # Misc
 culture = dwarf_main

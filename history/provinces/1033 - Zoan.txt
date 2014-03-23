@@ -1,0 +1,18 @@
+# 1033 Zoan
+
+# County Title
+title = c_zoan
+
+# Settlements
+max_settlements = 4
+b_zoan = castle
+b_aruk = city
+#b_tharasset = temple
+#b_magriab = city
+
+# Misc
+culture = wasai
+religion = akghan
+
+
+# History

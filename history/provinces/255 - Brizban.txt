@@ -7,7 +7,7 @@ title = c_brizban
 max_settlements = 3
 b_brizban = castle
 b_kukonois = city
-b_osel = city
+#b_osel = city
 
 # Misc
 culture = ostlander

@@ -7,8 +7,8 @@ title = c_dyzatlava
 max_settlements = 4
 b_dyzatlava = castle
 b_berzovka = city
-b_oshmyany = temple
-b_skidel = city
+#b_oshmyany = temple
+#b_skidel = city
 
 # Misc
 culture = ropsmann

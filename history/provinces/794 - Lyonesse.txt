@@ -8,9 +8,9 @@ max_settlements = 4
 b_lyonesse = castle
 b_avalot = city
 b_ellys = temple
-b_reynes = castle
-b_scilly = castle
-b_charybde = temple
+#b_reynes = castle
+#b_scilly = castle
+#b_charybde = temple
 
 # Misc
 culture = armoric

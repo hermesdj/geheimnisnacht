@@ -6,8 +6,8 @@ title = c_cervantes
 max_settlements = 4
 b_cervantes = castle
 b_recopolis = city
-b_hirta = temple
-b_gongora = city
+#b_hirta = temple
+#b_gongora = city
 
 #Misc
 culture = montanese

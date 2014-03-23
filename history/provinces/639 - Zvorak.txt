@@ -6,12 +6,12 @@ title = c_zvorak
 # Settlements
 max_settlements = 3
 b_zvorak = castle
-b_myrmenatus = castle
-b_arcadia = temple
+#b_myrmenatus = castle
+#b_arcadia = temple
 
 # Misc
-culture = myken
-religion = classical_gods
+culture = marcheur
+religion = lady_of_the_lake
 
 
 # History

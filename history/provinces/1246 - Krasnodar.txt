@@ -1,0 +1,16 @@
+# 1246 Krasnodar
+
+# County Title
+title = c_krasnodar
+
+# Settlements
+max_settlements = 2
+b_mannliger = castle
+#b_kunnigor = temple
+
+# Misc
+culture = tokmar
+religion = chaos
+
+
+# History

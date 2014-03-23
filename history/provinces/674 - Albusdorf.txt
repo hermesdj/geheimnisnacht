@@ -7,11 +7,11 @@ title = c_albusdorf
 max_settlements = 4
 b_albusdorf = castle
 b_vinzeford = city
-b_brancamal = temple
-b_gresse = castle
+#b_brancamal = temple
+#b_gresse = castle
 
 # Misc
-culture = wissenlander
+culture = neueslander
 religion = sigmarite
 
 

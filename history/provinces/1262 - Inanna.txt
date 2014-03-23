@@ -1,0 +1,17 @@
+# 1262 Inanna
+
+# County Title
+title = c_inanna
+
+# Settlements
+max_settlements = 3
+b_inanna = castle
+b_virmir = castle
+#b_rappar = temple
+
+# Misc
+culture = orc_main
+religion = greenskin_gods
+
+
+# History

@@ -7,8 +7,8 @@ title = c_karak_angazhar
 max_settlements = 4
 b_karak_angazhar = castle
 b_grung_tepskaf = city
-b_karak_tyladal = temple
-b_kazad_sarumtul = temple
+#b_karak_tyladal = temple
+#b_kazad_sarumtul = temple
 
 # Misc
 culture = dwarf_main

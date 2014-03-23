@@ -7,7 +7,7 @@ max_settlements = 4
 b_belmoz = castle
 b_vulreda = temple
 b_larteno = city
-b_san_joaqin = castle
+#b_san_joaqin = castle
 
 #Misc
 culture = astur

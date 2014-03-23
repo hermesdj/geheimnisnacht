@@ -1,5 +1,4 @@
-2010.1.1=
-{
+2010.1.1 = {
 liege="d_abshaumwald"
 }
 
@@ -8,13 +7,13 @@ liege="d_abshaumwald"
 }
 
 2304.12.5 = {
-	liege="e_the_empire"
+	liege="k_ostermark"
 }
 
-2488.7.4 = {
-	holder = 750024 #Maximillian Dachs
+2470.1.1 = {
+	holder = 750038
 }
 
-2514.4.7 = {
-	holder = 750023 #Wolfram Hertwig
+2503.3.24 = {
+	holder = 750039
 }

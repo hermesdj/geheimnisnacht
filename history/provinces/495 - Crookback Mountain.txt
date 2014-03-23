@@ -1,0 +1,19 @@
+# 495 Crookback Mountain
+
+# County Title
+title = c_crookback_mountain
+
+# Settlements
+max_settlements = 5
+b_crookback_spire = castle
+b_crookback_deep = castle
+b_skreetlezorn = city
+#b_rottanbak = temple
+#b_feltoo = castle
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

@@ -1,0 +1,17 @@
+# 410 Graf
+
+# County Title
+title = c_graf
+
+# Settlements
+max_settlements = 3
+b_graf = castle
+b_opan = city
+#b_kovachevo = castle
+
+# Misc
+culture = kul
+religion = chaos
+
+
+# History

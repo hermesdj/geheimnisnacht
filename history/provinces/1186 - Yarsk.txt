@@ -1,0 +1,16 @@
+# 1186 Yarsk
+
+# County Title
+title = c_yarsk
+
+# Settlements
+max_settlements = 2
+b_yarsk = castle
+#b_ishan = city
+
+# Misc
+culture = yusak
+religion = chaos
+
+
+# History

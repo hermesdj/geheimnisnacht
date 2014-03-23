@@ -7,8 +7,8 @@ title = c_khazid_erakkial
 max_settlements = 4
 b_khazid_erakkial = castle
 b_grung_tilialdum = city
-b_kazad_ang = city
-b_angurbaz = castle
+#b_kazad_ang = city
+#b_angurbaz = castle
 
 # Misc
 culture = dwarf_main

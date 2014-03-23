@@ -6,7 +6,7 @@ title = c_tyronim
 # Settlements
 max_settlements = 2
 b_tyronim = castle
-b_utulum = city
+#b_utulum = city
 
 # Misc
 culture = skaeling

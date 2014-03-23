@@ -6,7 +6,7 @@ title = c_belyavorota_pass
 # Settlements
 max_settlements = 2
 b_karak_caldum = castle
-b_grung_ferlal = city
+#b_grung_ferlal = city
 
 # Misc
 culture = ungol

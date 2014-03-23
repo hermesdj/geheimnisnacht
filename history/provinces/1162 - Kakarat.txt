@@ -1,0 +1,16 @@
+# 1162 Kakarat
+
+# County Title
+title = c_kakarat
+
+# Settlements
+max_settlements = 2
+b_kakarat = castle
+b_dhat_khal = temple
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

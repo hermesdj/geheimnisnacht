@@ -3,13 +3,17 @@
 }
 
 2000.5.5 = {
-	holder = 350024
+	holder = 350026
 }
 
 2145.3.15 = {
 	liege="k_stirland"
 }
 
-2502.2.15 = {
-	holder = 350025
+2500.1.1 = {
+	liege="d_drakenhohenzug"
+}
+
+2500.1.1 = {
+	holder = 350029
 }

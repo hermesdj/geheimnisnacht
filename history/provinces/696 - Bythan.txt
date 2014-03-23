@@ -7,11 +7,11 @@ title = c_bythan
 max_settlements = 3
 b_bythan = castle
 b_plathaphyne = city
-b_thorsivar = city
+#b_thorsivar = city
 
 # Misc
-culture = lucian
-religion = classical_gods
+culture = marcheur
+religion = lady_of_the_lake
 
 
 # History

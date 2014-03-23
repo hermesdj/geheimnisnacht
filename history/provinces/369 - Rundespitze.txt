@@ -7,7 +7,7 @@ title = c_rundespitze
 max_settlements = 3
 b_rundespitze = castle
 b_bassum = city
-b_aichach = temple
+#b_aichach = temple
 
 # Misc
 culture = ostermarker

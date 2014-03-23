@@ -6,8 +6,8 @@ title = c_santa_clair
 max_settlements = 4
 b_santa_clair = castle
 b_point_de_segundo = castle
-b_santo_de_yuna = city
-b_laguna_au_paix = temple
+#b_santo_de_yuna = city
+#b_laguna_au_paix = temple
 
 #Misc
 culture = astur

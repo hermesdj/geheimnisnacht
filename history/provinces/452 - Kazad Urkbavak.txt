@@ -8,8 +8,8 @@ max_settlements = 5
 b_kazad_urkbavak = castle
 b_kazak_tonadol = city
 b_khadimar = temple
-b_paragromag = castle
-b_galt_dum = city
+#b_paragromag = castle
+#b_galt_dum = city
 
 # Misc
 culture = dwarf_main

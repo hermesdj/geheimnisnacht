@@ -8,7 +8,7 @@ max_settlements = 4
 b_argalis = castle
 b_amikus = castle
 b_plisthene = temple
-b_oetapolis = city
+#b_oetapolis = city
 
 # Misc
 culture = myken

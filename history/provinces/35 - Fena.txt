@@ -6,9 +6,9 @@ title = c_fena
 # Settlements
 max_settlements = 4
 b_fenavyl = castle
-b_fuunivyls_grasp = temple
-b_lytervik = city
-b_lysial = temple
+#b_fuunivyls_grasp = temple
+#b_lytervik = city
+#b_lysial = temple
 
 # Misc
 culture = skaeling

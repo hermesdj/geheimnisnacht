@@ -54,8 +54,8 @@ add_trait = "skilled_tactician"
 add_trait = "proud"
 father = 4000001
 mother = 4000000
-1996.1.12={birth=yes}
-2046.1.22={death=yes}
+2000.1.12={birth=yes}
+2006.1.22={death=yes}
 }
 
 4000003={
@@ -77,7 +77,7 @@ add_trait = "lustful"
 add_trait = "brave"
 father = 4000001
 mother = 4000000
-1994.4.10={birth=yes}
+1998.4.10={birth=yes}
 2033.5.20={death=yes}
 }
 
@@ -97,7 +97,7 @@ add_trait = "shy"
 add_trait = "charitable"
 father = 4000001
 mother = 4000000
-1993.12.29={birth=yes}
+1991.12.29={birth=yes}
 2043.9.1={death=yes}
 }
 
@@ -139,7 +139,7 @@ add_trait = "shy"
 add_trait = "shy"
 father = 4000001
 mother = 4000000
-1991.7.3={birth=yes}
+1987.7.3={birth=yes}
 2038.11.3={death=yes}
 }
 
@@ -183,9 +183,9 @@ add_trait = "content"
 }
 
 4000009={
-name = "Eve"
+name = "Aubrey"
 female = yes
-dynasty = 29013
+dynasty = 29073
 dna = "ehdngnhihia"
 culture = nortagnese
 religion = lady_of_the_lake
@@ -198,11 +198,8 @@ add_trait = "thrifty_clerk"
 add_trait = "humble"
 add_trait = "wroth"
 add_trait = "gluttonous"
-add_trait = "gluttonous"
-father = 4000008
-mother = 4000007
-1983.6.14={birth=yes}
-2003.9.10 = {add_spouse=4000010}
+1973.6.14={birth=yes}
+1993.9.10 = {add_spouse=4000010}
 2047.2.11={death=yes}
 }
 
@@ -222,8 +219,8 @@ add_trait = "mystic"
 add_trait = "content"
 add_trait = "patient"
 add_trait = "arbitrary"
-1985.12.9={birth=yes}
-2003.9.10 = {add_spouse=4000009}
+1965.12.9={birth=yes}
+1993.9.10 = {add_spouse=4000009}
 2056.5.7={death=yes}
 }
 
@@ -243,7 +240,7 @@ add_trait = "slothful"
 add_trait = "deceitful"
 father = 4000010
 mother = 4000009
-2004.10.23={birth=yes}
+1995.10.23={birth=yes}
 2076.3.27={death=yes}
 }
 
@@ -264,7 +261,7 @@ add_trait = "just"
 add_trait = "chaste"
 father = 4000010
 mother = 4000009
-2004.12.15={birth=yes}
+1999.12.15={birth=yes}
 2046.1.13={death=yes}
 }
 
@@ -285,7 +282,7 @@ add_trait = "greedy"
 add_trait = "cynical"
 father = 4000010
 mother = 4000009
-2008.2.10={birth=yes}
+2002.2.10={birth=yes}
 2054.4.15={death=yes}
 }
 
@@ -306,7 +303,7 @@ add_trait = "honest"
 add_trait = "charitable"
 father = 4000010
 mother = 4000009
-2005.5.8={birth=yes}
+2000.5.8={birth=yes}
 2069.6.11={death=yes}
 }
 
@@ -351,8 +348,8 @@ add_trait = "slothful"
 add_trait = "gluttonous"
 father = 4000008
 mother = 4000007
-1986.10.3={birth=yes}
-2004.12.7 = {add_spouse=4000017}
+1980.10.3={birth=yes}
+2001.12.7 = {add_spouse=4000017}
 2039.5.14={death=yes}
 }
 
@@ -368,8 +365,8 @@ stewardship = 3
 intrigue = 4
 learning = 4
 add_trait = "intricate_webweaver"
-1987.11.18={birth=yes}
-2004.12.7 = {add_spouse=4000016}
+1976.11.18={birth=yes}
+2001.12.7 = {add_spouse=4000016}
 2047.1.13={death=yes}
 }
 
@@ -410,7 +407,7 @@ add_trait = "flamboyant_schemer"
 add_trait = "humble"
 father = 4000017
 mother = 4000016
-2005.11.28={birth=yes}
+2002.11.28={birth=yes}
 2006.9.10={death=yes}
 }
 
@@ -433,7 +430,7 @@ add_trait = "brave"
 add_trait = "drunkard"
 father = 4000017
 mother = 4000016
-2007.5.10={birth=yes}
+2004.5.10={birth=yes}
 2071.1.22={death=yes}
 }
 
@@ -502,7 +499,7 @@ mother = 4000007
 4000024={
 name = "Mautild"
 female = yes
-dynasty = 29013
+dynasty = 29059
 dna = "eonnkphmhld"
 culture = nortagnese
 religion = lady_of_the_lake
@@ -512,8 +509,6 @@ stewardship = 6
 intrigue = 1
 learning = 3
 add_trait = "flamboyant_schemer"
-father = 4000008
-mother = 4000007
 1983.1.18={birth=yes}
 2002.10.1 = {add_spouse=4000025}
 2049.6.11={death=yes}
@@ -2052,7 +2047,8 @@ learning = 4
 add_trait = "brilliant_strategist"
 add_trait = "zealous"
 add_trait = "envious"
-1954.1.5={birth=yes}
+1924.1.5={birth=yes}
+1963.10.17={give_nickname = nick_the_brave}
 1983.3.12 = {add_spouse=4000099}
 2007.10.5={death=yes}
 }
@@ -2115,9 +2111,10 @@ add_trait = "envious"
 add_trait = "chaste"
 father = 4000098
 mother = 4000099
-1988.4.13={birth=yes}
+1993.4.13={birth=yes}
+2007.10.5={give_nickname = nick_the_young}
 2012.10.27 = {add_spouse=4000102}
-2061.5.7={death=yes}
+2077.12.5={death=yes}
 }
 
 4000102={
@@ -2513,5 +2510,222 @@ add_trait = "strong"
 add_trait = "zealous"
 2431.4.12={birth=yes}
 2533.3.2={death=yes}
+}
+
+4000121={
+name = "Guillaume"
+dynasty = 29134
+dna = "ijhjglpfkji"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 5
+diplomacy = 5
+stewardship = 4
+intrigue = 3
+learning = 0
+add_trait = "detached_priest"
+add_trait = "just"
+add_trait = "stressed"
+add_trait = "lunatic"
+1734.1.1={birth=yes}
+1861.8.19={death=yes}
+}
+
+4000122={
+name = "Joscelyn"
+dynasty = 29135
+dna = "midanoodjfa"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 4
+diplomacy = 6
+stewardship = 5
+intrigue = 5
+learning = 2
+father = 4000124
+add_trait = "thrifty_clerk"
+add_trait = "envious"
+add_trait = "arbitrary"
+2050.1.1={birth=yes}
+2158.2.20={death=yes}
+}
+
+4000123={
+name = "Philip"
+dynasty = 29136
+dna = "enfclmhkema"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 2
+diplomacy = 1
+stewardship = 4
+intrigue = 6
+learning = 4
+add_trait = "misguided_warrior"
+add_trait = "charitable"
+add_trait = "paranoid"
+1784.1.1={birth=yes}
+1908.11.11={death=yes}
+}
+
+4000124={
+name = "Geoffroy"
+dynasty = 29135
+dna = "kpjdhmobpja"
+culture = gisoren
+religion = lady_of_the_lake
+military = 5
+diplomacy = 1
+stewardship = 0
+intrigue = 3
+learning = 7
+add_trait = "underhanded_rogue"
+add_trait = "duelist"
+2020.1.1={birth=yes}
+2125.2.12={death=yes}
+}
+
+4000125={
+name = "Gautier"
+dynasty = 29136
+dna = "ggbpnailcam"
+culture = gisoren
+religion = lady_of_the_lake
+military = 5
+diplomacy = 1
+stewardship = 8
+intrigue = 3
+learning = 1
+father = 4000123
+add_trait = "thrifty_clerk"
+add_trait = "patient"
+add_trait = "diligent"
+add_trait = "envious"
+1849.1.1={birth=yes}
+1963.10.17={death=yes}
+}
+
+4000126={
+name = "Euvrouin"
+dynasty = 29071
+dna = "kchngmgonba"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 6
+diplomacy = 5
+stewardship = 3
+intrigue = 5
+learning = 4
+add_trait = "charismatic_negotiator"
+add_trait = "celibate"
+add_trait = "charitable"
+1981.1.1={birth=yes}
+2043.3.6={death=yes}
+}
+
+4000127={
+name = "Honfroi"
+dynasty = 29065
+dna = "iacncimkgjk"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 1
+diplomacy = 3
+stewardship = 5
+intrigue = 2
+learning = 3
+add_trait = "intricate_webweaver"
+add_trait = "lustful"
+add_trait = "patient"
+1978.1.1={birth=yes}
+2075.6.5={death=yes}
+}
+
+4000128={
+name = "Jourdain"
+dynasty = 29055
+dna = "fenpoefoael"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 5
+diplomacy = 4
+stewardship = 0
+intrigue = 1
+learning = 4
+add_trait = "tough_soldier"
+add_trait = "scholar"
+1985.1.1={birth=yes}
+2047.5.24={death=yes}
+}
+
+4000129={
+name = "Reynaud"
+dynasty = 29056
+dna = "klcofkkpogp"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 4
+diplomacy = 2
+stewardship = 3
+intrigue = 6
+learning = 4
+add_trait = "underhanded_rogue"
+add_trait = "mystic"
+add_trait = "paranoid"
+1983.1.1={birth=yes}
+2090.5.2={death=yes}
+}
+
+4000130={
+name = "Armand"
+dynasty = 29070
+dna = "lbhfmbjljgi"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 3
+diplomacy = 2
+stewardship = 6
+intrigue = 5
+learning = 5
+add_trait = "underhanded_rogue"
+add_trait = "slothful"
+add_trait = "diligent"
+add_trait = "wounded"
+1992.1.1={birth=yes}
+2051.2.2={death=yes}
+}
+
+4000131={
+name = "Heymon"
+dynasty = 29060
+dna = "klbmngdloki"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 4
+diplomacy = 2
+stewardship = 6
+intrigue = 3
+learning = 5
+add_trait = "midas_touched"
+1990.1.1={birth=yes}
+2044.11.4={death=yes}
+}
+
+4000132={
+name = "Digory"
+dynasty = 29067
+dna = "cidmocchgnk"
+culture = nortagnese
+religion = lady_of_the_lake
+military = 6
+diplomacy = 2
+stewardship = 4
+intrigue = 4
+learning = 3
+add_trait = "underhanded_rogue"
+add_trait = "brave"
+add_trait = "humble"
+1996.1.1={birth=yes}
+2088.1.24={death=yes}
 }
 

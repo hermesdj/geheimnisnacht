@@ -4,10 +4,11 @@
 title = c_furdienst
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
+b_weissbruck = castle
 b_rahden = castle
-b_teuchern = city
-b_velten = city
+#b_teuchern = city
+#b_velten = city
 
 # Misc
 culture = reiklander

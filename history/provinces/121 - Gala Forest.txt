@@ -8,7 +8,7 @@ max_settlements = 4
 b_gala_spa = castle
 b_mikill_haugr = city
 b_untelyvim = temple
-b_kharsgood = temple
+#b_kharsgood = temple
 
 # Misc
 culture = aesling

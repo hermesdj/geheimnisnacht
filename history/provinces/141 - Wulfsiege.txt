@@ -7,8 +7,8 @@ title = c_wulfsiege
 max_settlements = 4
 b_selthis_lysk = castle
 b_kaltivik = temple
-b_torungard = city
-b_hjyolivik = castle
+#b_torungard = city
+#b_hjyolivik = castle
 
 # Misc
 culture = sarl

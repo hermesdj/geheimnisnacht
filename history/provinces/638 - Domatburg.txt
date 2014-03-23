@@ -6,11 +6,11 @@ title = c_domatburg
 # Settlements
 max_settlements = 3
 b_domatburg = castle
-b_alemento = city
-b_fidalguia = temple
+#b_alemento = city
+#b_fidalguia = temple
 
 # Misc
-culture = sollander
+culture = neueslander
 religion = sigmarite
 
 

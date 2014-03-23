@@ -245,7 +245,7 @@ holder = 500079 #Elise  von Alptraum
 }
 
 2428.5.27={
-holder = 500080 #Kurt  von Alptraum
+holder = 500080 #Gunnwald  von Alptraum
 }
 
 2453.11.27={
@@ -256,6 +256,6 @@ holder = 500081 #Ludmilla  von Alptraum
 holder = 500082 #Marius the mad Leitdorf
 }
 
-2519.6.27={
-holder = 500083 #Marlene von Alptraum
+2520.6.27={
+holder = 200004 #Seneschal, contested claim for Averland
 }

@@ -8,7 +8,7 @@ max_settlements = 4
 b_marcalon = castle
 b_broceliande = temple
 b_la_foretesse = castle
-b_carnaut = temple
+#b_carnaut = temple
 
 # Misc
 culture = armoric

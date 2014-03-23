@@ -7,8 +7,8 @@ title = c_embrun
 max_settlements = 4
 b_embrun = castle
 b_cassiel = temple
-b_la_maisonrie = castle
-b_marange = temple
+#b_la_maisonrie = castle
+#b_marange = temple
 
 # Misc
 culture = carcassian

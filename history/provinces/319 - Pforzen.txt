@@ -8,8 +8,8 @@ max_settlements = 4
 b_pforzen = castle
 b_hurlach = temple
 b_moasach = city
-b_waldbach = castle
-b_altlandsberg = city
+#b_waldbach = castle
+#b_altlandsberg = city
 
 # Misc
 culture = sollander

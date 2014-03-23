@@ -7,11 +7,11 @@ title = c_spinda
 max_settlements = 3
 b_spinda = castle
 b_burcanda = city
-b_chersotar = temple
+#b_chersotar = temple
 
 # Misc
-culture = armoric
-religion = lady_of_the_lake
+culture = neueslander
+religion = ulrican
 
 
 # History

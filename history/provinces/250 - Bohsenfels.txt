@@ -7,8 +7,8 @@ title = c_bohsenfels
 max_settlements = 4
 b_bohsenfels = castle
 b_jegow = city
-b_vogelsang = city
-b_miklava = castle
+#b_vogelsang = city
+#b_miklava = castle
 
 # Misc
 culture = ostlander

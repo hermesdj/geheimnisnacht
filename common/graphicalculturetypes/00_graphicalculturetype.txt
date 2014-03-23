@@ -101,6 +101,10 @@ oldworldgfx = {
 	skin_tone = 0
 }
 
+westerngfx_immortal = {
+	skin_tone = 0
+}
+
 dwarfgfx = {
 	skin_tone = 0
 }

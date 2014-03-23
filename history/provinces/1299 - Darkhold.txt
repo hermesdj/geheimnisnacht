@@ -1,0 +1,18 @@
+# 1299 Darkhold
+
+# County Title
+title = c_darkhold
+
+# Settlements
+max_settlements = 4
+b_darkhold = castle
+b_dooma = temple
+#b_darium = castle
+#b_arrechi = castle
+
+# Misc
+culture = goblin_main
+religion = greenskin_gods
+
+
+# History

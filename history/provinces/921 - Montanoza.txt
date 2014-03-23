@@ -6,7 +6,7 @@ title = c_montanoza
 max_settlements = 3
 b_montanoza = temple
 b_azuei = city
-b_gonave = castle
+#b_gonave = castle
 
 #Misc
 culture = astur

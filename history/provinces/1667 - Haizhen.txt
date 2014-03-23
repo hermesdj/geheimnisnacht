@@ -1,0 +1,15 @@
+# 1667 Haizhen
+
+# County Title
+title = c_haizhen
+
+# Settlements
+max_settlements = 1
+b_haizhen = city
+
+# Misc
+culture = chi_an
+religion = chaos
+
+
+# History

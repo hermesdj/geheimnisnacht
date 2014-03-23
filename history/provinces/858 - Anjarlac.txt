@@ -7,8 +7,8 @@ title = c_anjarlac
 max_settlements = 4
 b_anjarre = castle
 b_derrevin = city
-b_ladamme = castle
-b_grisances = city
+#b_ladamme = castle
+#b_grisances = city
 
 # Misc
 culture = gascon

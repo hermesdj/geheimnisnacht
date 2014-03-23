@@ -6,9 +6,9 @@ title = c_yelstir_hills
 # Settlements
 max_settlements = 4
 b_yelstirvik = castle
-b_jorgenslavly = temple
-b_revistrirak = city
-b_aerom = castle
+#b_jorgenslavly = temple
+#b_revistrirak = city
+#b_aerom = castle
 
 # Misc
 culture = skaeling

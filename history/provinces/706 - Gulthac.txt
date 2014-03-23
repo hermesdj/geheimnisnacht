@@ -4,9 +4,10 @@
 title = c_gulthac
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 b_salzac = castle
-b_payens = city
+#b_payens = city
+#b_la_volpissa = city
 
 # Misc
 culture = orc_main

@@ -111,7 +111,7 @@ learning = 0
 add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 add_trait="ill"
-add_trait="stressed"
+
 father=5100020
 mother=5100023
 
@@ -150,7 +150,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 
@@ -431,7 +431,7 @@ learning = 1
 add_trait = "chaste"
 add_trait = "fair"
 add_trait="arbitrary"
-add_trait="depressed"
+
 
 1984.8.1={birth="yes"} 
 2030.2.2={death="yes"} 

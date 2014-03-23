@@ -9,8 +9,8 @@ b_aquitaine = castle
 b_querigueux = city
 b_aulny = temple
 b_castelfauchard = castle
-b_la_fontelle = castle
-b_parthillon = city
+#b_la_fontelle = castle
+#b_parthillon = city
 
 # Misc
 culture = gascon

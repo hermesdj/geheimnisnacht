@@ -4,10 +4,10 @@ title = c_san_pedro
 
 #Settlements
 max_settlements = 4
-b_talmea = temple
 b_san_pedro_del_sur = castle
+b_talmea = temple
 b_bedava = city
-b_obercano = city
+#b_obercano = city
 
 #Misc
 culture = avilian

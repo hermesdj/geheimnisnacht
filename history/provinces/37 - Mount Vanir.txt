@@ -8,7 +8,7 @@ max_settlements = 4
 b_mount_vanir = castle
 b_spiritmyrr = temple
 b_hjergyl = temple
-b_nurilivik = castle
+#b_nurilivik = castle
 
 # Misc
 culture = skaeling

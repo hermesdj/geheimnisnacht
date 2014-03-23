@@ -133,7 +133,7 @@ add_trait = "poet"
 add_trait = "naive_appeaser"
 add_trait="trusting"
 
-add_trait="depressed"
+
 
 1969.4.15={birth=yes}
 2042.7.2={death=yes}
@@ -171,7 +171,7 @@ intrigue = 3
 learning = 10
 add_trait = "hedonist"
 add_trait = "mastermind_theologian"
-add_trait="stressed"
+
 add_trait="homosexual"
 
 
@@ -474,7 +474,7 @@ intrigue = 4
 learning = 9
 add_trait = "poet"
 add_trait = "intricate_webweaver"
-add_trait="depressed"
+
 
 
 
@@ -494,7 +494,7 @@ intrigue = 5
 learning = 9
 add_trait = "hunter"
 add_trait = "indulgent_wastrel"
-add_trait="stressed"
+
 add_trait="lustful"
 
 

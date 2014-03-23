@@ -1,0 +1,46 @@
+#############################################
+# CHARACTER NICKNAMES
+# Independent dukes, kings and emperors only
+#
+# 'factor' is the percentage per year of 
+# gaining the nickname
+#
+#############################################
+
+# TRIGGERED ONLY
+################
+nick_the_fine = {}
+nick_the_monumentally_cruel = {}
+nick_the_incompetent = {}
+nick_the_lawgiver = {}
+nick_the_furious = {}
+nick_the_opulent = {}
+nick_skavenslayer = {}
+nick_the_unjust = {}
+nick_the_stout = {}
+nick_the_lawless = {}
+nick_heldenhammer = {}
+nick_the_besieger = {}
+nick_the_black = {}
+nick_grudgebearer = {}
+nick_the_bloody = {}
+nick_ursus = {}
+nick_the_uniter = {}
+nick_orc_slayer = {}
+nick_the_enormous = {}
+nick_the_jouster = {}
+nick_dragon_slayer = {}
+nick_the_rash = {}
+
+###Traits
+
+nick_the_lunatic = {
+
+	allow = {
+		age = 15
+		trait = lunatic
+	}
+	chance = {
+		factor = 5
+	}
+}

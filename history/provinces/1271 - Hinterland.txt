@@ -1,0 +1,19 @@
+# 1271 Hinterland
+
+# County Title
+title = c_hinterland
+
+# Settlements
+max_settlements = 4
+b_furtzhausen = castle
+b_brandstadt = temple
+#b_mattersheim = city
+#b_eschedorf = city
+#b_wurstheim = castle
+
+# Misc
+culture = wissenlander
+religion = sigmarite
+
+
+# History

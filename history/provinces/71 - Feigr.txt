@@ -7,8 +7,8 @@ title = c_feigr
 max_settlements = 4
 b_illska = castle
 b_sykdomvik = city
-b_herfiligr = temple
-b_jarlkvonborg = city
+#b_herfiligr = temple
+#b_jarlkvonborg = city
 
 # Misc
 culture = sarl

@@ -7,8 +7,8 @@ title = c_kyrnoka
 max_settlements = 4
 b_kyrnoka = castle
 b_gerlsev = city
-b_mirka = temple
-b_smonya = city
+#b_mirka = temple
+#b_smonya = city
 
 # Misc
 culture = gospodar

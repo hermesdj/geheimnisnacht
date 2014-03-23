@@ -1,0 +1,17 @@
+# 1368 Oriour Har
+
+# County Title
+title = c_oriour_har
+
+# Settlements
+max_settlements = 3
+b_oriour_har = castle
+b_lakelui_kar = city
+b_ruathmour = castle
+
+# Misc
+culture = naggarondi
+religion = cytharai
+
+
+# History

@@ -7,8 +7,8 @@ title = c_bayat
 max_settlements = 4
 b_bayat = castle
 b_balatir = city
-b_matyas_fold = temple
-b_galdutako_herri = castle
+#b_matyas_fold = temple
+#b_galdutako_herri = castle
 
 # Misc
 culture = orc_main

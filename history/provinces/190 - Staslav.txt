@@ -8,8 +8,8 @@ max_settlements = 5
 b_vologda = castle
 b_gorodec = city
 b_tartu = temple
-b_kobrin = city
-b_laaniste = castle
+#b_kobrin = city
+#b_laaniste = castle
 
 # Misc
 culture = gospodar

@@ -7,7 +7,7 @@ title = c_kalinora
 max_settlements = 3
 b_fort_jakova = castle
 b_kalinora = city
-b_uyar = temple
+#b_uyar = temple
 
 # Misc
 culture = gospodar

@@ -1,12 +1,15 @@
-2010.1.1=
-{
-liege="k_sylvania"
+2010.1.1 = {
+	liege="k_sylvania"
 }
 
 2010.1.1 = {
 	holder = 350010
 }
 
-2145.3.15 = {
-liege="k_stirland"
+2500.1.1 = {
+	liege="d_drakenhohenzug"
+}
+
+2512.5.2 = {
+	holder = 300035
 }

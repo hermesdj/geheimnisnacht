@@ -6,7 +6,7 @@ title = c_kaamoas
 # Settlements
 max_settlements = 2
 b_kaamoas = castle
-b_ghejorak = temple
+#b_ghejorak = temple
 
 # Misc
 culture = graeling

@@ -1,0 +1,17 @@
+# 490 Igragor
+
+# County Title
+title = c_igragor
+
+# Settlements
+max_settlements = 3
+b_igragor = castle
+b_dirtz = temple
+#b_lugalbaran = castle
+
+# Misc
+culture = dolgan
+religion = chaos
+
+
+# History

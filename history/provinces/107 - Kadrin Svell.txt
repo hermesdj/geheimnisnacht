@@ -6,7 +6,7 @@ title = c_kadrin_svell
 # Settlements
 max_settlements = 2
 b_grung_arezud = castle
-b_kazad_vanural = temple
+#b_kazad_vanural = temple
 
 # Misc
 culture = dwarf_norse

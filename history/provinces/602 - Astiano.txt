@@ -7,8 +7,8 @@ title = c_astiano
 max_settlements = 4
 b_astiano = castle
 b_aneio = city
-b_ulisso = temple
-b_via_longa = castle
+#b_ulisso = temple
+#b_via_longa = castle
 
 # Misc
 culture = umbrian

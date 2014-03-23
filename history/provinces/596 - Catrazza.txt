@@ -7,8 +7,8 @@ title = c_catrazza
 max_settlements = 4
 b_catrazza = castle
 b_vitruvio = city
-b_orgazza = temple
-b_stimio = castle
+#b_orgazza = temple
+#b_stimio = castle
 
 # Misc
 culture = reman

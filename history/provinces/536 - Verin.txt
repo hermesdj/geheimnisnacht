@@ -5,8 +5,8 @@ title = c_verin
 #Settlements
 max_settlements = 3
 b_verin = castle
-b_flagante = city
-b_johaoso = castle
+#b_flagante = city
+#b_johaoso = castle
 
 #Misc
 culture = obregonese

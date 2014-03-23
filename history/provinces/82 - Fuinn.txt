@@ -6,8 +6,8 @@ title = c_fuinn
 # Settlements
 max_settlements = 3
 b_hellir_fuinn = castle
-b_fuinn_heill = city
-b_morke_hule = castle
+#b_fuinn_heill = city
+#b_morke_hule = castle
 
 # Misc
 culture = aesling

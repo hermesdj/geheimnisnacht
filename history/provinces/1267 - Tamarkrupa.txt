@@ -1,0 +1,16 @@
+# 1267 Tamarkrupa
+
+# County Title
+title = c_tamarkrupa
+
+# Settlements
+max_settlements = 2
+b_tamarkrupa = castle
+b_egorevsk = city
+
+# Misc
+culture = ungol
+religion = northern_gods
+
+
+# History

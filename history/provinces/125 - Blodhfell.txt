@@ -7,7 +7,7 @@ title = c_blodhfell
 max_settlements = 3
 b_oelivik = castle
 b_silivorg = city
-b_arcaulivik = castle
+#b_arcaulivik = castle
 
 # Misc
 culture = aesling

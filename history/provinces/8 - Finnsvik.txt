@@ -8,7 +8,7 @@ max_settlements = 4
 b_finnsvik = castle
 b_bjarkoy = castle
 b_rost = temple
-b_urliuvik = city
+#b_urliuvik = city
 
 # Misc
 culture = graeling

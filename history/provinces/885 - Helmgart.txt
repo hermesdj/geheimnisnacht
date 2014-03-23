@@ -7,8 +7,8 @@ title = c_helmgart
 max_settlements = 4
 b_helmgart = castle
 b_neutting = city
-b_lauta = castle
-b_lugde = city
+#b_lauta = castle
+#b_lugde = city
 
 # Misc
 culture = reiklander

@@ -1,0 +1,16 @@
+# 1677 Ulunbuur
+
+# County Title
+title = c_ulunbuur
+
+# Settlements
+max_settlements = 2
+b_ulunbuur = castle
+b_yass = city
+
+# Misc
+culture = mung
+religion = chaos
+
+
+# History

@@ -6,7 +6,7 @@ title = c_dukhyls_forest
 # Settlements
 max_settlements = 2
 b_korocha = castle
-b_galich = temple
+#b_galich = temple
 
 # Misc
 culture = gospodar

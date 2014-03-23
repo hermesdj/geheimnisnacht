@@ -8,9 +8,9 @@ max_settlements = 6
 b_wurtbad = castle
 b_biberhof = temple
 b_julbach = city
-b_tarshof = city
-b_sonningwiese = temple
-b_potting = castle
+#b_tarshof = city
+#b_sonningwiese = temple
+#b_potting = castle
 
 # Misc
 culture = stirlander

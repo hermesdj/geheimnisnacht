@@ -113,7 +113,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -152,7 +152,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 
@@ -197,8 +197,8 @@ add_trait = "grey_eminence"
 add_trait="homosexual"
 add_trait="lisp"
 
-1959.9.12={birth=yes}
-2030.2.19={death=yes}
+2459.9.12={birth=yes}
+2530.2.19={death=yes}
 }
 
 
@@ -420,3 +420,270 @@ add_trait="Clubfooted"
 1989.9.12={birth= yes}
 2079.2.19={death= yes}
 }
+
+4800021={
+name = "Valentina"
+female = yes
+dynasty = 45180
+dna = "pfcgapdapgp"
+culture = umbrian
+religion = classical_gods
+military = 5
+diplomacy = 8
+stewardship = 5
+intrigue = 6
+learning = 2
+add_trait = "intricate_webweaver"
+add_trait = "diligent"
+add_trait = "fair"
+add_trait = "deceitful"
+add_trait = "patient"
+2457.5.1={birth=yes}
+2493.4.26={death=yes}
+}
+
+4800022={
+name = "Lucrezzia"
+female = yes
+dynasty = 45180
+dna = "ffakpcpdlbb"
+culture = umbrian
+religion = classical_gods
+military = 1
+diplomacy = 2
+stewardship = 4
+intrigue = 6
+learning = 4
+mother = 4800021
+add_trait = "intricate_webweaver"
+add_trait = "strong"
+add_trait = "patient"
+add_trait = "fair"
+add_trait = "quick"
+add_trait = "deceitful"
+add_trait = "celibate"
+2478.3.1={birth=yes}
+2497.5.10 = {add_matrilineal_spouse=4800024}
+2500.5.10 = {add_matrilineal_spouse=4800025}
+2503.5.10 = {add_matrilineal_spouse=4800026}
+2505.5.10 = {add_matrilineal_spouse=4800027}
+2508.5.10 = {add_matrilineal_spouse=4800028}
+2510.5.10 = {add_matrilineal_spouse=4800029}
+2512.5.10 = {add_matrilineal_spouse=4800030}
+2561.1.18={death=yes}
+}
+
+4800023={
+name = "Dolchellata"
+female = yes
+dynasty = 45180
+dna = "mjcodpiegnd"
+culture = umbrian
+religion = classical_gods
+military = 5
+diplomacy = 6
+stewardship = 5
+intrigue = 5
+learning = 5
+mother = 4800021
+add_trait = "intricate_webweaver"
+add_trait = "hunter"
+add_trait = "fair"
+add_trait = "diligent"
+add_trait = "cruel"
+2477.9.1={birth=yes}
+2499.5.10 = {add_spouse=4700020}
+2542.9.15={death=yes}
+}
+
+4800024={
+name = "Luigi"
+dynasty = 42108
+dna = "flblobngcjp"
+culture = umbrian
+religion = classical_gods
+military = 1
+diplomacy = 4
+stewardship = 6
+intrigue = 7
+learning = 6
+add_trait = "misguided_warrior"
+add_trait = "poet"
+add_trait = "cynical"
+2467.7.1={birth=yes}
+2497.5.10 = {add_matrilineal_spouse=4800022}
+2499.6.11={death=yes}
+}
+
+4800025={
+name = "Borso"
+dynasty = 42160
+dna = "bgjhfgkmapc"
+culture = umbrian
+religion = classical_gods
+military = 3
+diplomacy = 4
+stewardship = 6
+intrigue = 4
+learning = 5
+add_trait = "fortune_builder"
+add_trait = "cynical"
+add_trait = "chaste"
+2457.7.1={birth=yes}
+2500.5.10 = {add_matrilineal_spouse=4800022}
+2502.10.11={death=yes}
+}
+
+4800026={
+name = "Donato"
+dynasty = 42173
+dna = "lghlegpenld"
+culture = umbrian
+religion = classical_gods
+military = 4
+diplomacy = 4
+stewardship = 5
+intrigue = 7
+learning = 4
+add_trait = "underhanded_rogue"
+add_trait = "zealous"
+2465.11.1={birth=yes}
+2503.5.10 = {add_matrilineal_spouse=4800022}
+2504.12.18={death=yes}
+}
+
+4800027={
+name = "Ranuccio"
+dynasty = 42125
+dna = "dhebfjdepoo"
+culture = umbrian
+religion = classical_gods
+military = 1
+diplomacy = 6
+stewardship = 3
+intrigue = 2
+learning = 3
+add_trait = "thrifty_clerk"
+add_trait = "ambitious"
+add_trait = "deceitful"
+add_trait = "arbitrary"
+2458.1.1={birth=yes}
+2505.5.10 = {add_matrilineal_spouse=4800022}
+2507.10.16={death=yes}
+}
+
+4800028={
+name = "Bensario"
+dynasty = 42134
+dna = "faloiicdbgb"
+culture = umbrian
+religion = classical_gods
+military = 5
+diplomacy = 2
+stewardship = 3
+intrigue = 4
+learning = 7
+add_trait = "brilliant_strategist"
+add_trait = "kind"
+add_trait = "trusting"
+2460.3.1={birth=yes}
+2508.5.10 = {add_matrilineal_spouse=4800022}
+2509.7.21={death=yes}
+}
+
+4800029={
+name = "Branzino"
+dynasty = 42172
+dna = "lidohmhdpcc"
+culture = umbrian
+religion = classical_gods
+military = 7
+diplomacy = 6
+stewardship = 5
+intrigue = 7
+learning = 5
+add_trait = "flamboyant_schemer"
+add_trait = "cynical"
+add_trait = "lustful"
+2461.7.1={birth=yes}
+2510.5.10 = {add_matrilineal_spouse=4800022}
+2511.7.3={death=yes}
+}
+
+4800030={
+name = "Poggio"
+dynasty = 42094
+dna = "phnhhlkbkem"
+culture = umbrian
+religion = classical_gods
+military = 2
+diplomacy = 8
+stewardship = 4
+intrigue = 4
+learning = 5
+add_trait = "intricate_webweaver"
+add_trait = "cruel"
+add_trait = "deceitful"
+add_trait = "diligent"
+2454.3.1={birth=yes}
+2512.5.10 = {add_matrilineal_spouse=4800022}
+2513.3.3={death=yes}
+}
+
+4800031={
+name = "Julia"
+female = yes
+dynasty = 42134
+dna = "fabojapngea"
+culture = umbrian
+religion = classical_gods
+military = 2
+diplomacy = 3
+stewardship = 6
+intrigue = 4
+learning = 2
+father = 4800028
+add_trait = "intricate_webweaver"
+add_trait = "celibate"
+add_trait = "cynical"
+2484.1.1={birth=yes}
+2536.11.19={death=yes}
+}
+
+
+4800032={
+name = "Leonardo"
+dynasty = 45180
+dna = "macodaiegna"
+culture = umbrian
+religion = classical_gods
+military = 5
+diplomacy = 6
+stewardship = 5
+intrigue = 5
+learning = 5
+mother = 4800021
+add_trait = "misguided_warrior"
+add_trait = "hunter"
+2483.5.10={birth=yes}
+2532.9.11={death=yes}
+}
+
+4800033={
+name = "Francesco"
+dynasty = 45187
+dna = "jcdnhlaankd"
+culture = umbrian
+religion = classical_gods
+military = 3
+diplomacy = 1
+stewardship = 5
+intrigue = 5
+learning = 3
+add_trait = "underhanded_rogue"
+add_trait = "gluttonous"
+add_trait = "chaste"
+2481.1.1={birth=yes}
+2553.8.23={death=yes}
+}
+

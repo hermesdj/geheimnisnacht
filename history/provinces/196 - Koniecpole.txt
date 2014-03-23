@@ -7,8 +7,8 @@ title = c_koniecpole
 max_settlements = 4
 b_koniecpole = castle
 b_ostrody = city
-b_gorovny = temple
-b_tezew = city
+#b_gorovny = temple
+#b_tezew = city
 
 # Misc
 culture = gospodar

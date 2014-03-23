@@ -7,8 +7,8 @@ title = c_martonnais
 max_settlements = 4
 b_marton = castle
 b_gradlon = city
-b_limpre = castle
-b_orcerre = temple
+#b_limpre = castle
+#b_orcerre = temple
 
 # Misc
 culture = armoric

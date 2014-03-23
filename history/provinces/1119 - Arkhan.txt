@@ -1,0 +1,17 @@
+# 1119 Arkhan
+
+# County Title
+title = c_arkhan
+
+# Settlements
+max_settlements = 3
+b_arkhan = castle
+b_quesir = city
+b_hnese = temple
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

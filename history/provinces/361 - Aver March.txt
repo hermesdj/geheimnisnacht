@@ -4,11 +4,12 @@
 title = c_aver_march
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_einsamholz = castle
 b_grunhugel = city
 b_hornsbys_ferry = city
-b_eberbach = castle
+#b_eberbach = castle
+#b_dreiflussen = city
 
 # Misc
 culture = mootlander

@@ -8,9 +8,9 @@ max_settlements = 6
 b_ekrund = castle
 b_kilizum_ungor = city
 b_mirikar_drakon = temple
-b_khazid_ingimbar = temple
-b_ekrund_ungol = castle
-b_kolaz_firangor = city
+#b_khazid_ingimbar = temple
+#b_ekrund_ungol = castle
+#b_kolaz_firangor = city
 
 # Misc
 culture = dwarf_main

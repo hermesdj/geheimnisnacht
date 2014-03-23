@@ -6,8 +6,8 @@ title = c_palak
 # Settlements
 max_settlements = 3
 b_palak = castle
-b_chaduri = city
-b_pakastin = castle
+#b_chaduri = city
+#b_pakastin = castle
 
 # Misc
 culture = orc_main

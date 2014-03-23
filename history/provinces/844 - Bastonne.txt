@@ -9,12 +9,13 @@ b_castle_bastonne = castle
 b_baux = city
 b_marmin = castle
 b_medeme = temple
-b_amargueuse = castle
-b_joyaux = city
+#b_amargueuse = castle
+#b_joyaux = city
 
 # Misc
 culture = breton
 religion = lady_of_the_lake
 
+terrain = city
 
 # History

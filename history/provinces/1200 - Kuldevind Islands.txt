@@ -7,11 +7,11 @@ title = c_kuldevind_islands
 max_settlements = 3
 b_funninguur = city
 b_gnaefur = castle
-b_kaupmadhormen = temple
+#b_kaupmadhormen = temple
 
 # Misc
-culture = graeling
-religion = dark_norse
+culture = fjarmann
+religion = norse
 
 
 # History

@@ -1,0 +1,19 @@
+# 1032 al-Anaim
+
+# County Title
+title = c_al_anaim
+
+# Settlements
+max_settlements = 5
+b_al_anaim = castle
+b_adhallal = city
+b_tirat = temple
+#b_codobra = city
+#b_zazarate = city
+
+# Misc
+culture = medean
+religion = ormazd
+
+
+# History

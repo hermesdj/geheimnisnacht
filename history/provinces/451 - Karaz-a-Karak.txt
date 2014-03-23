@@ -10,8 +10,8 @@ b_karaz_ungol_bar = city
 b_gorlzad = temple
 b_ril_grung = castle
 b_grungizorn = city
-b_khazidazul = temple
-b_kazad_grum = castle
+#b_khazidazul = temple
+#b_kazad_grum = castle
 
 # Misc
 culture = dwarf_main

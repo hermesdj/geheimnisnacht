@@ -7,10 +7,10 @@ title = c_zenres
 max_settlements = 3
 b_zenres = castle
 b_castelvin = castle
-b_drach = city
+#b_drach = city
 
 # Misc
-culture = tigarrese
+culture = tierrasman
 religion = classical_gods
 
 

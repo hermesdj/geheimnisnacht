@@ -8,7 +8,7 @@ max_settlements = 4
 b_kazad_opulim = castle
 b_martal_aradal = city
 b_uralim_ungor = temple
-b_karak_arcaul = city
+#b_karak_arcaul = city
 
 # Misc
 culture = dwarf_chaos

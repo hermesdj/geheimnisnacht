@@ -6,8 +6,8 @@ title = c_burushur
 # Settlements
 max_settlements = 3
 b_burushur = castle
-b_ambrak = city
-b_medea = temple
+#b_ambrak = city
+#b_medea = temple
 
 # Misc
 culture = myken

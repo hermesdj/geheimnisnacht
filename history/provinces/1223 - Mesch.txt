@@ -1,0 +1,17 @@
+# 1223 Mesch
+
+# County Title
+title = c_mesch
+
+# Settlements
+max_settlements = 3
+b_mesch = castle
+b_voro = temple
+#b_anbur = city
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

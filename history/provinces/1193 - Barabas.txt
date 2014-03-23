@@ -1,0 +1,17 @@
+# 1193 Barabas
+
+# County Title
+title = c_barabas
+
+# Settlements
+max_settlements = 3
+b_barabas = castle
+b_cherno = temple
+#b_anadyr = castle
+
+# Misc
+culture = yusak
+religion = chaos
+
+
+# History

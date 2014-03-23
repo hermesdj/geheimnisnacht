@@ -14,8 +14,8 @@ add_trait="gregarious"
 add_trait="kind"
 
 
-1981.11.3={birth="1981.11.3"}
-2063.1.17={death="2063.1.17"}
+1981.11.3={birth=yes}
+2063.1.17={death=yes}
 }
 
 1100001={
@@ -34,8 +34,8 @@ add_trait="greedy"
 add_trait="craven"
 
 
-1969.5.3={birth="1969.5.3"}
-2043.2.4={death="2043.2.4"}
+1969.5.3={birth=yes}
+2043.2.4={death=yes}
 }
 
 1100002={
@@ -54,8 +54,8 @@ add_trait = "thrifty_clerk"
 
 add_trait="weak"
 
-2006.11.6={birth="2006.11.6"}
-2047.4.11={death="2047.4.11"}
+2006.11.6={birth=yes}
+2047.4.11={death=yes}
 }
 
 1100003={
@@ -74,8 +74,8 @@ add_trait="honest"
 add_trait="tall"
 add_trait="wroth"
 
-1960.7.25={birth="1960.7.25"}
-2059.4.30={death="2059.4.30"}
+1960.7.25={birth=yes}
+2059.4.30={death=yes}
 }
 
 1100004={
@@ -94,8 +94,8 @@ add_trait="chaste"
 add_trait="temperate"
 add_trait="humble"
 
-1957.10.21={birth="1957.10.21"}
-2065.2.17={death="2065.2.17"}
+1957.10.21={birth=yes}
+2065.2.17={death=yes}
 }
 
 1100005={
@@ -114,8 +114,8 @@ add_trait="trusting"
 add_trait="cruel"
 add_trait="content"
 
-1978.5.6={birth="1978.5.6"}
-2057.7.28={death="2057.7.28"}
+1978.5.6={birth=yes}
+2057.7.28={death=yes}
 }
 
 1100006={
@@ -130,12 +130,12 @@ intrigue = 6
 learning = 4
 add_trait = "gardener"
 add_trait = "tough_soldier"
-add_trait="depressed"
-add_trait="stressed"
 
 
-1951.3.20={birth="1951.3.20"}
-2050.12.6={death="2050.12.6"}
+
+
+1951.3.20={birth=yes}
+2050.12.6={death=yes}
 }
 
 1100007={
@@ -154,8 +154,8 @@ add_trait="drunkard"
 add_trait="ill"
 
 
-2000.3.23={birth="2000.3.23"}
-2039.10.19={death="2039.10.19"}
+2000.3.23={birth=yes}
+2039.10.19={death=yes}
 }
 
 1100008={
@@ -174,8 +174,8 @@ add_trait = "elusive_shadow"
 add_trait="legit_bastard"
 
 
-1986.5.18={birth="1986.5.18"}
-2029.6.24={death="2029.6.24"}
+1986.5.18={birth=yes}
+2029.6.24={death=yes}
 }
 
 1100009={
@@ -194,8 +194,8 @@ add_trait="homosexual"
 add_trait="lisp"
 
 
-1960.11.16={birth="1960.11.16"}
-2041.4.22={death="2041.4.22"}
+1960.11.16={birth=yes}
+2041.4.22={death=yes}
 }
 
 1100010={
@@ -215,8 +215,8 @@ add_trait = "brilliant_strategist"
 
 add_trait="lustful"
 
-1965.2.30={birth="1965.2.30"}
-2034.7.11={death="2034.7.11"}
+1965.2.30={birth=yes}
+2034.7.11={death=yes}
 }
 
 1100011={
@@ -235,8 +235,8 @@ add_trait = "misguided_warrior"
 add_trait="fair"
 
 
-1999.11.18={birth="1999.11.18"}
-2033.9.27={death="2033.9.27"}
+1999.11.18={birth=yes}
+2033.9.27={death=yes}
 }
 
 1100012={
@@ -255,7 +255,7 @@ add_trait = "fortune_builder"
 add_trait="envious"
 add_trait="strong"
 
-1979.1.29={birth="1979.1.29"}
+1979.1.29={birth=yes}
 2031.5.3={death="2031.5.3"}
 }
 
@@ -275,7 +275,7 @@ add_trait="slothful"
 add_trait="patient"
 add_trait="diligent"
 
-2007.7.9={birth="2007.7.9"}
+2007.7.9={birth=yes}
 2056.2.26={death="2056.2.26"}
 }
 
@@ -295,7 +295,7 @@ add_trait="shy"
 add_trait="ambitious"
 add_trait="arbitrary"
 
-1998.9.23={birth="1998.9.23"}
+1998.9.23={birth=yes}
 2055.12.26={death="2055.12.26"}
 }
 
@@ -315,7 +315,7 @@ add_trait="cynical"
 add_trait="zealous"
 add_trait="paranoid"
 
-2001.10.12={birth="2001.10.12"}
+2001.10.12={birth=yes}
 2037.12.14={death="2037.12.14"}
 }
 
@@ -335,7 +335,7 @@ add_trait="just"
 add_trait="gregarious"
 add_trait="proud"
 
-1955.12.10={birth="1955.12.10"}
+1955.12.10={birth=yes}
 2058.1.2={death="2058.1.2"}
 }
 
@@ -355,7 +355,7 @@ add_trait="kind"
 
 add_trait="honest"
 
-1960.3.17={birth="1960.3.17"}
+1960.3.17={birth=yes}
 2041.8.6={death="2041.8.6"}
 }
 
@@ -375,7 +375,7 @@ add_trait = "naive_appeaser"
 
 add_trait="greedy"
 
-1970.9.30={birth="1970.9.30"}
+1970.9.30={birth=yes}
 2027.10.30={death="2027.10.30"}
 }
 
@@ -395,7 +395,7 @@ add_trait="weak"
 add_trait="tall"
 
 
-1970.4.23={birth="1970.4.23"}
+1970.4.23={birth=yes}
 2016.10.7={death="2016.10.7"}
 }
 
@@ -415,7 +415,7 @@ add_trait="craven"
 add_trait="wroth"
 add_trait="cruel"
 
-2000.3.3={birth="2000.3.3"}
+2000.3.3={birth=yes}
 2049.3.12={death="2049.3.12"}
 }
 
@@ -435,7 +435,7 @@ add_trait="humble"
 add_trait="content"
 add_trait="temperate"
 
-1977.5.18={birth="1977.5.18"}
+1977.5.18={birth=yes}
 2031.9.21={death="2031.9.21"}
 }
 
@@ -452,10 +452,10 @@ learning = 1
 add_trait = "gardener"
 add_trait = "amateurish_plotter"
 add_trait="chaste"
-add_trait="stressed"
-add_trait="depressed"
 
-1996.9.24={birth="1996.9.24"}
+
+
+1996.9.24={birth=yes}
 2064.1.1={death="2064.1.1"}
 }
 
@@ -475,7 +475,7 @@ add_trait="trusting"
 
 add_trait="drunkard"
 
-1998.8.1={birth="1998.8.1"}
+1998.8.1={birth=yes}
 2021.7.23={death="2021.7.23"}
 }
 
@@ -496,7 +496,7 @@ add_trait="lustful"
 
 add_trait="ill"
 
-1973.8.5={birth="1973.8.5"}
+1973.8.5={birth=yes}
 2061.1.13={death="2061.1.13"}
 }
 
@@ -516,7 +516,7 @@ add_trait="homosexual"
 
 add_trait="legit_bastard"
 
-2009.11.2={birth="2009.11.2"}
+2009.11.2={birth=yes}
 2031.10.23={death="2031.10.23"}
 }
 
@@ -536,7 +536,7 @@ add_trait = "misguided_warrior"
 
 
 
-1976.10.23={birth="1976.10.23"}
+1976.10.23={birth=yes}
 2048.10.3={death="2048.10.3"}
 }
 
@@ -556,7 +556,7 @@ add_trait="lisp"
 
 
 
-2001.2.6={birth="2001.2.6"}
+2001.2.6={birth=yes}
 2028.11.6={death="2028.11.6"}
 }
 
@@ -576,7 +576,7 @@ add_trait = "amateurish_plotter"
 add_trait="fair"
 
 
-2002.4.14={birth="2002.4.14"}
+2002.4.14={birth=yes}
 2026.1.20={death="2026.1.20"}
 }
 
@@ -596,7 +596,7 @@ add_trait="diligent"
 add_trait="strong"
 add_trait="proud"
 
-1980.10.1={birth="1980.10.1"}
+1980.10.1={birth=yes}
 2042.9.6={death="2042.9.6"}
 }
 
@@ -616,7 +616,7 @@ add_trait="slothful"
 add_trait="patient"
 add_trait="ambitious"
 
-1981.12.9={birth="1981.12.9"}
+1981.12.9={birth=yes}
 2021.3.7={death="2021.3.7"}
 }
 
@@ -636,7 +636,7 @@ add_trait="shy"
 add_trait="arbitrary"
 add_trait="just"
 
-1954.2.15={birth="1954.2.15"}
+1954.2.15={birth=yes}
 2065.3.8={death="2065.3.8"}
 }
 
@@ -656,8 +656,8 @@ add_trait="zealous"
 add_trait="cynical"
 add_trait="gregarious"
 
-1988.6.27={birth="1988.6.27"}
-2022.6.21={death="2022.6.21"}
+1988.6.27={birth=yes}
+2022.6.21={death=yes}
 }
 
 1100033={
@@ -676,8 +676,8 @@ add_trait="kind"
 add_trait="paranoid"
 add_trait="envious"
 
-1989.5.25={birth="1989.5.25"}
-2031.7.8={death="2031.7.8"}
+1989.5.25={birth=yes}
+2031.7.8={death=yes}
 }
 
 1100034={
@@ -696,7 +696,7 @@ add_trait="slothful"
 add_trait="patient"
 add_trait="ambitious"
 
-1981.12.9={birth="1981.12.9"}
+1981.12.9={birth=yes}
 2021.3.7={death="2021.3.7"}
 }
 
@@ -716,7 +716,7 @@ add_trait="shy"
 add_trait="arbitrary"
 add_trait="just"
 
-1954.2.15={birth="1954.2.15"}
+1954.2.15={birth=yes}
 2065.3.8={death="2065.3.8"}
 }
 
@@ -736,8 +736,8 @@ add_trait="zealous"
 add_trait="cynical"
 add_trait="gregarious"
 
-1988.6.27={birth="1988.6.27"}
-2022.6.21={death="2022.6.21"}
+1988.6.27={birth=yes}
+2022.6.21={death=yes}
 }
 
 1100037={
@@ -756,8 +756,8 @@ add_trait="kind"
 add_trait="paranoid"
 add_trait="envious"
 
-1989.5.25={birth="1989.5.25"}
-2031.7.8={death="2031.7.8"}
+1989.5.25={birth=yes}
+2031.7.8={death=yes}
 }
 
 1100038={
@@ -776,7 +776,7 @@ add_trait="slothful"
 add_trait="patient"
 add_trait="ambitious"
 
-1981.12.9={birth="1981.12.9"}
+1981.12.9={birth=yes}
 2021.3.7={death="2021.3.7"}
 }
 
@@ -796,7 +796,7 @@ add_trait="shy"
 add_trait="arbitrary"
 add_trait="just"
 
-1954.2.15={birth="1954.2.15"}
+1954.2.15={birth=yes}
 2065.3.8={death="2065.3.8"}
 }
 
@@ -816,8 +816,8 @@ add_trait="zealous"
 add_trait="cynical"
 add_trait="gregarious"
 
-1988.6.27={birth="1988.6.27"}
-2022.6.21={death="2022.6.21"}
+1988.6.27={birth=yes}
+2022.6.21={death=yes}
 }
 
 1100042={
@@ -836,6 +836,6 @@ add_trait="kind"
 add_trait="paranoid"
 add_trait="envious"
 
-1989.5.25={birth="1989.5.25"}
-2031.7.8={death="2031.7.8"}
+1989.5.25={birth=yes}
+2031.7.8={death=yes}
 }

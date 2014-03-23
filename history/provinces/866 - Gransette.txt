@@ -7,8 +7,8 @@ title = c_gransette
 max_settlements = 4
 b_brassens = city
 b_castle_gransette = castle
-b_castel_brel = castle
-b_mitterrand = temple
+#b_castel_brel = castle
+#b_mitterrand = temple
 
 # Misc
 culture = gascon
@@ -16,3 +16,5 @@ religion = lady_of_the_lake
 
 
 # History
+
+2110.1.1 = { capital = b_castle_gransette }

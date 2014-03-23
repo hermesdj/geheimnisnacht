@@ -8,8 +8,8 @@ max_settlements = 5
 b_karag_grom = castle
 b_khazid_grom = castle
 b_grung_dinadul = city
-b_durundel_barak = temple
-b_kiranum_ungor = city
+#b_durundel_barak = temple
+#b_kiranum_ungor = city
 
 # Misc
 culture = orc_main

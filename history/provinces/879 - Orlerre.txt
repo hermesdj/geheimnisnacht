@@ -7,8 +7,8 @@ title = c_orlerre
 max_settlements = 4
 b_orlac = castle
 b_clovine = temple
-b_hybraseil = castle
-b_rollin = city
+#b_hybraseil = castle
+#b_rollin = city
 
 # Misc
 culture = breton

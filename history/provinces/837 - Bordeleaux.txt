@@ -9,9 +9,9 @@ b_bordeleaux = castle
 b_sauvignon = city
 b_chardonnay = castle
 b_cognac = temple
-b_la_brandasse = castle
-b_champaine = castle
-b_cavas = temple
+#b_la_brandasse = castle
+#b_champaine = castle
+#b_cavas = temple
 
 # Misc
 culture = gascon

@@ -7,7 +7,7 @@ max_settlements = 4
 b_cordobra = castle
 b_pebala = city
 b_vocamo = city
-b_contiva = temple
+#b_contiva = temple
 
 #Misc
 culture = astur

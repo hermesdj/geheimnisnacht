@@ -1,0 +1,20 @@
+# 1156 Zandri
+
+# County Title
+title = c_zandri
+
+# Settlements
+max_settlements = 6
+b_zandri = city
+b_ahtaf_zandri = castle
+b_yaa = temple
+b_barat = castle
+b_khemnu = temple
+b_habu = city
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

@@ -4,11 +4,11 @@
 title = c_lars_peninsula
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 b_larsheim = castle
 b_grundelvik = temple
-b_harsheim = city
-b_ogensvik = castle
+#b_harsheim = city
+#b_ogensvik = castle
 
 # Misc
 culture = varg

@@ -6,8 +6,8 @@ title = c_spuktichtung
 # Settlements
 max_settlements = 3
 b_rehkitzpforte = castle
-b_weidehohl = city
-b_hirschlichtung = temple
+#b_weidehohl = city
+#b_hirschlichtung = temple
 
 # Misc
 culture = nordlander

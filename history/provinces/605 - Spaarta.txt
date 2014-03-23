@@ -7,8 +7,8 @@ title = c_spaarta
 max_settlements = 4
 b_spaarta = castle
 b_ateno = city
-b_corinta = temple
-b_miceni = castle
+#b_corinta = temple
+#b_miceni = castle
 
 # Misc
 culture = reman

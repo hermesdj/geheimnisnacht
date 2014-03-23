@@ -7,8 +7,8 @@ title = c_kadesh
 max_settlements = 4
 b_kadesh = castle
 b_ivory_wall = castle
-b_galymbria = city
-b_greenwell = temple
+#b_galymbria = city
+#b_greenwell = temple
 
 # Misc
 culture = orc_main

@@ -7,11 +7,11 @@ title = c_mirke
 max_settlements = 4
 b_mirkenhof = castle
 b_arachnadorf = city
-b_grunewichthugel = temple
-b_letzten_stand = castle
+#b_grunewichthugel = temple
+#b_letzten_stand = castle
 
 # Misc
-culture = nortagnese
+culture = marcheur
 religion = lady_of_the_lake
 
 

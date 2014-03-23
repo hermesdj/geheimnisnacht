@@ -1,0 +1,16 @@
+# 1190 Abak
+
+# County Title
+title = c_abak
+
+# Settlements
+max_settlements = 2
+b_abak = castle
+#b_magarad = temple
+
+# Misc
+culture = yusak
+religion = chaos
+
+
+# History

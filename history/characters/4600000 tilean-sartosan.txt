@@ -112,7 +112,7 @@ add_trait = "hedonist"
 add_trait = "indulgent_wastrel"
 
 add_trait="ill"
-add_trait="stressed"
+
 
 1989.7.22={birth=yes}
 2033.11.3={death=yes}
@@ -149,7 +149,7 @@ intrigue = 9
 learning = 2
 add_trait = "poet"
 add_trait = "fortune_builder"
-add_trait="depressed"
+
 add_trait="trusting"
 add_trait="lustful"
 
@@ -378,7 +378,8 @@ add_trait="kind"
 }
 
 4600019={
-name = "Goffredo"
+name = "Valentina"
+female = yes
 dynasty = 70036
 culture = sartosan_tilean
 religion = stromfels
@@ -391,9 +392,9 @@ add_trait = "mystic"
 add_trait = "scholarly_theologian"
 
 add_trait="tall"
-add_trait="weak"
+add_trait="fair"
 
-1991.1.10={birth=yes}
-2045.10.28={death=yes}
+2491.1.10={birth=yes}
+2535.10.28={death=yes}
 }
 

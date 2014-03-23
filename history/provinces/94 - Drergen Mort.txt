@@ -8,7 +8,7 @@ max_settlements = 4
 b_drergenheim = castle
 b_mortvik = city
 b_kileraden_fortress = castle
-b_port_of_norkovik = city
+#b_port_of_norkovik = city
 
 # Misc
 culture = aesling

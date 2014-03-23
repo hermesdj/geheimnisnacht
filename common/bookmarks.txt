@@ -36,6 +36,16 @@ bookmark =
 
 bookmark =
 {
+	name = "BM_NORTHERN_MERCANTILE_SOCIETY"
+	desc = "BM_NORTHERN_MERCANTILE_SOCIETY_DESC"
+	date = 2462.5.22
+	
+	character = 800087 #Jens-Peter of the Society
+	character = 600150 #Maarten of Marienburg
+}
+
+bookmark =
+{
 	name = "BM_STORM_OF_CHAOS"
 	desc = "BM_STORM_OF_CHAOS_DESC"
 	date = 2521.4.9

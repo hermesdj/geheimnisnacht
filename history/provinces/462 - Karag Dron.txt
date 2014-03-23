@@ -7,8 +7,8 @@ title = c_karag_dron
 max_settlements = 4
 b_karag_dron = castle
 b_lunn_kadri = city
-b_barak_ograr = temple
-b_yorgrim_dron_barak = castle
+#b_barak_ograr = temple
+#b_yorgrim_dron_barak = castle
 
 # Misc
 culture = dwarf_main

@@ -8,7 +8,7 @@ max_settlements = 4
 b_endi = castle
 b_spa = temple
 b_lognbu = temple
-b_aratulizids_rest = temple
+#b_aratulizids_rest = temple
 
 # Misc
 culture = baersonling

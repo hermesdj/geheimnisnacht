@@ -7,7 +7,7 @@ title = c_grimaz_batol
 max_settlements = 3
 b_grimaz_batol = castle
 b_kharanok = castle
-b_undrigrit = city
+#b_undrigrit = city
 
 # Misc
 culture = goblin_main

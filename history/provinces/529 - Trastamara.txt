@@ -6,8 +6,8 @@ title = c_trastamara
 max_settlements = 4
 b_ligo = castle
 b_visita = temple
-b_fadala = city
-b_el_vegal = temple
+#b_fadala = city
+#b_el_vegal = temple
 
 #Misc
 culture = galice

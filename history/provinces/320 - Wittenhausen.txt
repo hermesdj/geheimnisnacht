@@ -7,8 +7,8 @@ title = c_wittenhausen
 max_settlements = 4
 b_wittenhausen = castle
 b_fluorin = city
-b_geschburg = city
-b_althausen = city
+#b_geschburg = city
+#b_althausen = city
 
 # Misc
 culture = wissenlander

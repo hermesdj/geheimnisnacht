@@ -92,6 +92,285 @@ d_reiksguard = {
 
 ###Imperial
 
+d_ragged_company = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 330 #Talabheim
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	
+	religion = taalite
+	culture = talabeclander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_ragged_company_modifier
+}
+
+d_scarlet_company = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 343 #Wurtbad
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	
+	religion = sigmarite
+	culture = stirlander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_scarlet_company_modifier
+}
+
+d_hammershields_of_black_tower = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 330 #Talabheim
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	
+	religion = taalite
+	culture = talabeclander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_hammershields_of_black_tower_modifier
+}
+
+d_schwarzspears = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 309 #Nuln
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	
+	religion = sigmarite
+	culture = wissenlander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_schwarzspears_modifier
+}
+
+d_swords_of_nuln = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 309 #Nuln
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	
+	religion = sigmarite
+	culture = wissenlander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_swords_of_nuln_modifier
+}
+
+d_sea_devils = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 236 #Manaansufer
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	
+	religion = sigmarite
+	culture = nordlander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_sea_devils_modifier
+}
+
+d_guard_of_the_golden_cross = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 270 #Carroburg
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	
+	religion = sigmarite
+	culture = middenlander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_guard_of_the_golden_cross_modifier
+}
+
+d_regiment_of_foot = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 299 #Altdorf
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	
+	religion = sigmarite
+	culture = reiklander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_regiment_of_foot_modifier
+}
+
+d_altdorf_blackbolts = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+	
+	capital = 299 #Altdorf
+
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
+	
+	religion = sigmarite
+	culture = reiklander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_altdorf_blackbolts_modifier
+}
+
 d_carroburg_greatswords = {
 	color={ 160 160 160 }
 	color2={ 255 255 255 }
@@ -128,6 +407,15 @@ d_swords_of_ulric = {
 	color2={ 255 255 255 }
 	
 	capital = 274 #Middenheim
+	
+	allow = {
+		OR = {
+			religion_group = old_world_group
+		}
+		NOT = {
+			religion = lady_of_the_lake
+		}
+	}
 	
 	religion = ulrican
 	culture = middenlander
@@ -1136,6 +1424,32 @@ d_dobryrion_company = {
 
 
 ### Chaos
+
+d_swords_of_chaos = {
+	color={ 160 160 160 }
+	color2={ 255 255 255 }
+
+	capital = 309 #Nuln
+	
+	allow = {
+		religion = chaos
+	}
+	
+	religion = chaos
+	culture = wissenlander
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	mercenary = yes
+	landless = yes	
+	primary = yes	
+	independent = yes
+
+	strength_growth_per_century = 1.00
+	
+	modifier = d_swords_of_chaos_modifier
+}
 
 d_purple_hand = {
 	color={ 160 160 160 }

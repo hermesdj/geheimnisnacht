@@ -4,11 +4,12 @@
 title = c_middenstag
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_middenstag = castle
 b_hanau = castle
-b_versmold = city
-b_elsfleth = city
+#b_versmold = city
+#b_elsfleth = temple
+#b_gernsbach = city
 
 # Misc
 culture = middenlander

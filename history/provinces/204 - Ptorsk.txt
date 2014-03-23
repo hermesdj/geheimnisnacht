@@ -7,7 +7,7 @@ title = c_ptorsk
 max_settlements = 3
 b_ptorsk = castle
 b_slavyanaskaya = city
-b_karasuk = temple
+#b_karasuk = temple
 
 # Misc
 culture = gospodar

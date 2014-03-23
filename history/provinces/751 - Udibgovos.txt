@@ -8,8 +8,8 @@ max_settlements = 5
 b_udibgovos = castle
 b_mingol_garbad = city
 b_karada_ekspen = city
-b_ungrim_ruvalk = temple
-b_egsarol = castle
+#b_ungrim_ruvalk = temple
+#b_egsarol = castle
 
 # Misc
 culture = dwarf_main

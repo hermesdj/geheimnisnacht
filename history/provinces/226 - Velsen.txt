@@ -7,7 +7,7 @@ title = c_velsen
 max_settlements = 3
 b_velsen = temple
 b_groet = city
-b_castricum = castle
+#b_castricum = castle
 
 # Misc
 culture = westerlander

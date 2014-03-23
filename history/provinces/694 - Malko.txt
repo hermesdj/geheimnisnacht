@@ -7,10 +7,10 @@ title = c_malko
 max_settlements = 3
 b_malko = castle
 b_tor_anrok = temple
-b_the_warden = castle
+#b_the_warden = castle
 
 # Misc
-culture = talabeclander
+culture = neueslander
 religion = sigmarite
 
 

@@ -7,7 +7,7 @@ title = c_senlou
 max_settlements = 3
 b_portsall = castle
 b_leuars = temple
-b_sonteil = castle
+#b_sonteil = castle
 
 # Misc
 culture = armoric

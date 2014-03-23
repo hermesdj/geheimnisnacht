@@ -134,9 +134,7 @@ intrigue = 9
 learning = 9
 add_trait = "hunter"
 add_trait = "tough_soldier"
-add_trait="stressed"
-add_trait="depressed"
-add_trait="ill"
+
 
 1968.11.18={birth="1968.11.18"}
 2060.8.2={death="2060.8.2"}

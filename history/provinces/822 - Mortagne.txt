@@ -7,8 +7,8 @@ title = c_mortagne
 max_settlements = 4
 b_mortagne = castle
 b_martel = castle
-b_graudesange = temple
-b_aramis = city
+#b_graudesange = temple
+#b_aramis = city
 
 # Misc
 culture = mousillonian

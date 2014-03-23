@@ -8,8 +8,8 @@ max_settlements = 4
 b_urbimo = castle
 b_tilodorna = city
 b_pandino = temple
-b_rescimento = castle
-b_taveola = castle
+#b_rescimento = castle
+#b_taveola = castle
 
 # Misc
 culture = miraglian

@@ -6,3 +6,19 @@ liege="k_middenland"
 2010.1.1 = {
 	holder = 850001
 }
+
+2310.1.1 = {
+	liege="d_carroburg"
+}
+
+2480.1.1 = {
+	holder = 400044
+}
+
+2536.10.11 = {
+	holder = 400045
+}
+
+2562.7.4 = {
+	holder = 400046
+}

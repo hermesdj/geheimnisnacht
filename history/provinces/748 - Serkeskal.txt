@@ -8,8 +8,8 @@ max_settlements = 5
 b_serkeskal_ungor = city
 b_khazid_gringol = castle
 b_ungor_ruvalkin = city
-b_azul_bar = temple
-b_khazid_momuzidek = temple
+#b_azul_bar = temple
+#b_khazid_momuzidek = temple
 
 # Misc
 culture = dwarf_main

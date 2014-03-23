@@ -1,0 +1,16 @@
+# 1214 Aral
+
+# County Title
+title = c_aral
+
+# Settlements
+max_settlements = 2
+b_solon = castle
+#b_shira = temple
+
+# Misc
+culture = kvellig
+religion = chaos
+
+
+# History

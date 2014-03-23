@@ -1,0 +1,18 @@
+# 996 Duq
+
+# County Title
+title = c_duq
+
+# Settlements
+max_settlements = 4
+b_jawaffa = castle
+b_roq = city
+#b_arrasfez = temple
+#b_ghat = city
+
+# Misc
+culture = ramaccan
+religion = ormazd
+
+
+# History

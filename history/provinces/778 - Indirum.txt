@@ -6,8 +6,8 @@ title = c_indirum
 # Settlements
 max_settlements = 3
 b_indira = castle
-b_varnics = city
-b_dorost = temple
+#b_varnics = city
+#b_dorost = temple
 
 # Misc
 culture = orc_main

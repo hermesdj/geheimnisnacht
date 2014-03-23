@@ -7,7 +7,7 @@ title = c_dhazyn
 max_settlements = 3
 b_dhzayn = castle
 b_hoezyn = temple
-b_untelivik = castle
+#b_untelivik = castle
 
 # Misc
 culture = sarl

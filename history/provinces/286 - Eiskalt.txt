@@ -5,8 +5,8 @@ title = c_eiskalt
 
 # Settlements
 max_settlements = 2
-b_lindow = city
-b_jerichow = castle
+b_lindow = castle
+#b_jerichow = castle
 
 # Misc
 culture = hochlander

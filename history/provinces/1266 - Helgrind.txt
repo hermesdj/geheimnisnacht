@@ -1,0 +1,16 @@
+# 1266 Helgrind
+
+# County Title
+title = c_helgrind
+
+# Settlements
+max_settlements = 2
+b_helgrindgrad = castle
+b_pylgorod = city
+
+# Misc
+culture = ungol
+religion = northern_gods
+
+
+# History

@@ -1,0 +1,16 @@
+# 1194 Sybyr
+
+# County Title
+title = c_sybyr
+
+# Settlements
+max_settlements = 2
+b_sybyr = castle
+#b_evinka = city
+
+# Misc
+culture = yusak
+religion = chaos
+
+
+# History

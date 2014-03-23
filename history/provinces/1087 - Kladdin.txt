@@ -6,7 +6,7 @@ title = c_kladdin
 # Settlements
 max_settlements = 2
 b_kladdin_karak = castle
-b_grung_kladdin = city
+#b_grung_kladdin = city
 
 # Misc
 culture = orc_main

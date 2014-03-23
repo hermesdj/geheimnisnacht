@@ -1,0 +1,18 @@
+# 1146 Arbsu
+
+# County Title
+title = c_arbsu
+
+# Settlements
+max_settlements = 4
+b_arbsu = castle
+b_medi_madi = city
+b_idfo = temple
+b_tetri = temple
+
+# Misc
+culture = khemrian
+religion = nehekharan_gods
+
+
+# History

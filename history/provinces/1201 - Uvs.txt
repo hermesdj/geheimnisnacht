@@ -1,0 +1,17 @@
+# 1201 Uvs
+
+# County Title
+title = c_uvs
+
+# Settlements
+max_settlements = 3
+b_uvs = castle
+#b_kamniga = temple
+#b_umrad = city
+
+# Misc
+culture = mung
+religion = chaos
+
+
+# History

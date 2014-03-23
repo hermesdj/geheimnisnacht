@@ -3,11 +3,11 @@
 }
 
 2462.5.22 = {
-	holder = 650088
+	holding_dynasty = 14083 
 }
 
 2462.5.22 = {
-	holding_dynasty = 14083 
+	holder = 650088
 }
 
 2467.11.6 = {

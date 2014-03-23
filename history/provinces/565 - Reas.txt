@@ -7,7 +7,7 @@ max_settlements = 4
 b_reas = castle
 b_barbagorza = city
 b_pitarra = temple
-b_aurellana = castle
+#b_aurellana = castle
 
 #Misc
 culture = montanese

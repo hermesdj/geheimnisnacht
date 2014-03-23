@@ -8,7 +8,7 @@ max_settlements = 4
 b_castle_reikguard = castle
 b_langewiessen = city
 b_leun = temple
-b_hofheim = castle
+#b_hofheim = castle
 
 # Misc
 culture = reiklander

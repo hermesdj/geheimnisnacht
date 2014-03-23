@@ -7,7 +7,7 @@ title = c_ravola
 max_settlements = 3
 b_ravola = castle
 b_tredico = city
-b_legino = temple
+#b_legino = temple
 
 # Misc
 culture = miraglian

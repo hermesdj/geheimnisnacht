@@ -8,12 +8,14 @@ max_settlements = 4
 b_castle_regak = castle
 b_regakhof = castle
 b_messinghof = temple
-b_jenzwalden = temple
+#b_jenzwalden = temple
 
 
 # Misc
 culture = ostermarker
-religion = taalite
+religion = vampiric
 
 
 # History
+
+2155.1.1 = { religion = taalite }

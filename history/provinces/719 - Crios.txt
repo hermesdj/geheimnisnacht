@@ -6,8 +6,8 @@ title = c_crios
 # Settlements
 max_settlements = 3
 b_crios = castle
-b_phrasia = temple
-b_lostsvenild = castle
+#b_phrasia = temple
+#b_lostsvenild = castle
 
 # Misc
 culture = orc_main

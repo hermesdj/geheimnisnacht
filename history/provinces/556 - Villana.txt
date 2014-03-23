@@ -6,8 +6,8 @@ title = c_villana
 max_settlements = 4
 b_israda = castle
 b_lirocana = city
-b_breando = castle
-b_horzima = temple
+#b_breando = castle
+#b_horzima = temple
 
 #Misc
 culture = astur

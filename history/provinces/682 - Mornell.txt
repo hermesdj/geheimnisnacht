@@ -7,10 +7,10 @@ title = c_mornell
 max_settlements = 3
 b_mornellia = castle
 b_donnigan_moat = city
-b_swyne_point = city
+#b_swyne_point = city
 
 # Misc
-culture = breton
+culture = marcheur
 religion = lady_of_the_lake
 
 
