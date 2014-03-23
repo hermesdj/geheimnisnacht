@@ -46,7 +46,7 @@
 #
 ######################################################
 
-namespce = duelengine
+namespace = duelengine
 
 # HIDDEN EVENTS FOR MECHANICS 
 #
@@ -162,11 +162,10 @@ character_event = { # Battlefield Duel Start
                 culture_group = amazon_group
                 culture_group = kurgan_group
                 culture_group = norscan_group
-        culture_group = dwarf_group
-        culture_group = dwarf_chaos_group
+                culture_group = dwarf_group
+                culture_group = dwarf_chaos_group
             }
         }
-
         modifier = {
             factor = 3
             trait = duelist
@@ -187,7 +186,6 @@ character_event = { # Battlefield Duel Start
             factor = 0.33
             trait = patient
         }
-         
    }
     
     immediate = {
@@ -224,7 +222,6 @@ character_event = { # Battlefield Duel Start
                             prisoner = no
                             is_alive = yes        
                             NOT = { character = ROOT }
-                            NOT = { trait = dragon_rider }
                             #NOT = { culture_group = unoccupied_group } FIXME remember about this when we introduce ruins
                             NOT = { has_character_modifier = battlefield_fight }
                         }
@@ -401,22 +398,22 @@ character_event = {
         FROM = { character_event = { id = duelengine.2 tooltip = "reacts" } }
         ai_chance = {
             factor = 100
-            modifier = {
-                factor = 2
-                trait = poor_warrior
-            }
-            modifier = {
-                factor = 3
-                trait = trained_warrior
-            }
-            modifier = {
-                factor = 6
-                trait = skilled_warrior
-            }
-            modifier = {
-                factor = 8
-                trait = master_warrior
-            }
+            #modifier = {
+            #    factor = 2
+            #    trait = poor_warrior
+            #}
+            #modifier = {
+            #    factor = 3
+            #    trait = trained_warrior
+            #}
+            #modifier = {
+            #    factor = 6
+            #    trait = skilled_warrior
+            #}
+            #modifier = {
+            #    factor = 8
+            #    trait = master_warrior
+            #}
             modifier = {
                 factor = 6
                 trait = duelist
@@ -462,23 +459,23 @@ character_event = {
         }
         morale = -0.1
         ai_chance = {
-            factor = 100
-            modifier = {
-                factor = 2
-                FROM = { trait = poor_warrior }
-            }
-            modifier = {
-                factor = 3
-                FROM = { trait = trained_warrior }
-            }
-            modifier = {
-                factor = 4
-                FROM = { trait = skilled_warrior }
-            }
-            modifier = {
-                factor = 5
-                FROM = { trait = master_warrior }
-            }
+            factor = 1 #FIXME
+            #modifier = {
+            #    factor = 2
+            #    FROM = { trait = poor_warrior }
+            #}
+            #modifier = {
+            #    factor = 3
+            #    FROM = { trait = trained_warrior }
+            #}
+            #modifier = {
+            #    factor = 4
+            #    FROM = { trait = skilled_warrior }
+            #}
+            #modifier = {
+            #    factor = 5
+            #    FROM = { trait = master_warrior }
+            #}
             modifier = {
                 factor = 2
                 FROM = { trait = strong }
@@ -709,7 +706,7 @@ character_event = {
 character_event = {
    id = duelengine.3
    desc = "should be hidden - decide attributes"
-   hide_window = yes
+   #hide_window = yes FIXME should hid after fixing
    is_triggered_only = yes
 
    immediate = {
@@ -846,6 +843,12 @@ character_event = {
        # Ok now here should be traits bonus but i left them for now
    }    
    # FIXME those lines are for debugign - to be deleted 
+   option = {
+       name = "The duel initialized"
+       ai_chance = {
+           factor = 100
+       }
+   }
 }
 # Round event
 # 

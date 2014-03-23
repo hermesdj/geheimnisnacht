@@ -67,5 +67,5 @@ lore_nurgle = {
 }
 lore_slaanesh = {
 }
-lore_tzeenth = {
+lore_tzeentch = {
 }

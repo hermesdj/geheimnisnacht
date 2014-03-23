@@ -1031,13 +1031,6 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 	spriteType = {
-		name = "GFX_trait_hideous"
-		texturefile = "gfx/traits/hideous.tga"
-		noOfFrames = 1
-		norefcount = yes
-		effectFile = "gfx/FX/buttonstate.lua"
-	}
-	spriteType = {
 		name = "GFX_trait_tall"
 		texturefile = "gfx/traits/tall.tga"
 		noOfFrames = 1
@@ -1343,8 +1336,8 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
         spriteType = {
-		name = "GFX_trait_lore_tzeenth"
-		texturefile = "gfx/traits/lore_tzeenth.tga"
+		name = "GFX_trait_lore_tzeentch"
+		texturefile = "gfx/traits/lore_tzeentch.tga"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

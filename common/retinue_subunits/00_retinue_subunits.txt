@@ -14,7 +14,9 @@ RETTYPE_CUL_IMP =
 	second_type = 2
 	second_amount = 100
 	
-	culture_group = imperial_group
+	potential = {
+		culture_group = imperial_group
+	}
 	
 	modifier = {
 		pikemen_defensive = 0.4
@@ -28,8 +30,9 @@ RETTYPE_CUL_IMP2 =
 	first_amount = 100
 	second_type = 5
 	second_amount = 100
-	
-	culture_group = imperial_group
+	potential = {
+	 	culture_group = imperial_group
+	}
 	
 	modifier = {
 		archers_defensive = 0.4
@@ -44,8 +47,9 @@ RETTYPE_CUL_BRET =
 	second_type = 2
 	second_amount = 100
 	
-	culture_group = bretonnian_group
-	
+	potential = {
+		culture_group = bretonnian_group
+	}
 	modifier = {
 		pikemen_defensive = 0.4
 		heavy_infantry_defensive = 0.2
@@ -59,8 +63,10 @@ RETTYPE_CUL_BRET2 =
 	second_type = 5
 	second_amount = 100
 	
-	culture_group = bretonnian_group
 	
+	potential = {
+		culture_group = bretonnian_group
+	}
 	modifier = {
 		archers_defensive = 0.4
 		light_infantry_defensive = 0.2

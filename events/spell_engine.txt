@@ -3,7 +3,7 @@
 # Spell engine events
 #
 ##############################################
-namespeace = magicengine
+namespace = magicengine
 #
 # MAIN SPELL EVENT
 #

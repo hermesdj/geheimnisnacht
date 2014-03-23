@@ -30,8 +30,8 @@ character_event = {
     immediate = {
 		create_character = {
 			random_traits = no
-			dynasty = ROOT
-			religion = ROOT
+			dynasty = ROOT # are you sure Eric that you can do this command?
+			religion = ROOT # i don't know if the game is smart enough 
 			culture = ROOT
 			female = no	
 			age = 16
@@ -49,165 +49,164 @@ character_event = {
 			################
 			#amateurish_plotter
 			if = {
-				limit = { ROOT = { trait = amateurish_plotter }			
+				limit = { ROOT = { trait = amateurish_plotter }}
 				add_trait = amateurish_plotter
 			}
 			#flamboyant_schemer
 			if = {
-				limit = { ROOT = { trait = flamboyant_schemer }			
+				limit = { ROOT = { trait = flamboyant_schemer }}
 				add_trait = flamboyant_schemer
 			}
 			#intricate_webweaver
 			if = {
-				limit = { ROOT = { trait = intricate_webweaver }			
+				limit = { ROOT = { trait = intricate_webweaver }}	
 				add_trait = intricate_webweaver
 			}
 			#elusive_shadow
 			if = {
-				limit = { ROOT = { trait = elusive_shadow }			
+				limit = { ROOT = { trait = elusive_shadow }}		
 				add_trait = elusive_shadow
 			}
 			#naive_appeaser
 			if = {
-				limit = { ROOT = { trait = naive_appeaser }			
+				limit = { ROOT = { trait = naive_appeaser }}			
 				add_trait = naive_appeaser
 			}
 			#underhanded_rogue
 			if = {
-				limit = { ROOT = { trait = underhanded_rogue }			
+				limit = { ROOT = { trait = underhanded_rogue }}
 				add_trait = underhanded_rogue
 			}
 			#charismatic_negotiator
 			if = {
-				limit = { ROOT = { trait = charismatic_negotiator }			
+				limit = { ROOT = { trait = charismatic_negotiator }}
 				add_trait = charismatic_negotiator
 			}
 			#grey_eminence
 			if = {
-				limit = { ROOT = { trait = grey_eminence }			
+				limit = { ROOT = { trait = grey_eminence }}		
 				add_trait = grey_eminence
 			}
 			#indulgent_wastrel
 			if = {
-				limit = { ROOT = { trait = indulgent_wastrel }			
+				limit = { ROOT = { trait = indulgent_wastrel }}
 				add_trait = indulgent_wastrel
 			}
 			#thrifty_clerk
 			if = {
-				limit = { ROOT = { trait = thrifty_clerk }			
+  				limit = { ROOT = { trait = thrifty_clerk }}
 				add_trait = thrifty_clerk
 			}
 			#fortune_builder
 			if = {
-				limit = { ROOT = { trait = fortune_builder }			
+				limit = { ROOT = { trait = fortune_builder }}
 				add_trait = fortune_builder
 			}
 			#midas_touched
 			if = {
-				limit = { ROOT = { trait = midas_touched }			
+				limit = { ROOT = { trait = midas_touched }}
 				add_trait = midas_touched
 			}
 			#misguided_warrior
 			if = {
-				limit = { ROOT = { trait = misguided_warrior }			
+				limit = { ROOT = { trait = misguided_warrior }}
 				add_trait = misguided_warrior
 			}
 			#tough_soldier
 			if = {
-				limit = { ROOT = { trait = tough_soldier }			
+				limit = { ROOT = { trait = tough_soldier }}		
 				add_trait = tough_soldier
 			}
 			#skilled_tactician
 			if = {
-				limit = { ROOT = { trait = skilled_tactician }			
+				limit = { ROOT = { trait = skilled_tactician }}
 				add_trait = skilled_tactician
 			}
 			#brilliant_strategist
 			if = {
-				limit = { ROOT = { trait = brilliant_strategist }			
+				limit = { ROOT = { trait = brilliant_strategist }}
 				add_trait = brilliant_strategist
 			}
 			#detached_priest
 			if = {
-				limit = { ROOT = { trait = detached_priest }			
+				limit = { ROOT = { trait = detached_priest }}		
 				add_trait = detached_priest
 			}
 			#martial_cleric
 			if = {
-				limit = { ROOT = { trait = martial_cleric }			
+				limit = { ROOT = { trait = martial_cleric }}		
 				add_trait = martial_cleric
 			}
 			#scholarly_theologian
 			if = {
-				limit = { ROOT = { trait = scholarly_theologian }			
+				limit = { ROOT = { trait = scholarly_theologian }}
 				add_trait = scholarly_theologian
 			}
 			#mastermind_theologian
 			if = {
-				limit = { ROOT = { trait = mastermind_theologian }			
-				add_trait = mastermind_theologian
+				limit = { ROOT = { trait = mastermind_theologian }}					add_trait = mastermind_theologian
 			}
 			##############
 			##Health Traits##
 			##############
 			#stressed
 			if = {
-				limit = { ROOT = { trait = stressed }			
+				limit = { ROOT = { trait = stressed }}	
 				add_trait = stressed
 			}
 			#depressed
 			if = {
-				limit = { ROOT = { trait = depressed }			
+				limit = { ROOT = { trait = depressed }}			
 				add_trait = depressed
 			}
 			#lunatic
 			if = {
-				limit = { ROOT = { trait = lunatic }			
+				limit = { ROOT = { trait = lunatic }}			
 				add_trait = lunatic
 			}
 			#possessed
 			if = {
-				limit = { ROOT = { trait = possessed }			
+				limit = { ROOT = { trait = possessed }}			
 				add_trait = possessed
 			}
 			#ill
 			if = {
-				limit = { ROOT = { trait = ill }			
+				limit = { ROOT = { trait = ill }}		
 				add_trait = ill
 			}
 			#pneumonic
 			if = {
-				limit = { ROOT = { trait = pneumonic }			
+				limit = { ROOT = { trait = pneumonic }}
 				add_trait = pneumonic
 			}
 			#syphilitic
 			if = {
-				limit = { ROOT = { trait = syphilitic }			
+				limit = { ROOT = { trait = syphilitic }}		
 				add_trait = syphilitic
 			}
 			#leper
 			if = {
-				limit = { ROOT = { trait = leper }			
+				limit = { ROOT = { trait = leper }}		
 				add_trait = leper
 			}
 			#has_creeping_buboes
 			if = {
-				limit = { ROOT = { trait = has_creeping_buboes }			
+				limit = { ROOT = { trait = has_creeping_buboes }}
 				add_trait = has_creeping_buboes
 			}
 			#has_green_pox
 			if = {
-				limit = { ROOT = { trait = has_green_pox }			
+				limit = { ROOT = { trait = has_green_pox }}	
 				add_trait = has_green_pox
 			}
 			#has_red_pox
 			if = {
-				limit = { ROOT = { trait = has_red_pox }			
+				limit = { ROOT = { trait = has_red_pox }}		
 				add_trait = has_red_pox
 			}
 			#has_rattlelung
 			if = {
-				limit = { ROOT = { trait = has_rattlelung }			
+				limit = { ROOT = { trait = has_rattlelung }}		
 				add_trait = has_rattlelung
 			}
 			#has_tomb_rot
@@ -1259,57 +1258,57 @@ character_event = {
 			}
 			#excommunicated
 			if = {
-				limit = { ROOT = { trait = excommunicated }			
+				limit = { ROOT = { trait = excommunicated }}
 				add_trait = excommunicated
 			}
 			#kinslayer
 			if = {
-				limit = { ROOT = { trait = kinslayer }			
+				limit = { ROOT = { trait = kinslayer }}		
 				add_trait = kinslayer
 			}
 			#homosexual
 			if = {
-				limit = { ROOT = { trait = homosexual }			
+				limit = { ROOT = { trait = homosexual }}		
 				add_trait = homosexual
 			}
 			#child_of_consort
 			if = {
-				limit = { ROOT = { trait = child_of_consort }			
+				limit = { ROOT = { trait = child_of_consort }}			
 				add_trait = child_of_consort
 			}
 			#peasant_leader
 			if = {
-				limit = { ROOT = { trait = peasant_leader }			
+				limit = { ROOT = { trait = peasant_leader }}
 				add_trait = peasant_leader
 			}
 			#heresiarch
 			if = {
-				limit = { ROOT = { trait = heresiarch }			
+				limit = { ROOT = { trait = heresiarch }	}
 				add_trait = heresiarch
 			}
 			#berserker
 			if = {
-				limit = { ROOT = { trait = berserker }			
+				limit = { ROOT = { trait = berserker }}		
 				add_trait = berserker
 			}
 			#varangian
 			if = {
-				limit = { ROOT = { trait = varangian }			
+				limit = { ROOT = { trait = varangian }}			
 				add_trait = varangian
 			}
 			#saoshyant
 			if = {
-				limit = { ROOT = { trait = saoshyant }			
+				limit = { ROOT = { trait = saoshyant }}			
 				add_trait = saoshyant
 			}
 			#saoshyant_descendant
 			if = {
-				limit = { ROOT = { trait = saoshyant_descendant }			
+				limit = { ROOT = { trait = saoshyant_descendant }}
 				add_trait = saoshyant_descendant
 			}
 			#viking
 			if = {
-				limit = { ROOT = { trait = viking }			
+				limit = { ROOT = { trait = viking }}	
 				add_trait = viking
 			}
 		}
