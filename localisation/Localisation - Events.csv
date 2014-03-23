@@ -6,7 +6,7 @@ EVTOPTB1700000202;What is this? Someone's idea of a practical joke?;;;;;;;;;;;;;
 EVTOPTC1700000202;Look at the size of those gemstones!;;;;;;;;;;;;;x
 EVTOPTD1700000202;A sword in a stone? That's it, I'm out of here.;;;;;;;;;;;;;x
 EVTNAME1700000203;You Approach the Stone;;;;;;;;;;;;;x
-EVTDESC1700000203;As you draw near, you feel the power of the stone fill you. You feel you coud do anything.;;;;;;;;;;;;;x
+EVTDESC1700000203;As you draw near, you feel the power of the stone fill you. You feel you could do anything.;;;;;;;;;;;;;x
 EVTOPTA1700000203;I shall claim it for my own!;;;;;;;;;;;;;x
 EVTOPTB1700000203;I will examine the weapon first.;;;;;;;;;;;;;x
 EVTNAME1700000204;A Chance for Some Fun;;;;;;;;;;;;;x
@@ -32,21 +32,30 @@ EVTTOOLTIP1700000213;TEXTNAME;;;;;;;;;;;;;x
 EVTTOOLTIP1700000212;TEXTNAME;;;;;;;;;;;;;x
 EVTNAME1700000207;You Take a Closer Look at the Sword;;;;;;;;;;;;;x
 EVTDESC1700000207;You approach the sword and take a closer look at the markings on it. Your head swims and your vision blurs as you try to understand the meaning of the runes.;;;;;;;;;;;;;x
-#Health Events
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+#Temptation Events
+temptation.1;The Embrace of Uncle Nurgle;;;;;;;;;;;;;x
+temptation.1_desc;The Plague Father, Fly Lord, Great Corruptor, the Master of Pestilence... Old Uncle Nurgle has many titles. Within your very mind and soul you hear the maddened buzzing of a billion flies, and a chorus of choking, coughing voices whispering in your ears. They are calling you to join them in the endless bliss of utter pestilence and decay, to cast aside the facade of health and embrace the utter rottenness that is the inevitable fate of all life.;;;;;;;;;;;;;x
+Temptation.1.TOOLTIP1;Uncle Nurgle loves his childern, he he he...;;;;;;;;;;;;;x
+Temptation.1.TOOLTIP2;[Root.Religion.GetRandomGodName] will give me the strength to resist this sickness in my heart!;;;;;;;;;;;;;x
+temptation.2;The Seductions of the Prince of Pleasure;;;;;;;;;;;;;x
+temptation.2_desc;Truth, beauty,, honour, justice... what do any of these things mean without pleasure? Are not the senses of Man his guide into the divine? Poetry, music, dance, wine, none of it is enough for one of your intellect and needs. Your body and mind yearn for stimulation, to seek out new experiences. You tire of the restraints of so-called "civilised society," and wonder if it might be better to seek out likeminded spirits and experiment with a new lifestyle beyond mere mortal hedonism? Your inquiring mind and almost uncontrollable lust for life leads you to the Forbidden Lord of Excess, Slaanesh, who can offer you all you desire in return for so little…?;;;;;;;;;;;;;x 
+temptation.2.TOOLTIP1;Ah, what sweet ecstasy is this… I must have more!;;;;;;;;;;;;;x
+temptation.2.TOOLTIP2;No, no, I have gone too far... [Root.Religion.GetRandomGodName] forgive me.;;;;;;;;;;;;;x
+temptation.3;The Changer of Ways Calls Ye;;;;;;;;;;;;;x
+temptation.3_desc;The ignorant masses cling to their Gods and laws, unaware of their own utter insignificance in the grand scheme of things. Civilisations and races rise and fall, the only constant is change - all else is illusion. One of your genius knows that the only way to survive and achieve greatness on this mortal coil is to understand the vast immaterial power of magic, and to use any means necessary to acquire that knowledge. You know that the parlour tricks of the common wizard are merely a pale reflection of the incredible powers that close-minded religious dogma denies to you. In order to better understand the Winds of Magic, and to further your own career, you've considered entering a purely temporary relationship with the demonic called Tzeentch in order to use him for your own ends.;;;;;;;;;;;;;;x  
+temptation.3.TOOLTIP1;Knowlegde is power.;;;;;;;;;;;;;x
+temptation.3.TOOLTIP2;Some secerts must be forever hidden.;;;;;;;;;;;;;x
+temptation.4;The Eight-Fold Path;;;;;;;;;;;;;x
+temptation.4_desc;Weakness, all you see around you is weakness and corruption. Peace breeds excess, only war is pure. Every day you spend you long for the clash of arms, the splatter of fresh blood on your face, to see your enemies homesteads in flames and their warriors in flight. Better that than to forever be surrounded by whining, ungrateful vassals and forced to listen to the false advice of effete scholars and sorcerers. Kill them, kill them all! Khrone, Master of the Skull Throne, calls you to his service. It matters not from whence the blood flows, only that it does.;;;;;;;;;;;;;x
+temptation.4.TOOLTIP1;BLOOD FOR THE BLOOD GOD, SKULLS FOR THE SKULL THRONE!!!;;;;;;;;;;;;;x
+temptation.4.TOOLTIP2;What am I thinking?! I'm a warrior, not a butcher!;;;;;;;;;;;;;x
+temptation.5;The Power of Chaos;;;;;;;;;;;;;x
+temptation.5_desc;Everywhere those in power seek to blind the teaming mass of humanity to the horrors that lurk just out of sight. The Blood God, the Changer of Ways, the Prince of Pleasure and the Great Corrupter are all names for a unspeakable force that was ancient when the mountains and the seas were young. Fools deny it, but the Runinous Powers are very real. Those who serve them well are rewarded, or else are damned for eternity. Do you dare sell your soul to Chaos Undivided, the Primordial Annihilator - and risk all for the sake of immortality and a escape from death itself?;;;;;;;;;;;;;x
+temptation.5.TOOLTIP1;[Root.Religion.GetRandomGodName]? Bah, these are the real Gods!;;;;;;;;;;;;;x
+temptation.5.TOOLTIP2;My faith in [Root.Religion.GetRandomGodName] in unshakeable!;;;;;;;;;;;;;x
+temptation.6;The Cult;;;;;;;;;;;;;x
+temptation.6_desc;You hurry through the streets, scurrying like a common criminal through the backstreets and the slums, a hood obscuring your face from sight. But you are no common thief or mere conspirator, you serve a greater power. You duck and weave your way to arranged meeting place, whispering a password in a forbidden language. Inside, you are greeted by your new Brothers and Sisters, and after a blood curdling ritual test you are finally inaugurated into the Cult.;;;;;;;;;;;;;x
+temptation.6.TOOLTIP1;It's too late to turn back now....;;;;;;;;;;;;;x
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
