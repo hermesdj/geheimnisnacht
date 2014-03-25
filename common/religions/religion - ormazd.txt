@@ -2,6 +2,9 @@ ormazd_gods_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	playable = yes
+	
+	ai_convert_same_group = 1 # try to convert if ai_zeal is high
+	ai_convert_other_group = 2	# always try to convert
 
 	ormazd = {
 		graphical_culture = westerngfx
