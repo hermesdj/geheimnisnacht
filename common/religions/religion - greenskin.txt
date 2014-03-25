@@ -2,6 +2,9 @@ greenskin_gods_group = {
 	has_coa_on_barony_only = no
 	graphical_culture = westerngfx
 	playable = yes
+	
+	ai_convert_same_group = 0 # try to convert if ai_zeal is high
+	ai_convert_other_group = 0	# always try to convert
 
 	greenskin_gods = {
 		graphical_culture = westerngfx
