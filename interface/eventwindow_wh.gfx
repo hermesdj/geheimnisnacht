@@ -31,5 +31,25 @@ spriteTypes = {
                 texturefile = "gfx\\event_pictures\\duel5.tga"
                 allwaystransparent = yes
         }
-
+        # Chaos gods
+	spriteType = {
+                name = "GFX_evt_slannesh"
+                texturefile = "gfx\\event_pictures\\slaanesh.tga"
+                allwaystransparent = yes
+        }
+	spriteType = {
+                name = "GFX_evt_khorne"
+                texturefile = "gfx\\event_pictures\\khorne.tga"
+                allwaystransparent = yes
+        }
+	spriteType = {
+                name = "GFX_evt_nurgle"
+                texturefile = "gfx\\event_pictures\\nurgle.tga"
+                allwaystransparent = yes
+        }
+	spriteType = {
+                name = "GFX_evt_tzeentch"
+                texturefile = "gfx\\event_pictures\\tzeentch.tga"
+                allwaystransparent = yes
+        }
 }

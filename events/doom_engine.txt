@@ -131,3 +131,30 @@ province_event = {
     }
     # no options this is hidden event
 }
+
+
+# DOOM COUNTER RAISING EVENTS
+#
+#
+#
+province_event = {
+    id = doomengine.1
+    name = "Signs of armaggedon"
+    desc = ".......Bad things are happening"
+    
+    trigger = {
+        OR = {
+           has_disease = yes
+           has_province_modifier = recently_conquered 
+           has_province_modifier = looted_modifier
+        }
+    }
+    mean_time_to_happen = { 
+       months = 6
+    }
+    option = {
+       name = "Thats bad"
+       change_variable = { which = "doom_counter" value = 3 }
+       ai_chance = { factor = 1 }
+    }
+}

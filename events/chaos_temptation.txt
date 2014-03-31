@@ -32,8 +32,8 @@ namespace = temptation
 # Temptation by Nurgle
 character_event = {
     id = temptation.1
-    desc = "" #TODO
-    #picture = "" #TODO
+    desc = "temptation1_desc" #TODO
+    picture = "GFX_evt_nurgle"
     min_age = 16
     trigger = {
         is_capable = yes
@@ -168,21 +168,21 @@ character_event = {
     }
     # Temptation by some chosen god
     option = {
-        name = "Oh yeess" #TODO
+        name = "Temptation.1.TOOLTIP1" #TODO
         character_event = { id = temptation.5 days = 30 }
         set_character_flag = hidden_cultist_nurgle
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "No i can resist" #TODO
+        name = "Temptation.1.TOOLTIP2" #TODO
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
 # Temptation Slaanesh
 character_event = {
     id = temptation.2
-    desc = "slannesh first temptation" #TODO
-    #picture = ""
+    desc = "temptation.2_desc" #TODO
+    picture = "GFX_evt_slaanesh"
     min_age = 16
     trigger = {
         is_capable = yes
@@ -320,21 +320,21 @@ character_event = {
     }
     # Temptation by some chosen god
     option = {
-        name = "Nooo" #TODO
+        name = "temptation.2.TOOLTIP1" #TODO
         character_event = { id = temptation.5 days = 30 }
         set_character_flag = hidden_cultist_slaanesh
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "No i can resist" #TODO
+        name = "temptation.2.TOOLTIP2" #TODO
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
 # Temptation Tzeenth
 character_event = {
     id = temptation.3
-    desc = "" #TODO
-    #picture = ""
+    desc = "temptation.3_desc" #TODO
+    picture = "GFX_evt_tzeentch"
     min_age = 16
     trigger = {
         is_capable = yes
@@ -455,21 +455,21 @@ character_event = {
     }
     # Temptation by some chosen god
     option = {
-        name = "Oh yeess" #TODO
+        name = "temptation.3.TOOLTIP1" #TODO
         set_character_flag = hidden_cultist_tzeenth
         character_event = { id = temptation.5 days = 30 }
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "No i can resist"
+        name = "temptation.3.TOOLTIP2"
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
 # Temptation Khorne
 character_event = {
     id = temptation.4
-    desc = "" #TODO
-    #picture = ""
+    desc = "temptation.4_desc" #TODO
+    picture = "GFX_evt_khorne"
     min_age = 16
     trigger = {
         is_capable = yes
@@ -613,20 +613,20 @@ character_event = {
     }
     # Temptation by some chosen god
     option = {
-        name = "Oh yeess"
+        name = "temptation.4.TOOLTIP1"
         set_character_flag = hidden_cultist_khorne
         character_event = { id = temptation.5 days = 30 }
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "No i can resist"
+        name = "temptation.4.TOOLTIP2"
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
 # Temptation Undivided
 character_event = {
     id = temptation.5
-    desc = "" #TODO
+    desc = "temptation.5_desc"
     #picture = ""
     min_age = 16
     trigger = {
@@ -726,13 +726,13 @@ character_event = {
     }
     # Temptation by chaos
     option = {
-        name = "Oh yeess" #TODO
+        name = "temptation.5.TOOLTIP1" #TODO
         set_character_flag = hidden_cultist_undivided
         character_event = { id = temptation.5 days = 30 }
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "No i can resist"
+        name = "temptation.5.TOOLTIP2"
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
@@ -745,12 +745,12 @@ character_event = {
 #
 character_event = {
     id = temptation.6
-    desc = "Here should description of meeting with cultist"
+    desc = "temptation.6_desc"
     picture = "GFX_shadow_cabal"
     
     is_triggered_only = yes
     option = {
-        name = "Join the cult"
+        name = "temptation.6.TOOLTIP1"
         # change doom counter - if big figure became cultist
         if = { 
             limit = { higher_tier_than = COUNT }
