@@ -133,3 +133,12 @@ viking = {
 	same_opinion = 10
 	religious = yes
 }
+
+
+# HARDCODED
+born_in_the_purple = {
+	customizer = no
+	
+	vassal_opinion = 10 
+	monthly_character_prestige = 0.5
+}
