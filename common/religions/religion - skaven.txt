@@ -3,8 +3,12 @@ horned_rat_god_group = {
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	pacifist = no
 	
+	ai_peaceful = no
+	
+	ai_convert_same_group = 1 # try to convert if ai_zeal is high
+	ai_convert_other_group = 1	# ai_zeal high
+
 	horned_rat = {
 		graphical_culture = westerngfx
 

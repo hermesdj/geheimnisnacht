@@ -3,7 +3,10 @@ norse_group = {
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	pacifist = yes # Will make Hordes lose their super aggressiveness
+	ai_peaceful = no
+
+	ai_convert_same_group = 1 # try to convert if ai_zeal is high
+	ai_convert_other_group = 1	# always try to convert
 		
 	norse = {
 		graphical_culture = westerngfx
