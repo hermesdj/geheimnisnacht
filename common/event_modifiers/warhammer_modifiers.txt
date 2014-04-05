@@ -63,7 +63,7 @@ vampire_lahmian_hidden_modifier = {
 	icon = 1
 	
 	fertility = -10.0
-	immortal = yes
+	# FIXME immortal = yes
 	ai_zeal = 30
 	ai_honor = -30
 	ai_ambition = 30
@@ -74,7 +74,7 @@ vampire_carstein_hidden_modifier = {
 	icon = 1
 	
 	fertility = -10.0
-	immortal = yes
+	# FIXME immortal = yes
 	ai_zeal = 30
 	ai_honor = -30
 	ai_ambition = 30
@@ -85,7 +85,7 @@ vampire_blood_hidden_modifier = {
 	icon = 1
 	
 	fertility = -10.0
-	immortal = yes
+	# FIXME immortal = yes
 	ai_zeal = 30
 	ai_honor = -30
 	ai_ambition = 30
@@ -96,7 +96,7 @@ vampire_strigoi_hidden_modifier = {
 	icon = 1
 	
 	fertility = -10.0
-	immortal = yes
+	# FIXME immortal = yes
 	ai_zeal = 30
 	ai_honor = -30
 	ai_ambition = 30
@@ -107,7 +107,7 @@ vampire_necrach_hidden_modifier = {
 	icon = 1
 	
 	fertility = -10.0
-	immortal = yes
+	# FIXME immortal = yes
 	ai_zeal = 30
 	ai_honor = -30
 	ai_ambition = 30
@@ -118,7 +118,7 @@ vampire_jade_hidden_modifier = {
 	icon = 1
 	
 	fertility = -10.0
-	immortal = yes
+	# FIXME immortal = yes
 	ai_zeal = 30
 	ai_honor = -30
 	ai_ambition = 30
@@ -129,7 +129,7 @@ vampire_mahtmasi_hidden = {
 	icon = 1
 	
 	fertility = -10.0
-	immortal = yes
+	# FIXME immortal = yes
 	ai_zeal = 30
 	ai_honor = -30
 	ai_ambition = 30

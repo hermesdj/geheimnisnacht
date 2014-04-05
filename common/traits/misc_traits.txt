@@ -142,3 +142,9 @@ born_in_the_purple = {
 	vassal_opinion = 10 
 	monthly_character_prestige = 0.5
 }
+
+# maybe it is needed?
+reincarnation = {
+	customizer = no
+	random = no
+}
