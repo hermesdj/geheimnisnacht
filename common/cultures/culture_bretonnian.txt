@@ -25,7 +25,7 @@ bretonnian_group = {
 			Neven Nikolaz_Nicholas 
 			Odo Olier_Oliver Orderic
 			Padrig_Patrick Panteleon Paol_Paul Pêr_Peter Piers
-			Redemund Renan Riaged Riok Riwall Roland Ronan Roparzh_Robert 
+			Redemund Renan Riaged Riok Riwall Ronan Roparzh_Robert 
 			Samzun Seog_George Sian_John Stefen_Stephen Suidbert
 			Tanet Tedbert Theudis Thierulf Treveur Tristan Tudual_Tewdwr Turtoualdus 
 			Urvod 
@@ -360,7 +360,7 @@ carcassian = {
 		male_names = {
 			Acfred Adalberon Adalhard Ado Aeblus Afregar Agilbert Agobard Aiden Aigulf Alan_Alan Alar_Alaric Alberik Alor Alwen_Alwyn Andrev_Andrew Ansbert Anselm Antenor Anton_Antoninus Aodred Arbogast Arc'hantael Arnald_Arnold Arnulf Artald Arzhel Arzhur_Arthur Ascarich Audoin Audomar Austregisil 
 			Baderic Baldoen_Baldwin Baldric Baldwin Bauto Beltram Benabic Bernard Bernez_Bernard Berno Bertachar Bertelis Bivin Blaez_Blaise Bobbo Bodognous Boggis Boso Bougars Bran_Bran Brendan Brevalaer Briac_Brian Brigacos Budoc Burgundofaro 
-			Cancor Carl Carloman Carloman Chagnoald Chagnoric Chararic Childebert Childebrand Childeric Chloderic Chlodomer Chlodovech Chlothar Chram Chrodegang Clodio Clodoald Conrad Cunibert Dagobert Dalmas Deniel_Daniel Deodat Derrien Devi_David Dietrich Diomede Donan Drogo Drogon_Drogo 
+			Cancor Carl Carloman Chagnoald Chagnoric Chararic Childebert Childebrand Childeric Chloderic Chlodomer Chlodovech Chlothar Chram Chrodegang Clodio Clodoald Conrad Cunibert Dagobert Dalmas Deniel_Daniel Deodat Derrien Devi_David Dietrich Diomede Donan Drogo Drogon_Drogo 
 			Ebbo Ebroin Edern_Edyrn Edouarzh_Edward Einhard Emebert Emmerin Eon_John Eozen_Otto Erchinoald Erwan_Yves Eustace_Eustace Eustache_Eustace Everard Ewen 
 			Faramund Farulin Felix_Felix Ferragus Flaochad Fragan Frañsez_Francis Freculf Fredegund Frederic Fulk 
 			Gael_Judikael Gall Gallmau Garin Gaston Gaucelm Gausbert Gauzfrid Gennovevs Genobaud Gerard Gilbert Gildard Girec Gistemar Glen Gondulf Gormou Gotfrid Govran Gralon Gregor_Gregory Guido Guimarc'h Gundoald Gunzo Guyomarc'h Gwilherm_William 
@@ -369,11 +369,11 @@ carcassian = {
 			Jacen Jafrez_Godfrey Jakez_Jacob Jalm Jaoua Jehan_John Jermen Jilberzh_Gilbert Jord_Jordan Jos Judikael_Judikael 
 			Kado_Cadoc Kadvalaer Kaourantin Karadeg_Caradog Karlz_Charles Kavan Klaoda Konan_Conan Kongar Konwoion Koulizh 
 			Lambert Landuin Lantfrid Laorans_Laurence Latro Leobas Leodegar Leri Leudebaud Leudebold Liudhard Liudver Liutbert Liutward Loeiz_Louis Lothar Louen_Louis Louis_Louis Ludger Lukaz_Lucas Lull 
-			Maelog Maldred Mallobaude Mallobaudes Marcomer Marrec Marzhin_Martin Matfrid Mazhe_Matthew Medard Meriadeg Merogais Merovech Merovech Mihael_Michael Miro Modoald Moduin Morvan Mummolin Munderic 
+			Maelog Maldred Mallobaude Mallobaudes Marcomer Marrec Marzhin_Martin Matfrid Mazhe_Matthew Medard Meriadeg Merogais Merovech Mihael_Michael Miro Modoald Moduin Morvan Mummolin Munderic 
 			Nebiogastes Neven Nikolaz_Nicholas Nordebert Nordegund 
 			Odgar Odo Odo Olier_Oliver Orderic 
 			Padrig_Patrick Panteleon Paol_Paul Pepin Pêr_Peter Philibert Piers 
-			Ragambald Ragenfrid Ragnachar Rampon Ranulf Ratbert Redemund Renan Rhaban Riaged Ricchar Richomer Richomer Rieul Rignomer Rigobert Riok Riwall Robert Roland Roland Ronan Roparzh_Robert Rorgon 
+			Ragambald Ragenfrid Ragnachar Rampon Ranulf Ratbert Redemund Renan Rhaban Riaged Ricchar Richomer Rieul Rignomer Rigobert Riok Riwall Robert Roland Ronan Roparzh_Robert Rorgon 
 			Samo Samzun Seog_George Sian_John Siegfried Sigobert Stefen_Stephen Suidbert Sunno Sunyer 
 			Tanet Tedbert Thegan Theobald Theodard Theoderic Theudebald Theudebert Theudemer Theuderic Theudis Thierulf Treveur Tristan Tudual_Tewdwr Turtoualdus 
 			Urvod 
@@ -489,7 +489,7 @@ carcassian = {
 		color = { 0.7 0.5 0.3 }
 
 		male_names = {
-			Adalbert_Albert "Berenguier Ramoun" "Berenguier Renard" Adalbert_Albert Adalberto_Albert Adalhard Adémar Adhémar Adrian Adrien Afregar Aiden Aigulf Aimar Aimerico_Aymeric Aimerín_Aymeric Aimery_Aymeric Alain Alain_Alan Alan_Alan Alar_Alaric Alberico Aldebert_Albert Aldeberto_Albert Aldéric Alderico Alfonse_Alphonse Alfonso_Alphonse Alor Alphons_Alphonse Alphonse_Alphonse Àlvier_Oliver Alwen_Alwyn Amalrico_Amalric Amanieu Amatieu Amaurín_Amalric Amaury_Amalric Amédée Amedéz Ancel André_Andrew Andrés_Andrew Andrev_Andrew Anfóso Angelbert Angelberto Ansèumo Antoin_Antoninus Antoine_Antoninus Anton_Antoninus Aodred Archantael Arcambaldo_Archibald Archambaud_Archibald Archambaudo_Archibald Arnald_Arnold Arnaldo_Arnold Arnalto_Arnold Arnaud_Arnold Arnaud-Miró Arnaul_Arnold Arnault_Arnold Arnoul_Arnulf Arnul_Arnulf Artau Artaut_Artal Arzhel Arzhur_Arthur Aubrésio Aubry Audoïno Augusto_August Aymar Aymere 
+			"Berenguier Ramoun" "Berenguier Renard" Adalbert_Albert Adalberto_Albert Adalhard Adémar Adhémar Adrian Adrien Afregar Aiden Aigulf Aimar Aimerico_Aymeric Aimerín_Aymeric Aimery_Aymeric Alain Alain_Alan Alan_Alan Alar_Alaric Alberico Aldebert_Albert Aldeberto_Albert Aldéric Alderico Alfonse_Alphonse Alfonso_Alphonse Alor Alphons_Alphonse Alphonse_Alphonse Àlvier_Oliver Alwen_Alwyn Amalrico_Amalric Amanieu Amatieu Amaurín_Amalric Amaury_Amalric Amédée Amedéz Ancel André_Andrew Andrés_Andrew Andrev_Andrew Anfóso Angelbert Angelberto Ansèumo Antoin_Antoninus Antoine_Antoninus Anton_Antoninus Aodred Archantael Arcambaldo_Archibald Archambaud_Archibald Archambaudo_Archibald Arnald_Arnold Arnaldo_Arnold Arnalto_Arnold Arnaud_Arnold Arnaud-Miró Arnaul_Arnold Arnault_Arnold Arnoul_Arnulf Arnul_Arnulf Artau Artaut_Artal Arzhel Arzhur_Arthur Aubrésio Aubry Audoïno Augusto_August Aymar Aymere 
 			Baldoen_Baldwin Baldoino_Baldwin Barnardo_Bernard Barral Bartelemo_Bartolomeus Barthélémi_Bartolomeus Bartolomeo_Bartolomeus Bartomieu_Bartolomeus Baudoino_Baldwin Baudouin_Baldwin Beltram Benabic Benesecto_Benedict Bennèt_Benedict Benoím_Benedict Benoît_Benedict Berardo_Bernard Beregnèlo_Berengar Berengard Berenger_Berengar Bérenger_Berengar Berenguié_Raymond-Berengar Berenguier Berenguier_Berengar Bernard_Bernard Bernard-Amard Bernard-Hugues Bernardo_Bernard Bernato_Bernard Bernez_Bernard Bertelis Bertraine_Bertrand Bertrand_Bertrand Bertrando_Bertrand Bertrano_Bertrand Blaez_Blaise Blasi_Blaise Bodognous Bohemond Borel Boremundo Borreil Boso_Boson Boson_Boson Bosone_Boson Bouchard Bougars Bran_Bran Brendan Brevalaer Briac_Brian Brigacos Bucardo Budoc 
 			Carles_Charles Carloman Carlos_Charles Centolho_Centule Centule_Centule Centulés_Centule Charles_Charles Chrodegang Clamenço_Clement Clotair Clotaire 
 			Dalmaut Dalmaut-Berenguier Dàvi_David Deniel_Daniel Deodato_Theodat Deodet_Theodat Derrien Devi_David Diomede Dodon Donan Doumegno Drogon_Drogo Duran 

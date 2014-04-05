@@ -961,7 +961,7 @@ imperial_group = {
 
 		from_dynasty_prefix = "van "
 
-		male_patroynm = "szoon"
+		male_patronym = "szoon"
 		female_patronym = "sdochter"
 		prefix = no
 

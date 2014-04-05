@@ -28,7 +28,7 @@ decisions = {
                 trait = magic_power_lord
                 trait = magic_power_archmaster
             }
-            is_capable = yes
+            capable_only = yes
             OR = {
                 trait = lore_light
                 trait = lore_beasts
@@ -46,7 +46,7 @@ decisions = {
                 trait = lore_dark_magic
                 trait = lore_nurgle
                 trait = lore_slaanesh
-                trait = lore_tzeenth
+                trait = lore_tzeentch
             }
             # Closing opening spellbook mechanics
             NOT = { has_character_flag = spellbook_open }
@@ -130,7 +130,7 @@ decisions = {
             clr_character_flag = spell_lore_life
             clr_character_flag = spell_lore_chaos
             clr_character_flag = spell_lore_slaanesh
-            clr_character_flag = spell_lore_tzeenth
+            clr_character_flag = spell_lore_tzeentch
             clr_character_flag = spell_lore_nurgle
         }
     }

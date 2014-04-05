@@ -60,7 +60,7 @@ halfling_group = {
 
 		from_dynasty_prefix = "von "
 
-		male_patroynm = "son"
+		male_patronym = "son"
 		female_patronym = "sdotter"
 		prefix = no
 

@@ -115,7 +115,7 @@ nipponese_group = {
 			Yaya Yayacha Yome Yone Yoshi Yachi Yasha Yashayo Yasu Yoshi Yui Yuki Yuku Yume Yumi Zen
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 		

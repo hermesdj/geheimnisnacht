@@ -15,7 +15,7 @@ cathayan_group = {
 
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 

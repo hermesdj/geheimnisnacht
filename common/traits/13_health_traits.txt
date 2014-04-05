@@ -274,3 +274,18 @@ drunkard = {
 	
 	ai_rationality = -5
 }
+
+sickly = {
+	is_health = yes
+	is_illness = yes
+	
+	potential = {
+		NOT = { age = 6 }
+	}
+	
+	health = -2.5
+	
+	customizer = no
+	random = no
+	customizer = no
+}

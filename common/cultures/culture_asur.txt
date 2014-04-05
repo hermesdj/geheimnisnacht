@@ -53,7 +53,7 @@ asur_group = {
 			Yalanna Yuviel 
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -81,7 +81,7 @@ asur_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -110,7 +110,7 @@ asur_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -139,7 +139,7 @@ asur_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -168,7 +168,7 @@ asur_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -197,7 +197,7 @@ asur_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -227,7 +227,7 @@ asur_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -257,7 +257,7 @@ asur_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -287,7 +287,7 @@ asur_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -316,7 +316,7 @@ asur_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 

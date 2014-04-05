@@ -59,7 +59,7 @@ amazon_group = {
 			Yacine Yeshi Zayb Zeina Zeynab Zorah Zuzu Pentheselia Xena Lysippe Melandra Azura Lwaxana Thalestris
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 		

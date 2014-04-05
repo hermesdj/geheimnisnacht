@@ -12,7 +12,7 @@ d_estalian_inquisition = {
 	allow = {
 		has_landed_title = k_cult_of_myrmidia
 		culture_group = estalian_group
-		religion_group = old_world_gods_group
+		religion_group = old_world_group
 	}
 	
 	religion = classical_gods
@@ -29,7 +29,7 @@ d_estalian_inquisition = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_estalian_inquisition_modifier
+	mercenary_type = d_estalian_inquisition_modifier
 }
 
 d_tilean_inquisition = {
@@ -58,7 +58,7 @@ d_tilean_inquisition = {
 	
 	strength_growth_per_century = 1.00
 	
-	modifier = d_tilean_inquisition_modifier
+	mercenary_type = d_tilean_inquisition_modifier
 }
 
 
@@ -86,7 +86,7 @@ d_reiksguard = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_reiksguard_modifier
+	mercenary_type = d_reiksguard_modifier
 }
 
 
@@ -120,7 +120,7 @@ d_ragged_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_ragged_company_modifier
+	mercenary_type = d_ragged_company_modifier
 }
 
 d_scarlet_company = {
@@ -151,7 +151,7 @@ d_scarlet_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_scarlet_company_modifier
+	mercenary_type = d_scarlet_company_modifier
 }
 
 d_hammershields_of_black_tower = {
@@ -182,7 +182,7 @@ d_hammershields_of_black_tower = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_hammershields_of_black_tower_modifier
+	mercenary_type = d_hammershields_of_black_tower_modifier
 }
 
 d_schwarzspears = {
@@ -213,7 +213,7 @@ d_schwarzspears = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_schwarzspears_modifier
+	mercenary_type = d_schwarzspears_modifier
 }
 
 d_swords_of_nuln = {
@@ -244,7 +244,7 @@ d_swords_of_nuln = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_swords_of_nuln_modifier
+	mercenary_type = d_swords_of_nuln_modifier
 }
 
 d_sea_devils = {
@@ -275,7 +275,7 @@ d_sea_devils = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sea_devils_modifier
+	mercenary_type = d_sea_devils_modifier
 }
 
 d_guard_of_the_golden_cross = {
@@ -306,7 +306,7 @@ d_guard_of_the_golden_cross = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_guard_of_the_golden_cross_modifier
+	mercenary_type = d_guard_of_the_golden_cross_modifier
 }
 
 d_regiment_of_foot = {
@@ -337,7 +337,7 @@ d_regiment_of_foot = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_regiment_of_foot_modifier
+	mercenary_type = d_regiment_of_foot_modifier
 }
 
 d_altdorf_blackbolts = {
@@ -368,7 +368,7 @@ d_altdorf_blackbolts = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_altdorf_blackbolts_modifier
+	mercenary_type = d_altdorf_blackbolts_modifier
 }
 
 d_carroburg_greatswords = {
@@ -399,7 +399,7 @@ d_carroburg_greatswords = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_carroburg_greatswords_modifier
+	mercenary_type = d_carroburg_greatswords_modifier
 }
 
 d_swords_of_ulric = {
@@ -430,7 +430,7 @@ d_swords_of_ulric = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_swords_of_ulric_modifier
+	mercenary_type = d_swords_of_ulric_modifier
 }
 
 d_star_of_victory = {
@@ -461,7 +461,7 @@ d_star_of_victory = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_star_of_victory_modifier
+	mercenary_type = d_star_of_victory_modifier
 }
 
 d_black_fire_defenders = {
@@ -492,7 +492,7 @@ d_black_fire_defenders = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_black_fire_defenders_modifier
+	mercenary_type = d_black_fire_defenders_modifier
 }
 
 d_deathjacks = {
@@ -523,7 +523,7 @@ d_deathjacks = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_deathjacks_modifier
+	mercenary_type = d_deathjacks_modifier
 }
 
 d_grundels_defenders = {
@@ -554,7 +554,7 @@ d_grundels_defenders = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_grundels_defenders_modifier
+	mercenary_type = d_grundels_defenders_modifier
 }
 
 d_riders_of_the_mark = {
@@ -585,7 +585,7 @@ d_riders_of_the_mark = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_riders_of_the_mark_modifier
+	mercenary_type = d_riders_of_the_mark_modifier
 }
 
 d_nordsee_marines = {
@@ -616,7 +616,7 @@ d_nordsee_marines = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_nordsee_marines_modifier
+	mercenary_type = d_nordsee_marines_modifier
 }
 
 d_fireloques_of_ferlangen = {
@@ -647,7 +647,7 @@ d_fireloques_of_ferlangen = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_fireloques_of_ferlangen_modifier
+	mercenary_type = d_fireloques_of_ferlangen_modifier
 }
 
 
@@ -678,7 +678,7 @@ d_drakwald_patrol = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_drakwald_patrol_modifier
+	mercenary_type = d_drakwald_patrol_modifier
 }
 
 d_stir_river_patrol = {
@@ -708,7 +708,7 @@ d_stir_river_patrol = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_stir_river_patrol_modifier
+	mercenary_type = d_stir_river_patrol_modifier
 }
 
 d_helhuntens_redeemers = {
@@ -739,7 +739,7 @@ d_helhuntens_redeemers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_helhuntens_redeemers_modifier
+	mercenary_type = d_helhuntens_redeemers_modifier
 }
 
 d_murderers_out_of_marienburg = {
@@ -769,7 +769,7 @@ d_murderers_out_of_marienburg = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_murderers_out_of_marienburg_modifier
+	mercenary_type = d_murderers_out_of_marienburg_modifier
 }
 
 d_deaths_heads = {
@@ -800,7 +800,7 @@ d_deaths_heads = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_deaths_heads_modifier
+	mercenary_type = d_deaths_heads_modifier
 }
 
 
@@ -832,7 +832,7 @@ d_company_of_the_red_claws = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_company_of_the_red_claws_modifier
+	mercenary_type = d_company_of_the_red_claws_modifier
 }
 
 
@@ -864,7 +864,7 @@ d_fighting_cocks = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_fighting_cocks_modifier
+	mercenary_type = d_fighting_cocks_modifier
 }
 
 
@@ -901,7 +901,7 @@ d_alcatani_fellowship = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_alcatani_fellowship_modifier
+	mercenary_type = d_alcatani_fellowship_modifier
 }
 
 d_brazangas_besiegers = {
@@ -931,7 +931,7 @@ d_brazangas_besiegers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_brazangas_besiegers_modifier
+	mercenary_type = d_brazangas_besiegers_modifier
 }
 
 d_riccos_republican_guard = {
@@ -961,7 +961,7 @@ d_riccos_republican_guard = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_riccos_republican_guard_modifier
+	mercenary_type = d_riccos_republican_guard_modifier
 }
 
 d_marksmen_of_miragliano = {
@@ -991,7 +991,7 @@ d_marksmen_of_miragliano = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_marksmen_of_miragliano_modifier
+	mercenary_type = d_marksmen_of_miragliano_modifier
 }
 
 d_volands_venators = {
@@ -1021,7 +1021,7 @@ d_volands_venators = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_volands_venators_modifier
+	mercenary_type = d_volands_venators_modifier
 }
 
 d_bronzinos_galloper_guns = {
@@ -1051,7 +1051,7 @@ d_bronzinos_galloper_guns = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_bronzinos_galloper_guns_modifier
+	mercenary_type = d_bronzinos_galloper_guns_modifier
 }
 
 d_leopolds_leopard_company = {
@@ -1081,7 +1081,7 @@ d_leopolds_leopard_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_leopolds_leopard_company_modifier
+	mercenary_type = d_leopolds_leopard_company_modifier
 }
 
 d_birdmen_of_catrazza = {
@@ -1111,7 +1111,7 @@ d_birdmen_of_catrazza = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_birdmen_of_catrazza_modifier
+	mercenary_type = d_birdmen_of_catrazza_modifier
 }
 
 d_red_company = {
@@ -1141,7 +1141,7 @@ d_red_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_red_company_modifier
+	mercenary_type = d_red_company_modifier
 }
 
 ### Estalian
@@ -1173,7 +1173,7 @@ d_pirazzos_lost_legion = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_pirazzos_lost_legion_modifier
+	mercenary_type = d_pirazzos_lost_legion_modifier
 }
 
 d_finterra_tercios = {
@@ -1203,7 +1203,7 @@ d_finterra_tercios = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_finterra_tercios_modifier
+	mercenary_type = d_finterra_tercios_modifier
 }
 
 ###Norscan
@@ -1238,7 +1238,7 @@ d_vanaheim_marauders = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_vanaheim_marauders_modifier
+	mercenary_type = d_vanaheim_marauders_modifier
 }
 
 d_bearmen_of_ursulo = {
@@ -1271,7 +1271,7 @@ d_bearmen_of_ursulo = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_bearmen_of_ursulo_modifier
+	mercenary_type = d_bearmen_of_ursulo_modifier
 }
 
 d_midgard_shieldmaidens = {
@@ -1304,7 +1304,7 @@ d_midgard_shieldmaidens = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_midgard_shieldmaidens_modifier
+	mercenary_type = d_midgard_shieldmaidens_modifier
 }
 
 d_shieldmaidens_of_the_storm = {
@@ -1337,7 +1337,7 @@ d_shieldmaidens_of_the_storm = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_shieldmaidens_of_the_storm_modifier
+	mercenary_type = d_shieldmaidens_of_the_storm_modifier
 }
 
 ### Kislevite
@@ -1365,7 +1365,7 @@ d_gryphon_legion = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_gryphon_legion_modifier
+	mercenary_type = d_gryphon_legion_modifier
 }
 
 d_winged_company = {
@@ -1391,7 +1391,7 @@ d_winged_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_winged_company_modifier
+	mercenary_type = d_winged_company_modifier
 }
 
 d_dobryrion_company = {
@@ -1417,7 +1417,7 @@ d_dobryrion_company = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_dobryrion_company_modifier
+	mercenary_type = d_dobryrion_company_modifier
 }
 
 
@@ -1448,7 +1448,7 @@ d_swords_of_chaos = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_swords_of_chaos_modifier
+	mercenary_type = d_swords_of_chaos_modifier
 }
 
 d_purple_hand = {
@@ -1474,7 +1474,7 @@ d_purple_hand = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_purple_hand_modifier
+	mercenary_type = d_purple_hand_modifier
 }
 
 d_velvet_touch = {
@@ -1500,7 +1500,7 @@ d_velvet_touch = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_velvet_touch_modifier
+	mercenary_type = d_velvet_touch_modifier
 }
 
 d_bloody_skull_warband = {
@@ -1526,7 +1526,7 @@ d_bloody_skull_warband = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_bloody_skull_warband_modifier
+	mercenary_type = d_bloody_skull_warband_modifier
 }
 
 
@@ -1553,7 +1553,7 @@ d_children_of_the_greatfather = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_children_of_the_greatfather_modifier
+	mercenary_type = d_children_of_the_greatfather_modifier
 }
 
 d_eight_pointed_star = {
@@ -1579,7 +1579,7 @@ d_eight_pointed_star = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_eight_pointed_star_modifier
+	mercenary_type = d_eight_pointed_star_modifier
 }
 
 d_lost_and_damned = {
@@ -1605,7 +1605,7 @@ d_lost_and_damned = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_lost_and_damned_modifier
+	mercenary_type = d_lost_and_damned_modifier
 }
 
 d_riders_of_loesh = {
@@ -1631,7 +1631,7 @@ d_riders_of_loesh = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_riders_of_loesh_modifier
+	mercenary_type = d_riders_of_loesh_modifier
 }
 
 ### Stromfels ###Sartosan
@@ -1659,7 +1659,7 @@ d_sartosa_sirens = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_sartosa_sirens_modifier
+	mercenary_type = d_sartosa_sirens_modifier
 }
 
 d_blackwater_raiders = {
@@ -1685,7 +1685,7 @@ d_blackwater_raiders = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_blackwater_raiders_modifier
+	mercenary_type = d_blackwater_raiders_modifier
 }
 
 d_bloodsail_buccaneers = {
@@ -1711,7 +1711,7 @@ d_bloodsail_buccaneers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_bloodsail_buccaneers_modifier
+	mercenary_type = d_bloodsail_buccaneers_modifier
 }
 
 d_siren_sellswords = {
@@ -1737,7 +1737,7 @@ d_siren_sellswords = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_siren_sellswords_modifier
+	mercenary_type = d_siren_sellswords_modifier
 }
 
 
@@ -1766,7 +1766,7 @@ d_mother_crushers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_mother_crushers_modifier
+	mercenary_type = d_mother_crushers_modifier
 }
 
 d_spike_clan_commandos = {
@@ -1792,7 +1792,7 @@ d_spike_clan_commandos = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_spike_clan_commandos_modifier
+	mercenary_type = d_spike_clan_commandos_modifier
 }
 
 d_black_mountain_boys = {
@@ -1818,7 +1818,7 @@ d_black_mountain_boys = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_black_mountain_boys_modifier
+	mercenary_type = d_black_mountain_boys_modifier
 }
 
 d_battle_chariots_of_bogdan = {
@@ -1844,7 +1844,7 @@ d_battle_chariots_of_bogdan = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_battle_chariots_of_bogdan_modifier
+	mercenary_type = d_battle_chariots_of_bogdan_modifier
 }
 
 d_notlobs_bolt_throwers = {
@@ -1870,7 +1870,7 @@ d_notlobs_bolt_throwers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_notlobs_bolt_throwers_modifier
+	mercenary_type = d_notlobs_bolt_throwers_modifier
 }
 
 d_throgs_hobgoblin_despoilers = {
@@ -1896,7 +1896,7 @@ d_throgs_hobgoblin_despoilers = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_throgs_hobgoblin_despoilers_modifier
+	mercenary_type = d_throgs_hobgoblin_despoilers_modifier
 }
 
 d_blue_face_boyz = {
@@ -1922,7 +1922,7 @@ d_blue_face_boyz = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_blue_face_boyz_modifier
+	mercenary_type = d_blue_face_boyz_modifier
 }
 
 d_broken_tooth_boyz = {
@@ -1948,7 +1948,7 @@ d_broken_tooth_boyz = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_broken_tooth_boyz_modifier
+	mercenary_type = d_broken_tooth_boyz_modifier
 }
 
 d_dead_head_boyz = {
@@ -1974,7 +1974,7 @@ d_dead_head_boyz = {
 
 	strength_growth_per_century = 1.00
 	
-	modifier = d_dead_head_boyz_modifier
+	mercenary_type = d_dead_head_boyz_modifier
 }
 
 ### Ships
@@ -1997,7 +1997,7 @@ d_siren_isles_sailors = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_siren_isles_sailors_modifier
+	mercenary_type = d_siren_isles_sailors_modifier
 }
 
 d_kuldevind_convoy = {
@@ -2017,7 +2017,7 @@ d_kuldevind_convoy = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_kuldevind_convoy_modifier
+	mercenary_type = d_kuldevind_convoy_modifier
 }
 
 d_sartosan_hulks = {
@@ -2037,7 +2037,7 @@ d_sartosan_hulks = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_sartosan_hulks_modifier
+	mercenary_type = d_sartosan_hulks_modifier
 }
 
 d_norscan_seafarers = {
@@ -2057,7 +2057,7 @@ d_norscan_seafarers = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_norscan_seafarers_modifier
+	mercenary_type = d_norscan_seafarers_modifier
 }
 
 d_erengrad_convoy = {
@@ -2077,7 +2077,7 @@ d_erengrad_convoy = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_erengrad_convoy_modifier
+	mercenary_type = d_erengrad_convoy_modifier
 }
 
 d_marienburg_merchant_fleet = {
@@ -2097,7 +2097,7 @@ d_marienburg_merchant_fleet = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_marienburg_merchant_fleet_modifier
+	mercenary_type = d_marienburg_merchant_fleet_modifier
 }
 
 d_nurgle_hulks = {
@@ -2121,7 +2121,7 @@ d_nurgle_hulks = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_nurgle_hulks_modifier
+	mercenary_type = d_nurgle_hulks_modifier
 }
 
 d_waveriders_of_slaanesh = {
@@ -2145,7 +2145,7 @@ d_waveriders_of_slaanesh = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_waveriders_of_slaanesh_modifier
+	mercenary_type = d_waveriders_of_slaanesh_modifier
 }
 
 d_bloodwater_corsairs = {
@@ -2169,7 +2169,7 @@ d_bloodwater_corsairs = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_bloodwater_corsairs_modifier
+	mercenary_type = d_bloodwater_corsairs_modifier
 }
 
 d_tides_of_magic = {
@@ -2193,5 +2193,5 @@ d_tides_of_magic = {
 	primary = yes	
 	independent = yes
 
-	modifier = d_tides_of_magic_modifier
+	mercenary_type = d_tides_of_magic_modifier
 }

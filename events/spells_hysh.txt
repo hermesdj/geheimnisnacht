@@ -33,6 +33,7 @@ character_event = {
         add_character_modifier = { name = spell_inspiration duration = 14 }
     }
     option = {
+        name = "Leave it"
         trigger = { NOT = { has_character_flag = last_spell_success }}
     }
 }
@@ -74,7 +75,7 @@ character_event = {
            limit = { 
                prisoner = no
            }
-           add_character_modifier = { name = spell_purifyinglight duration = 14 } 
+           #FIXME no such spell add_character_modifier = { name = spell_purifyinglight duration = 14 } 
        }
    }
 }
@@ -91,5 +92,5 @@ character_event = {
                #character_event = { id = hysh.31 }
            }
        }
- 
+  }
 }

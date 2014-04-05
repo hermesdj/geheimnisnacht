@@ -73,7 +73,7 @@ ugly = {
 
 	potential = {
 		NOT = { 
-			OR = {religion_group = greenskin_gods_group }
+			religion_group = greenskin_gods_group
 		}
 	}
 	

@@ -5928,19 +5928,6 @@ barbaric_subjugation = {
         FROM = {
             piety = 100
         }
-        FROM = {
-            if = {
-                limit = { 
-                    has_dlc = "Legacy of Rome"
-                    OR = { 
-                        has_landed_title = e_byzantium
-                        has_landed_title = e_roman_empire
-                    }
-                    religion_group = christian
-                }
-                hidden_tooltip = { character_event = { id = LoR.30 days = 12 } }
-            }
-        }
         any_defender = {
             limit = { character = FROM }
             participation_scaled_prestige = 100
@@ -6562,11 +6549,12 @@ barbaric_county_conquest = {
     
     can_use = {
         ROOT = {
-            culture_group = norscan_group
-            culture_group = beastman_group
-            culture_group = kurgan_group
-            culture_group = hung_group
-
+	    OR = {
+                culture_group = norscan_group
+                culture_group = beastman_group
+                culture_group = kurgan_group
+                culture_group = hung_group
+	    }
             NOT = { same_realm = FROM }
         }
         FROM = {
@@ -6601,7 +6589,7 @@ barbaric_county_conquest = {
             AND = {
                 ROOT = { culture_group = norscan_group }
                 ROOT = { religion_group = norse_gods_group}
-                FROM = { NOT = { religion_group = norse_god_group } }
+                FROM = { NOT = { religion_group = norse_gods_group } }
                 location = {
                     port = yes
                 }
@@ -6924,12 +6912,8 @@ dejure_barony_claim = {
     can_use_title = {
         tier = baron
         dejure_liege_title = {
-            AND = {
-                has_holder = yes
-                ROOT = {
-                    has_landed_title = PREV
-                }
-            }
+            has_holder = yes
+            ROOT = { has_landed_title = PREV }
         }
 
         NOT = {

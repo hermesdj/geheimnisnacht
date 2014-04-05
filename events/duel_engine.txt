@@ -142,7 +142,6 @@ character_event = { # Battlefield Duel Start
             factor = 0.15
             OR = {
                 trait = back_seat_leader
-                trait = crippled
             }    
         }
         # greater chance for duel of warlike races
@@ -459,7 +458,7 @@ character_event = {
                 add_trait = craven
                 hidden_tooltip = {
                     character_event ={
-                        id = 38257 #Notify
+                        id = 38257 #Notify FIXME
                     }
                 }
             }    
@@ -522,10 +521,6 @@ character_event = {
             modifier = {
                 factor = 4
                 trait = maimed
-            }
-            modifier = {
-                factor = 50
-                trait = crippled
             }
         }
     }
@@ -670,10 +665,6 @@ character_event = {
             modifier = {
                 factor = 4
                 trait = maimed
-            }
-            modifier = {
-                factor = 50
-                trait = crippled
             }
         }
     }

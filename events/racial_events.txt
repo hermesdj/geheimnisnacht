@@ -157,7 +157,7 @@ character_event = {
     trigger = {
         OR = {
             trait = creature_elf
-            trait = creature_chasos_dwarf
+            trait = creature_chaos_dwarf
             trait = creature_dwarf
             # magic prolongs lifespan (magic power lord gives immortal)
             OR = { 
@@ -276,7 +276,6 @@ character_event = {
             trait = syphilitic
             trait = has_leper
             # warhammer diseases
-            trait = has_tomb_rot
             trait = has_nurgles_rot
             trait = has_bone_auge
             trait = has_red_pox
@@ -293,7 +292,6 @@ character_event = {
             trait = wounded
             trait = weak
             trait = sickly
-            trait = weak
             trait = incapable
             trait = inbred
         }

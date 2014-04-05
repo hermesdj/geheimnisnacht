@@ -2445,7 +2445,7 @@ castle = {
 		light_infantry = 30
 		archers = 45
 		horse_archers = 15
-		retinue_perc = 0.1
+		retinuesize_perc = 0.1
 		land_morale = 0.2
 		ai_creation_factor = 80
 

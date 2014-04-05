@@ -33,7 +33,7 @@ estalian_group = {
 			Oliba Olivante Olivar Ordoño_Ordono Orsebio Ortega Osorio Oveco 
 			Pablo Pacheco Pascual Paz Pedo_Peter Pedro Pelayo_Pelagius Pino Piñolo Pinzón Ponce_Pons 
 			Raimundo Raimundo_Raymond Ramiro_Ramiro Renaldo Ricardo Rico Rodrente Rodrigo_Roderick Rogelio Román_Roman Rosendo Rusk 
-			Salvador Salvador Sancho_Sancho Santego Santos Sebastian Sebastián_Sebastian Senon Simón Soler Suero 
+			Salvador Sancho_Sancho Santego Santos Sebastian Sebastián_Sebastian Senon Simón Soler Suero 
 			Tajo Tajón Tello_Tello Teobaldo_Theobald Tomás Truylos 
 			Vargas_Vargas Vela Velasco_Vasco Vermudo_Vermudo Vidal Vizuarte 
 			Yago 
@@ -114,7 +114,7 @@ tigarrese = {
 			Barbola Beatriz Belasquita Belinda Berengaria Blanca_Blanche Breezy 
 			Clara Conchita Condesa Constancia_Constance Corazon Costanza 
 			Damiana Damita Drina 
-			Eilo Eldora Elena Elida_Hilda Elisabeta_Elisabeth Eliza Elvira Emilia_Emily Endulcia_Douce Ermesinda_Ermesinda Esmeralda Estefani Estefanía_Stephania 
+			Eilo Eldora Elena Elida_Hilda Elisabeta_Elisabeth Eliza Emilia_Emily Endulcia_Douce Ermesinda_Ermesinda Esmeralda Estefani Estefanía_Stephania 
 			Faquilo Floriana Francisca Fronilda_Fronilde Fuensanta 
 			Gitana Guntroda 
 			Herminia 
@@ -339,7 +339,7 @@ obregonese = {
 		}
 		from_dynasty_prefix = "de "
 
-		male_patroynm = " "
+		male_patronym = " "
 		female_patronym = " "
 		prefix = no
 

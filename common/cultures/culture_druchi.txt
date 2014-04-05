@@ -55,7 +55,7 @@ druchi_group = {
 			Zinzerena 
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -84,7 +84,7 @@ druchi_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -113,7 +113,7 @@ druchi_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -142,7 +142,7 @@ druchi_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -171,7 +171,7 @@ druchi_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -200,7 +200,7 @@ druchi_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 

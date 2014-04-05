@@ -24,7 +24,7 @@ d_knights_white_wolf = {
 	
 	monthly_income = 3
 	
-	modifier = d_knights_white_wolf_modifier
+	mercenary_type = d_knights_white_wolf_modifier
 }
 
 d_order_of_the_howling_wolf = {
@@ -48,7 +48,7 @@ d_order_of_the_howling_wolf = {
 
 	monthly_income = 3
 	
-	modifier = d_order_of_the_howling_wolf_modifier
+	mercenary_type = d_order_of_the_howling_wolf_modifier
 }
 
 d_order_of_the_winter_throne = {
@@ -72,7 +72,7 @@ d_order_of_the_winter_throne = {
 
 	monthly_income = 3
 	
-	modifier = d_order_of_the_winter_throne_modifier
+	mercenary_type = d_order_of_the_winter_throne_modifier
 }
 
 d_ragnarhalt = {
@@ -96,7 +96,7 @@ d_ragnarhalt = {
 
 	monthly_income = 3
 	
-	modifier = d_ragnarhalt_modifier
+	mercenary_type = d_ragnarhalt_modifier
 }
 
 
@@ -123,7 +123,7 @@ d_knights_sigmars_blood = {
 
 	monthly_income = 3
 	
-	modifier = d_knights_sigmars_blood_modifier
+	mercenary_type = d_knights_sigmars_blood_modifier
 }
 
 d_templars_of_sigmar = {
@@ -147,7 +147,7 @@ d_templars_of_sigmar = {
 
 	monthly_income = 3
 	
-	modifier = d_templars_of_sigmar_modifier
+	mercenary_type = d_templars_of_sigmar_modifier
 }
 
 d_knights_griffon = {
@@ -171,7 +171,7 @@ d_knights_griffon = {
 
 	monthly_income = 3
 	
-	modifier = d_knights_griffon_modifier
+	mercenary_type = d_knights_griffon_modifier
 }
 
 
@@ -196,7 +196,7 @@ d_knights_broken_sword = {
 
 	monthly_income = 3
 	
-	modifier = d_knights_broken_sword_modifier
+	mercenary_type = d_knights_broken_sword_modifier
 }
 
 d_sisters_of_sigmar = {
@@ -220,7 +220,7 @@ d_sisters_of_sigmar = {
 
 	monthly_income = 3
 	
-	modifier = d_sisters_of_sigmar_modifier
+	mercenary_type = d_sisters_of_sigmar_modifier
 }
 
 d_sisters_of_faith_and_chastity = {
@@ -244,7 +244,7 @@ d_sisters_of_faith_and_chastity = {
 	
 	monthly_income = 3
 	
-	modifier = d_sisters_of_faith_and_chastity_modifier
+	mercenary_type = d_sisters_of_faith_and_chastity_modifier
 }
 
 ###Myrmidia
@@ -270,7 +270,7 @@ d_knights_blazing_sun = {
 	
 	monthly_income = 3
 	
-	modifier = d_knights_blazing_sun_modifier
+	mercenary_type = d_knights_blazing_sun_modifier
 }
 
 d_order_of_the_eagle = {
@@ -292,7 +292,7 @@ d_order_of_the_eagle = {
 	
 	monthly_income = 3
 	
-	modifier = d_order_of_the_eagle_modifier
+	mercenary_type = d_order_of_the_eagle_modifier
 }
 
 d_order_of_the_righteous_spear = {
@@ -316,7 +316,7 @@ d_order_of_the_righteous_spear = {
 
 	monthly_income = 3
 	
-	modifier = d_order_of_the_righteous_spear_modifier
+	mercenary_type = d_order_of_the_righteous_spear_modifier
 }
 
 d_order_of_fury = {
@@ -340,7 +340,7 @@ d_order_of_fury = {
 
 	monthly_income = 3
 	
-	modifier = d_order_of_fury_modifier
+	mercenary_type = d_order_of_fury_modifier
 }
 
 d_knights_everlasting_light = {
@@ -364,7 +364,7 @@ d_knights_everlasting_light = {
 
 	monthly_income = 3
 	
-	modifier = d_knights_everlasting_light_modifier
+	mercenary_type = d_knights_everlasting_light_modifier
 }
 
 d_knights_panther = {
@@ -388,7 +388,7 @@ d_knights_panther = {
 
 	monthly_income = 3
 	
-	modifier = d_knights_panther_modifier
+	mercenary_type = d_knights_panther_modifier
 }
 
 d_order_of_sword_and_scale = {
@@ -412,7 +412,7 @@ d_order_of_sword_and_scale = {
 
 	monthly_income = 3
 	
-	modifier = d_order_of_sword_and_scale_modifier
+	mercenary_type = d_order_of_sword_and_scale_modifier
 }
 
 ###Taal
@@ -438,7 +438,7 @@ d_knights_black_rose = {
 
 	monthly_income = 3
 	
-	modifier = d_knights_black_rose_modifier
+	mercenary_type = d_knights_black_rose_modifier
 }
 
 d_longshanks = {
@@ -462,7 +462,7 @@ d_longshanks = {
 
 	monthly_income = 3
 	
-	modifier = d_longshanks_modifier
+	mercenary_type = d_longshanks_modifier
 }
 
 d_horned_hunters = {
@@ -486,7 +486,7 @@ d_horned_hunters = {
 
 	monthly_income = 3
 	
-	modifier = d_horned_hunters_modifier
+	mercenary_type = d_horned_hunters_modifier
 }
 
 d_order_of_the_raven = {
@@ -510,7 +510,7 @@ d_order_of_the_raven = {
 
 	monthly_income = 3
 	
-	modifier = d_order_of_the_raven_modifier
+	mercenary_type = d_order_of_the_raven_modifier
 }
 
 ### Grail
@@ -536,7 +536,7 @@ d_knights_origo = {
 
 	monthly_income = 3
 	
-	modifier = d_knights_origo_modifier
+	mercenary_type = d_knights_origo_modifier
 }
 
 d_knights_lily = {
@@ -560,7 +560,7 @@ d_knights_lily = {
 
 	monthly_income = 3
 	
-	modifier = d_knights_lily_modifier
+	mercenary_type = d_knights_lily_modifier
 }
 
 d_chevaliers_notre_dame_bataille = {
@@ -584,7 +584,7 @@ d_chevaliers_notre_dame_bataille = {
 
 	monthly_income = 3
 	
-	modifier = d_chevaliers_notre_dame_bataille_modifier
+	mercenary_type = d_chevaliers_notre_dame_bataille_modifier
 }
 
 ###Manann
@@ -610,7 +610,7 @@ d_knights_mariner = {
 
 	monthly_income = 3
 	
-	modifier = d_knights_mariner_modifier
+	mercenary_type = d_knights_mariner_modifier
 }
 
 d_sons_of_manann = {
@@ -634,7 +634,7 @@ d_sons_of_manann = {
 
 	monthly_income = 3
 	
-	modifier = d_sons_of_manann_modifier
+	mercenary_type = d_sons_of_manann_modifier
 }
 
 ###Dwarf
@@ -664,7 +664,7 @@ d_dragon_company = {
 
 	monthly_income = 3
 	
-	modifier = d_dragon_company_modifier
+	mercenary_type = d_dragon_company_modifier
 }
 
 d_slayer_legion = {
@@ -692,5 +692,5 @@ d_slayer_legion = {
 
 	monthly_income = 3
 	
-	modifier = d_slayer_legion_modifier
+	mercenary_type = d_slayer_legion_modifier
 }

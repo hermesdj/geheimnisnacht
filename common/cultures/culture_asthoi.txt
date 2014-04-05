@@ -15,7 +15,7 @@ asthoi_group = {
 
 		from_dynasty_prefix = "af "
 
-		male_patroynm = "sson"
+		male_patronym = "sson"
 		female_patronym = "sdotter"
 		prefix = no
 
@@ -46,7 +46,7 @@ asthoi_group = {
 
 		from_dynasty_prefix = "af "
 
-		male_patroynm = "sson"
+		male_patronym = "sson"
 		female_patronym = "sdotter"
 		prefix = no
 

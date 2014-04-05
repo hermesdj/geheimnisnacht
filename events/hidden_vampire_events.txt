@@ -1130,7 +1130,7 @@ character_event = {
 			#weapon_rune
 			if = {
 				limit = { ROOT = { trait = weapon_rune }	}		
-				add_trait = 
+				# add_trait =  FIXME
 			}
 			#weapon_enchanted
 			if = {

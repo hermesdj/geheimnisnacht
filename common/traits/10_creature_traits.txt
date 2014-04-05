@@ -279,7 +279,7 @@ creature_ogre = {
 	#
 	diplomacy = -2
 	learning = -2
-	intriuge = -2
+	intrigue = -2
 	stewardship = -2
 	health = 1
 	
@@ -300,7 +300,7 @@ creature_beastman = {
 	# beastmean are half animals
 	diplomacy = -2
 	learning = -3
-	intriuge = -1
+	intrigue = -1
 	stewardship = -3
 	
 	# racism	

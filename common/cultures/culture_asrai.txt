@@ -14,7 +14,7 @@ asrai_group = {
 			Alhena Ordaana Asphalia Isere Ariel Anel Laelia Naileth Glorana Aefa Tethea Naestra Arahan Sylvanus Belidae
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
@@ -44,7 +44,7 @@ asrai_group = {
 		
 		}
 
-		male_patroynm = ""
+		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
