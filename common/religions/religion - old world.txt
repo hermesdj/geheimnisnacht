@@ -3,7 +3,10 @@ old_world_group = {
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	pacifist = yes
+	ai_peaceful = yes
+	
+	ai_convert_same_group = 1 # try to convert if ai_zeal is high
+	ai_convert_other_group = 2	# always try to convert
 		
 		male_names = {
 		Mannslieb Seiger Sigfried Sieghard Siegschild Sigismund Sigmarsen Sigmund Sighast Sighelden Sigslieb Talbert Talecht Ulrich Wolf Wolfgang Wolfram
@@ -229,30 +232,6 @@ old_world_group = {
 		
 		priests_can_marry = yes
 		aggression = 1.0 
-		allow_looting = yes
-		allow_rivermovement = yes
-		female_temple_holders = yes	
-	}	
-	
-	stromfels = {
-		graphical_culture = westerngfx
-
-		icon = 9
-		color = { 0.3 0.5 0.6 }
-		
-		crusade_name = "CRUSADE"
-		scripture_name = THE_STORMS
-		
-		god_names = {
-			GOD_STROMFELS
-		}
-		
-		evil_god_names = {
-			GOD_MANANN GOD_THE_DARK_GODS
-		}
-		
-		priests_can_marry = yes
-		aggression = 1.8 
 		allow_looting = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes	
