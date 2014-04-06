@@ -5,6 +5,7 @@ magic_power_adept = {
 		magic_power_archmaster
 		magic_power_magister
 	}
+	random = no
 }
 magic_power_magister = {
 	opposites = {
@@ -14,6 +15,7 @@ magic_power_magister = {
 	}
 	health = 0.5	# magic prolongs life nobody knows why
 	monthly_character_prestige = 0.1
+	random = no
 }
 magic_power_lord = {
 	opposites = {
@@ -24,6 +26,7 @@ magic_power_lord = {
 	monthly_character_prestige = 0.3
 	immortal = yes
 	health = 0.5	# magic prolongs life nobody knows why
+	random = no
 		
 }
 magic_power_archmaster = {
@@ -35,37 +38,52 @@ magic_power_archmaster = {
 	health = 0.5	# magic prolongs life nobody knows why
 	immortal = yes
 	monthly_character_prestige = 0.5
+	random = no
 }
 # Non-Imperial magics
 lore_ice = {
+	random = no
 }
 #Winds of Magic (most common lores)
 lore_fire = {
+	random = no
 }
 lore_beasts = {
+	random = no
 }
 lore_metal = {
+	random = no
 }
 lore_light = {
+	random = no
 }
 lore_life = {
+	random = no
 }
 lore_heavens = {
+	random = no
 }
 lore_death = {
+	random = no
 }
 lore_shadows = {
+	random = no
 }
 # High elven magic
 lore_high_magic = {
 }
+	random = no
 #Lores of Chaos
 
 lore_dark_magic = {
+	random = no
 }
 lore_nurgle = {
+	random = no
 }
 lore_slaanesh = {
+	random = no
 }
 lore_tzeentch = {
+	random = no
 }
