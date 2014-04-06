@@ -2,10 +2,16 @@
 ############################
 # HARD STATUS - DO NOT REMOVE!
 ############################
+augustus = {
+	customizer = no
+	
+	vassal_opinion = 15
+	monthly_character_prestige = 0.5
+}
 
 crusader = {
 	potential = {
-		religion_group = christian
+		religion_group = old_world_group
 	}
 
 	customizer = no	
@@ -84,8 +90,8 @@ heresiarch = {
 berserker = {
 	potential = {
 		OR = {
-			religion = norse_pagan
-			religion = norse_pagan_reformed
+			religion = norse
+			religion = dark_norse
 		}
 	}
 	martial = 4
@@ -122,8 +128,8 @@ saoshyant_descendant = {
 viking = {
 	potential = {
 		OR = {
-			religion = norse_pagan
-			religion = norse_pagan_reformed
+			religion = norse
+			religion = dark_norse
 		}
 	}
 	martial = 1

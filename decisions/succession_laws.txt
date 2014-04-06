@@ -184,7 +184,7 @@ succession_laws = {
 			holder_scope = {
 				OR = {
 					religion_group = halfling_gods_group
-					religion_group = chaos_group
+					religion_group = chaos_gods_group
 					religion_group = necromantic_group
 				}
 				is_merchant_republic = no

@@ -141,19 +141,19 @@ creature_orc = {
 
 	# orcs are stupid brutes
 	learning = -3
-	diplomacy = -3
+	diplomacy = -2
 	stewardship = -2
-	intrigue = -1
+	intrigue = -2
 	health = 1
 
 	# racism	
-	same_opinion = 50	#orcs heat each other and are hated by everyone
+	same_opinion = 40	#orcs hate each other and are hated by everyone
 	general_opinion = -50
 
 	# reflects personality
 	ai_rationality = -20
 	ai_honor = -20
-	ai_zeal = 30
+	ai_zeal = 20
 
 	# 
 	vassal_opinion = -20
@@ -171,15 +171,15 @@ creature_goblin = {
 	learning = -2
 	diplomacy = -2
 	stewardship = -1
-	martial = -1
+	martial = -2
 
 	# racism	
-	same_opinion = 50	#goblins heat each other and are hated by everyone
+	same_opinion = 40	#goblins heat each other and are hated by everyone
 	general_opinion = -50
 	
-	ai_rationality = -10
+	ai_rationality = -20
 	ai_honor = -30
-	ai_zeal = 30
+	ai_zeal = 20
 
 	immortal = yes
 	fertility = -10.0
@@ -200,10 +200,11 @@ creature_snotling = {
 	
 		
 	# basically animals 
-	learning = -5
+	learning = -4
 	diplomacy = -3
 	stewardship = -3
-	martial = -1
+	intrigue = -1
+	martial = -2
 
 	# racism	
 	same_opinion = 30
@@ -321,7 +322,9 @@ orc_small = {
 	leader = no
 
 	intrigue = 2
-	
+	diplomacy = -1
+	martial = -1
+
 	liege_opinion = 20
 	
 	
@@ -332,10 +335,7 @@ orc_small = {
 orc_average = {
 	leader = no
 
-	intrigue = 1
-	
 	liege_opinion = 10
-	
 	
 	ai_ambition = -20
 	ai_zeal = -10
@@ -346,10 +346,9 @@ orc_large = {
 
 	diplomacy = 1
 	martial = 1
+	intrigue = -1
 	
 	liege_opinion = -20
-	
-	
 	ai_ambition = 20
 	ai_zeal = 20
 }
@@ -358,8 +357,8 @@ orc_huge = {
 	leader = no
 
 	intrigue = -2
-	diplomacy = 2
-	martial = 3
+	diplomacy = 3
+	martial = 2
 	
 	liege_opinion = -50
 	
@@ -368,50 +367,31 @@ orc_huge = {
 	ai_zeal = 50
 }
 
-orc_massive = {
-	leader = no
-
-	intrigue = -2
-	diplomacy = 3
-	martial = 5
-	
-	liege_opinion = -80
-	
-	
-	ai_ambition = 80
-	ai_zeal = 80
-}
-
 goblin_small = {
 	leader = no
 
 	intrigue = 2
-	
+	martial = -1 
+	diplomacy = -1 
+
 	liege_opinion = 20
-	
-	
 	ai_ambition = -40
 	ai_zeal = -30
 }
 
 goblin_average = {
 	leader = no
-
-	intrigue = 1
 	
 	liege_opinion = 10
-	
-	
 	ai_ambition = -20
 	ai_zeal = -10
 }
 
 goblin_large = {
 	leader = no
-
 	diplomacy = 1
 	martial = 1
-	
+	intrigue = -1
 	liege_opinion = -20
 	ai_ambition = 20
 	ai_zeal = 20
@@ -419,26 +399,13 @@ goblin_large = {
 
 goblin_huge = {
 	leader = no
-
 	intrigue = -2
-	diplomacy = 2
-	martial = 3
+	diplomacy = 3
+	martial = 2
 	
 	liege_opinion = -50
 	ai_ambition = 50
 	ai_zeal = 50
-}
-
-goblin_massive = {
-	leader = no
-
-	intrigue = -2
-	diplomacy = 3
-	martial = 5
-	
-	liege_opinion = -80
-	ai_ambition = 80
-	ai_zeal = 80
 }
 
 #Vampires every vampire trait should have religious = yes modifier 

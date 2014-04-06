@@ -31,6 +31,7 @@ character_event = {
         add_character_modifier = { name = spell_inspiration duration = 14 }
     }
     option = {
+        name = "stop the spell"
         trigger = { NOT = { has_character_flag = last_spell_success }}
     }
 }

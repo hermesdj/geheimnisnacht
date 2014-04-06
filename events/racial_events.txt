@@ -12,7 +12,6 @@ namespace = racial
 # This event should fire on startup for pc character
 character_event = {
     id = racial.1   
-    name = "set race event - should be hidden" 
     hide_window = yes
 
     trigger = {
@@ -262,7 +261,7 @@ character_event = {
     trigger = {
         OR = {
             trait = creature_elf
-            trait = creature_chasos_dwarf
+            trait = creature_chaos_dwarf
             trait = creature_dwarf
             # magic prolongs lifespan (magic power lord gives immortal)
             OR = { 
@@ -274,7 +273,7 @@ character_event = {
             trait = ill
             trait = pneumonic
             trait = syphilitic
-            trait = has_leper
+            trait = leper
             # warhammer diseases
             trait = has_nurgles_rot
             trait = has_bone_auge

@@ -70,5 +70,32 @@ DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House von Krystallbach. Afte
 DYN13_DESC;With a score of $SCORE$ you$FAILED$ beat House von Drak. The von Draks of Sylvania were legendary in their ill-governance. Under their rule Sylvania was overrun by monsters and petty nobles abused their vassals with impunity. Their reign of ambivalent terror was only ended by the arrival of Vlad von Carstein.;;;;;;;;;;;;;x
 DYN14_DESC;With a score of $SCORE$ you$FAILED$ beat House Stoutheart. In the 26th century, Hisme Stoutheart achieved a record ten consecutive three-year terms as Elder of the Mootland.;;;;;;;;;;;;;x
 DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Nikse. The Nikse family were a minor noble family in Nordland, and are only known from their ocassional marriages into the Todbringer dynasty.;;;;;;;;;;;;;x
+# RETINUES
 RETTYPE_CUL_IMP;Imperial Infantry Company.;;;;;;;;;;;;;x
 RETTYPE_CUL_IMP2;Imperial Light Infantry Company.;;;;;;;;;;;;;x
+# DISEASES GUI INFO
+has_creeping_buboes;Has Creeping Buboes;;;;;;;;;;;;;x
+has_creeping_buboes_desc;This character has Creeping Buboes, which leave horrible itchy red welts;;;;;;;;;;;;;x
+has_green_pox;Has the Green Pox;;;;;;;;;;;;;x
+has_green_pox_desc;This character has the Green Pox, which causes pus-filled boils to appear and burst, trickling green ichor;;;;;;;;;;;;;x
+has_red_pox;Has the Red Pox;;;;;;;;;;;;;x
+has_red_pox_desc;This character has the Red Pox, which is sometimes know as the Scarlet Scourge;;;;;;;;;;;;;x
+has_rattlelung;Has Rattlelung;;;;;;;;;;;;;x
+has_rattlelung_desc;This character has Rattlelung, and can never seem to stop coughing;;;;;;;;;;;;;x
+has_tomb_rot;Has Tomb Rot;;;;;;;;;;;;;x
+has_tomb_rot_desc;This character has Tomb Rot, which causes the flesh to rot away;;;;;;;;;;;;;x
+has_nurgles_rot;Has Nurgle's Rot!;;;;;;;;;;;;;x
+has_nurgles_rot_desc;This character has Nurgle's Rot, and is cursed to spread father Nurgle's "gifts";;;;;;;;;;;;;x
+has_bone_auge;Has Bone Auge;;;;;;;;;;;;;x
+has_bone_auge_desc;This character has Bone Auge, his bones are malformed in terrible way, [This.GetSheHe] is in constant pain ;;;;;;;;;;;;;x
+creeping_buboes;Creeping Buboes;;;;;;;;;;;;;x
+CREEPING_BUBOES_INFO;There is an epidemic of Creeping Buboes in this place;;;;;;;;;;;;;x
+rattlelung;Rattlelung;;;;;;;;;;;;;x
+RATTLELUNG_ROT_INFO;There is an epidemic of Rattlelung in this place;;;;;;;;;;;;;x
+nurgles_rot;Nurgle's Rot;;;;;;;;;;;;;x
+NURGLES_ROT_INFO;Father Nurgle has gifted this place with one his most virulent diseases;;;;;;;;;;;;;x
+red_pox;the Red Pox;;;;;;;;;;;;;x
+RED_POX_INFO;There is an epidemic of the Red Pox in this place;;;;;;;;;;;;;x
+green_pox;the Green Pox;;;;;;;;;;;;;x
+GREEN_POX_INFO;There is an epidemic of the Green Pox in this place;;;;;;;;;;;;;x
+

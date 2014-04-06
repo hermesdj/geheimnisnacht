@@ -1,11 +1,3 @@
-
-augustus = {
-	customizer = no
-	
-	vassal_opinion = 15
-	monthly_character_prestige = 0.5
-}
-
 #Elector Counts of Empire
 
 elector_count_reikland = {

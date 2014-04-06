@@ -55,7 +55,6 @@ namespace = duelengine
 
 character_event = { # Battlefield Duel Start
     id = duelengine.0
-    desc = "Duel starts...."
     border = "GFX_event_normal_frame_war"
     picture = GFX_evt_battle
     
@@ -140,9 +139,6 @@ character_event = { # Battlefield Duel Start
         days = 1
         modifier = {
             factor = 0.15
-            OR = {
-                trait = back_seat_leader
-            }    
         }
         # greater chance for duel of warlike races
         modifier = {
@@ -317,7 +313,7 @@ character_event = { # Battlefield Duel Start
     # OPTIONS
     option = {
         # we assume that there is only one person market with opinion_battle_duel_target
-        name = "OK"
+        name = "EVTOPT_DUELENGINE_1A"
         if = {
             limit = { 
                 war = yes
@@ -338,14 +334,14 @@ character_event = { # Battlefield Duel Start
                 }
                 if = {
                     limit = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
-                    hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
+                    hidden_tooltip = { character_event = { id = duelengine.1 } }
                 }
                 random_realm_character = {
                     limit = { 
                         has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target }
                         NOT = { character = PREV } # random_realm_character can be the ruler itself
                     } 
-                    hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
+                    hidden_tooltip = { character_event = { id = duelengine.1 } }
                 }
             }
         }
@@ -365,14 +361,14 @@ character_event = { # Battlefield Duel Start
                     }
                     if = {
                         limit = { has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target } }
-                        hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
+                        hidden_tooltip = { character_event = { id = duelengine.1  } }
                     }
                     random_realm_character = {
                         limit = { 
                             has_opinion_modifier = { who = ROOT modifier = opinion_battle_duel_target }
                             NOT = { character = PREV } # random_realm_character can be the ruler itself
                         }
-                        hidden_tooltip = { character_event = { id = duelengine.1 tooltip = "EVTTOOLTIP5556001" } }
+                        hidden_tooltip = { character_event = { id = duelengine.1  } }
                     }
                 }
             }
@@ -384,7 +380,7 @@ character_event = { # Battlefield Duel Start
 #
 character_event = {
     id = duelengine.1
-    desc = "Duel something (ai should see this or the defender)"
+    desc = "EVTDESC_DUELENGINE_1"
     picture = GFX_evt_battle
     border = "GFX_event_normal_frame_war"
     is_triggered_only = yes
@@ -400,8 +396,8 @@ character_event = {
     }
     
     option = {
-        name = "Fight!"
-        FROM = { character_event = { id = duelengine.2 tooltip = "Reacts" } }
+        name = "EVTOPT_DUELENGINE_1A"
+        FROM = { character_event = { id = duelengine.2 tooltip = "DUELENGINE_TOOLTIP_1A" } }
         ai_chance = {
             factor = 100
             #modifier = {
@@ -448,7 +444,7 @@ character_event = {
     }
     
     option = {
-        name = "Run!"
+        name = "EVTOPT_DUELENGINE_1B"
         hidden_tooltip = { FROM = { character_event = { id = duelengine.5 } } }        
         remove_character_modifier = battlefield_fight
         if = {
@@ -531,7 +527,7 @@ character_event = {
 # FROM = defender
 character_event = {
     id = duelengine.2
-    desc = "Fight or not (for the attacker)?"
+    desc = "EVTDESC_DUELENGINE_1" #the same locals
     picture = GFX_evt_battle
     border = "GFX_event_normal_frame_war"
     
@@ -543,7 +539,7 @@ character_event = {
        character_event = { id = duelengine.3 }
     }
     option = {
-        name = "Fight!"
+        name = "EVTOPT_DUELENGINE_1A"
         # Begin duel
         hidden_tooltip = {
            # FIXME random person starts the fight
@@ -592,7 +588,7 @@ character_event = {
     }
     # RUN from enemy!
     option = {
-        name = "Run"
+        name = "EVTOPT_DUELENGINE_1B"
         hidden_tooltip = { FROM = { character_event = { id = duelengine.5 } } }
         remove_character_modifier = battlefield_fight
         if = {
@@ -672,7 +668,6 @@ character_event = {
 # Set character attributes basing on traits
 character_event = {
    id = duelengine.3
-   desc = "should be hidden - decide attributes"
    hide_window = yes 
    is_triggered_only = yes
 
@@ -840,7 +835,7 @@ character_event = {
 # ROOT = defender
 character_event = {
     id = duelengine.4
-    desc = "The fighting continues... What will be your next move?"
+    desc = "EVTDESC_DUELENGINE_4"
     #hide_window = yes
     is_triggered_only = yes
     
@@ -1024,7 +1019,7 @@ character_event = {
         # 13 is the maximal dmg now (doesn't make sense to make it higher)
     }
     option = {
-        name = "Never surrender!"
+        name = "EVTOPT_DUELENGINE_4A"
         # ONLY ONE IF CASE SHOULD FIRE
         # Events in case of death
         trigger = { 
@@ -1040,7 +1035,7 @@ character_event = {
         ai_chance = { factor = 1 }
     }
     option = {
-        name = "I still have a chance! "
+        name = "EVTOPT_DUELENGINE_4B"
         # Now when dmg is done there is time to send report events
         #
         # Both people hit themselves
@@ -1053,7 +1048,7 @@ character_event = {
         ai_chance = { factor = 1 }
     }
     option = {
-        name = "Fight!"
+        name = "EVTOPT_DUELENGINE_4C"
         # You hit your opponent
         trigger = { 
             check_variable = { which = "duel_hp" value = 1 }
@@ -1063,7 +1058,7 @@ character_event = {
         character_event = { id = duelengine.21 } 
     }
     option = {   
-        name = "I will not yield!"
+        name = "EVTOPT_DUELENGINE_4D"
         # Your opponent hits you   
         trigger = { 
             check_variable = { which = "duel_hp" value = 1 }
@@ -1074,7 +1069,7 @@ character_event = {
         ai_chance = { factor = 1 }
     }   
     option = {
-        name = "Arragh!"
+        name = "EVTOPT_DUELENGINE_4E"
         # Nobody hits
         trigger = {
             check_variable = { which = "duel_hp" value = 1 }
@@ -1089,13 +1084,13 @@ character_event = {
 # Run report 
 character_event = {
     id = duelengine.5
-    desc = "Your opponent run away!"
+    desc = "EVTDESC_DUELENGINE_5"
     picture = GFX_evt_battle
     border = "GFX_event_normal_frame_war"
     is_triggered_only = yes
     
     option = {
-        name = "Coward!"
+        name = "EVTOPT_DUELENGINE_5A"
         remove_character_modifier = battlefield_fight
         morale = 0.1
     }
@@ -1126,13 +1121,13 @@ character_event = {
 # Round draw
 character_event = { 
     id = duelengine.20
-    desc = "You hit your enemy and injuried him, however gap in your defence let him to hit you."
+    desc = "EVTDESC_DUELENGINE_20"
     picture = "GFX_evt_duel1"
     border = GFX_event_normal_frame_war
     is_triggered_only = yes
   
     option = {
-       name = "Defend from enemy's hits"
+       name = "EVTOPT_DUELENGINE_20A"
         trigger = { NOT = { has_character_flag = defend_stance } }
         
         clr_character_flag = normal_stance
@@ -1154,7 +1149,7 @@ character_event = {
         }
     }
     option = {
-        name = "Chaaaarge!!"
+        name = "EVTOPT_DUELENGINE_20B"
         trigger = { NOT = { has_character_flag = attack_stance } }
         
         clr_character_flag = normal_stance
@@ -1172,7 +1167,7 @@ character_event = {
         }
     }
     option = {
-        name = "Balance your defence and attack"
+        name = "EVTOPT_DUELENGINE_20C"
         clr_character_flag = attack_stance
         clr_character_flag = defend_stance
         clr_character_flag = normal_stance
@@ -1184,13 +1179,13 @@ character_event = {
 # Round your win
 character_event = { 
     id = duelengine.21
-    desc = "You hit your enemy and injuried him, your masterly defence did not give him occasion to counter."
+    desc = ""
     picture = "GFX_evt_duel3"
     border = GFX_event_normal_frame_war
     is_triggered_only = yes
   
     option = {
-        name = "Chaaaarge!!"
+        name = "EVTOPT_DUELENGINE_20B" #the same names
         trigger = { NOT = { has_character_flag = attack_stance } }
         
         clr_character_flag = normal_stance
@@ -1208,7 +1203,7 @@ character_event = {
         }
     }
     option = {
-        name = "Balance your defence and attack"
+        name = "EVTOPT_DUELENGINE_20C"
         clr_character_flag = attack_stance
         clr_character_flag = defend_stance
         clr_character_flag = normal_stance
@@ -1220,13 +1215,13 @@ character_event = {
 # Round lost
 character_event = { 
     id = duelengine.22
-    desc = "Your enemy hit you and countered your attack."
+    desc = "EVTDESC_DUELENGINE_22"
     is_triggered_only = yes
     picture = "GFX_evt_duel4"
     border = GFX_event_normal_frame_war
     
     option = {
-        name = "Defend from enemy's hits"
+        name = "EVTOPT_DUELENGINE_20A"
         trigger = { NOT = { has_character_flag = defend_stance } }
         
         clr_character_flag = normal_stance
@@ -1248,7 +1243,7 @@ character_event = {
         }
     }
     option = {
-        name = "Balance your defence and attack"
+        name = "EVTOPT_DUELENGINE_20C"
         clr_character_flag = attack_stance
         clr_character_flag = defend_stance
         clr_character_flag = normal_stance
@@ -1260,13 +1255,13 @@ character_event = {
 # Round draw
 character_event = { 
     id = duelengine.23
-    desc = "Neither of you was able to hurt the other ."
+    desc = "EVTDESC_DUELENGINE_23"
     is_triggered_only = yes
     picture = "GFX_evt_duel0"
     border = GFX_event_normal_frame_war
     
     option = {
-        name = "Hit harder!!"
+        name = "EVTOPT_DUELENGINE_20B"
         trigger = { NOT = { has_character_flag = attack_stance } }
         
         clr_character_flag = normal_stance
@@ -1284,7 +1279,7 @@ character_event = {
         }
     }
     option = {
-        name = "Balance your defence and attack"
+        name = "EVTOPT_DUELENGINE_20C"
         clr_character_flag = attack_stance
         clr_character_flag = defend_stance
         clr_character_flag = normal_stance
@@ -1305,13 +1300,13 @@ character_event = {
 #
 character_event = { 
     id = duelengine.24
-    desc = "You have lost, your enemy was better you die.."
+    desc = "EVTDESC_DUELENGINE_24"
     is_triggered_only = yes
     picture = "GFX_evt_duel5"
     border = GFX_event_normal_frame_war
     
     option = {
-        name = "Noo...."
+        name = "EVTOPT_DUELENGINE_24A"
         morale = -0.1
         death = { death_reason = death_accident }
         FROMFROM = { character_event = { id = duelengine.25 } }
@@ -1320,26 +1315,26 @@ character_event = {
 # report the death to winner
 character_event = { 
     id = duelengine.25
-    desc = "You have won! The body of your enemy lies before you."
+    desc = "EVTDESC_DUELENGINE_25"
     is_triggered_only = yes
     picture = "GFX_evt_duel5"
     border = GFX_event_normal_frame_war
     
     option = {
-        name = "Hurray!"
+        name = "EVTOPT_DUELENGINE_25A"
         morale = 0.1
     }
 }
 # report about escape
 character_event = { 
     id = duelengine.26
-    desc = "You have lost the duel.. Wounded and weak you managed to escape..."
+    desc = "EVTDESC_DUELENGINE_26"
     is_triggered_only = yes
     picture = GFX_evt_battle
     border = GFX_event_normal_frame_war
     
     option = {
-        name = "Run!."
+        name = "EVTOPT_DUELENGINE_26A"
         random_list = { 
             60 = { add_trait = wounded }
             40 = { add_trait = maimed  }
@@ -1363,13 +1358,13 @@ character_event = {
 # report the escape to winner
 character_event = { 
     id = duelengine.27
-    desc = "You have won! However your enemy manged to escape!"
+    desc = "EVTDESC_DUELENGINE_27"
     is_triggered_only = yes
     picture = GFX_evt_battle
     border = GFX_event_normal_frame_war
     
     option = {
-        name = "Arragh what a coward!"
+        name = "EVTOPT_DUELENGINE_27A"
         morale = 0.1
     }
 }

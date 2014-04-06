@@ -85,7 +85,7 @@ character_event = {
         character_event = { id = dicethrow.2 } # immediate event for learning test
         # successfull check  0> k10 - learning
         if = { 
-            limit = { NOT = { check_variable = {which =  "int_test" value = 1 }}
+            limit = { NOT = { check_variable = {which =  "int_test" value = 1 }} }
             set_character_flag = last_spell_success
         }
         # not successfull check: 1 =< k10 -learning/3 < 3

@@ -139,8 +139,8 @@ province_event = {
 #
 province_event = {
     id = doomengine.1
-    name = "Signs of armaggedon"
-    desc = ".......Bad things are happening"
+    name = "EVTNAME_DOOMENGINE_1"
+    desc = "EVTDESC_DOOMENGINE_1"
     
     trigger = {
         OR = {
@@ -153,7 +153,7 @@ province_event = {
        months = 6
     }
     option = {
-       name = "Thats bad"
+       name = "EVTOPT_DOOMENGINE_1A"
        change_variable = { which = "doom_counter" value = 3 }
        ai_chance = { factor = 1 }
     }

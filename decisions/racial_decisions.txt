@@ -113,7 +113,6 @@ decisions = {
         allow = {
             always = yes
         }
-        ai_will_do = { factor = 1500 }
         effect = { 
             if = { 
                 limit = { is_female = yes }

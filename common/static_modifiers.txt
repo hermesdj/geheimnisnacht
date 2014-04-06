@@ -360,12 +360,10 @@ pretender_modifier = {
 castle = {
 	tax_income = 4
 	fort_level = 2
-	build_cost_modifier = 500
 	build_time_modifier = 730
 	light_infantry = 50
 	heavy_infantry = 100
 	build_cost_modifier = 600
-	build_time_modifier = 730
 	levy_reinforce_rate = 1.25
 	land_organisation = 0.2
 }

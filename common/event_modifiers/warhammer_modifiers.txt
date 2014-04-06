@@ -27,29 +27,6 @@
 # 37 - Prison 				- 38
 # 39 - Love 				- 40
 
-### Hidden Chaos Cultist
-
-chaos_undivided_cultist_hidden_modifier = {
-	icon = 1
-}
-	
-khorne_cultist_hidden_modifier = {
-	icon = 1
-}
-	
-nurgle_cultist_hidden_modifier = {
-	icon = 1
-}
-	
-slaanesh_cultist_hidden_modifier = {
-	icon = 1
-}
-	
-tzeentch_cultist_hidden_modifier = {
-	icon = 1
-}
-
-
 ### Hidden Yellow Fang Cultist
 
 yellow_fang_cultist_hidden_modifier = {

@@ -172,10 +172,9 @@ arabyan_group;Arabyan;;;;;;;;;;;;;x
 lodringen;Lodringen;;;;;;;;;;;;;x
 voragi;Voragi;;;;;;;;;;;;;x
 strigany;Strigany;;;;;;;;;;;;;x
-imperium_group;Imperium;;;;;;;;;;;;;x
-cadian;Cadian;;;;;;;;;;;;;x
 lahmian;Lahmian;;;;;;;;;;;;;x
 sanguine_group;Sanguine;;;;;;;;;;;;;x
+# RELIGIONS
 chaos;Chaos Undivided;;;;;;;;;;;;;x
 tzeentch;Tzeentchian;;;;;;;;;;;;;x
 slaanesh;Slaaneshi;;;;;;;;;;;;;x
@@ -223,6 +222,7 @@ cytharai;Cytharai;;;;;;;;;;;;;x
 cytharai_gods_group;Cytharai Pantheon;;;;;;;;;;;;;x
 cadai;Cadai;;;;;;;;;;;;;x
 cadai_gods_group;Cadai Pantheon;;;;;;;;;;;;;x
+# TEMPLE AND BULDING HOLDERS NAMES
 temple_baron_sigmarite;Abbot;;;;;;;;;;;;;x
 temple_baron_female_sigmarite;Abbess;;;;;;;;;;;;;x
 temple_count_sigmarite;Lord Abbot;;;;;;;;;;;;;x
@@ -1140,9 +1140,10 @@ MASTER_ENGINEER;Master Engineer;;;;;;;;;;;;;x;
 KHAN_KING;Khan-King;;;;;;;;;;;;;x;
 KHAN_QUEEN;Khan-Queen;;;;;;;;;;;;;x;
 EVERCHOSEN;Everchosen;;;;;;;;;;;;;x;
-KHAN_QUEEN;Khan-Queen;;;;;;;;;;;;;x;
+# GOD NAMES
 GOD_SIGMAR;Sigmar;;;;;;;;;;;;;x;
 GOD_LORD_SIGMAR;Lord Sigmar;;;;;;;;;;;;;x;
+GOD_TAAL;Taal;;;;;;;;;;;;;x;
 GOD_GODS;Gods;;;;;;;;;;;;;x;
 GOD_MYRMIDIA;Myrmidia;;;;;;;;;;;;;x;
 GOD_VERENA;Verena;;;;;;;;;;;;;x;
@@ -1152,6 +1153,7 @@ GOD_URSUN;Ursun;;;;;;;;;;;;;x;
 GOD_BEARLORD;Bearlord;;;;;;;;;;;;;x;
 GOD_TOR;Tor;;;;;;;;;;;;;x;
 GOD_THUNDERER;Thunderer;;;;;;;;;;;;;x;
+GOD_DAZH;Dazh;;;;;;;;;;;;;x;
 GOD_FIREBRINGER;Firebringer;;;;;;;;;;;;;x;
 GOD_MOTHER;Mother;;;;;;;;;;;;;x;
 GOD_SPIRITS;Spirits;;;;;;;;;;;;;x;
@@ -1165,12 +1167,28 @@ GOD_TZEENTCH;Tzeentch;;;;;;;;;;;;;x;
 GOD_MALAL;Malal;;;;;;;;;;;;;x;
 GOD_NECOHO;Necoho;;;;;;;;;;;;;x;
 GOD_ZUVASSIN;Zuvassin;;;;;;;;;;;;;x;
+GOD_MORK;Mork;;;;;;;;;;;;;x;
+GOD_GORK;Gork;;;;;;;;;;;;;x;
+GOD_GORK_AND_MORK;Gork and Mork;;;;;;;;;;;;;x;
+GOD_THE_GODS;The Gods;;;;;;;;;;;;;x;
+GOD_THE_DARK_GODS;The Dark Gods;;;;;;;;;;;;;x;
+GOD_THE_RUINOUS_POWERS;The Ruinous Powers;;;;;;;;;;;;;x;
+GOD_THE_DARK_ONES;The Dark Powers;;;;;;;;;;;;;x;
+GOD_ANCESTORS;Ancestor Gods;;;;;;;;;;;;;x;
+GOD_ESMERALDA;Esmeralda;;;;;;;;;;;;;x;
+GOD_SOTEK;Serpent God;;;;;;;;;;;;;x;
+THE_ELDERS;The Elders;;;;;;;;;;;;;x;
+# CRUSADE NAMES
+WAAAGH;Waaagh!;;;;;;;;;;;;;x
+BLACK_CRUSADE;Black Crusade;;;;;;;;;;;;;x
+# HOLY BOOKS NAMES
+# JOBS NAMES
 job_spiritual_greenskin_gods_group;Cunning Shaman;;;;;;;;;;;;;x;
 job_spiritual_lady_of_the_lake;Spiritual Advisor;;;;;;;;;;;;;x;
+# DESCRIPTIONS 
 elder_gods_DESC;The Elder Gods are a loose collection of related deities commonly worshipped in the Empire. They are typically more wild and less friendly than their southern counterparts, an attitude required in the dangerous and uncivilised north. The most powerful and militant cult is the Cult of Ulric, headed by the Ar-Ulric residing in Middenheim. The Ar-Ulric holds an Imperial Elector seat, and typically supports the election of Emperors from Middenland and Talabecland.;;;;;;;;;;;;;x;
 sigmarite_DESC;The Cult of Sigmar is one of the newer additions to the pantheons of the Old World, but is one of the most influential. After Emperor Sigmar's departure to the east, he was deified and became the patron and protector of the Empire. The Sigmarite faith has an ancient alliance with the Dwarfs, and is on reasonably good terms with most other Old World cults. The Grand Theogonist holds enormous power, and with the Arch-Lectors of Talabheim and Nuln holds three of the traditional Imperial Elector seats.;;;;;;;;;;;;;x;
 northern_gods_DESC;The Northern Gods are a group of gods favoured by the residents of Kislev. The land is subject to Chaos incursions, deadly winters and savage raiders, requiring equally fierce gods. The cults of this region are decentralised and have no real reach.;;;;;;;;;;;;;x;
 classical_gods_DESC;The Classical Gods are an ancient pantheon of deities that are most popular in the south of the Old World. The states of Tilea and Estalia are particularly beholden to the Cult of Myrmidia, which is based in Magritta. The city of Remas contests this and claims to be the true center of the faith.;;;;;;;;;;;;;x;
 lady_of_the_lake_DESC;The Lady of the Lake is the patron of Bretonnia and chivalry. The Knights who follow the faith strive to embody the righteous virtues of their legendary forebears, while those outside the nobility are forbidden to pray or worship in her name. The peasants and burghers instead follow the gods widely found throughout the Old World.;;;;;;;;;;;;;x;
 manannite_DESC;The Manannites are sailors, traders, pirates and raiders. As they spend their lives on the waves, the worship of Manann, god of the oceans and great rivers, takes the greatest priority. This separation from the rest of the world tends to breed outlaws and renegades, so piracy can become a problem in lawless, isolated regions.;;;;;;;;;;;;;x;
-classical_gods_DESC;The Classical Gods are an ancient pantheon of deities that are most popular in the south of the Old World. The states of Tilea and Estalia are particularly beholden to the Cult of Myrmidia, which is based in Magritta. The city of Remas contests this and claims to be the true center of the faith.;;;;;;;;;;;;;x;

@@ -32,7 +32,7 @@ EVTTOOLTIP1700000213;TEXTNAME;;;;;;;;;;;;;x
 EVTTOOLTIP1700000212;TEXTNAME;;;;;;;;;;;;;x
 EVTNAME1700000207;You Take a Closer Look at the Sword;;;;;;;;;;;;;x
 EVTDESC1700000207;You approach the sword and take a closer look at the markings on it. Your head swims and your vision blurs as you try to understand the meaning of the runes.;;;;;;;;;;;;;x
-#Temptation Events
+# namespace = temptation
 temptation.1;The Embrace of Uncle Nurgle;;;;;;;;;;;;;x
 temptation.1_desc;The Plague Father, Fly Lord, Great Corruptor, the Master of Pestilence... Old Uncle Nurgle has many titles. Within your very mind and soul you hear the maddened buzzing of a billion flies, and a chorus of choking, coughing voices whispering in your ears. They are calling you to join them in the endless bliss of utter pestilence and decay, to cast aside the facade of health and embrace the utter rottenness that is the inevitable fate of all life.;;;;;;;;;;;;;x
 Temptation.1.TOOLTIP1;Uncle Nurgle loves his childern, he he he...;;;;;;;;;;;;;x
@@ -56,6 +56,108 @@ temptation.5.TOOLTIP2;My faith in [Root.Religion.GetRandomGodName] in unshakeabl
 temptation.6;The Cult;;;;;;;;;;;;;x
 temptation.6_desc;You hurry through the streets, scurrying like a common criminal through the backstreets and the slums, a hood obscuring your face from sight. But you are no common thief or mere conspirator, you serve a greater power. You duck and weave your way to arranged meeting place, whispering a password in a forbidden language. Inside, you are greeted by your new Brothers and Sisters, and after a blood curdling ritual test you are finally inaugurated into the Cult.;;;;;;;;;;;;;x
 temptation.6.TOOLTIP1;It's too late to turn back now....;;;;;;;;;;;;;x
+# namespace = disease
+EVTDESC_DISEASE_1;You were infected with tomb rot, your body started rotting.;;;;;;;;;;;;;x
+EVTOPT_DISEASE_1A;Oh no.;;;;;;;;;;;;;x
+EVTDESC_DISEASE_0;A miracle! You were cured from Tomb Rot.;;;;;;;;;;;;;x
+EVTOPT_DISEASE_0A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASE_2;A miracle! You were cured from Creeping Buboes.;;;;;;;;;;;;;x
+EVTOPT_DISEASE_2A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASE_3;A miracle! You were cured from Green Pox.;;;;;;;;;;;;;x
+EVTOPT_DISEASE_3A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASE_4;A miracle! You were cured from Red Pox.;;;;;;;;;;;;;x
+EVTOPT_DISEASE_4A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASE_5;A miracle! You were cured from Rattlelung.;;;;;;;;;;;;;x
+EVTOPT_DISEASE_5A;Bless the Gods!.;;;;;;;;;;;;;x
+EVTDESC_DISEASE_6;A miracle! You were cured from Bone Auge.;;;;;;;;;;;;;x
+EVTOPT_DISEASE_6A;Bless the Gods!.;;;;;;;;;;;;;x
+# namespace = racial
+EVTDESC_RACIAL_1;Hidden;;;;;;;;;;;;;x
+EVTDESC_RACIAL_2;You were blessed with a long life but now you feel your time has come to leave this world.;;;;;;;;;;;;;x
+EVTOPT_RACIAL_2A;I die in peace..;;;;;;;;;;;;;x
+EVTDESC_RACIAL_3;Ilness weaken your once strong body, you feel that your last moment has come. Time for final breath.;;;;;;;;;;;;;x
+EVTOPT_RACIAL_3A;Aaa...;;;;;;;;;;;;;x
+# namespace = doomengine
+EVTNAME_DOOMENGINE_1;Signs of Armageddon;;;;;;;;;;;;;x
+EVTDESC_DOOMENGINE_1;The Signs on heaven and earth are telling about forecoming Armageddon. Mutants attacks are more frequent and people are telling stories about strange ilnesses that depopulated whole villages...;;;;;;;;;;;;;x
+EVTOPT_DOOMENGINE_1A;Yes indeed something is happening...;;;;;;;;;;;;;x
+# namespace = duelengine
+EVTDESC_DUELENGINE_0;In the heat of battle you have spotted your opponent;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_0A;May the gods be with me!;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_1;In the heat of battle you have spotted your opponent [From.GetFirstName], will you confront your enemy?;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_1A;I will crush him!;;;;;;;;;;;;;x
+DUELENGINE_TOOLTIP_1A;Reacts!;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_1B;I must run!;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_4;The fighting continues... What will be your next move?;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_4A;Never surrender!;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_4B;Fight!;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_4C;Crush him!;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_4D;I will never yield!;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_4E;Hit harder!;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_5;[From.GetFirstName] managed to escape the battlefield and covered [From.GetHerHis]self in shame!;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_5A;One day I will finish that coward... I swear!;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_20;You hit your enemy and injuried him, however gap in your defence let him to hit you.;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_20A;Defend from enemy's hits;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_20B;Charge!;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_20C;Balance your defence and attack;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_21;You hit your enemy and injuried him, your masterly defence did not give him occasion to counter.;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_22;Your enemy hit you and countered your attack.;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_23;Neither of you was able to hurt the other.;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_24;You have lost, your enemy was better you die...;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_24A;Noo....!;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_25;You have won! The body of your enemy lies before you.;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_25A;Hurray!;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_26;You have lost the duel.. Wounded and weak you managed to escape...;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_26A;Run!;;;;;;;;;;;;;x
+EVTDESC_DUELENGINE_27;You have won! However your enemy manged to escape!;;;;;;;;;;;;;x
+EVTOPT_DUELENGINE_27A;Arragh what a coward!;;;;;;;;;;;;;x
+# namespace = HCLT
+EVTDESCHCLT.1;You are a secret servant of Chaos Undivided!;;;;;;;;;;;;;x
+EVTDESCHCLT.2;You are a secret servant of Khorne!;;;;;;;;;;;;;x
+EVTDESCHCLT.3;You are a secret servant of Nurgle!;;;;;;;;;;;;;x
+EVTDESCHCLT.4;You are a secret servant of Slaanesh!;;;;;;;;;;;;;x
+EVTDESCHCLT.5;You are a secret servant of Tzeentch!;;;;;;;;;;;;;x
+EVTDESCHCLT.21;You are a secret Lahmian vampire!;;;;;;;;;;;;;x
+EVTDESCHCLT.22;You are a secret Carstein vampire!;;;;;;;;;;;;;x
+EVTDESCHCLT.23;You are a secret Blood Dragon vampire!;;;;;;;;;;;;;x
+EVTDESCHCLT.24;You are a secret Strigoi vampire!;;;;;;;;;;;;;x
+EVTDESCHCLT.25;You are a secret Necrach vampire!;;;;;;;;;;;;;x
+EVTDESCHCLT.26;You are a secret Jade vampire!;;;;;;;;;;;;;x
+EVTDESCHCLT.27;You are a secret Mahtmasi vampire!;;;;;;;;;;;;;x
+hide_my_cultist;Hide My Cultist;;;;;;;;;;;;;x
+# 
+# 
+#
+# SYLVANIA EVENTS I DONT KNOW IF THOSE ARE CORRECT 
+EVTDESCUDSYL.1;Sylvania is a dangerous place for all live, but a lovely country if you are a Vampire.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.1;I'll rule on this accursed land.;;;;;;;;;;;;;x
+EVTOPTBUDSYL.1;I've found my perfect lair.;;;;;;;;;;;;;x
+EVTDESCUDSYL.2;My lands are suffering the effects of dark forces. Dead men arise while huge flocks of bats darkened the skies.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.2;Damn. I can't do anything to stop it.;;;;;;;;;;;;;x
+EVTDESCUDSYL.3;With my efforts, the lands of Sylvania are growing up again. Crops grow and people live safely under my rule.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.3;I'm a great ruler.;;;;;;;;;;;;;x
+EVTDESCUDSYL.4;With my powerful magic, Sylvania is getting stronger. The dead will rise again and more serfs will come to me.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.4;I will live for eternity.;;;;;;;;;;;;;x
+EVTDESCUDSYL.5;I've not paid enough attention to the care of my land, and now, my loyal servants leave, pursued by hunters and templars.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.5;I don't care of mortal affairs.;;;;;;;;;;;;;x
+EVTDESCUDSYL.6;I've conquered the land, and now I will increase my armies with the dead's bodies, and local necromancers.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.6;I'm unstoppable.;;;;;;;;;;;;;x
+EVTDESCUDSYL.7;I've conquered the land, and now I have to face down armies of dead and vampire servants.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.7;I shall prevail.;;;;;;;;;;;;;x
+EVTDESCUDSYL.8;Send money to a loyal sigmarite to fight undead.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.8;Send the money.;;;;;;;;;;;;;x
+EVTOPTBUDSYL.8;Don't send the money.;;;;;;;;;;;;;x
+EVTDESCUDSYL.9;Great Theogonist [FROM.GetFirstName] has send us money to fight undead.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.9;I'll waste it well.;;;;;;;;;;;;;x
+EVTDESCUDSYL.10;What will I do with the money Great Theogonist sended me?;;;;;;;;;;;;;x
+EVTOPTAUDSYL.10;Hire some adventurers.;;;;;;;;;;;;;x
+EVTOPTBUDSYL.10;I'll lead a hunting party.;;;;;;;;;;;;;x
+EVTOPTCUDSYL.10;I'll keep the money for me.;;;;;;;;;;;;;x
+EVTDESCUDSYL.11;A strange and hooded man approaches, offering you his services to fight sylvanian dangers.;;;;;;;;;;;;;x
+EVTOPTAUDSYL.11;Let him in, as he will serve me well.;;;;;;;;;;;;;x
+EVTOPTBUDSYL.11;I don't trust strangers, send him far away.;;;;;;;;;;;;;x
+EVTOPTCUDSYL.11;He's a witch! Burn him! Buuurn hiiiiim!;;;;;;;;;;;;;x
+TOOLTIPOPTCUDSYL11;There is a chance that the man escapes, wounding you in gratitude for your hospitality.;;;;;;;;;;;;;x
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x

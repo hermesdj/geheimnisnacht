@@ -341,26 +341,22 @@ worshipper_of_self_desc;This character is devoted to nothing but themselves, reg
 worshipper_of_sigmars_saints;Worshipper of Sigmar's Saints;;;;;;;;;;;;;x
 worshipper_of_sigmars_saints_desc;This character is devoted to one or more of the saints of Sigmar, the champions and legends of ages past.;;;;;;;;;;;;;x
 # GREENSKIN TRAITS
-small_orc;Small Orc;;;;;;;;;;;;;x
-small_orc_desc;This orc is downright titchy and should only think about bossing even smaller things, like squigs and snotlings.;;;;;;;;;;;;;x
-average_orc;Average Orc;;;;;;;;;;;;;x
-average_orc_desc;This orc is about the size of an orc, and should follow their boss.;;;;;;;;;;;;;x
-large_orc;Large Orc;;;;;;;;;;;;;x
-large_orc_desc;This orc is large, making them suitable for bossing most orcs around.;;;;;;;;;;;;;x
-huge_orc;Huge Orc;;;;;;;;;;;;;x
-huge_orc_desc;This orc is huge, a clear sign of proper bossfulness.;;;;;;;;;;;;;x
-massive_orc;Massive Orc;;;;;;;;;;;;;x
-massive_orc_desc;This orc is massive, making them the rightful boss of every sensible orc.;;;;;;;;;;;;;x
-small_goblin;Small Goblin;;;;;;;;;;;;;x
-small_goblin_desc;This goblin is downright titchy and should only think about bossing even smaller things, like squigs and snotlings.;;;;;;;;;;;;;x
-average_goblin;Average Goblin;;;;;;;;;;;;;x
-average_goblin_desc;This goblin is about the size of an goblin, and should follow their boss.;;;;;;;;;;;;;x
-large_goblin;Large Goblin;;;;;;;;;;;;;x
-large_goblin_desc;This goblin is large, making them suitable for bossing most goblins around.;;;;;;;;;;;;;x
-huge_goblin;Huge Goblin;;;;;;;;;;;;;x
-huge_goblin_desc;This goblin is huge, a clear sign of proper bossfulness.;;;;;;;;;;;;;x
-massive_goblin;Massive Goblin;;;;;;;;;;;;;x
-massive_goblin_desc;This goblin is massive, making them the rightful boss of every sensible goblin.;;;;;;;;;;;;;x
+orc_small;Small Orc;;;;;;;;;;;;;x
+orc_small_desc;This orc is downright titchy and should only think about bossing even smaller things, like squigs and snotlings.;;;;;;;;;;;;;x
+orc_average;Average Orc;;;;;;;;;;;;;x
+orc_average_desc;This orc is about the size of an orc, and should follow their boss.;;;;;;;;;;;;;x
+orc_large;Large Orc;;;;;;;;;;;;;x
+orc_large_desc;This orc is large, making them suitable for bossing most orcs around.;;;;;;;;;;;;;x
+orc_huge;Huge Orc;;;;;;;;;;;;;x
+orc_huge_desc;This orc is huge, making them the rightful boss of every sensible orc.;;;;;;;;;;;;;x
+goblin_small;Small Goblin;;;;;;;;;;;;;x
+goblin_small_desc;This goblin is downright titchy and should only think about bossing even smaller things, like squigs and snotlings.;;;;;;;;;;;;;x
+goblin_average;Average Goblin;;;;;;;;;;;;;x
+goblin_average_desc;This goblin is about the size of an goblin, and should follow their boss.;;;;;;;;;;;;;x
+goblin_large;Large Goblin;;;;;;;;;;;;;x
+goblin_large_desc;This goblin is large, making them suitable for bossing most goblins around.;;;;;;;;;;;;;x
+goblin_huge;Huge Goblin;;;;;;;;;;;;;x
+goblin_huge_desc;This goblin is huge, making them the rightful boss of every sensible goblin.;;;;;;;;;;;;;x
 # BRETONNIAN TRAITS
 virtue_of_chivalry;Virtue of Chivalry;;;;;;;;;;;;;x
 virtue_of_chivalry_desc;This Knight pursues the Virtue of Chivalry. Every knight must follow a wide-reaching code of conduct.;;;;;;;;;;;;;x
@@ -487,7 +483,7 @@ lore_high_magic;High Magic;;;;;;;;;;;;;x
 lore_dark_magic;Dark Magic;;;;;;;;;;;;;x
 lore_nurgle;Lore of Nurgle;;;;;;;;;;;;;x
 lore_slaanesh;Lore of Slaanesh;;;;;;;;;;;;;x
-lore_tzeenth;Lore of Tzeenth;;;;;;;;;;;;;x
+lore_tzeentch;Lore of Tzeentch;;;;;;;;;;;;;x
 lore_ice;Lore of Ice;;;;;;;;;;;;;x
 # MAGIC TRAITS Descriptions
 magic_power_adept_desc;This character shows an affinity in the use of magic.;;;;;;;;;;;;;x

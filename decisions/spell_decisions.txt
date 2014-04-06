@@ -28,7 +28,7 @@ decisions = {
                 trait = magic_power_lord
                 trait = magic_power_archmaster
             }
-            capable_only = yes
+            NOT = { trait = incapable }
             OR = {
                 trait = lore_light
                 trait = lore_beasts
@@ -76,10 +76,8 @@ decisions = {
     # Chose spells from ice lore (PC only)
     decision_lore_ice = {
         potential = {
-            AND = {
-                has_character_flag = spellbook_open 
-                ai = no
-            }
+            has_character_flag = spellbook_open 
+            ai = no
             trait = lore_ice
             NOT = {  has_character_flag = spell_lore_chosen }
         }
@@ -92,10 +90,8 @@ decisions = {
     # Chose spells from ice lore (PC only)
     decision_lore_light = {
         potential = {
-            AND = {
-                has_character_flag = spellbook_open 
-                ai = no
-            }
+            has_character_flag = spellbook_open 
+            ai = no
             trait = lore_light
             NOT = {  has_character_flag = spell_lore_chosen }
         }
@@ -109,11 +105,9 @@ decisions = {
     # go back to lore menu
     decision_lore_back = {
         potential = {
-            AND = {
-                has_character_flag = spellbook_open 
-                ai = no
-                has_character_flag = spell_lore_chosen
-            }
+            has_character_flag = spellbook_open 
+            ai = no
+            has_character_flag = spell_lore_chosen
         }
         allow = { always = yes }
         effect = { 
