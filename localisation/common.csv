@@ -73,6 +73,8 @@ DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Nikse. The Nikse famil
 # RETINUES
 RETTYPE_CUL_IMP;Imperial Infantry Company.;;;;;;;;;;;;;x
 RETTYPE_CUL_IMP2;Imperial Light Infantry Company.;;;;;;;;;;;;;x
+RETTYPE_CUL_BRET;Bertonian Pikeman Company.;;;;;;;;;;;;;x
+RETTYPE_CUL_BRET2;Bertonian Archers Company.;;;;;;;;;;;;;x
 # DISEASES GUI INFO
 has_creeping_buboes;Has Creeping Buboes;;;;;;;;;;;;;x
 has_creeping_buboes_desc;This character has Creeping Buboes, which leave horrible itchy red welts;;;;;;;;;;;;;x
