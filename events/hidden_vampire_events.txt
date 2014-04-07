@@ -14,7 +14,7 @@ character_event = {
 
     trigger = {
         AND = {
-			female = no
+			is_female = no
 			OR = { 
 				trait = vampire_lahmian_hidden
 				trait = vampire_carstein_hidden
@@ -750,80 +750,80 @@ character_event = {
 				add_trait = augustus
 			}
 			#elector_count_reikland
-			if = {
-				limit = { ROOT = { trait = elector_count_reikland }		}	
-				add_trait = elector_count_reikland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_reikland }		}	
+			#	add_trait = elector_count_reikland
+			#}
 			#elector_count_wissenland
-			if = {
-				limit = { ROOT = { trait = elector_count_wissenland }		}	
-				add_trait = elector_count_wissenland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_wissenland }		}	
+			#	add_trait = elector_count_wissenland
+			#}
 			#elector_count_solland
-			if = {
-				limit = { ROOT = { trait = elector_count_solland }		}	
-				add_trait = elector_count_solland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_solland }		}	
+			#	add_trait = elector_count_solland
+			#}
 			#elector_count_averland
-			if = {
-				limit = { ROOT = { trait = elector_count_averland }	}		
-				add_trait = elector_count_averland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_averland }	}		
+			#	add_trait = elector_count_averland
+			#}
 			#elector_count_stirland
-			if = {
-				limit = { ROOT = { trait = elector_count_stirland }	}		
-				add_trait = elector_count_stirland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_stirland }	}		
+			#	add_trait = elector_count_stirland
+			#}
 			#elector_count_sylvania
-			if = {
-				limit = { ROOT = { trait = elector_count_sylvania }}			
-				add_trait = elector_count_sylvania
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_sylvania }}			
+			#	add_trait = elector_count_sylvania
+			#}
 			#elector_count_ostermark
-			if = {
-				limit = { ROOT = { trait = elector_count_ostermark }	}		
-				add_trait = elector_count_ostermark
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_ostermark }	}		
+			#	add_trait = elector_count_ostermark
+			#}
 			#elector_count_talabecland
-			if = {
-				limit = { ROOT = { trait = elector_count_talabecland }		}	
-				add_trait = elector_count_talabecland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_talabecland }		}	
+			#	add_trait = elector_count_talabecland
+			#}
 			#elector_count_ostland
-			if = {
-				limit = { ROOT = { trait = elector_count_ostland }		}	
-				add_trait = elector_count_ostland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_ostland }		}	
+			#	add_trait = elector_count_ostland
+			#}
 			#elector_count_nordland
-			if = {
-				limit = { ROOT = { trait = elector_count_nordland }	}		
-				add_trait = elector_count_nordland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_nordland }	}		
+			#	add_trait = elector_count_nordland
+			#}
 			#elector_count_westerland
-			if = {
-				limit = { ROOT = { trait = elector_count_westerland }	}		
-				add_trait = elector_count_westerland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_westerland }	}		
+			#	add_trait = elector_count_westerland
+			#}
 			#elector_count_drakwald
-			if = {
-				limit = { ROOT = { trait = elector_count_drakwald }	}		
-				add_trait = elector_count_drakwald
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_drakwald }	}		
+			#	add_trait = elector_count_drakwald
+			#}
 			#elector_count_middenland
-			if = {
-				limit = { ROOT = { trait = elector_count_middenland }	}		
-				add_trait = elector_count_middenland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_middenland }	}		
+			#	add_trait = elector_count_middenland
+			#}
 			#elector_count_hochland
-			if = {
-				limit = { ROOT = { trait = elector_count_hochland }	}		
-				add_trait = elector_count_hochland
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_hochland }	}		
+			#	add_trait = elector_count_hochland
+			#}
 			#elector_count_moot
-			if = {
-				limit = { ROOT = { trait = elector_count_moot }		}	
-				add_trait = elector_count_moot
-			}
+			#if = {
+			#	limit = { ROOT = { trait = elector_count_moot }		}	
+			#	add_trait = elector_count_moot
+			#}
 			#################
 			##Equipment Traits##
 			#################

@@ -121,7 +121,7 @@ character_event = {
                 religion_group = chaos_gods_group
                 OR = {
                     religion_group = chaos_gods_group
-                    religion_group = horned_rat_god_groups
+                    religion_group = horned_rat_god_group
                     religion_group = beastman_gods_group
                 }
                 piety = 200
@@ -132,7 +132,7 @@ character_event = {
             AND = {
                 OR = {
                     religion_group = chaos_gods_group
-                    religion_group = horned_rat_god_groups
+                    religion_group = horned_rat_god_group
                     religion_group = beastman_gods_group
                 }
                 piety = 500

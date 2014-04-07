@@ -81,10 +81,7 @@ claim = {
     press_claim = yes
 
     can_use_title = {
-        OR = {
-            ROOT = { is_female = no }
-            NOT = { ROOT = { religion_group = muslim } }
-        }
+        ROOT = { is_female = no }
         OR = {
             FROM = {
                 has_landed_title = PREV
@@ -252,10 +249,7 @@ other_claim = {
     can_use_title = {
         OR = {
             ROOT = { is_female = no }
-            AND = {
-                NOT = { ROOT = { religion_group = muslim } }
-                NOT = { succ_law_title = { has_law = agnatic_succession } }
-            }
+            NOT = { succ_law_title = { has_law = agnatic_succession } }
         }
         OR = {
             FROM = {
@@ -1440,21 +1434,6 @@ claim_all = {
                 }
             }
         }
-        hidden_tooltip = {
-            ROOT = {
-                if = {
-                    limit = {
-                        has_dlc = "Legacy of Rome"
-                        OR = { 
-                            has_landed_title = e_byzantium
-                            has_landed_title = e_roman_empire
-                        }
-                        religion_group = christian
-                    }
-                    character_event = { id = LoR.30 days = 12 }
-                }
-            }
-        }
         any_attacker = {
             limit = { character = ROOT }
             participation_scaled_prestige = 100
@@ -1504,19 +1483,6 @@ claim_all = {
         any_defender = {
             limit = { character = FROM }
             participation_scaled_prestige = 200
-        }
-        FROM = {
-            if = {
-                limit = { 
-                    has_dlc = "Legacy of Rome"
-                    OR = { 
-                        has_landed_title = e_byzantium
-                        has_landed_title = e_roman_empire
-                    }
-                    religion_group = christian
-                }
-                hidden_tooltip = { character_event = { id = LoR.30 days = 12 } }
-            }
         }
         any_defender = {
             limit = { NOT = { character = FROM } }
@@ -2066,19 +2032,6 @@ invasion = {
                 gain_all_occupied_titles = FROM            
                 give_nickname = nick_the_conqueror
             }
-            ROOT = {
-                if = {
-                    limit = {
-                        has_dlc = "Legacy of Rome"
-                        OR = { 
-                            has_landed_title = e_byzantium
-                            has_landed_title = e_roman_empire
-                        }
-                        religion_group = christian
-                    }
-                    character_event = { id = LoR.30 days = 12 }
-                }
-            }
         }
         
         FROM = {
@@ -2141,19 +2094,6 @@ invasion = {
         any_defender = {
             limit = { character = FROM }
             participation_scaled_prestige = 200
-        }
-        FROM = {
-            if = {
-                limit = { 
-                    has_dlc = "Legacy of Rome"
-                    OR = { 
-                        has_landed_title = e_byzantium
-                        has_landed_title = e_roman_empire
-                    }
-                    religion_group = christian
-                }
-                hidden_tooltip = { character_event = { id = LoR.30 days = 12 } }
-            }
         }
         any_defender = {
             limit = { NOT = { character = FROM } }
@@ -2323,19 +2263,6 @@ tribal_invasion = {
         }
         FROM = {
             prestige = 200
-        }
-        FROM = {
-            if = {
-                limit = { 
-                    has_dlc = "Legacy of Rome"
-                    OR = { 
-                        has_landed_title = e_byzantium
-                        has_landed_title = e_roman_empire
-                    }
-                    religion_group = christian
-                }
-                hidden_tooltip = { character_event = { id = LoR.30 days = 12 } }
-            }
         }
         any_defender = {
             limit = { character = FROM }
@@ -4712,7 +4639,12 @@ cb_faction_independence = {
                             higher_tier_than = BARON
                             FROM = {
                                 OR = { # If the old liege can use the subjugation CB, give no claims
-                                    NOT = { religion_group = pagan_group }
+                                    NOT = { 
+                                        OR = {
+                                            religion_group = norse_group 
+                                            religion_group = greenskin_gods_group
+                                        }
+                                    }
                                     NOT = { culture_group = PREVPREV }
                                 }
                             }
@@ -4898,7 +4830,7 @@ imperial_reconquest = {
             de_jure_liege_or_above = k_drakwald
             de_jure_liege_or_above = k_solland
             de_jure_liege_or_above = k_west_mark
-            de_jure_liege_or_above = k_lichtenburg
+            de_jure_liege_or_above = k_lichtenberg
             de_jure_liege_or_above = k_reikland
             de_jure_liege_or_above = k_westerland
             de_jure_liege_or_above = k_nordland
@@ -6205,8 +6137,8 @@ barbaric_county_conquest = {
         OR = {
             AND = {
                 ROOT = { culture_group = norscan_group }
-                ROOT = { religion_group = norse_gods_group}
-                FROM = { NOT = { religion_group = norse_gods_group } }
+                ROOT = { religion_group = norse_group}
+                FROM = { NOT = { religion_group = norse_group } }
                 location = {
                     port = yes
                 }
@@ -6227,7 +6159,7 @@ barbaric_county_conquest = {
     is_valid_title = {
         ROOT = {
             culture_group = norscan_group  
-            religion_group = norse_gods_group 
+            religion_group = norse_group 
             NOT = { same_realm = FROM }
         }
         FROM = {
@@ -6669,11 +6601,9 @@ other_dejure_barony_claim = {
         tier = baron
 
         dejure_liege_title = {
-            AND = {
-                has_holder = yes
-                ROOT = {
-                    has_landed_title = PREV
-                }
+            has_holder = yes
+            ROOT = {
+                has_landed_title = PREV
             }
         }
 
@@ -6832,11 +6762,9 @@ other_dejure_county_claim = {
     can_use_title = {
         tier = count
         dejure_liege_title = {
-            AND = {
-                has_holder = yes
-                ROOT = {
-                    has_landed_title = PREV
-                }
+            has_holder = yes
+            ROOT = {
+                has_landed_title = PREV
             }
         }
 

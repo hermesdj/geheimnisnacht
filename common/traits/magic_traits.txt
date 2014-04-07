@@ -71,10 +71,9 @@ lore_shadows = {
 }
 # High elven magic
 lore_high_magic = {
-}
 	random = no
+}
 #Lores of Chaos
-
 lore_dark_magic = {
 	random = no
 }

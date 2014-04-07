@@ -159,7 +159,7 @@ has_bone_auge = {
 	is_illness = yes
 	health = -6
 	diplomacy = -1
-	intrgue = -1
+	intrigue = -1
 	martial = -3
 
 	sex_appeal_opinion = -20
@@ -285,7 +285,6 @@ sickly = {
 	
 	health = -2.5
 	
-	customizer = no
 	random = no
 	customizer = no
 }

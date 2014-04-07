@@ -139,7 +139,7 @@ province_event = {
 #
 province_event = {
     id = doomengine.1
-    name = "EVTNAME_DOOMENGINE_1"
+    #name = "EVTNAME_DOOMENGINE_1"
     desc = "EVTDESC_DOOMENGINE_1"
     
     trigger = {
