@@ -765,12 +765,17 @@ e_host_chaos = {
 	title_female = "EVERCHOSEN"
 	foa = "EVERCHOSEN_FOA"
 	short_name = yes
-	
 	religion = chaos
 	
 	primary = yes
 	
 	controls_religion = chaos
+
+	# FIXME creation mechanics
+	creation_requires_capital = no
+	allow = {
+            piety = 2000
+        }
 }		
 
 
@@ -794,6 +799,9 @@ e_the_empire = {
 	capital = 299 #Altdorf
 	short_name = yes
 	
+	# FIXME crusade weight
+	chaos = 1000
+
 	k_drakwald = {
 		color = { 60 150 80 }
 		color2 = { 255 255 255 }

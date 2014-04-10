@@ -7121,7 +7121,217 @@ chaos_subjugation = {
 # CHAOS INCRUSION
 #
 #
+crusade = {
+    name = CB_NAME_CRUSADE
+    war_name = WAR_NAME_CRUSADE
+    sprite = 9
+    truce_days = 365
+    is_permanent = yes
+    is_holy_war = yes
+    check_de_jure_tier = KING # this scans all de jure kingdoms for the counties which are held by or vassals(or below) of selected character. Only valid if is_permanent = yes
 
+    can_use = {
+        ROOT = {
+            can_call_crusade = yes
+            has_called_crusade = no
+            # FIXME religion_authority = 0.0
+            religion_group = chaos_gods_group
+            has_landed_title = e_host_chaos
+        }
+        FROM = { 
+            NOT = { religion_group = ROOT } 
+            NOT = { religion_group = greenskin_gods_group } 
+            NOT = { religion_group = horned_rat_god_group } 
+        }
+    }
+
+    can_use_title = {
+        FROM = {
+            any_realm_title = {
+                de_jure_liege_or_above = PREVPREV
+            }
+            
+            independent = yes # Don't declare Crusades on revolters - chances are high the war will invalidate
+            
+            num_of_realm_counties = {
+                value = 3
+                title = PREV
+            }
+        }
+    }
+
+    is_valid = {
+        ROOT = {
+            can_call_crusade = yes
+        }
+        FROM = {
+            OR = {
+                NOT = { religion_group = ROOT }
+            }
+        }
+    }
+
+    is_valid_title = {
+        FROM = {
+            any_realm_title = {
+                de_jure_liege_or_above = PREVPREV
+            }
+        }
+    }
+
+    on_success_title = {
+        if = {
+            limit = {
+                has_holder = yes
+                holder_scope = {
+                    religion = ROOT
+                }
+            }
+            holder_scope = {
+                gain_settlements_under_title = {
+                    title = PREV
+                    enemy = FROM
+                    is_crusade = yes # Even if the title holder is not participating in the war, gain holdings occupied by all Crusade participants
+                }
+            }
+        }
+        
+        if = {
+            limit = {
+                OR = {
+                    has_holder = no
+                    NOT = {
+                        holder_scope = {
+                            religion = ROOT
+                        }
+                    }
+                }
+            }
+            
+            most_participating_attacker = {
+                gain_settlements_under_title = {
+                    title = PREV
+                    enemy = FROM
+                }
+                if  = {
+                    limit = {
+                        primary_title = { is_primary_type_title = no } # Mercs, the Pope, Holy Orders, etc
+                        PREV = { has_holder = no }
+                        OR = {
+                            NOT = { character = ROOT }
+                            independent = yes
+                            liege = {
+                                tier = EMPEROR
+                            }
+                        }
+                    }
+                    usurp_title = PREV
+                    
+                    if = {
+                        limit = {
+                            NOT = { culture = PREV }
+                        }
+                        hidden_tooltip = { PREV = { conquest_culture = THIS } }
+                    }
+                }
+            }
+        }
+        
+        any_attacker = {
+            limit = { character = ROOT }
+            participation_scaled_prestige = 500
+            participation_scaled_piety = 1000
+        }
+        any_attacker = {
+            limit = { NOT = { character = ROOT } }
+            hidden_tooltip = { 
+                participation_scaled_prestige = 500
+                participation_scaled_piety = 1000
+            }
+        }
+        
+        ROOT = {
+            religion_authority = {
+                modifier = won_crusade
+                years = 20
+            }
+        }
+        
+        FROM = {
+            piety = -100
+            religion_authority = {
+                modifier = lost_crusade
+                years = 20
+            }
+        }
+    }
+
+    on_fail = {
+        ROOT = {
+            piety = -100
+        }
+        
+        any_defender = {
+            limit = { character = FROM }
+            participation_scaled_piety = 200
+            participation_scaled_prestige = 100
+        }
+        any_defender = {
+            limit = { NOT = { character = FROM } }
+            hidden_tooltip = { 
+                participation_scaled_piety = 200
+                participation_scaled_prestige = 100
+            }
+        }
+    
+    }
+
+    on_reverse_demand = {
+        ROOT = {
+            piety = -200
+            religion_authority = {
+                modifier = lost_crusade
+                years = 20
+            }
+        }
+        FROM = {
+            piety = 100
+            religion_authority = {
+                modifier = won_crusade
+                years = 20
+            }
+        }
+        any_defender = {
+            limit = { character = FROM }
+            participation_scaled_piety = 300
+            participation_scaled_prestige = 150
+        }
+
+        any_defender = {
+            limit = { NOT = { character = FROM } }
+            hidden_tooltip = { 
+                participation_scaled_piety = 300
+                participation_scaled_prestige = 150
+            }
+        }
+    }
+
+    attacker_ai_victory_worth = {
+        factor = -1 # always accept
+    }
+    
+    attacker_ai_defeat_worth = {
+        factor = 100
+    }
+
+    defender_ai_victory_worth = {
+        factor = -1 # always accept
+    }
+    
+    defender_ai_defeat_worth = {
+        factor = 100
+    }
+}
 # WARHAMMER CHANGED the one below was deleted
 # The special CB for the Rise of the Shi'a Caliphate
 
