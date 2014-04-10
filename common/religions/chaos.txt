@@ -30,7 +30,6 @@ chaos_gods_group = {
 	
 		can_call_crusade = yes
 		priests_can_inherit = yes
-		can_grant_invasion_cb = invasion
 		allow_rivermovement = yes
 		female_temple_holders = yes
 		feminist = yes		

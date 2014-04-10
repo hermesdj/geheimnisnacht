@@ -1140,6 +1140,8 @@ MASTER_ENGINEER;Master Engineer;;;;;;;;;;;;;x;
 KHAN_KING;Khan-King;;;;;;;;;;;;;x;
 KHAN_QUEEN;Khan-Queen;;;;;;;;;;;;;x;
 EVERCHOSEN;Everchosen;;;;;;;;;;;;;x;
+# PIETY NAMES
+CORRUPTION;Corruption;;;;;;;;;;;;;x;
 # GOD NAMES
 GOD_SIGMAR;Sigmar;;;;;;;;;;;;;x;
 GOD_LORD_SIGMAR;Lord Sigmar;;;;;;;;;;;;;x;

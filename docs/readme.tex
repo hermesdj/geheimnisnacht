@@ -28,6 +28,45 @@
 
 
 \begin{document}
+\section{Developer Guide}
+\subsection{Localisation Rules}
+For the event localisation we use two kinds of conventions one for
+completly new events, and for altered vanilla events (if there is need for them
+to changed the localisation).
+\paragraph{New warhammer events},
+for that kind of events we always use namespaces, therefore 
+naming scheme is as below: \\
+\textit{EVTNAME\_<NAMESPACE>\_<event\_id>}
+\\
+\textit{EVTDESC\_<NAMESPACE>\_<event\_id>}
+\\
+\textit{EVTOPT\_<NAMESPACE>\_<eventid>\_<A,B,C,D...}\\
+We write namespace with \textbf{CAPITAL LETTERS}
+
+\paragraph{Vanilla events}, for that we use:\\
+\textit{EVTNAME\_WH\_<event\_id>}
+\\
+\textit{EVTDESC\_WH\_<event\_did>}
+\\
+\textit{EVTOPT\_WH\_<event\_id>\_<A,B,C,D...}\\
+The string within brackets \textit{<>} has to be filled with proper thing.\\
+\textbf{REMEMBER}
+There is only one file where new event localisation should be stored:
+\textit{localisation\ events.csv}, please keep the localisations for
+one namespace in block, followed by mark \textit{\# namespace name}
+\\
+\paragraph{Other localisation rules}
+Don't create new files if not necsesary, search for the appropriate localisation file
+and add the string in following block.
+Commonly used files:
+\begin{itemize}
+\item modifiers - common.csv, section \# modifiers
+\item traits - wh\_traits.csv
+\item decisions - decisons.csv
+\item various interface strings - common.csv or common\_religious\_cultural.csv
+\end{itemize}
+
+\newpage
 \section{Core mechanics changes}
 \section{Additional mechanics}
 \subsection{CBs}

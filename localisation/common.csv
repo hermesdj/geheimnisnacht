@@ -111,8 +111,8 @@ spell_eyesoftruth_desc;The wind magic wind allows this character to see through 
 # province modifiers
 recent_chaos_incursion;Recent Chaos Incursion;;;;;;;;;;;;;x
 recent_chaos_incursion_desc;These lands were target of recent chaos incursion, those who didn't escape from this defiled land were killed by chaos host. This earth is soaked by blood and terrible creaters are haunting city streets in the light of day.;;;;;;;;;;;;;x
-land_of_order;Land of Order;;;;;;;;;;;;;x
-land_of_order_desc;Most of population is hiding before forces of chaos, those who aren not will never broke.;;;;;;;;;;;;;x
+resistance;Resistance against Chaos;;;;;;;;;;;;;x
+resistance_desc;Most of population is hiding before forces of Chaos, those who aren not will never surrender.;;;;;;;;;;;;;x
 #CBS
 # Chaos subjugation
 CB_NAME_CHAOS_SUBJUGATION;Unholy Subjugation of [Title.GetBaseName];Assujettissement de [Title.GetBaseName];Unterwerfung von [Title.GetBaseName];;Subyugación de [Title.GetBaseName];;;;;;;;;x

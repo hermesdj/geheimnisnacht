@@ -64,7 +64,6 @@
 # duchy_adventure 
 #
 #
-#
 # DELETED CBS 
 # all muslim ones, caliphate ones, decadence connected ones, crusade, depose pope/anitpopre antiking
 # also i've renamed some
@@ -2358,9 +2357,6 @@ religious = {
                             }
                             AND = {
                                 is_land = no
-                                OR = {
-                                    year = 1100
-                                }
                                 any_neighbor_province = {
                                     OR = {
                                         AND = {
@@ -6142,7 +6138,7 @@ pagan_county_conquest = {
         OR = {
             AND = {
                 ROOT = { culture_group = norscan_group }
-                ROOT = { religion_group = norse_group}
+                ROOT = { religion_group = norse_group }
                 FROM = { NOT = { religion_group = norse_group } }
                 location = {
                     port = yes
@@ -7131,6 +7127,11 @@ crusade = {
     check_de_jure_tier = KING # this scans all de jure kingdoms for the counties which are held by or vassals(or below) of selected character. Only valid if is_permanent = yes
 
     can_use = {
+        #OR = { 
+        #    has_global_flag = doom_medium
+        #    has_global_flag = doom_high
+        #    has_global_flag = doom_very_high
+        #}
         ROOT = {
             can_call_crusade = yes
             has_called_crusade = no
@@ -7154,10 +7155,10 @@ crusade = {
             
             independent = yes # Don't declare Crusades on revolters - chances are high the war will invalidate
             
-            #num_of_realm_counties = {
-            #    value = 3
-            #    title = PREV
-            #}
+            num_of_realm_counties = {
+                value = 5
+                title = PREV
+            }
         }
     }
 
@@ -7188,7 +7189,7 @@ crusade = {
             limit = {
                 has_holder = yes
                 holder_scope = {
-                    religion = ROOT
+                    religion_group = ROOT
                 }
             }
             holder_scope = {
@@ -7199,19 +7200,28 @@ crusade = {
                 }
             }
         }
-        
+        # title has holder of enemy religion apply chaos penalty
         if = {
             limit = {
                 OR = {
                     has_holder = no
                     NOT = {
                         holder_scope = {
-                            religion = ROOT
+                            religion_group = ROOT
                         }
                     }
                 }
             }
-            
+            # add special modfier to the realm provinces
+            # that prevents using the target resources
+            any_realm_province = {
+               limit = { 
+                   NOT = { religion_group = ROOT }
+                   NOT = { has_province_modifier = { name = "recent_chaos_incursion" } }
+               }
+               add_province_modifier = { name = "resistance" duration = -1 }
+            }
+
             most_participating_attacker = {
                 gain_settlements_under_title = {
                     title = PREV
@@ -7339,10 +7349,14 @@ crusade = {
         factor = 100
     }
     ai_will_do = {
-        factor = 1
+        factor = 1.2
         modifier = {
-            factor = 2
-            ROOT = { religion_group = chaos_gods_group }
+            factor = 0.5
+            has_global_flag = doom_medium
+        }
+        modifier = {
+            factor = 1.5
+            has_global_flag = doom_very_high
         }
     }
 }

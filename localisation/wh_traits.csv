@@ -464,10 +464,6 @@ hideous;Hideous;;;;;;;;;;;;;x
 hideous_desc;This character has a most horrifying appearance.;;;;;;;;;;;;;x
 beautiful;Beautiful;;;;;;;;;;;;;x
 beautiful_desc;This character has a statuesque appearance, one most alluring and attractive.;;;;;;;;;;;;;x
-heavily_scarred;Heavily Scarred;;;;;;;;;;;;;x
-heavily_scarred_desc;This character has recieved a great number of wounds and survived them all.;;;;;;;;;;;;;x
-massively_scarred;Massively Scarred;;;;;;;;;;;;;x
-massively_scarred_desc;This character's body is a diary of battles and adventures, each one leaving their mark.;;;;;;;;;;;;;x
 #MUTATION TRAITS
 mutation_minor;Minor Mutation;;;;;;;;;;;;;x
 mutation_minor_desc;This character possess a small mutation that has little effect.;;;;;;;;;;;;;x

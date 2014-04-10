@@ -15,7 +15,7 @@
 #
 #
 # Due the work of elven vortex which is sucking the chaos energies 
-# the counter wents down each two months (-3)
+# the counter wents down each two months (-2)
 #
 # However every bad thing that happen in world increase a counter a little bit
 # 
@@ -38,98 +38,69 @@ province_event = {
         province_id = 1 # here should be id of some chosen province
     }
     mean_time_to_happen = {
-        days = 5
+        days = 60
     }
     immediate = {
         #  initialisation
-        if = { limit = { NOT = { check_variable = { which = "doom_counter" value = 4 }}}
-            set_variable = { which = "doom_counter" value = 4 }
+        if = { 
+            limit = { NOT = { check_variable = { which = "doom_counter" value = 3 }}}
+            set_variable = { which = "doom_counter" value = 3 }
         }
         # changing due to the vortex existence
         if = { 
             limit = { 
+                # FIXME create vortex first
                 has_global_flag = vortex_exists  
-                check_variable = { which = "doom_counter" value = 4 }
+                check_variable = { which = "doom_counter" value = 3 }
             }
                
-            change_variable = { which = "doom_counter" value = -3 }
+            change_variable = { which = "doom_counter" value = -2 }
         }
         # 
         if = {
             limit = {
-                NOT = { check_variable = { which = "doom_counter" value = 20 }}
-            }
-            set_global_flag = doom_no
-            # clear rest of flags
-            clr_global_flag = doom_low
-            clr_global_flag = doom_medium
-            clr_global_flag = doom_high
-            clr_global_flag = doom_very_high
-        }
-        # 20-39
-        if = {
-            limit = {
-                check_variable = { which = "doom_counter" value = 20 }
-                NOT = { check_variable = { which = "doom_counter" value = 40 }}
+                NOT = { check_variable = { which = "doom_counter" value = 30 }}
             }
             set_global_flag = doom_low
             # clear rest of flags
-            clr_global_flag = doom_no
             clr_global_flag = doom_medium
             clr_global_flag = doom_high
             clr_global_flag = doom_very_high
         }
-        # 40-59
+        # 30-60
         if = {
             limit = {
-                check_variable = { which = "doom_counter" value = 40 }
+                check_variable = { which = "doom_counter" value = 30 }
                 NOT = { check_variable = { which = "doom_counter" value = 60 }}
             }
             set_global_flag = doom_medium
             # clear rest of flags
-            clr_global_flag = doom_no
             clr_global_flag = doom_low
             clr_global_flag = doom_high
             clr_global_flag = doom_very_high
-        } 
-        # 60-79 # chaos incrusion
+        }
+        # 60-90 local order forces united
         if = {
             limit = {
                 check_variable = { which = "doom_counter" value = 60 }
-                NOT = { check_variable = { which = "doom_counter" value = 80 }}
+                NOT = { check_variable = { which = "doom_counter" value = 90 }}
             }
             set_global_flag = doom_high
             # clear rest of flags
-            clr_global_flag = doom_no
             clr_global_flag = doom_low
             clr_global_flag = doom_medium
             clr_global_flag = doom_very_high
-        }
-        # 80-99 # world is flooded by chaos
+        } 
+        # 90> # all races of order united
         if = {
             limit = {
-                check_variable = { which = "doom_counter" value = 80 }
-                NOT = { check_variable = { which = "doom_counter" value = 100 }}
+                check_variable = { which = "doom_counter" value = 90 }
             }
             set_global_flag = doom_very_high
             # clear rest of flags
-            clr_global_flag = doom_no
             clr_global_flag = doom_low
             clr_global_flag = doom_medium
             clr_global_flag = doom_high
-        }
-        # 100 - the Doom
-        if = {
-            limit = {
-                check_variable = { which = "doom_counter" value = 100 }
-            }
-            clr_global_flag = doom_no
-            clr_global_flag = doom_low
-            clr_global_flag = doom_medium
-            clr_global_flag = doom_high
-            clr_global_flag = doom_very_high
-            # end game (somehow: maybe kill all pc characters dynasty)
-            set_global_flag = doom
         }
     }
     # no options this is hidden event

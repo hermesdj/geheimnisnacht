@@ -218,27 +218,7 @@ incapable = {
 	fertility = -0.3
 }
 scarred = {
-	opposites =  {
-		heavily_scarred
-		massively_scarred
-	}
 	monthly_character_prestige = 0.1
-}
-
-heavily_scarred = {
-	opposites =  {
-		scarred
-		massively_scarred
-	}
-	monthly_character_prestige = 0.3
-}
-
-massively_scarred = {
-	opposites =  {
-		scarred
-		heavily_scarred
-	}
-	monthly_character_prestige = 0.5
 }
 
 eunuch = {

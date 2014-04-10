@@ -7,3 +7,4 @@ backups
 *.pdf
 *.aux
 *.log
+test.*
