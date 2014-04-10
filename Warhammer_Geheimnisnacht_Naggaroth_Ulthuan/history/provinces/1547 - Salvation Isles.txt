@@ -1,0 +1,15 @@
+# 1547 Salvation isles
+
+# County Title
+title = c_salvation_isles
+
+# Settlements
+max_settlements = 3
+b_lost_light = castle
+
+# Misc
+culture = bjornling
+religion = norse
+
+
+# History

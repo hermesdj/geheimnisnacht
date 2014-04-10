@@ -30,7 +30,7 @@ holder = 500029 #"Siegrich"  Siggurdsunu
 holder = 500030 #Agold  Siggurdsunu
 }
 
-2519.6.27={
+316.12.7={
 holder = 500031 #Siggurd  Siggurdsunu
 }
 
