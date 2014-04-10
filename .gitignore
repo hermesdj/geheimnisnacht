@@ -4,3 +4,6 @@
 *.xcf
 backups
 *~
+*.pdf
+*.aux
+*.log

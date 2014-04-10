@@ -13,7 +13,8 @@ spell_truthpower = {
     icon = 43
 }
 spell_eyesoftruth = {
-    intrigue = 3
+    intrigue = 1
+    # FIXME : implement some additional effect in plot scripts
     icon = 43
 }
 

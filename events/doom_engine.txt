@@ -20,7 +20,10 @@
 # However every bad thing that happen in world increase a counter a little bit
 # 
 #
+# DOOM COUNTER RAISING
 #
+# cbs: chaos_subjugation 
+# events: defined here
 #
 #
 #

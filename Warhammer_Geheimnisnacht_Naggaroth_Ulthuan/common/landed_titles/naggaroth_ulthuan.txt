@@ -2185,16 +2185,6 @@ e_naggaroth = {
 				}
 			}
 
-			c_khourime = {
-				color = { 33 5 43 }
-				color2 = { 255 255 255 }
-					
-				b_khourime = {
-				}
-				b_anast_clast = {
-				}
-			}
-
 			c_ganthar = {
 				color = { 94 30 88 }
 				color2 = { 255 255 255 }
@@ -2244,6 +2234,128 @@ e_naggaroth = {
 				b_klathryn_graef = {
 				}
 			}
+			
+			
+			
+			
+			c_vindicus = {
+				color = { 27 56 133 }
+				color2 = { 255 255 255 }
+					
+				b_vindicus = {
+				}
+				b_ranthun = {
+				}
+			}
+			
+			c_zardok = {
+				color = { 57 156 133 }
+				color2 = { 255 255 255 }
+					
+				b_zardok = {
+				}
+				b_onyx_spire = {
+				}
+			}
+			
+			c_clarak = {
+				color = { 27 156 133 }
+				color2 = { 255 255 255 }
+					
+				b_clarak_spire = {
+				}
+				b_malleum = {
+				}
+			}
+
+			c_khymerica = {
+				color = { 27 156 133 }
+				color2 = { 255 255 255 }
+					
+				b_khymerica_spire = {
+				}
+				b_skarix = {
+				}
+				b_the_wrack = {
+				}
+			}
+			
+			c_shroktak = {
+				color = { 27 106 201 }
+				color2 = { 255 255 255 }
+					
+				b_shroktak = {
+				}
+				b_orru = {
+				}
+				b_tayhure = {
+				}
+				b_naryss = {
+				}
+			}
+
+			c_cragroth = {
+				color = { 33 5 43 }
+				color2 = { 255 255 255 }
+					
+				b_cragroth_deep = {
+				}
+				b_khourime = {
+				}
+				b_anast_clast = {
+				}
+			}
+
+			c_rothkar = {
+				color = { 27 156 133 }
+				color2 = { 255 255 255 }
+					
+				b_rothkar_spire = {
+				}
+				b_ashen_hold = {
+				}
+				b_felstorm_crown = {
+				}
+			}
+
+			c_storag_kor = {
+				color = { 27 156 133 }
+				color2 = { 255 255 255 }
+					
+				b_storag_kor = {
+				}
+				b_hyral_fortress = {
+				}
+				b_fuurem = {
+				}
+			}
+
+			c_drackla = {
+				color = { 27 106 201 }
+				color2 = { 255 255 255 }
+					
+				b_drackla_spire = {
+				}
+				b_lukaer = {
+				}
+				b_aranc = {
+				}
+				b_yestar = {
+				}
+			}
+
+			c_eldar = {
+				color = { 102 153 130 }
+				color2 = { 255 255 255 }
+					
+				b_eldar_spire = {
+				}
+				b_tethys = {
+				}
+				b_thorondoth = {
+				}
+			}
+
 		}
 	}
 	
@@ -2259,10 +2371,12 @@ e_naggaroth = {
 			
 			capital = 1444 # Vaul Khar
 				
-			c_khlar_tuurm = {
+			c_blacklight = {
 				color = { 102 153 130 }
 				color2 = { 255 255 255 }
 					
+				b_blacklight_tower = {
+				}
 				b_khlar_tuurm = {
 				}
 				b_haenym_graef = {
@@ -2448,16 +2562,6 @@ e_naggaroth = {
 				b_ungoliath = {
 				}
 				b_gallaem = {
-				}
-			}
-
-			c_tethys = {
-				color = { 102 153 130 }
-				color2 = { 255 255 255 }
-					
-				b_tethys = {
-				}
-				b_thorondoth = {
 				}
 			}
 
@@ -2916,12 +3020,14 @@ e_naggaroth = {
 			color = { 134 123 142 }
 			color2 = { 255 255 255 }
 			
-			capital = 1343 #Nagorahar
+			capital = 1343 #Nagrar
 	
-			c_nagorahar = {
+			c_nagrar = {
 				color = { 124 142 145 }
 				color2 = { 255 255 255 }
 					
+				b_nagrar = {
+				}
 				b_nagorahar = {
 				}
 				b_nobhar = {
@@ -2932,10 +3038,12 @@ e_naggaroth = {
 				}
 			}
 
-			c_akhbar = {
+			c_shagrath = {
 				color = { 128 111 106 }
 				color2 = { 255 255 255 }
 					
+				b_shagrath = {
+				}
 				b_akhbar = {
 				}
 				b_gilath_suith = {
@@ -2967,33 +3075,37 @@ e_naggaroth = {
 			color = { 105 106 101 }
 			color2 = { 255 255 255 }
 			
-			capital = 1387 #Nagyth
+			capital = 1387 #Karkan
 	
-			c_nagyth = {
+			c_karkan = {
 				color = { 122 157 145 }
 				color2 = { 255 255 255 }
 					
+				b_karkan = {
+				}
 				b_nagyth = {
 				}
 				b_aethraen_hag = {
 				}
 			}
 	
-			c_urithuum = {
+			c_ashrak = {
 				color = { 133 163 155 }
 				color2 = { 255 255 255 }
 					
+				b_ashrak = {
+				}
 				b_urithuum = {
 				}
 				b_exnobh = {
 				}
 			}
 	
-			c_lathmin = {
+			c_kaelra = {
 				color = { 145 144 124 }
 				color2 = { 255 255 255 }
 					
-				b_lathmin = {
+				b_kaelra = {
 				}
 				b_hyshin = {
 				}
@@ -3006,11 +3118,11 @@ e_naggaroth = {
 			
 			capital = 1391 #Ixir
 	
-			c_karauva = {
+			c_lathmin = {
 				color = { 142 159 147 }
 				color2 = { 255 255 255 }
 					
-				b_karauva = {
+				b_lathmin = {
 				}
 				b_zhabatath = {
 				}
@@ -3034,40 +3146,48 @@ e_naggaroth = {
 			
 			capital = 1383 #Thendral
 	
-			c_urith = {
+			c_aakon = {
 				color = { 142 123 135 }
 				color2 = { 255 255 255 }
 					
+				b_aakon = {
+				}
 				b_urith = {
 				}
 				b_kherithag = {
 				}
 			}
 	
-			c_ourabra_edhi = {
+			c_volroth = {
 				color = { 123 154 142 }
 				color2 = { 255 255 255 }
 					
+				b_volroth = {
+				}
 				b_ourabra_edhi = {
 				}
 				b_arshaith_kar = {
 				}
 			}
 			
-			c_thendral = {
+			c_kauark = {
 				color = { 123 142 111 }
 				color2 = { 255 255 255 }
 					
+				b_kauark = {
+				}
 				b_thendral = {
 				}
 				b_urnard_kar = {
 				}
 			}
 	
-			c_eildar = {
+			c_atorak = {
 				color = { 142 132 152 }
 				color2 = { 255 255 255 }
 					
+				b_atorak = {
+				}
 				b_eildar = {
 				}
 				b_antharin = {
@@ -3079,12 +3199,14 @@ e_naggaroth = {
 			color = { 164 161 177 }
 			color2 = { 255 255 255 }
 			
-			capital = 1419 #Aurach
+			capital = 1419 #Kandra
 	
-			c_corix = {
+			c_dargoth = {
 				color = { 113 142 121 }
 				color2 = { 255 255 255 }
 					
+				b_dargoth = {
+				}
 				b_corix = {
 				}
 				b_autoursyn = {
@@ -3101,10 +3223,12 @@ e_naggaroth = {
 				}
 			}
 	
-			c_aurach = {
+			c_kandra = {
 				color = { 111 141 111 }
 				color2 = { 255 255 255 }
 					
+				b_kandra = {
+				}
 				b_aurach = {
 				}
 				b_kharos = {
@@ -3564,7 +3688,7 @@ e_naggaroth = {
 				}
 			}
 
-			c_oriour_har = {
+			c_har_kaldra = {
 				color = { 155 42 54 }
 				color2 = { 255 255 255 }
 					
@@ -3780,23 +3904,23 @@ e_naggaroth = {
 	}	
 }
 
-	k_arnhelm = {
+	k_arnheim = {
 		color = { 40 92 185 }
 		color2 = { 255 255 255 }
 		
-		capital = 1458 #Arnhelm
+		capital = 1458 #Arnheim
 
-		d_arnhelm = {
+		d_arnheim = {
 			color = { 22 121 209 }
 			color2 = { 255 255 255 }
 			
-			capital = 1458 #Arnhelm
+			capital = 1458 #Arnheim
 
-			c_arnhelm = {
+			c_arnheim = {
 				color = { 27 106 201 }
 				color2 = { 255 255 255 }
 					
-				b_arnhelm = {
+				b_arnheim = {
 				}
 				b_celestium = {
 				}
@@ -3808,59 +3932,89 @@ e_naggaroth = {
 				}
 			}
 
-			c_leuca = {
+			c_uyadar = {
 				color = { 27 106 201 }
 				color2 = { 255 255 255 }
 					
-				b_leuca = {
-				}
-				b_aranc = {
-				}
-				b_yestar = {
-				}
-			}
-
-			c_auyl_eadar = {
-				color = { 27 106 201 }
-				color2 = { 255 255 255 }
-					
-				b_auyl_eadar = {
+				b_uyadar = {
 				}
 				b_aliba = {
 				}
 			}
-		}
-		
-		d_hinterland = {
-			color = { 78 177 221 }
-			color2 = { 255 255 255 }
 			
-			capital = 1461 #Cerriden
-			
-			c_cerriden = {
+			c_ascelon = {
 				color = { 27 106 201 }
 				color2 = { 255 255 255 }
 					
-				b_cerriden = {
+				b_ascelon = {
 				}
-				b_tritica = {
+				b_harua = {
 				}
-				b_eldum = {
+				b_chessentir = {
+				}
+			}
+			
+			c_noveum = {
+				color = { 27 106 201 }
+				color2 = { 255 255 255 }
+					
+				b_noveum = {
+				}
+				b_vellex = {
+				}
+				b_wynde = {
+				}
+				b_andityr = {
 				}
 			}
 
-			c_corvum = {
-				color = { 27 106 201 }
-				color2 = { 255 255 255 }
-					
-				b_corvum_orru = {
-				}
-				b_xuyan = {
-				}
-			}
 		}
 		
-		d_arnhelm_forest = {
+		d_coetic_strand = {
+			color = { 22 121 129 }
+			color2 = { 255 255 255 }
+			
+			capital = 1466 #Coetia
+
+			c_coetia = {
+				color = { 27 156 133 }
+				color2 = { 255 255 255 }
+					
+				b_coetia = {
+				}
+				b_talchar = {
+				}
+				b_aelita = {
+				}
+				b_olithos = {
+				}
+			}
+
+			c_karrik = {
+				color = { 27 156 133 }
+				color2 = { 255 255 255 }
+					
+				b_aleafin = {
+				}
+				b_huorat = {
+				}
+			}
+
+			c_edhir = {
+				color = { 27 156 133 }
+				color2 = { 255 255 255 }
+					
+				b_edhir = {
+				}
+				b_luanar = {
+				}
+				b_eyrin_ar = {
+				}
+			}
+
+		}
+		
+		d_arnheim_forest = {
 			color = { 41 171 203 }
 			color2 = { 255 255 255 }
 			
@@ -3907,11 +4061,11 @@ e_naggaroth = {
 			}
 		}
 
-		d_noveum = {
-			color = { 66 141 200 }
+		d_ashfall = {
+			color = { 34 171 131 }
 			color2 = { 255 255 255 }
 			
-			capital = 1460 #Noveum March
+			capital = 1476 #Moon Shard
 
 			c_karyss = {
 				color = { 27 106 201 }
@@ -3923,36 +4077,12 @@ e_naggaroth = {
 				}
 			}
 
-			c_ascelon = {
+			c_moon_shard = {
 				color = { 27 106 201 }
 				color2 = { 255 255 255 }
 					
-				b_ascelon = {
+				b_moon_shard_spire = {
 				}
-				b_harua = {
-				}
-				b_chessentir = {
-				}
-			}
-			
-			c_noveum_march = {
-				color = { 27 106 201 }
-				color2 = { 255 255 255 }
-					
-				b_noveum = {
-				}
-				b_vellex = {
-				}
-				b_wynde = {
-				}
-				b_andityr = {
-				}
-			}
-
-			c_lashiar = {
-				color = { 27 106 201 }
-				color2 = { 255 255 255 }
-					
 				b_lashiar = {
 				}
 				b_miron = {
@@ -3960,36 +4090,7 @@ e_naggaroth = {
 				b_aeleas = {
 				}
 			}
-		}
 		
-		d_ashfall = {
-			color = { 34 171 131 }
-			color2 = { 255 255 255 }
-			
-			capital = 1478 #Coronis
-
-			c_coronis = {
-				color = { 27 106 201 }
-				color2 = { 255 255 255 }
-					
-				b_orru = {
-				}
-				b_tayhure = {
-				}
-				b_naryss = {
-				}
-			}
-
-			c_skarix = {
-				color = { 27 156 133 }
-				color2 = { 255 255 255 }
-					
-				b_skarix = {
-				}
-				b_the_wrack = {
-				}
-			}
-
 			c_bleakwood = {
 				color = { 27 156 133 }
 				color2 = { 255 255 255 }
@@ -4015,17 +4116,7 @@ e_naggaroth = {
 			color = { 22 131 139 }
 			color2 = { 255 255 255 }
 			
-			capital = 1484 #Ashen Vale
-
-			c_ashen_vale = {
-				color = { 27 156 133 }
-				color2 = { 255 255 255 }
-					
-				b_ashen_vale_hold = {
-				}
-				b_antler_crown = {
-				}
-			}
+			capital = 1483 #Blackspur
 
 			c_blackspur = {
 				color = { 27 156 133 }
@@ -4034,14 +4125,7 @@ e_naggaroth = {
 				b_blackspur = {
 				}
 			}
-		}
 		
-		d_petrified_wood = {
-			color = { 22 151 159 }
-			color2 = { 255 255 255 }
-			
-			capital = 1480 #Hourum
-
 			c_charnum_wood = {
 				color = { 27 106 201 }
 				color2 = { 255 255 255 }
@@ -4050,10 +4134,12 @@ e_naggaroth = {
 				}
 			}
 
-			c_hourum = {
+			c_quintex = {
 				color = { 27 106 201 }
 				color2 = { 255 255 255 }
 					
+				b_quintex = {
+				}
 				b_ignia = {
 				}
 				b_aurend = {
@@ -4066,49 +4152,35 @@ e_naggaroth = {
 		color = { 30 152 155 }
 		color2 = { 255 255 255 }
 		
-		capital = 1466 #Coetia
+		capital = 1463 #Bleak Hold
 
-		d_cython = {
+		d_cython_march = {
 			color = { 51 137 152 }
 			color2 = { 255 255 255 }
 			
-			capital = 1462 #Kylon
+			capital = 1463 #Bleak Hold
 
-			c_kylon = {
+			c_hag_hall = {
 				color = { 27 156 133 }
 				color2 = { 255 255 255 }
 					
-				b_kylon = {
+				b_hag_hall = {
 				}
-				b_reev = {
+				b_kylon = {
 				}
 			}
 
-			c_grabec = {
+			c_bleak_hold = {
 				color = { 27 156 133 }
 				color2 = { 255 255 255 }
 					
+				b_bleak_hold_fortress = {
+				}
 				b_grabec = {
 				}
 				b_rissdin = {
 				}
-			}
-
-			c_malleum = {
-				color = { 27 156 133 }
-				color2 = { 255 255 255 }
-					
-				b_malleum = {
-				}
-			}
-
-			c_hyral_pass = {
-				color = { 27 156 133 }
-				color2 = { 255 255 255 }
-					
-				b_hyral_fortress = {
-				}
-				b_fuurem = {
+				b_reev = {
 				}
 			}
 
@@ -4121,6 +4193,25 @@ e_naggaroth = {
 				b_miniath = {
 				}
 			}
+		}
+		
+		d_hinterland = {
+			color = { 78 177 221 }
+			color2 = { 255 255 255 }
+			
+			capital = 1461 #Cerriden
+			
+			c_cerriden = {
+				color = { 27 106 201 }
+				color2 = { 255 255 255 }
+					
+				b_cerriden = {
+				}
+				b_tritica = {
+				}
+				b_eldum = {
+				}
+			}
 
 			c_pyris = {
 				color = { 27 156 133 }
@@ -4131,49 +4222,15 @@ e_naggaroth = {
 				b_bolewoud = {
 				}
 			}
-		}
-		
-		d_coetic_strand = {
-			color = { 22 121 129 }
-			color2 = { 255 255 255 }
 			
-			capital = 1466 #Coetia
-
-			c_coetia = {
-				color = { 27 156 133 }
+			c_corvum = {
+				color = { 27 106 201 }
 				color2 = { 255 255 255 }
 					
-				b_coetia = {
+				b_corvum_orru = {
 				}
-				b_talchar = {
-				}
-				b_aelita = {
-				}
-				b_olithos = {
+				b_xuyan = {
 				}
 			}
-
-			c_karrik = {
-				color = { 27 156 133 }
-				color2 = { 255 255 255 }
-					
-				b_aleafin = {
-				}
-				b_huorat = {
-				}
-			}
-
-			c_edhir = {
-				color = { 27 156 133 }
-				color2 = { 255 255 255 }
-					
-				b_edhir = {
-				}
-				b_luanar = {
-				}
-				b_eyrin_ar = {
-				}
-			}
-
 		}
 	}

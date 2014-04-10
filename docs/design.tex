@@ -1,0 +1,63 @@
+\documentclass[10pt, english]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata}
+%------------------------DEFINICJA STRUKTURY DO TKIZA------------------------------
+\tikzset{
+    pretile/.style={
+        rectangle, minimum size=16mm, draw=black!100
+    },
+    tile/.style={
+        pretile, 
+        append after command={
+            [every edge/.append style={
+                black!100,
+                shorten >=\pgflinewidth,
+                shorten <=\pgflinewidth,
+            }]
+           (\tikzlastnode.north west) edge (\tikzlastnode.south east)
+           (\tikzlastnode.north east) edge (\tikzlastnode.south west)
+        }
+    }
+}
+%---------------------------------------------------------
+\author{Piotr<elminister@interia.pl>}
+
+
+\begin{document}
+\section{Core mechanics changes}
+\section{Additional mechanics}
+\subsection{CBs}
+Test
+\paragraph{chaos\_incrusion cb} - defined to represent large coordinated attack 
+of chaotic forces.
+Connected with event chain that applies bonuses to armies of the person that leads a 
+chaos incrusion.
+Can be used in sequence and for it to work \textbf{doom\_counter} must be high.
+Characteristics:
+\begin{itemize}
+\item use decreases chances for other rulers to use other cbs and increases chances to use this one
+\item available for high doom counter
+\item all order religions can join the defender
+\item all chaotic religion character can join the attacker
+\item success/failure increasess/decreases the doom counter
+\item apply special modifier to province that decreases 
+\item ability to target empires and kingdoms both
+\item imprisoning the enemy wouldn't lead to end of war? faction that rebels?
+\item make it impossible to raise levies or anything of that sort
+\item ensure that after taking the tile most of the old vassals would be converted or killed
+\end{itemize}
+
+\paragraph{possible implementation}
+\begin{itemize}
+\item base: holy war scheme,crusade scheme,regular cb
+\item modifier to hinder ability for recruitment from provinces, along with set of events
+      to change it
+\item faction adjustment that wants independence in case of lost war
+\item or a way to kill 
+\item on\_defender\_leader\_death - choose new heir to respectful title the title
+\end{itemize}
+\end{document}
