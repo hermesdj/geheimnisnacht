@@ -1,6 +1,3 @@
-#High elf Asur Dynasties
-#"Adressal" "Aeralithar" "Aeraraiil" "Aerarina" "Aisellion" "Aldaeth" "Aldarina" "Aldaron" "Aldaval" "Aldavel" "Aleanlyth" "Anar" "Andiralis" "Ardagnirhir" "Arefor" "Arefor" "Arhain" "Asuryan" "Athranan" "Augendta" "Auglynnsyr" "Belidae" "Berlaelen" "Bertaneth" "Berthalas" "Birdiir" "Bireme" "Birlithe" "Birmiel" "Birron" "Birvathar" "Birvaul" "Caledor" "Celedhrinil" "Celeethdal" "Celeglinaeil" "Celelithina" "Celelothlhun" "Cetaine" "Cirana" "Cirana" "Corresyn" "Cromdhen" "Cromlond" "Cromviel" "Cuesas" "Cutanlhun" "Cutathina" "Daerl" "Daerleas" "Daerleon" "Dlaragasyr" "Dlartanrin" "Ealoeth" "Ealolond" "Ealorina" "Ealoron" "Ealovathar" "Edrianar" "Elenren" "Elerelon" "Elereth" "Elerlond" "Elerloth" "Elernae" "Elertaur" "Erestir" "Erestirath" "Ethonial" "Faelandalan" "Faerondaerl" "Falaelon" "Falaren" "Feldragil" "Felelenta" "Felraieil" "Feltan" "Feltanthar" "Fenix" "Gaallhun" "Gaelenrin" "Galahern" "Galamirion" "Galaos" "Galatanta" "Galavir" "Galondiir" "Galonmin" "Galonron" "Galonvathar" "Gamirsel" "Gilaeth" "Gloran" "Gloraniel" "Gwaelwa" "Gwalithe" "Gwavaul" "Gwavir" "Hadhrinta" "Haeeth" "Haemin" "Haesume" "Halaian" "Haleril" "Halithil" "Hamirian" "Haran" "Haranath" "Hathaniel" "Hatholthir" "Isilidirseer" "Isiliereonel" "Isiliesryl" "Isilinarta" "Kaeladir" "Kaermarr" "Kaermire" "Kevadragthir" "Kevatathsyr" "Kiesas" "Kilalal" "Kinarelen" "Kitansel" "Kitholdal" "Laeagaar" "Laealdal" "Laediriel" "Laemiriel" "Laemirtinu" "Landhrineth" "Landilineth" "Lanelenthor" "Lanethellyn" "Lardilindren" "Larendhrindren" "Larenerelhun" "Larenethion" "Larethlhun" "Larglinaeil" "Lartandren" "Larthalial" "Larthaneil" "Larvandal" "Lassallal" "Lassaltinu" "Lassdragil" "Lasstaelen" "Levan" "Levaniel" "Lianllach" "Lithelwa" "Lossaryn" "Lothiarn" "Lothreull" "Maeldanis" "Maeseth" "Maldragthor" "Malesthor" "Malethellyn" "Malethil" "Malladal" "Mallothdar" "Malthanas" "Maraieth" "Matathdren" "Matholryl" "Meliane" "Meliane" "Minais" "Minathar" "Mineath" "Mithaleil" "Mithbrindal" "Mitheleniel" "Mithethil" "Mithlaryl" "Naathilam" "Nael" "Nalldiir" "Nalllithe" "Nallnae" "Nallos" "Nallron" "Nardilinellyn" "Narliththir" "Narnareth" "Narraidar" "Neldiril" "Neldirilitha" "Nhaalvatinu" "Nhalata" "Nhalothdren" "Nhayadal" "Norodiir" "Noroeme" "Norovathar" "Norovir" "Ondoron" "Ondotaur" "Ordel" "Orithwyn" "Rhuilond" "Rhuiren" "Rhuiron" "Roloeme" "Rololond" "Rolomin" "Rolominith" "Rundhrinthar" "Runendmyr" "Runereial" "Runtaneth" "Sapherior" "Shalandaerl" "Shalasel" "Sharondaerl" "Sharondalan" "Solbar" "Solbarath" "Talaldren" "Talelon" "Talelwa" "Talendar" "Tallaindeloth" "Tallofel" "Tallynniel" "Talmirthor" "Taltaur" "Taltaurath" "Taltholdar" "Tanereina" "Tanlothsyr" "Tanvanial" "Tathdiir" "Tatheth" "Tathlithe" "Tathmiel" "Telalvaian" "Teldilindar" "Teldirian" "Thalandwire" "Thalandwire" "Tholos" "Tholosath" "Tifwing" "Tifwing" "Tinudiir" "Tinuron" "Toraethial" "Tovliryn" "Turithas" "Undoelon" "Undolond" "Undomiel" "Undotaure" "Valandil" "Valler" "Valleron" "Vandhen" "Vandiir" "Vanloth" "Vanmin" "Vanos" "Vanrina" "Werdhrinar" "Weressyr" "Werlithelen" "Wernaronel" "Wertaniel" "Wertanthir" "Wertanthir" "Yrauloth" "Yraunae" "Yrauval"
-
 #Dark Elf Druchi Dynasties
 #"Aktarn" "Andullis" "Anethin" "Arheirain" "Arkaneth" "Arx" "Aveth" "Certhren" "Cethlan" "Drakanth" "Dreyalan" "Duris" "Garalond" "Glaikoi" "Garneth" "Gryneth" "Helbane" "Kairthus" "Kaliksen" "Kar" "Karana" "Karnific" "Khail" "Kirak" "Klastra" "Laikin" "Lankryss" "Luthinen" "Maglin" "Marr" "Nagrath" "Nauglath" "Noth" "Raan" "Riatil" "Sarath" "Soronil" "Thanlin" "Turrix" "Ullen" "Ulthorin" "Urinath" "Uthorin" "Uxor" "Uxoris" "Vaukhar" "Zaen" "Zaen" "Zakira" "Zornil" 
 
@@ -35,6 +32,15 @@
 	name = "Okumoto"
 	culture = nipponese
 }
+
+9002 = {
+	name = "Lahmia"
+	culture = 6900000
+}
+
+
+
+
 
 10000 = {
 	name = "von Holzkrug"
@@ -3719,6 +3725,7 @@
 }
 
 
+13580  = {  name = "van der Winst" culture = westerlander }
 
 
 
@@ -4500,6 +4507,7 @@
 
 
 15500 = { name = "Steinkuhler" culture = neueslander }
+
 15501 = { 
 	name = "von Erhard" 
 	culture = neueslander 
@@ -6709,6 +6717,12 @@
 	name = "von Bocksberg"
 	culture = sylvanian
 }
+
+19078 = {
+	name = "von Kootsdorf"
+	culture = sylvanian
+}
+
 19079 = {
 	name = "von Vinstingen"
 	culture = sylvanian
@@ -16185,11 +16199,6 @@
 	culture = medean
 }
 
-50000 = {
-	name = "placeholder"
-	culture = tuareg
-}
-
 51000 = {
 	name = "Cisse"
 	culture = wasai
@@ -17414,7 +17423,7 @@
 	culture = aghol
 }
 62003 = {
-	name = "Aq Sonqor"
+	name = "Sonqor"
 	culture = aghol
 }
 62004 = {
@@ -19559,92 +19568,43 @@
 75399 = { name = "Gamilson" culture = dwarf_main }
 75400 = { name = "Khazakaz" culture = dwarf_main }
 75401 = { name = "Gronti-Karak" culture = dwarf_main }
-75402 = { name = "Hugnirgrin" culture = dwarf_main }
-75403 = { name = "Stromez-Grimaz" culture = dwarf_main }
-75404 = { name = "Barakagar" culture = dwarf_main }
-75405 = { name = "Drongzad" culture = dwarf_main }
-75406 = { name = "Orrudhel" culture = dwarf_main }
-75407 = { name = "Grizidal" culture = dwarf_main }
-75408 = { name = "Lokbrim" culture = dwarf_main }
-75409 = { name = "Malakaison" culture = dwarf_main }
-75410 = { name = "Za-Wand" culture = dwarf_main }
-75411 = { name = "Fargrimok" culture = dwarf_main }
-75412 = { name = "Kazranson" culture = dwarf_main }
-75413 = { name = "Slantercor" culture = dwarf_main }
-75414 = { name = "Valayagrim" culture = dwarf_main }
-75415 = { name = "Za-Karn" culture = dwarf_main }
-75416 = { name = "Argamson" culture = dwarf_main }
-75417 = { name = "Gazuligrim" culture = dwarf_main }
-75418 = { name = "Branza" culture = dwarf_main }
-75419 = { name = "Rikkik" culture = dwarf_main }
-75420 = { name = "Dorrigrin" culture = dwarf_main }
-75421 = { name = "Khulgerokri" culture = dwarf_main }
-75422 = { name = "Grundal" culture = dwarf_main }
-75423 = { name = "Zakzen" culture = dwarf_main }
-75424 = { name = "Durinzad" culture = dwarf_main }
-75425 = { name = "Thingaznaggrund" culture = dwarf_main }
-75426 = { name = "Azriliz" culture = dwarf_main }
-75427 = { name = "Morgrimok" culture = dwarf_main }
-75428 = { name = "Karaz-Za" culture = dwarf_main }
-75429 = { name = "Ulfarson" culture = dwarf_main }
-75430 = { name = "Gnolgorn" culture = dwarf_main }
-75431 = { name = "Chufdreng" culture = dwarf_main }
-75432 = { name = "Wolfhame" culture = dwarf_main }
-75433 = { name = "Rumnahem" culture = dwarf_main }
-75434 = { name = "Kreed" culture = dwarf_main }
-75435 = { name = "Guzgot" culture = dwarf_main }
-75436 = { name = "Zilfinrat" culture = dwarf_main }
-75437 = { name = "Ekrunduraz" culture = dwarf_main }
-75438 = { name = "Throngthang" culture = dwarf_main }
-75439 = { name = "Balderk" culture = dwarf_main }
-75440 = { name = "Narvison" culture = dwarf_main }
-75441 = { name = "Kazad-Drakk" culture = dwarf_main }
-75442 = { name = "Grimandok" culture = dwarf_main }
-75443 = { name = "Dawrigri" culture = dwarf_main }
-75444 = { name = "Janekgrin" culture = dwarf_main }
-75445 = { name = "Za-Azril" culture = dwarf_main }
-75446 = { name = "Skazimold" culture = dwarf_main }
-75447 = { name = "Kuzz-Karak" culture = dwarf_main }
-75448 = { name = "Harkanzad" culture = dwarf_main }
-75449 = { name = "Thurnok" culture = dwarf_main }
-75450 = { name = "Ongbar" culture = dwarf_main }
-75451 = { name = "Bolgun" culture = dwarf_main }
-75452 = { 
+
+75402 = { 
 	name = "Zharrgorog" #Master Brewer of Karaz-a-Karak
 	culture = dwarf_main 
 }
 
-75453 = { 
+75403 = { 
 	name = "Barakgrund" #Guildmaster of Zhufbar Engineers
 	culture = dwarf_main 
 }
 
-75454 = { 
+75404 = { 
 	name = "Galazlok" #Master Jeweler of Karaz-a-Karak
 	culture = dwarf_main 
 }
 
-75455 = { 
+75405 = { 
 	name = "Karangaz" #King Morgrim of Zhufbar, wife Lenka
 	culture = dwarf_main 
 }
 
-75456 = { 
+75406 = { 
 	name = "Barakundi" #Gatekeeper of Zhufbar
 	culture = dwarf_main 
 }
 
-75457 = { 
+75407 = { 
 	name = "Khragbrom" #Engineers of Barak Varr
 	culture = dwarf_main 
 }
 
-75458 = { 
+75408 = { 
 	name = "Funimrik" #Karak Vlag
 	culture = dwarf_main 
 }
 
-75459 = { 
+75409 = { 
 	name = "Jarlki" #Karak Ungor
 	culture = dwarf_main 
 }
@@ -19674,6 +19634,56 @@
 }
 
 
+76004 = { name = "Barakagar" culture = dwarf_norse }
+76005 = { name = "Drongzad" culture = dwarf_norse }
+76006 = { name = "Orrudhel" culture = dwarf_norse }
+76007 = { name = "Grizidal" culture = dwarf_norse }
+76008 = { name = "Lokbrim" culture = dwarf_norse }
+76009 = { name = "Malakaison" culture = dwarf_norse }
+76010 = { name = "Za-Wand" culture = dwarf_norse }
+76011 = { name = "Fargrimok" culture = dwarf_norse }
+76012 = { name = "Kazranson" culture = dwarf_norse }
+76013 = { name = "Slantercor" culture = dwarf_norse }
+76014 = { name = "Valayagrim" culture = dwarf_norse }
+76015 = { name = "Za-Karn" culture = dwarf_norse }
+76016 = { name = "Argamson" culture = dwarf_norse }
+76017 = { name = "Gazuligrim" culture = dwarf_norse }
+76018 = { name = "Branza" culture = dwarf_norse }
+76019 = { name = "Rikkik" culture = dwarf_norse }
+76020 = { name = "Dorrigrin" culture = dwarf_norse }
+76021 = { name = "Khulgerokri" culture = dwarf_norse }
+76022 = { name = "Grundal" culture = dwarf_norse }
+76023 = { name = "Zakzen" culture = dwarf_norse }
+76024 = { name = "Durinzad" culture = dwarf_norse }
+76025 = { name = "Thingaznaggrund" culture = dwarf_norse }
+76026 = { name = "Azriliz" culture = dwarf_norse }
+76027 = { name = "Morgrimok" culture = dwarf_norse }
+76028 = { name = "Karaz-Za" culture = dwarf_norse }
+76029 = { name = "Ulfarson" culture = dwarf_norse }
+76030 = { name = "Gnolgorn" culture = dwarf_norse }
+76031 = { name = "Chufdreng" culture = dwarf_norse }
+76032 = { name = "Wolfhame" culture = dwarf_norse }
+76033 = { name = "Rumnahem" culture = dwarf_norse }
+76034 = { name = "Kreed" culture = dwarf_norse }
+76035 = { name = "Guzgot" culture = dwarf_norse }
+76036 = { name = "Zilfinrat" culture = dwarf_norse }
+76037 = { name = "Ekrunduraz" culture = dwarf_norse }
+76038 = { name = "Throngthang" culture = dwarf_norse }
+76039 = { name = "Balderk" culture = dwarf_norse }
+76040 = { name = "Narvison" culture = dwarf_norse }
+76041 = { name = "Kazad-Drakk" culture = dwarf_norse }
+76042 = { name = "Grimandok" culture = dwarf_norse }
+76043 = { name = "Dawrigri" culture = dwarf_norse }
+76044 = { name = "Janekgrin" culture = dwarf_norse }
+76045 = { name = "Za-Azril" culture = dwarf_norse }
+76046 = { name = "Skazimold" culture = dwarf_norse }
+76047 = { name = "Kuzz-Karak" culture = dwarf_norse }
+76048 = { name = "Harkanzad" culture = dwarf_norse }
+76049 = { name = "Thurnok" culture = dwarf_norse }
+76050 = { name = "Ongbar" culture = dwarf_norse }
+76051 = { name = "Bolgun" culture = dwarf_norse }
+76052 = { name = "Hugnirgrin" culture = dwarf_norse }
+76063 = { name = "Stromez-Grimaz" culture = dwarf_norse }
 
 77000 = {
 	name = "Fooger" #Marienburg Merchant
@@ -19691,6 +19701,107 @@
 		}
 	}
 }
+
+78000 = {  name = "Karakazar" culture = dwarf_chaos }
+78001 = {  name = "Neb'akkaz" culture = dwarf_chaos }
+78002 = {  name = "Mesh" culture = dwarf_chaos }
+78003 = {  name = "Mezannapad" culture = dwarf_chaos }
+78004 = {  name = "Thrakazor" culture = dwarf_chaos }
+78005 = {  name = "Enaka" culture = dwarf_chaos }
+78006 = {  name = "Alkaros" culture = dwarf_chaos }
+78007 = {  name = "Zarkaz" culture = dwarf_chaos }
+78008 = {  name = "Urlamar" culture = dwarf_chaos }
+78009 = {  name = "Babaros" culture = dwarf_chaos }
+78010 = {  name = "Zagaro" culture = dwarf_chaos }
+78011 = {  name = "Urmamza" culture = dwarf_chaos }
+78012 = {  name = "Kazzite" culture = dwarf_chaos }
+78013 = {  name = "Lug'azar" culture = dwarf_chaos }
+78014 = {  name = "Ushar" culture = dwarf_chaos }
+78015 = {  name = "Izir" culture = dwarf_chaos }
+78016 = {  name = "Zornil" culture = dwarf_chaos }
+78017 = {  name = "Bazi'shamal" culture = dwarf_chaos }
+78018 = {  name = "Rimaz" culture = dwarf_chaos }
+78019 = {  name = "Chemos" culture = dwarf_chaos }
+78020 = {  name = "Lug'alanda" culture = dwarf_chaos }
+78021 = {  name = "Manishar" culture = dwarf_chaos }
+78022 = {  name = "Zuen'azzar" culture = dwarf_chaos }
+78023 = {  name = "Uru'karak" culture = dwarf_chaos }
+78024 = {  name = "Urzaba" culture = dwarf_chaos }
+78025 = {  name = "Nammar" culture = dwarf_chaos }
+78026 = {  name = "Mitanni'buran" culture = dwarf_chaos }
+78027 = {  name = "Saragonid" culture = dwarf_chaos }
+78028 = {  name = "Kasskar" culture = dwarf_chaos }
+78029 = {  name = "Nurik" culture = dwarf_chaos }
+78030 = {  name = "Larzun" culture = dwarf_chaos }
+78031 = {  name = "Naram" culture = dwarf_chaos }
+78032 = {  name = "Akkadda" culture = dwarf_chaos }
+78033 = {  name = "Naph'alum" culture = dwarf_chaos }
+78034 = {  name = "Parazzamar" culture = dwarf_chaos }
+78035 = {  name = "Izzari" culture = dwarf_chaos }
+78036 = {  name = "Balzarun" culture = dwarf_chaos }
+78037 = {  name = "Shuttanar" culture = dwarf_chaos }
+78038 = {  name = "Gandaz" culture = dwarf_chaos }
+78039 = {  name = "Warad" culture = dwarf_chaos }
+78040 = {  name = "Damiq" culture = dwarf_chaos }
+78041 = {  name = "Akkaroth" culture = dwarf_chaos }
+78042 = {  name = "Meli'enli" culture = dwarf_chaos }
+78043 = {  name = "Abissar" culture = dwarf_chaos }
+78044 = {  name = "Shulgi" culture = dwarf_chaos }
+78045 = {  name = "Addat" culture = dwarf_chaos }
+78046 = {  name = "Marbiti" culture = dwarf_chaos }
+78047 = {  name = "Kirtal'nazo" culture = dwarf_chaos }
+78048 = {  name = "Aratam" culture = dwarf_chaos }
+78049 = {  name = "Mukin'shipak" culture = dwarf_chaos }
+78050 = {  name = "Naggrundar" culture = dwarf_chaos }
+78051 = {  name = "Artash" culture = dwarf_chaos }
+78052 = {  name = "Agum" culture = dwarf_chaos }
+78053 = {  name = "Eulamark" culture = dwarf_chaos }
+78054 = {  name = "Ezaraddon" culture = dwarf_chaos }
+78055 = {  name = "Kast'zalas" culture = dwarf_chaos }
+78056 = {  name = "Zabad" culture = dwarf_chaos }
+78057 = {  name = "Nergalzar" culture = dwarf_chaos }
+78058 = {  name = "Hashutar" culture = dwarf_chaos }
+78059 = {  name = "Ninur'kudurru" culture = dwarf_chaos }
+78060 = {  name = "Zombez" culture = dwarf_chaos }
+78061 = {  name = "Nergazar" culture = dwarf_chaos }
+78062 = {  name = "Zharrid" culture = dwarf_chaos }
+78063 = {  name = "Nazzaramat" culture = dwarf_chaos }
+78064 = {  name = "Zari'shuum" culture = dwarf_chaos }
+78065 = {  name = "Zharr'daw" culture = dwarf_chaos }
+78066 = {  name = "Pyroc" culture = dwarf_chaos }
+78067 = {  name = "Nabodius" culture = dwarf_chaos }
+78068 = {  name = "Azzur" culture = dwarf_chaos }
+78069 = {  name = "Kazzar" culture = dwarf_chaos }
+78070 = {  name = "Zharnoth" culture = dwarf_chaos }
+78071 = {  name = "Kandaz" culture = dwarf_chaos }
+78072 = {  name = "Hashut'azar" culture = dwarf_chaos }
+78073 = {  name = "Charnoth" culture = dwarf_chaos }
+78074 = {  name = "Wuqaz" culture = dwarf_chaos }
+78075 = {  name = "Hashut'naggrund" culture = dwarf_chaos }
+78076 = {  name = "Zharr'akar" culture = dwarf_chaos }
+78077 = {  name = "Urukad" culture = dwarf_chaos }
+78078 = {  name = "Inzirol" culture = dwarf_chaos }
+78079 = {  name = "Urad" culture = dwarf_chaos }
+78080 = {  name = "Nebazzar" culture = dwarf_chaos }
+78081 = {  name = "Babarrok" culture = dwarf_chaos }
+78082 = {  name = "Kishar" culture = dwarf_chaos }
+78083 = {  name = "Argoth" culture = dwarf_chaos }
+78084 = {  name = "Ornoz" culture = dwarf_chaos }
+78085 = {  name = "Eshubad" culture = dwarf_chaos }
+78086 = {  name = "Tam'muz" culture = dwarf_chaos }
+78087 = {  name = "Inidaz" culture = dwarf_chaos }
+78088 = {  name = "Pazzaru" culture = dwarf_chaos }
+78089 = {  name = "Naz" culture = dwarf_chaos }
+78090 = {  name = "Humazabab" culture = dwarf_chaos }
+78091 = {  name = "Assaroth" culture = dwarf_chaos }
+78092 = {  name = "Abus'lor" culture = dwarf_chaos }
+78093 = {  name = "Gesh'zu" culture = dwarf_chaos }
+78094 = {  name = "Kannadath" culture = dwarf_chaos }
+78095 = {  name = "Rabasu" culture = dwarf_chaos }
+78096 = {  name = "Hannabiri" culture = dwarf_chaos }
+78097 = {  name = "Adaptaz" culture = dwarf_chaos }
+78098 = {  name = "Enammaka" culture = dwarf_chaos }
+78099 = {  name = "Terapor" culture = dwarf_chaos }
 
 
 79000 = {
@@ -22274,3 +22385,866 @@
 93627 = {  name = "Mawgorger" culture = ogre_main }
 93628 = {  name = "Slavebreaker" culture = ogre_main }
 
+94500 = { name = "Andiralis"  culture = loren }
+94501 = { name = "Sharondalan"  culture = loren }
+94502 = { name = "Galatanta"  culture = loren }
+94503 = { name = "Vanloth"  culture = loren }
+94504 = { name = "Minathar"  culture = loren }
+94505 = { name = "Isilinarta"  culture = loren }
+94506 = { name = "Maeldanis"  culture = loren }
+94507 = { name = "Rhuiron"  culture = loren }
+94508 = { name = "Celedhrinil"  culture = loren }
+94509 = { name = "Taltaur"  culture = loren }
+94510 = { name = "Lianllach"  culture = loren }
+94511 = { name = "Tallaindeloth"  culture = loren }
+94512 = { name = "Meliane"  culture = loren }
+94513 = { name = "Fenix"  culture = loren }
+94514 = { name = "Kiesas"  culture = loren }
+94515 = { name = "Gloraniel"  culture = loren }
+94516 = { name = "Gilaeth"  culture = loren }
+94517 = { name = "Naathilam"  culture = loren }
+94518 = { name = "Tifwing"  culture = loren }
+94519 = { name = "Celeglinaeil"  culture = loren }
+94520 = { name = "Rololond"  culture = loren }
+94521 = { name = "Norovir"  culture = loren }
+94522 = { name = "Minais"  culture = loren }
+94523 = { name = "Nalldiir"  culture = loren }
+95000 = { name = "Narliththir"  culture = asthoi }
+95001 = { name = "Laemirtinu"  culture = asthoi }
+95002 = { name = "Rundhrinthar"  culture = asthoi }
+95003 = { name = "Kitansel"  culture = asthoi }
+95004 = { name = "Gaelenrin"  culture = asthoi }
+95005 = { name = "Athranan"  culture = asthoi }
+95006 = { name = "Weressyr"  culture = asthoi }
+95007 = { name = "Berlaelen"  culture = asthoi }
+95008 = { name = "Tholos"  culture = asthoi }
+95009 = { name = "Kinarelen"  culture = asthoi }
+95010 = { name = "Elerelon"  culture = asthoi }
+95011 = { name = "Erestir"  culture = asthoi }
+95012 = { name = "Tholosath"  culture = asthoi }
+95013 = { name = "Falaelon"  culture = asthoi }
+95014 = { name = "Galahern"  culture = asthoi }
+95015 = { name = "Galavir"  culture = asthoi }
+95016 = { name = "Noroeme"  culture = asthoi }
+95017 = { name = "Gwavir"  culture = asthoi }
+95018 = { name = "Mallothdar"  culture = asthoi }
+95019 = { name = "Vanmin"  culture = asthoi }
+95020 = { name = "Nallron"  culture = asthoi }
+95021 = { name = "Lossaryn"  culture = asthoi }
+95022 = { name = "Cromlond"  culture = asthoi }
+95023 = { name = "Cromdhen"  culture = asthoi }
+95024 = { name = "Talendar"  culture = asthoi }
+95500 = { name = "Gwavaul"  culture = avelorni }
+95501 = { name = "Celeethdal"  culture = avelorni }
+95502 = { name = "Lothreull"  culture = avelorni }
+95503 = { name = "Undomiel"  culture = avelorni }
+95504 = { name = "Daerl"  culture = avelorni }
+95505 = { name = "Ondoron"  culture = avelorni }
+95506 = { name = "Elernae"  culture = avelorni }
+95507 = { name = "Nhalothdren"  culture = avelorni }
+95508 = { name = "Valandil"  culture = avelorni }
+95509 = { name = "Birlithe"  culture = avelorni }
+95510 = { name = "Tathdiir"  culture = avelorni }
+95511 = { name = "Lartandren"  culture = avelorni }
+95512 = { name = "Tathlithe"  culture = avelorni }
+95513 = { name = "Mithbrindal"  culture = avelorni }
+95514 = { name = "Feldragil"  culture = avelorni }
+95515 = { name = "Mithlaryl"  culture = avelorni }
+95516 = { name = "Solbar"  culture = avelorni }
+95517 = { name = "Arefor"  culture = avelorni }
+95518 = { name = "Teldilindar"  culture = avelorni }
+95519 = { name = "Haranath"  culture = avelorni }
+95520 = { name = "Rolominith"  culture = avelorni }
+95521 = { name = "Runendmyr"  culture = avelorni }
+95522 = { name = "Gaallhun"  culture = avelorni }
+95523 = { name = "Mitheleniel"  culture = avelorni }
+95524 = { name = "Galonmin"  culture = avelorni }
+96000 = { name = "Adressal"  culture = chracian }
+96001 = { name = "Shalasel"  culture = chracian }
+96002 = { name = "Falaren"  culture = chracian }
+96003 = { name = "Kevadragthir"  culture = chracian }
+96004 = { name = "Hathaniel"  culture = chracian }
+96005 = { name = "Isiliereonel"  culture = chracian }
+96006 = { name = "Cutathina"  culture = chracian }
+96007 = { name = "Levan"  culture = chracian }
+96008 = { name = "Tathmiel"  culture = chracian }
+96009 = { name = "Larethlhun"  culture = chracian }
+96010 = { name = "Lassaltinu"  culture = chracian }
+96011 = { name = "Lardilindren"  culture = chracian }
+96012 = { name = "Feltanthar"  culture = chracian }
+96013 = { name = "Turithas"  culture = chracian }
+96014 = { name = "Lasstaelen"  culture = chracian }
+96015 = { name = "Feltan"  culture = chracian }
+96016 = { name = "Aerarina"  culture = chracian }
+96017 = { name = "Aldaron"  culture = chracian }
+96018 = { name = "Haemin"  culture = chracian }
+96019 = { name = "Undoelon"  culture = chracian }
+96020 = { name = "Kevatathsyr"  culture = chracian }
+96021 = { name = "Elerlond"  culture = chracian }
+96022 = { name = "Caledor"  culture = chracian }
+96023 = { name = "Celelothlhun"  culture = chracian }
+96024 = { name = "Runtaneth"  culture = chracian }
+96500 = { name = "Aldaeth"  culture = cothiq }
+96501 = { name = "Rhuilond"  culture = cothiq }
+96502 = { name = "Larvandal"  culture = cothiq }
+96503 = { name = "Telalvaian"  culture = cothiq }
+96504 = { name = "Galondiir"  culture = cothiq }
+96505 = { name = "Hadhrinta"  culture = cothiq }
+96506 = { name = "Celelithina"  culture = cothiq }
+96507 = { name = "Aldarina"  culture = cothiq }
+96508 = { name = "Matathdren"  culture = cothiq }
+96509 = { name = "Cromviel"  culture = cothiq }
+96510 = { name = "Larendhrindren"  culture = cothiq }
+96511 = { name = "Cirana"  culture = cothiq }
+96512 = { name = "Tovliryn"  culture = cothiq }
+96513 = { name = "Maldragthor"  culture = cothiq }
+96514 = { name = "Undotaure"  culture = cothiq }
+96515 = { name = "Maraieth"  culture = cothiq }
+96516 = { name = "Galamirion"  culture = cothiq }
+96517 = { name = "Neldiril"  culture = cothiq }
+96518 = { name = "Halithil"  culture = cothiq }
+96519 = { name = "Aleanlyth"  culture = cothiq }
+96520 = { name = "Bertaneth"  culture = cothiq }
+96521 = { name = "Narnareth"  culture = cothiq }
+96522 = { name = "Malesthor"  culture = cothiq }
+96523 = { name = "Valler"  culture = cothiq }
+96524 = { name = "Faerondaerl"  culture = cothiq }
+97000 = { name = "Anar"  culture = eataini }
+97001 = { name = "Birvaul"  culture = eataini }
+97002 = { name = "Tatheth"  culture = eataini }
+97003 = { name = "Haran"  culture = eataini }
+97004 = { name = "Galonvathar"  culture = eataini }
+97005 = { name = "Narraidar"  culture = eataini }
+97006 = { name = "Landilineth"  culture = eataini }
+97007 = { name = "Lassdragil"  culture = eataini }
+97008 = { name = "Tallofel"  culture = eataini }
+97009 = { name = "Belidae"  culture = eataini }
+97010 = { name = "Larthaneil"  culture = eataini }
+97011 = { name = "Daerleas"  culture = eataini }
+97012 = { name = "Lassallal"  culture = eataini }
+97013 = { name = "Galaos"  culture = eataini }
+97014 = { name = "Vanrina"  culture = eataini }
+97015 = { name = "Vandhen"  culture = eataini }
+97016 = { name = "Nhaalvatinu"  culture = eataini }
+97017 = { name = "Taltholdar"  culture = eataini }
+97018 = { name = "Nardilinellyn"  culture = eataini }
+97019 = { name = "Kitholdal"  culture = eataini }
+97020 = { name = "Wertaniel"  culture = eataini }
+97021 = { name = "Kilalal"  culture = eataini }
+97022 = { name = "Rhuiren"  culture = eataini }
+97023 = { name = "Isiliesryl"  culture = eataini }
+97500 = { name = "Roloeme"  culture = eataini }
+97501 = { name = "Vandiir"  culture = ellyrian }
+97502 = { name = "Augendta"  culture = ellyrian }
+97503 = { name = "Taltaurath"  culture = ellyrian }
+97504 = { name = "Tallynniel"  culture = ellyrian }
+97505 = { name = "Faelandalan"  culture = ellyrian }
+97506 = { name = "Nallnae"  culture = ellyrian }
+97507 = { name = "Laeagaar"  culture = ellyrian }
+97508 = { name = "Wertanthir"  culture = ellyrian }
+97509 = { name = "Birmiel"  culture = ellyrian }
+97510 = { name = "Aldaval"  culture = ellyrian }
+97511 = { name = "Dlaragasyr"  culture = ellyrian }
+97512 = { name = "Tinudiir"  culture = ellyrian }
+97513 = { name = "Ealoeth"  culture = ellyrian }
+97514 = { name = "Vanos"  culture = ellyrian }
+97515 = { name = "Meliane"  culture = ellyrian }
+97516 = { name = "Mineath"  culture = ellyrian }
+97517 = { name = "Mithethil"  culture = ellyrian }
+97518 = { name = "Rolomin"  culture = ellyrian }
+97519 = { name = "Tanvanial"  culture = ellyrian }
+97520 = { name = "Birron"  culture = ellyrian }
+97521 = { name = "Landhrineth"  culture = ellyrian }
+97522 = { name = "Bireme"  culture = ellyrian }
+97523 = { name = "Ethonial"  culture = ellyrian }
+97524 = { name = "Talmirthor"  culture = ellyrian }
+97525 = { name = "Edrianar"  culture = ellyrian }
+98000 = { name = "Hatholthir"  culture = nagarythi }
+98001 = { name = "Cuesas"  culture = nagarythi }
+98002 = { name = "Talaldren"  culture = nagarythi }
+98003 = { name = "Tinuron"  culture = nagarythi }
+98004 = { name = "Werlithelen"  culture = nagarythi }
+98005 = { name = "Orithwyn"  culture = nagarythi }
+98006 = { name = "Valleron"  culture = nagarythi }
+98007 = { name = "Malethil"  culture = nagarythi }
+98008 = { name = "Laemiriel"  culture = nagarythi }
+98009 = { name = "Cirana"  culture = nagarythi }
+98010 = { name = "Elerloth"  culture = nagarythi }
+98011 = { name = "Tanlothsyr"  culture = nagarythi }
+98012 = { name = "Elenren"  culture = nagarythi }
+98013 = { name = "Wertanthir"  culture = nagarythi }
+98014 = { name = "Malethellyn"  culture = nagarythi }
+98015 = { name = "Sapherior"  culture = nagarythi }
+98016 = { name = "Haeeth"  culture = nagarythi }
+98017 = { name = "Birdiir"  culture = nagarythi }
+98018 = { name = "Neldirilitha"  culture = nagarythi }
+98019 = { name = "Laediriel"  culture = nagarythi }
+98020 = { name = "Aeralithar"  culture = nagarythi }
+98021 = { name = "Cetaine"  culture = nagarythi }
+98022 = { name = "Tanereina"  culture = nagarythi }
+98023 = { name = "Ealorina"  culture = nagarythi }
+98024 = { name = "Teldirian"  culture = nagarythi }
+98500 = { name = "Berthalas"  culture = sapherian }
+98501 = { name = "Laealdal"  culture = sapherian }
+98502 = { name = "Asuryan"  culture = sapherian }
+98503 = { name = "Thalandwire"  culture = sapherian }
+98504 = { name = "Haesume"  culture = sapherian }
+98505 = { name = "Arefor"  culture = sapherian }
+98506 = { name = "Solbarath"  culture = sapherian }
+98507 = { name = "Aldavel"  culture = sapherian }
+98508 = { name = "Werdhrinar"  culture = sapherian }
+98509 = { name = "Kaermire"  culture = sapherian }
+98510 = { name = "Ealolond"  culture = sapherian }
+98511 = { name = "Tifwing"  culture = sapherian }
+98512 = { name = "Lithelwa"  culture = sapherian }
+98513 = { name = "Thalandwire"  culture = sapherian }
+98514 = { name = "Elertaur"  culture = sapherian }
+98515 = { name = "Wernaronel"  culture = sapherian }
+98516 = { name = "Yrauloth"  culture = sapherian }
+98517 = { name = "Galonron"  culture = sapherian }
+98518 = { name = "Isilidirseer"  culture = sapherian }
+98519 = { name = "Matholryl"  culture = sapherian }
+98520 = { name = "Cutanlhun"  culture = sapherian }
+98521 = { name = "Ardagnirhir"  culture = sapherian }
+98522 = { name = "Talelon"  culture = sapherian }
+98523 = { name = "Ondotaur"  culture = sapherian }
+98524 = { name = "Felraieil"  culture = sapherian }
+99000 = { name = "Undolond"  culture = tiranoci }
+99001 = { name = "Norovathar"  culture = tiranoci }
+99002 = { name = "Larglinaeil"  culture = tiranoci }
+99003 = { name = "Gamirsel"  culture = tiranoci }
+99004 = { name = "Ealovathar"  culture = tiranoci }
+99005 = { name = "Gloran"  culture = tiranoci }
+99006 = { name = "Birvathar"  culture = tiranoci }
+99007 = { name = "Lanelenthor"  culture = tiranoci }
+99008 = { name = "Runereial"  culture = tiranoci }
+99009 = { name = "Sharondaerl"  culture = tiranoci }
+99010 = { name = "Arhain"  culture = tiranoci }
+99011 = { name = "Yrauval"  culture = tiranoci }
+99012 = { name = "Maeseth"  culture = tiranoci }
+99013 = { name = "Erestirath"  culture = tiranoci }
+99014 = { name = "Malladal"  culture = tiranoci }
+99015 = { name = "Malthanas"  culture = tiranoci }
+99016 = { name = "Nael"  culture = tiranoci }
+99017 = { name = "Gwaelwa"  culture = tiranoci }
+99018 = { name = "Haleril"  culture = tiranoci }
+99019 = { name = "Toraethial"  culture = tiranoci }
+99020 = { name = "Norodiir"  culture = tiranoci }
+99021 = { name = "Daerleon"  culture = tiranoci }
+99022 = { name = "Auglynnsyr"  culture = tiranoci }
+99023 = { name = "Larenethion"  culture = tiranoci }
+99024 = { name = "Nhalata"  culture = tiranoci }
+99500 = { name = "Yraunae"  culture = yvressi }
+99501 = { name = "Kaeladir"  culture = yvressi }
+99502 = { name = "Dlartanrin"  culture = yvressi }
+99503 = { name = "Halaian"  culture = yvressi }
+99504 = { name = "Felelenta"  culture = yvressi }
+99505 = { name = "Aeraraiil"  culture = yvressi }
+99506 = { name = "Shalandaerl"  culture = yvressi }
+99507 = { name = "Larenerelhun"  culture = yvressi }
+99508 = { name = "Talelwa"  culture = yvressi }
+99509 = { name = "Hamirian"  culture = yvressi }
+99510 = { name = "Corresyn"  culture = yvressi }
+99511 = { name = "Lothiarn"  culture = yvressi }
+99512 = { name = "Elereth"  culture = yvressi }
+99513 = { name = "Levaniel"  culture = yvressi }
+99514 = { name = "Gwalithe"  culture = yvressi }
+99515 = { name = "Ordel"  culture = yvressi }
+99516 = { name = "Nallos"  culture = yvressi }
+99517 = { name = "Nalllithe"  culture = yvressi }
+99518 = { name = "Aisellion"  culture = yvressi }
+99519 = { name = "Kaermarr"  culture = yvressi }
+99520 = { name = "Mithaleil"  culture = yvressi }
+99521 = { name = "Larthalial"  culture = yvressi }
+99522 = { name = "Lanethellyn"  culture = yvressi }
+99523 = { name = "Ealoron"  culture = yvressi }
+99524 = { name = "Nhayadal"  culture = yvressi }
+
+
+
+100000 = {  name = "Colombe" culture = cadian }
+100001 = {  name = "Bottolfson" culture = cadian }
+100002 = {  name = "Hausier" culture = cadian }
+100003 = {  name = "Kopfgelder" culture = cadian }
+100004 = {  name = "Cosano" culture = cadian }
+100005 = {  name = "Gavinski" culture = cadian }
+100006 = {  name = "Edleston" culture = cadian }
+100007 = {  name = "Bredice" culture = cadian }
+100008 = {  name = "Henroth" culture = cadian }
+100009 = {  name = "Kriek" culture = cadian }
+100010 = {  name = "Macharius" culture = cadian }
+100011 = {  name = "Nelidov" culture = cadian }
+100012 = {  name = "Vernon" culture = cadian }
+100013 = {  name = "Aloy" culture = cadian }
+100014 = {  name = "Nitzkowski" culture = cadian }
+100015 = {  name = "Gersdorfer" culture = cadian }
+100016 = {  name = "Bubonicus" culture = cadian }
+100017 = {  name = "Cudan" culture = cadian }
+100018 = {  name = "Ekset" culture = cadian }
+100019 = {  name = "Hitchingham" culture = cadian }
+100020 = {  name = "Kukauskas" culture = cadian }
+100021 = {  name = "Marbad" culture = cadian }
+100022 = {  name = "Remermann" culture = cadian }
+100023 = {  name = "Matisse" culture = cadian }
+100024 = {  name = "Wekker" culture = cadian }
+100025 = {  name = "Arcite" culture = cadian }
+100026 = {  name = "Nulner" culture = cadian }
+100027 = {  name = "Girad" culture = cadian }
+100028 = {  name = "Cabezas" culture = cadian }
+100029 = {  name = "Davide" culture = cadian }
+100030 = {  name = "Emperor" culture = cadian }
+100031 = {  name = "Holt" culture = cadian }
+100032 = {  name = "Kyner" culture = cadian }
+100033 = {  name = "Russ" culture = cadian }
+100034 = {  name = "Abajian" culture = cadian }
+100035 = {  name = "Sassano" culture = cadian }
+100036 = {  name = "McCalvin" culture = cadian }
+100037 = {  name = "Zell" culture = cadian }
+100038 = {  name = "Aukrugermann" culture = cadian }
+100039 = {  name = "Otto" culture = cadian }
+100040 = {  name = "Gómez" culture = cadian }
+100041 = {  name = "Ernestus" culture = cadian }
+100042 = {  name = "Aiava" culture = cadian }
+100043 = {  name = "Schonenberg" culture = cadian }
+100044 = {  name = "Baehrn" culture = cadian }
+100045 = {  name = "Beerle" culture = cadian }
+100046 = {  name = "Bergami" culture = cadian }
+100047 = {  name = "Berth" culture = cadian }
+100048 = {  name = "Biever" culture = cadian }
+100049 = {  name = "Blutdorfer" culture = cadian }
+100050 = {  name = "Bois" culture = cadian }
+100051 = {  name = "Bookmiller" culture = cadian }
+100052 = {  name = "Capinpin" culture = cadian }
+100053 = {  name = "Cassius" culture = cadian }
+100054 = {  name = "Chaplean" culture = cadian }
+100055 = {  name = "Chuyangher" culture = cadian }
+100056 = {  name = "Civatte" culture = cadian }
+100057 = {  name = "Deculus" culture = cadian }
+100058 = {  name = "Delvaux" culture = cadian }
+100059 = {  name = "di Tulio" culture = cadian }
+100060 = {  name = "Dorn" culture = cadian }
+100061 = {  name = "Dumag" culture = cadian }
+100062 = {  name = "Fenoff" culture = cadian }
+100063 = {  name = "Fischermann" culture = cadian }
+100064 = {  name = "Fratsdatter" culture = cadian }
+100065 = {  name = "Frohwein" culture = cadian }
+100066 = {  name = "Grimm" culture = cadian }
+100067 = {  name = "Gualdoni" culture = cadian }
+100068 = {  name = "Haddaway" culture = cadian }
+100069 = {  name = "Hansteen" culture = cadian }
+100070 = {  name = "Ibric" culture = cadian }
+100071 = {  name = "Izaguine" culture = cadian }
+100072 = {  name = "Julbach" culture = cadian }
+100073 = {  name = "Kempon" culture = cadian }
+100074 = {  name = "Kilimnik" culture = cadian }
+100075 = {  name = "Klingberg" culture = cadian }
+100076 = {  name = "Kolm" culture = cadian }
+100077 = {  name = "Leasher" culture = cadian }
+100078 = {  name = "Lesclide" culture = cadian }
+100079 = {  name = "Liotard" culture = cadian }
+100080 = {  name = "Loiacona" culture = cadian }
+100081 = {  name = "McTarnaghan" culture = cadian }
+100082 = {  name = "Menas" culture = cadian }
+100083 = {  name = "Meyer" culture = cadian }
+100084 = {  name = "Morn" culture = cadian }
+100085 = {  name = "Nagelhout" culture = cadian }
+100086 = {  name = "Parkhouse" culture = cadian }
+100087 = {  name = "Payna" culture = cadian }
+100088 = {  name = "Pfandleiher" culture = cadian }
+100089 = {  name = "Pius" culture = cadian }
+100090 = {  name = "Pulcini" culture = cadian }
+100091 = {  name = "Schwartz" culture = cadian }
+100092 = {  name = "Sprinthoffer" culture = cadian }
+100093 = {  name = "Streicheln" culture = cadian }
+100094 = {  name = "Taricani" culture = cadian }
+100095 = {  name = "Theophilus" culture = cadian }
+100096 = {  name = "Tubbmann" culture = cadian }
+100097 = {  name = "van der Struis" culture = cadian }
+100098 = {  name = "Dunten" culture = cadian }
+100099 = {  name = "Versois" culture = cadian }
+100100 = {  name = "Fukuroku" culture = cadian }
+100101 = {  name = "Lominack" culture = cadian }
+100102 = {  name = "Alrod" culture = cadian }
+100103 = {  name = "Renzen" culture = cadian }
+100104 = {  name = "Colomy" culture = cadian }
+100105 = {  name = "Ehnis" culture = cadian }
+100106 = {  name = "Weningenner" culture = cadian }
+100107 = {  name = "Abide" culture = cadian }
+100108 = {  name = "Gawinus" culture = cadian }
+100109 = {  name = "Arcite" culture = cadian }
+100110 = {  name = "Kovalyov" culture = cadian }
+100111 = {  name = "Macvicar" culture = cadian }
+100112 = {  name = "Sacchetti" culture = cadian }
+100113 = {  name = "Gery" culture = cadian }
+100114 = {  name = "Saubermann" culture = cadian }
+100115 = {  name = "Cotant" culture = cadian }
+100116 = {  name = "Zubov" culture = cadian }
+100117 = {  name = "Aipopo" culture = cadian }
+100118 = {  name = "Aulen" culture = cadian }
+100119 = {  name = "Elftman" culture = cadian }
+100120 = {  name = "Kruden" culture = cadian }
+100121 = {  name = "Marnett" culture = cadian }
+100122 = {  name = "Nesin" culture = cadian }
+100123 = {  name = "Nivelon" culture = cadian }
+100124 = {  name = "Gislerus" culture = cadian }
+100125 = {  name = "Mauseth" culture = cadian }
+100126 = {  name = "Schram" culture = cadian }
+100127 = {  name = "Barba" culture = cadian }
+100128 = {  name = "Cunnane" culture = cadian }
+100129 = {  name = "Engel" culture = cadian }
+100130 = {  name = "Kummeler" culture = cadian }
+100131 = {  name = "Nussbacher" culture = cadian }
+100132 = {  name = "Bousley" culture = cadian }
+100133 = {  name = "de Anero" culture = cadian }
+100134 = {  name = "Heidecker" culture = cadian }
+100135 = {  name = "la Roja" culture = cadian }
+100136 = {  name = "Packineau" culture = cadian }
+100137 = {  name = "Brensinger" culture = cadian }
+100138 = {  name = "Hertwiger" culture = cadian }
+100139 = {  name = "Buhoveckey" culture = cadian }
+100140 = {  name = "Hogenmiller" culture = cadian }
+100141 = {  name = "Beherns" culture = cadian }
+100142 = {  name = "Caffarel" culture = cadian }
+100143 = {  name = "Hoornweg" culture = cadian }
+100144 = {  name = "Bergfalk" culture = cadian }
+100145 = {  name = "Beutnagel" culture = cadian }
+100146 = {  name = "Birkwiese" culture = cadian }
+100147 = {  name = "Blutrocher" culture = cadian }
+100148 = {  name = "Bolfa" culture = cadian }
+100149 = {  name = "Bookter" culture = cadian }
+100150 = {  name = "Cappella" culture = cadian }
+100151 = {  name = "Castor" culture = cadian }
+100152 = {  name = "Charriol" culture = cadian }
+100153 = {  name = "Chuyangher" culture = cadian }
+100154 = {  name = "Claucherty" culture = cadian }
+100155 = {  name = "Degrandpre" culture = cadian }
+100156 = {  name = "Delveechio" culture = cadian }
+100157 = {  name = "Dietzgen" culture = cadian }
+100158 = {  name = "Doumer" culture = cadian }
+100159 = {  name = "Ertelt" culture = cadian }
+100160 = {  name = "Fernandz" culture = cadian }
+100161 = {  name = "Fleak" culture = cadian }
+100162 = {  name = "Freeley" culture = cadian }
+100163 = {  name = "González" culture = cadian }
+100164 = {  name = "Grinman" culture = cadian }
+100165 = {  name = "Guilliman" culture = cadian }
+100166 = {  name = "Haigermann" culture = cadian }
+100167 = {  name = "Hanusey" culture = cadian }
+100168 = {  name = "Ifft" culture = cadian }
+100169 = {  name = "Jacobus" culture = cadian }
+100170 = {  name = "Juwelier" culture = cadian }
+100171 = {  name = "Kent" culture = cadian }
+100172 = {  name = "Kimbal" culture = cadian }
+100173 = {  name = "Klute" culture = cadian }
+100174 = {  name = "Kominski" culture = cadian }
+100175 = {  name = "Leavigne" culture = cadian }
+100176 = {  name = "Lese" culture = cadian }
+100177 = {  name = "Lipira" culture = cadian }
+100178 = {  name = "McCullock" culture = cadian }
+100179 = {  name = "Meermann" culture = cadian }
+100180 = {  name = "Mencken" culture = cadian }
+100181 = {  name = "Mickenheim" culture = cadian }
+100182 = {  name = "Mozo" culture = cadian }
+100183 = {  name = "Nagenhoffer" culture = cadian }
+100184 = {  name = "Parrington" culture = cadian }
+100185 = {  name = "Pemelton" culture = cadian }
+100186 = {  name = "Pfannenschmidt" culture = cadian }
+100187 = {  name = "Pius" culture = cadian }
+100188 = {  name = "Rakmaninova" culture = cadian }
+100189 = {  name = "Scorrano" culture = cadian }
+100190 = {  name = "Stein" culture = cadian }
+100191 = {  name = "Stubbs" culture = cadian }
+100192 = {  name = "Tauermann" culture = cadian }
+100193 = {  name = "Thorn" culture = cadian }
+100194 = {  name = "Tundrish" culture = cadian }
+100195 = {  name = "van Heppel" culture = cadian }
+100196 = {  name = "Claud" culture = cadian }
+100197 = {  name = "Konchalovsky" culture = cadian }
+100198 = {  name = "Newbell" culture = cadian }
+100199 = {  name = "Verus" culture = cadian }
+100200 = {  name = "Noirgrim" culture = cadian }
+100201 = {  name = "Amici" culture = cadian }
+100202 = {  name = "Comparoni" culture = cadian }
+100203 = {  name = "Boutchyard" culture = cadian }
+100204 = {  name = "Heiligener" culture = cadian }
+100205 = {  name = "Kraemer" culture = cadian }
+100206 = {  name = "Rohr" culture = cadian }
+100207 = {  name = "Abigantus" culture = cadian }
+100208 = {  name = "Wilhelm" culture = cadian }
+100209 = {  name = "Ogienko" culture = cadian }
+100210 = {  name = "Arildsen" culture = cadian }
+100211 = {  name = "Breutzmann" culture = cadian }
+100212 = {  name = "Crawn" culture = cadian }
+100213 = {  name = "Herwehe" culture = cadian }
+100214 = {  name = "Krzewinski" culture = cadian }
+100215 = {  name = "Sadykov" culture = cadian }
+100216 = {  name = "Schatz" culture = cadian }
+100217 = {  name = "Albarazi" culture = cadian }
+100218 = {  name = "Zumwalder" culture = cadian }
+100219 = {  name = "Palmios" culture = cadian }
+100220 = {  name = "Autlermann" culture = cadian }
+100221 = {  name = "Bullert" culture = cadian }
+100222 = {  name = "Cusatis" culture = cadian }
+100223 = {  name = "Hogon" culture = cadian }
+100224 = {  name = "Kuptchenko" culture = cadian }
+100225 = {  name = "Hoyal" culture = cadian }
+100226 = {  name = "Furtilder" culture = cadian }
+100227 = {  name = "Schreiber" culture = cadian }
+100228 = {  name = "Durb" culture = cadian }
+100229 = {  name = "Lopata" culture = cadian }
+100230 = {  name = "Bardt" culture = cadian }
+100231 = {  name = "Cain" culture = cadian }
+100232 = {  name = "Geldrechter" culture = cadian }
+100233 = {  name = "Eide" culture = cadian }
+100234 = {  name = "Maedke" culture = cadian }
+100235 = {  name = "Giancaspro" culture = cadian }
+100236 = {  name = "Elhaj" culture = cadian }
+100237 = {  name = "Marotti" culture = cadian }
+100238 = {  name = "Maxim" culture = cadian }
+100239 = {  name = "Gjerstad" culture = cadian }
+100240 = {  name = "Engeset" culture = cadian }
+100241 = {  name = "Bekkkers" culture = cadian }
+100242 = {  name = "Bernardon" culture = cadian }
+100243 = {  name = "Bevis" culture = cadian }
+100244 = {  name = "Blanquart" culture = cadian }
+100245 = {  name = "Bodelson" culture = cadian }
+100246 = {  name = "Bolkonsky" culture = cadian }
+100247 = {  name = "Boorom" culture = cadian }
+100248 = {  name = "Carco" culture = cadian }
+100249 = {  name = "Casuat" culture = cadian }
+100250 = {  name = "Chauvet" culture = cadian }
+100251 = {  name = "Cialella" culture = cadian }
+100252 = {  name = "de Baena" culture = cadian }
+100253 = {  name = "Deguise" culture = cadian }
+100254 = {  name = "Derubeis" culture = cadian }
+100255 = {  name = "Digrazia" culture = cadian }
+100256 = {  name = "Dravland" culture = cadian }
+100257 = {  name = "Eustasius" culture = cadian }
+100258 = {  name = "Ferracioli" culture = cadian }
+100259 = {  name = "Flever" culture = cadian }
+100260 = {  name = "Fride" culture = cadian }
+100261 = {  name = "Gorgo" culture = cadian }
+100262 = {  name = "Gross" culture = cadian }
+100263 = {  name = "Gunthrop" culture = cadian }
+100264 = {  name = "Halbritter" culture = cadian }
+100265 = {  name = "Hargendorfer" culture = cadian }
+100266 = {  name = "Ifft" culture = cadian }
+100267 = {  name = "Jastremski" culture = cadian }
+100268 = {  name = "Kahl" culture = cadian }
+100269 = {  name = "Kern" culture = cadian }
+100270 = {  name = "Kleftogiannis" culture = cadian }
+100271 = {  name = "Knake" culture = cadian }
+100272 = {  name = "Lamartina" culture = cadian }
+100273 = {  name = "Leben" culture = cadian }
+100274 = {  name = "Lestourgeon" culture = cadian }
+100275 = {  name = "Liverance" culture = cadian }
+100276 = {  name = "McGraph" culture = cadian }
+100277 = {  name = "Mehalko" culture = cadian }
+100278 = {  name = "Méndez" culture = cadian }
+100279 = {  name = "Mikulec" culture = cadian }
+100280 = {  name = "Muggley" culture = cadian }
+100281 = {  name = "Namlaushagen" culture = cadian }
+100282 = {  name = "Party" culture = cadian }
+100283 = {  name = "Peracchia" culture = cadian }
+100284 = {  name = "Pferig" culture = cadian }
+100285 = {  name = "Pizarro" culture = cadian }
+100286 = {  name = "Ranelf" culture = cadian }
+100287 = {  name = "Sendener" culture = cadian }
+100288 = {  name = "Stekelenburg" culture = cadian }
+100289 = {  name = "Studebaker" culture = cadian }
+100290 = {  name = "Tchechenko" culture = cadian }
+100291 = {  name = "Tillermann" culture = cadian }
+100292 = {  name = "Tveiten Nordre" culture = cadian }
+100293 = {  name = "van Mierlo" culture = cadian }
+100294 = {  name = "Alexander" culture = cadian }
+100295 = {  name = "Rapino" culture = cadian }
+100296 = {  name = "van Oudenaarden" culture = cadian }
+100297 = {  name = "Nickas" culture = cadian }
+100298 = {  name = "Vogel" culture = cadian }
+100299 = {  name = "Galhardo" culture = cadian }
+100300 = {  name = "Dyreson" culture = cadian }
+100301 = {  name = "Andradez" culture = cadian }
+100302 = {  name = "Lopiccalo" culture = cadian }
+100303 = {  name = "Roodenburg" culture = cadian }
+100304 = {  name = "Nothacker" culture = cadian }
+100305 = {  name = "Winrich" culture = cadian }
+100306 = {  name = "Gelt" culture = cadian }
+100307 = {  name = "Atmore" culture = cadian }
+100308 = {  name = "Bradicich" culture = cadian }
+100309 = {  name = "Eiffer" culture = cadian }
+100310 = {  name = "Heinrich" culture = cadian }
+100311 = {  name = "Magnini" culture = cadian }
+100312 = {  name = "Salvus" culture = cadian }
+100313 = {  name = "Gicker" culture = cadian }
+100314 = {  name = "Schippelmann" culture = cadian }
+100315 = {  name = "Abkemeier" culture = cadian }
+100316 = {  name = "Ohlmacher" culture = cadian }
+100317 = {  name = "Zuriner" culture = cadian }
+100318 = {  name = "Bach" culture = cadian }
+100319 = {  name = "Briehl" culture = cadian }
+100320 = {  name = "Elis" culture = cadian }
+100321 = {  name = "Hessman" culture = cadian }
+100322 = {  name = "Maruseva" culture = cadian }
+100323 = {  name = "Gluckshalt" culture = cadian }
+100324 = {  name = "Maximus" culture = cadian }
+100325 = {  name = "Pankiw" culture = cadian }
+100326 = {  name = "Cocking" culture = cadian }
+100327 = {  name = "Bulnes" culture = cadian }
+100328 = {  name = "Epifano" culture = cadian }
+100329 = {  name = "Hohlstein" culture = cadian }
+100330 = {  name = "Kondrash" culture = cadian }
+100331 = {  name = "Hund" culture = cadian }
+100332 = {  name = "Connette" culture = cadian }
+100333 = {  name = "Caligari" culture = cadian }
+100334 = {  name = "Krebs" culture = cadian }
+100335 = {  name = "Creed" culture = cadian }
+100336 = {  name = "Kub" culture = cadian }
+100337 = {  name = "Cusher" culture = cadian }
+100338 = {  name = "Kuselmann" culture = cadian }
+100339 = {  name = "Bast" culture = cadian }
+100340 = {  name = "Bellair" culture = cadian }
+100341 = {  name = "Bernau" culture = cadian }
+100342 = {  name = "Bey" culture = cadian }
+100343 = {  name = "Blashak" culture = cadian }
+100344 = {  name = "Boeri" culture = cadian }
+100345 = {  name = "Bollaert" culture = cadian }
+100346 = {  name = "Boreale" culture = cadian }
+100347 = {  name = "Cariaso" culture = cadian }
+100348 = {  name = "Catillo" culture = cadian }
+100349 = {  name = "Chazov" culture = cadian }
+100350 = {  name = "Cincebeaux" culture = cadian }
+100351 = {  name = "de Banzi Haight Gilbear" culture = cadian }
+100352 = {  name = "Deley" culture = cadian }
+100353 = {  name = "Desailly" culture = cadian }
+100354 = {  name = "Dobesh" culture = cadian }
+100355 = {  name = "Dresschlermann" culture = cadian }
+100356 = {  name = "Falasco" culture = cadian }
+100357 = {  name = "Ferrall" culture = cadian }
+100358 = {  name = "Forling" culture = cadian }
+100359 = {  name = "Fringuello" culture = cadian }
+100360 = {  name = "Graveur" culture = cadian }
+100361 = {  name = "Grossklaus" culture = cadian }
+100362 = {  name = "Gusseringen" culture = cadian }
+100363 = {  name = "Hall" culture = cadian }
+100364 = {  name = "Harlan" culture = cadian }
+100365 = {  name = "Ingran" culture = cadian }
+100366 = {  name = "Jaxx" culture = cadian }
+100367 = {  name = "Kaldacher" culture = cadian }
+100368 = {  name = "Kessler" culture = cadian }
+100369 = {  name = "Klemperer" culture = cadian }
+100370 = {  name = "Knazs" culture = cadian }
+100371 = {  name = "Lastex" culture = cadian }
+100372 = {  name = "Leichlin" culture = cadian }
+100373 = {  name = "Leuga" culture = cadian }
+100374 = {  name = "Liversedge" culture = cadian }
+100375 = {  name = "McKouen" culture = cadian }
+100376 = {  name = "Mehler" culture = cadian }
+100377 = {  name = "Mensen" culture = cadian }
+100378 = {  name = "Minucci" culture = cadian }
+100379 = {  name = "Mulryan" culture = cadian }
+100380 = {  name = "Naville" culture = cadian }
+100381 = {  name = "Paruta" culture = cadian }
+100382 = {  name = "Perdigon" culture = cadian }
+100383 = {  name = "Pflaume" culture = cadian }
+100384 = {  name = "Pliny" culture = cadian }
+100385 = {  name = "Schroeder" culture = cadian }
+100386 = {  name = "Skult" culture = cadian }
+100387 = {  name = "Stimmingen" culture = cadian }
+100388 = {  name = "Sturnn" culture = cadian }
+100389 = {  name = "Temirkanov" culture = cadian }
+100390 = {  name = "Tjolling" culture = cadian }
+100391 = {  name = "Valance" culture = cadian }
+100392 = {  name = "Bratsch" culture = cadian }
+100393 = {  name = "Helgebostad" culture = cadian }
+100394 = {  name = "Nazzal" culture = cadian }
+100395 = {  name = "Colasamte" culture = cadian }
+100396 = {  name = "Nikiforov" culture = cadian }
+100397 = {  name = "Brisson" culture = cadian }
+100398 = {  name = "Heykoop" culture = cadian }
+100399 = {  name = "Konig" culture = cadian }
+100400 = {  name = "Gasch" culture = cadian }
+100401 = {  name = "Contino" culture = cadian }
+100402 = {  name = "Nulaati" culture = cadian }
+100403 = {  name = "Ebbesen" culture = cadian }
+100404 = {  name = "Bverger" culture = cadian }
+100405 = {  name = "Hohner" culture = cadian }
+100406 = {  name = "Kremple" culture = cadian }
+100407 = {  name = "Luitpoldus" culture = cadian }
+100408 = {  name = "Huseby" culture = cadian }
+100409 = {  name = "Geneseo" culture = cadian }
+100410 = {  name = "Ostrum" culture = cadian }
+100411 = {  name = "Caligarus" culture = cadian }
+100412 = {  name = "Crissinger" culture = cadian }
+100413 = {  name = "Eigen" culture = cadian }
+100414 = {  name = "Kuhlpeper" culture = cadian }
+100415 = {  name = "Manecke" culture = cadian }
+100416 = {  name = "Adelizzi" culture = cadian }
+100417 = {  name = "Maskaly" culture = cadian }
+100418 = {  name = "Vandilus" culture = cadian }
+100419 = {  name = "Allanson" culture = cadian }
+100420 = {  name = "Giordani" culture = cadian }
+100421 = {  name = "d'Arquebus" culture = cadian }
+100422 = {  name = "Ellingsbraaten" culture = cadian }
+100423 = {  name = "Kuti" culture = cadian }
+100424 = {  name = "Rasputin" culture = cadian }
+100425 = {  name = "Mazion" culture = cadian }
+100426 = {  name = "Volgener" culture = cadian }
+100427 = {  name = "Angilello" culture = cadian }
+100428 = {  name = "Gobrecht" culture = cadian }
+100429 = {  name = "Eppledorfer" culture = cadian }
+100430 = {  name = "Ruggbroder" culture = cadian }
+100431 = {  name = "Sandrelli" culture = cadian }
+100432 = {  name = "Wurst" culture = cadian }
+100433 = {  name = "Auala" culture = cadian }
+100434 = {  name = "Schlosser" culture = cadian }
+100435 = {  name = "Bachmeyer" culture = cadian }
+100436 = {  name = "Beatson" culture = cadian }
+100437 = {  name = "Bellehumeur" culture = cadian }
+100438 = {  name = "Bernieri" culture = cadian }
+100439 = {  name = "Bibiloni" culture = cadian }
+100440 = {  name = "Bleich" culture = cadian }
+100441 = {  name = "Bohlman" culture = cadian }
+100442 = {  name = "Bonfa" culture = cadian }
+100443 = {  name = "Borr" culture = cadian }
+100444 = {  name = "Carolus" culture = cadian }
+100445 = {  name = "Chaderton" culture = cadian }
+100446 = {  name = "Chindlund" culture = cadian }
+100447 = {  name = "Cirelli" culture = cadian }
+100448 = {  name = "de la Cueva" culture = cadian }
+100449 = {  name = "Delfholter" culture = cadian }
+100450 = {  name = "di Saverio" culture = cadian }
+100451 = {  name = "Doerflinger" culture = cadian }
+100452 = {  name = "Duberstein" culture = cadian }
+100453 = {  name = "Feist" culture = cadian }
+100454 = {  name = "Filippi" culture = cadian }
+100455 = {  name = "Forstad" culture = cadian }
+100456 = {  name = "Fristad" culture = cadian }
+100457 = {  name = "Grigoli" culture = cadian }
+100458 = {  name = "Groz" culture = cadian }
+100459 = {  name = "Gustavus" culture = cadian }
+100460 = {  name = "Hallerman" culture = cadian }
+100461 = {  name = "Hassig" culture = cadian }
+100462 = {  name = "Iovene" culture = cadian }
+100463 = {  name = "Jelle" culture = cadian }
+100464 = {  name = "Karageorge" culture = cadian }
+100465 = {  name = "Khan" culture = cadian }
+100466 = {  name = "Kless" culture = cadian }
+100467 = {  name = "Knutsdatter" culture = cadian }
+100468 = {  name = "Lauby" culture = cadian }
+100469 = {  name = "Leinwand" culture = cadian }
+100470 = {  name = "Leversee" culture = cadian }
+100471 = {  name = "Llyumzhinov" culture = cadian }
+100472 = {  name = "McLilly" culture = cadian }
+100473 = {  name = "Melchert" culture = cadian }
+100474 = {  name = "Merlette" culture = cadian }
+100475 = {  name = "Moescher" culture = cadian }
+100476 = {  name = "Myslin" culture = cadian }
+100477 = {  name = "Pantelakis" culture = cadian }
+100478 = {  name = "Patrias" culture = cadian }
+100479 = {  name = "Persyn" culture = cadian }
+100480 = {  name = "Pfungzig" culture = cadian }
+100481 = {  name = "Poitevin" culture = cadian }
+100482 = {  name = "Schuhmann" culture = cadian }
+100483 = {  name = "Smettanina" culture = cadian }
+100484 = {  name = "Stolk" culture = cadian }
+100485 = {  name = "Tabbecker" culture = cadian }
+100486 = {  name = "Teresa" culture = cadian }
+100487 = {  name = "Trautenau" culture = cadian }
+100488 = {  name = "van Buuren" culture = cadian }
+100489 = {  name = "Eber" culture = cadian }
+100490 = {  name = "Gaunt" culture = cadian }
+100491 = {  name = "Lukas" culture = cadian }
+100492 = {  name = "Georg" culture = cadian }
+100493 = {  name = "Almos" culture = cadian }
+100494 = {  name = "Vandire" culture = cadian }
+100495 = {  name = "Bredahl" culture = cadian }
+100496 = {  name = "Einingger" culture = cadian }
+100497 = {  name = "Hell" culture = cadian }
+100498 = {  name = "Mannchen" culture = cadian }
+100499 = {  name = "Reichert" culture = cadian }
+100500 = {  name = "Gipfel" culture = cadian }
+100501 = {  name = "Aquila" culture = cadian }
+100502 = {  name = "Coldsmith" culture = cadian }
+100503 = {  name = "Masterkova" culture = cadian }
+100504 = {  name = "Wechs" culture = cadian }
+100505 = {  name = "Broeck" culture = cadian }
+100506 = {  name = "Elsa" culture = cadian }
+100507 = {  name = "Hillbrant" culture = cadian }
+100508 = {  name = "Konrad" culture = cadian }
+100509 = {  name = "Ruiz" culture = cadian }
+100510 = {  name = "Gold" culture = cadian }
+100511 = {  name = "Augustus" culture = cadian }
+100512 = {  name = "Sapozhinsky" culture = cadian }
+100513 = {  name = "Corax" culture = cadian }
+100514 = {  name = "McCallun" culture = cadian }
+100515 = {  name = "Yarrick" culture = cadian }
+100516 = {  name = "Cabeza" culture = cadian }
+100517 = {  name = "Erlemannus" culture = cadian }
+100518 = {  name = "Hollarn" culture = cadian }
+100519 = {  name = "Krenning" culture = cadian }
+100520 = {  name = "Huss" culture = cadian }
+100521 = {  name = "Bad" culture = cadian }
+100522 = {  name = "Schlueter" culture = cadian }
+100523 = {  name = "Caligula" culture = cadian }
+100524 = {  name = "Cristofani" culture = cadian }
+100525 = {  name = "Kuhn" culture = cadian }
+100526 = {  name = "Neja" culture = cadian }
+100527 = {  name = "Adickes" culture = cadian }
+100528 = {  name = "Nisi" culture = cadian }
+100529 = {  name = "Dashkov" culture = cadian }
+100530 = {  name = "Kvien" culture = cadian }
+100531 = {  name = "Nullener" culture = cadian }
+100532 = {  name = "Othoudt" culture = cadian }
+100533 = {  name = "Beecker" culture = cadian }
+100534 = {  name = "Bendegar" culture = cadian }
+100535 = {  name = "Bernn" culture = cadian }
+100536 = {  name = "Biersack" culture = cadian }
+100537 = {  name = "Blessett" culture = cadian }
+100538 = {  name = "Bohrn" culture = cadian }
+100539 = {  name = "Bonsell" culture = cadian }
+100540 = {  name = "Bosowski" culture = cadian }
+100541 = {  name = "Carrillo" culture = cadian }
+100542 = {  name = "Chandier" culture = cadian }
+100543 = {  name = "Chistiakov" culture = cadian }
+100544 = {  name = "Cisneroz" culture = cadian }
+100545 = {  name = "de Luján" culture = cadian }
+100546 = {  name = "della Rossa" culture = cadian }
+100547 = {  name = "di Tino" culture = cadian }
+100548 = {  name = "Doleuze" culture = cadian }
+100549 = {  name = "Dubkova" culture = cadian }
+100550 = {  name = "Fenger" culture = cadian }
+100551 = {  name = "Fiorenzi" culture = cadian }
+100552 = {  name = "Found" culture = cadian }
+100553 = {  name = "Fritzpatrick" culture = cadian }
+100554 = {  name = "Grim" culture = cadian }
+100555 = {  name = "Grygiel" culture = cadian }
+100556 = {  name = "Guyet" culture = cadian }
+100557 = {  name = "Hannegan" culture = cadian }
+100558 = {  name = "Hauptleiter" culture = cadian }
+100559 = {  name = "Isiminger" culture = cadian }
+100560 = {  name = "Jeronymus" culture = cadian }
+100561 = {  name = "Kelhammer" culture = cadian }
+100562 = {  name = "Khubba" culture = cadian }
+100563 = {  name = "Kletschka" culture = cadian }
+100564 = {  name = "Kolbjornsen" culture = cadian }
+100565 = {  name = "le Marquand" culture = cadian }
+100566 = {  name = "Leomiti" culture = cadian }
+100567 = {  name = "Lingum" culture = cadian }
+100568 = {  name = "Lochen" culture = cadian }
+100569 = {  name = "McNicol" culture = cadian }
+100570 = {  name = "Meley" culture = cadian }
+100571 = {  name = "Metott" culture = cadian }
+100572 = {  name = "Mojaro" culture = cadian }
+100573 = {  name = "Nacht" culture = cadian }
+100574 = {  name = "Papantonio" culture = cadian }
+100575 = {  name = "Pauelus" culture = cadian }
+100576 = {  name = "Perza" culture = cadian }
+100577 = {  name = "Pinto" culture = cadian }
+100578 = {  name = "Potalivo" culture = cadian }
+100579 = {  name = "Schutzmann" culture = cadian }
+100580 = {  name = "Sorte" culture = cadian }
+100581 = {  name = "Strab" culture = cadian }
+100582 = {  name = "Tannfelder" culture = cadian }
+100583 = {  name = "Teub" culture = cadian }
+100584 = {  name = "Trefiolov" culture = cadian }
+100585 = {  name = "van de Nagel" culture = cadian }

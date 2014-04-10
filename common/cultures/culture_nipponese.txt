@@ -9,7 +9,7 @@ nipponese_group = {
 		male_names = {
 			Akifusa Akihaya Akihisa Akikage Akimori Akimoto Akimune Akimura Akinaga Akinao Akisada Akisuke Akitada
 			Akitame Akitane Akitsugu Akitsuna Akitsura Akiyasu Akiyoshi Akizane Arinaga Arinobu Chikafuyu Chikahide
-			Chikaie Chikakata Chikamasa Chikamori Chikamori Chikamoto Chikamune Chikanaga Chikanao Chikanobu
+			Chikaie Chikakata Chikamasa Chikamori Chikamoto Chikamune Chikanaga Chikanao Chikanobu
 			Chikanori Chikasada Chikashige Chikasue Chikatada Chikatake Chikatoki Chikatoshi Chikatsugu
 			Chikatsune Chikayasu Chikayoshi Chikayuki Chikazane Doronosuke Eisaburo Eishi Ekei Fujiaki 
 			Fujiatsu Fujikane Fujinaga Fujisada Fujisuke Fujitaka Fujiuji Fumitane Furuyasu Fusaaki Fusakata 
@@ -112,7 +112,7 @@ nipponese_group = {
 			Shichi Shige Shima Shimo Shina Shizuka Shosho Shou Shuku Some Soyo Sue Sugi Suke Suki Satsu
 			Suwa Tai Take Takechiyo Takematsu Taku Tama Tane Tara Tau Tatsu Tatsuko Tayo Teru Toku Tome
 			Tomo Tomoe Tora Toyo Tsuma Tsune Tsuru Tsuta Tsui Tsuya Tsuyo Uba Ume Uta Wakana Waki
-			Yaya Yayacha Yome Yone Yoshi Yachi Yasha Yashayo Yasu Yoshi Yui Yuki Yuku Yume Yumi Zen
+			Yaya Yayacha Yome Yone Yoshi Yachi Yasha Yashayo Yasu Yui Yuki Yuku Yume Yumi Zen
 		}
 
 		male_patronym = ""
@@ -120,7 +120,7 @@ nipponese_group = {
 		prefix = no
 		
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
+		mat_grf_name_chance = 5
 		father_name_chance = 0
 
 		pat_grm_name_chance = 5

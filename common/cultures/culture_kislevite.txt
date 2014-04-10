@@ -63,11 +63,11 @@ kislevite_group = {
 		prefix = no
 
 		pat_grf_name_chance = 50
-		mat_grf_name_chance = 40
+		mat_grf_name_chance = 30
 		father_name_chance = 0
 		
 		pat_grm_name_chance = 30
-		mat_grm_name_chance = 30
+		mat_grm_name_chance = 50
 		mother_name_chance = 0
 
 		modifier = default_culture_modifier
@@ -84,7 +84,7 @@ kislevite_group = {
 			Daniil_Daniel Davyd_David Demid Dergun Deryab Dimirov Djenghislav Dmitriy_Demetrius Dobrinya Dobrynia Dughlatir Dusan Duyan Dzungimil 
 			Erziya 
 			Fedokova Fedot_Theodat Feodor_Theodore Fredrek 
-			Galdan Gaspar Gavriil_Gabriel Gennadimir Geresandzir Gibelaus Gibeldan Giyorgi Gleb Goranmir Gospodar Grigor Grigor Grigoriy_Gregory 
+			Galdan Gaspar Gavriil_Gabriel Gennadimir Geresandzir Gibelaus Gibeldan Giyorgi Gleb Goranmir Gospodar Grigor Grigoriy_Gregory 
 			Hagrim 
 			Iakov_Jacob Igor Igorikh Iliya Ilyas Ilyich Ilyumzhin Ingvar_Ingvar Inzhay Ioseb Ivan_John Iziaslav 
 			Jabarislav Jalalmir Janimir Jolnir 
@@ -115,11 +115,11 @@ kislevite_group = {
 			Kalinka Kanyava Kanyuva Katarin Kateryna_Catherine Kattarin Katya Kazahaila Kazimira Khovda Kirdyava Kunava Kunyavka 
 			Litava Litova Liubava Liudmila Liyava Luba Lusha Lyubora Lyubov Lyudmila 
 			Magda Malfrida Malusha Maria_Maria Marina Mariya Mastorava Mazava Megurka Melshay Mertvila Merznitya Mikhaylyna Militsa Mingatdan Mishka Miska Moranila Morozyila Myroslava 
-			Nadiya Nadyezhda Nataliya Natalya Natalya Nazehdya Negubeiya Nezayka Noroava Nulzyava Nuyanza Nyalka Nyayka 
-			Oksana Oksana Oleksandra Olena_Helen Olexa Olga Olha Olha Olota Ordava Oshama 
+			Nadiya Nadyezhda Nataliya Natalya Nazehdya Negubeiya Nezayka Noroava Nulzyava Nuyanza Nyalka Nyayka 
+			Oksana Oleksandra Olena_Helen Olexa Olga Olha Olota Ordava Oshama 
 			Parava Pavla Pekshayka Pemka Pereyaslava Pokshava Poshayka Potekay Potyava Praskovya Praxida Prebrana Predslava Premyslava Pribislava Putyayka 
 			Radostina Ravzhava Rogneda Rostislava Ruslana Ruzava 
-			Sanalka Sangasa Sbyslava Sernyava Serzhay Setyamka Seyamka Shoika Shonzhava Shukshtoroyka Sinyava Siyamka Slyuganka Snezanya Snizhana Sobenya Sochava Sofia_Sophia Sofiya Sofiya_Sophia Styaka Svetlana Svetlana Sviatoslava Svitlana Svyatoslava Syryava 
+			Sanalka Sangasa Sbyslava Sernyava Serzhay Setyamka Seyamka Shoika Shonzhava Shukshtoroyka Sinyava Siyamka Slyuganka Snezanya Snizhana Sobenya Sochava Sofia_Sophia Sofiya Sofiya_Sophia Styaka Svetlana Sviatoslava Svitlana Svyatoslava Syryava 
 			Taira Tatiana Tatka Tatyana Tekay Temnota Teodora Tetyana Tetyava Tikshayka Torghutana Toyaksha Tudastasia Tundava Tundya 
 			Ubashya Ulita Ulyana Unzhutka Upurga Ursula Utyayka 
 			Vajena Valdava Varvara Vasalisa Vasilisa Vasylyna Veleslava Vera Vergava Verkhoslava Veselanya Vezhav Viacheslava Vidyava Vira Virtyava Vseslava 
@@ -134,11 +134,11 @@ kislevite_group = {
 		prefix = no
 
 		pat_grf_name_chance = 50
-		mat_grf_name_chance = 40
+		mat_grf_name_chance = 30
 		father_name_chance = 0
 		
 		pat_grm_name_chance = 30
-		mat_grm_name_chance = 30
+		mat_grm_name_chance = 50
 		mother_name_chance = 0
 
 		modifier = default_culture_modifier
@@ -160,15 +160,15 @@ kislevite_group = {
 			Hannu Helmi Henna Henriika Hethis Huohvana Huotari_Theodor Hurdin Hyalgin
 			Ia Iiro_Irodion Iivana Iivo_Johannes Ija Iknata Inalchin Inari Irinja Iro_Irene Isma_Ismael Ismo Isukin
 			Jalyv Jaran Jehki_Euthymios Jehri_Efraim Jeli_Helena Jelisei_Elisei Jencin Jensen Jenson Jensynn Jerma Jermi Jermolai Jorm Joukenia_Eugenia Juchin Juhani Juuli_Julia Jyri Jyrki_George 
-			Kai Kaija Kaisa Kalle Kari Katri_Katarina Kauri Kaurila_Gabriel Khardu Khavai Kiira Kipro Kirilä Kirmo Kivi Kontro Kosma Kosti Kostja Kuisma Kusma Kye Khavai Krogar
-			Laine Lari Larja Lasari Lempi Lempi Ljuba Lyyli 
+			Kai Kaija Kaisa Kalle Kari Katri_Katarina Kauri Kaurila_Gabriel Khardu Khavai Kiira Kipro Kirilä Kirmo Kivi Kontro Kosma Kosti Kostja Kuisma Kusma Kye Krogar
+			Laine Lari Larja Lasari Lempi Ljuba Lyyli 
 			Maija Maikin Manja Marko_Marcus Marmedov Matias_Matthew Matja Matvei_Matteus Mari_Maria Marja Marketta Marppa_Martha Miihkali_Mikae Miikkula_Nikolaos Miina Miitri Mika_Michael Mikael_Michael Mikko_Michael Miro Mirona Mitja Mitri Mitro Mochir
 			Nasan Nasti_Anastasia Nasto Needa Negan Neida Nevniz Niikko Niilo_Nils Niina Nikolaus_Nicholas Noga Nonna Nyvena
 			Ogulai Ohvo Oiti Okahvi Okko Oksana Oksenja Oleksi Onni Ortjo Opri Osul Outi_Eudokia
 			Paavel Paavo Paavo_Paulos Palaka Paraske Pekka Petja Petri_Peter Pietari_Peter Pinja Piri Pirjo Puntseg Preita
 			Rauha Reet Reeta Reta Riika Riina Riku Risto Roosa
 			Salli Sanni_Aleksandra Satu Sauvo Savina Savva Seere_Sergei Seni Senja Senni Sere Sero Shirleg Siina Sima Sini Sisko Soja Sonja Suren Suvi Syrtak
-			Tabani Taimi Taina Taina Taisa Tambor Tami Tanja Tanner Tapani Tarja Teppana Teppo_Stefanos Tero Terttu Teuvo Timo Toivo Tomofei Topi Torus Triinu Tuija Tuli Tumen Tuula Tuuli Tylik Tymuder Tzarin
+			Tabani Taimi Taina Taisa Tambor Tami Tanja Tanner Tapani Tarja Teppana Teppo_Stefanos Tero Terttu Teuvo Timo Toivo Tomofei Topi Torus Triinu Tuija Tuli Tumen Tuula Tuuli Tylik Tymuder Tzarin
 			Ulagan Uljana_Juliana Unegen Urho Usti Utilla
 			Vachir Väinö Vala Valassi Varvara_Barbara Vechil Vechkin Veera Veli Vesa Vilhelmiina Vihtori Vihtori_Viktor Ville 
 			Warvara
@@ -186,15 +186,15 @@ kislevite_group = {
 			Hannu Helmi Henna Henriika Hethis Huohvana Huotari_Theodor Hurdin Hyalgin
 			Ia Iiro_Irodion Iivana Iivo_Johannes Ija Iknata Inalchin Inari Irinja Iro_Irene Isma_Ismael Ismo Isukin
 			Jalyv Jaran Jehki_Euthymios Jehri_Efraim Jeli_Helena Jelisei_Elisei Jencin Jensen Jenson Jensynn Jerma Jermi Jermolai Jorm Joukenia_Eugenia Juchin Juhani Juuli_Julia Jyri Jyrki_George 
-			Kai Kaija Kaisa Kalle Kari Katri_Katarina Kauri Kaurila_Gabriel Khardu Khavai Kiira Kipro Kirilä Kirmo Kivi Kontro Kosma Kosti Kostja Kuisma Kusma Kye Khavai Krogar
-			Laine Lari Larja Lasari Lempi Lempi Ljuba Lyyli 
+			Kai Kaija Kaisa Kalle Kari Katri_Katarina Kauri Kaurila_Gabriel Khardu Khavai Kiira Kipro Kirilä Kirmo Kivi Kontro Kosma Kosti Kostja Kuisma Kusma Kye Krogar
+			Laine Lari Larja Lasari Lempi Ljuba Lyyli 
 			Maija Maikin Manja Marko_Marcus Marmedov Matias_Matthew Matja Matvei_Matteus Mari_Maria Marja Marketta Marppa_Martha Miihkali_Mikae Miikkula_Nikolaos Miina Miitri Mika_Michael Mikael_Michael Mikko_Michael Miro Mirona Mitja Mitri Mitro Mochir
 			Nasan Nasti_Anastasia Nasto Needa Negan Neida Nevniz Niikko Niilo_Nils Niina Nikolaus_Nicholas Noga Nonna Nyvena
 			Ogulai Ohvo Oiti Okahvi Okko Oksana Oksenja Oleksi Onni Ortjo Opri Osul Outi_Eudokia
 			Paavel Paavo Paavo_Paulos Palaka Paraske Pekka Petja Petri_Peter Pietari_Peter Pinja Piri Pirjo Puntseg Preita
 			Rauha Reet Reeta Reta Riika Riina Riku Risto Roosa
 			Salli Sanni_Aleksandra Satu Sauvo Savina Savva Seere_Sergei Seni Senja Senni Sere Sero Shirleg Siina Sima Sini Sisko Soja Sonja Suren Suvi Syrtak
-			Tabani Taimi Taina Taina Taisa Tambor Tami Tanja Tanner Tapani Tarja Teppana Teppo_Stefanos Tero Terttu Teuvo Timo Toivo Tomofei Topi Torus Triinu Tuija Tuli Tumen Tuula Tuuli Tylik Tymuder Tzarin
+			Tabani Taimi Taina Taisa Tambor Tami Tanja Tanner Tapani Tarja Teppana Teppo_Stefanos Tero Terttu Teuvo Timo Toivo Tomofei Topi Torus Triinu Tuija Tuli Tumen Tuula Tuuli Tylik Tymuder Tzarin
 			Ulagan Uljana_Juliana Unegen Urho Usti Utilla
 			Vachir Väinö Vala Valassi Varvara_Barbara Vechil Vechkin Veera Veli Vesa Vilhelmiina Vihtori Vihtori_Viktor Ville 
 			Warvara
@@ -203,7 +203,7 @@ kislevite_group = {
 		}
 
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
+		mat_grf_name_chance = 5
 		father_name_chance = 0
 
 		pat_grm_name_chance = 5
@@ -221,14 +221,14 @@ kislevite_group = {
 			Aavo Auctune Aigo Äike Ailo Aimur Ain Aino Aishno Aivo Ako Alar Alevipoeg Algirdas Alo Alvydas Ankad Anno Antanas Antavas Antero Anti Ants Aras Are Arelis Ari Arne Arseni Arunas Arved Arvi Arvo Asse Asso Avo Azuolas 
 			Baise Bajoras Baldur Balodis Beidras Bikshe Borut Budo Budrys Bukantas Bulei Butavas Butigeidis Butovit Butvydas 
 			Cake Caupo Cirulis Culle 
-			Dabrel Dagonis Dangeruthe Darbeslave Daugvilas Daumantas Dausprungas Dausprungas Davins Demas Dobre Dovyat Dravenis Dzintis 
+			Dabrel Dagonis Dangeruthe Darbeslave Daugvilas Daumantas Dausprungas Davins Demas Dobre Dovyat Dravenis Dzintis 
 			Eego Eerik Eino Ekkelis Eksitaja Elju Elmede Endo Enn Enu Erasts Erdenis Erdvilas Erdzivil Ero 
 			Galeine Galindas_Galindo Gastile Gauronas Gedere Gedigaudas Gediminas Gedivilas Gerdautas Gerden Gerweder Gibedats Giemund Gintaras Gintautas Girdenis Glande Golding Golovke Gotene Gunnar Gunvald 
 			Hännamees Hannu Helgo Heljo Hoidja 
 			Illo Ilmar Ilmedous Ilo Ilu Imake Imanta Imme Irmantas 
 			Janis_John Järvevana Jauguttis Jaunule Jaunutis Jedetus Jogaila Jovirdas Jullo Jumal Jumars Juvage 
-			Kaevukoll Kage Kaire Kalev Kalevine Kalevipoeg Kalju Kalle Kalm Kantibutas Karatas Karijotas Karijotas Karnak Kaupo Kaupo Kerstigens Kesgaila Kestutis Kike Kiten Klavess Klukis Kodere Koit Korigaila Korybutas Kõu Kovals Kugis Kulevene Kuliens Kurlemuse Kyrianus 
-			Lammekinus Lasukas Layanus Leho Leho Lembe Lembewalde Lembit Lembits Lembitu Likiik Lingvenis Litto Liudas Livis Livs Lonkogveni Lubartas Lutuveras 
+			Kaevukoll Kage Kaire Kalev Kalevine Kalevipoeg Kalju Kalle Kalm Kantibutas Karatas Karijotas Karnak Kaupo Kerstigens Kesgaila Kestutis Kike Kiten Klavess Klukis Kodere Koit Korigaila Korybutas Kõu Kovals Kugis Kulevene Kuliens Kurlemuse Kyrianus 
+			Lammekinus Lasukas Layanus Leho Lembe Lembewalde Lembit Lembits Lembitu Likiik Lingvenis Litto Liudas Livis Livs Lonkogveni Lubartas Lutuveras 
 			Mana Manalane Mantvydas Manvydas Mati Meelis Meeme Meinekinus Melete Mendune Merkelis Metsavana Mikko Milzas Mindaugas Minigaila Movkoldas Muntelene Musts 
 			Nameisis Narimantas Narvait Ninnus Nomedas Nunnus 
 			Olavi Olev Olevipoeg Osmi 
@@ -248,12 +248,12 @@ kislevite_group = {
 			Dagas Daira Dannila Danute Darate Dardedze Dose Dzeguze
 			Eda Eevi Eha Ehaema Elmede Endla Ent Evalda
 			Galene Gaudimante Gelennis Gerkus Giedre Gintare Grasus Greze Gulbis Gunda Gundega
-			Haldjas Hämarik Hele Helga Helgi Helgi Heli Helja Helju Helme Helmi Helve Helvi Hilja
+			Haldjas Hämarik Hele Helga Helgi Heli Helja Helju Helme Helmi Helve Helvi Hilja
 			Ieva Ilma Ilmaneitsi Ilmatütar Ilo Ilu Imake Imatra Imela Imetra Imma Inda Ingrid
 			Jevna Jumara Jutta
 			Kairi Kaja Kalmuneiu Kenna Kordula Kratt
 			Laima Laine Leili Lelu Liga Linda Liva Lumme Luupainaja
-			Maaemä Maija Maimu Maimu Maire Marite Meeli Metsaema Mikova Mila Milyuns Murueide Murueit Näkk Naula Nõid
+			Maaemä Maija Maimu Maire Marite Meeli Metsaema Mikova Mila Milyuns Murueide Murueit Näkk Naula Nõid
 			Olavi 
 			Painaja Piret Pisuhänd Põrguneitsi
 			Raili Rasa Rõugutaja Roze Ruta
@@ -265,7 +265,7 @@ kislevite_group = {
 		}		
 		
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
+		mat_grf_name_chance = 5
 		father_name_chance = 0
 		
 		pat_grm_name_chance = 5

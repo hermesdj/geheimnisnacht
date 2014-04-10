@@ -13,8 +13,8 @@ estalian_group = {
 
 	### Norteno. I modified it a bit so it resembles a bit of Aragonese and Catalan, but without leaving the goofy Spanish scent. Patronymics as they are provide for nice compound names!
 	
-	norteno = { 
-		graphical_culture = iberiangfx
+	norteno = {
+		graphical_culture = southerngfx
 		
 		color = { 0.7 0.4 0.3 }
 
@@ -40,6 +40,7 @@ estalian_group = {
 			Zenon 
 			"Juan Alfonso"_John-Alphonse "Juan Fernando" "Juan Manuel" "Juan Martín" "Juan Raimundo" "Martín Juan" "Raymundo Beltrán"
 		}
+		
 		female_names = {
 			Adosinda Agueda Alameda Aldonza_Aldonza Alduara_Alduara Alegria Alida Alita Alva Ana Anderquina Andregoto Antonia Aragonta Argilo Arsenda_Arsenda Aurovita Ava 
 			Barbola Beatriz_Beatrice Belinda Benita Berenguela Blanca_Blanche Breezy Brígida_Brigid 
@@ -65,8 +66,8 @@ estalian_group = {
 		}
 		from_dynasty_prefix = "de "
 		
-		male_patronym = " "
-		female_patronym = " "
+		male_patronym = ""
+		female_patronym = ""
 		grammar_transform = french
 
 		pat_grf_name_chance = 50
@@ -80,8 +81,8 @@ estalian_group = {
 		modifier = default_culture_modifier
 	}
 
-tigarrese = {
-		graphical_culture = iberiangfx
+	tigarrese = {
+		graphical_culture = southerngfx
 		
 		color = { 0.7 0.7 0.4 }
 
@@ -109,12 +110,13 @@ tigarrese = {
 			Zenon 
 			"Dionís Clemente" "Martín Juan" 
 		}
+		
 		female_names = {
 			Agueda Ainés_Agnes Alameda Aldonza_Aldonza Alegria Alida Alita Alva Ana Ana_Anna Anderquina Andregoto Antonia Antsa Auro 
 			Barbola Beatriz Belasquita Belinda Berengaria Blanca_Blanche Breezy 
 			Clara Conchita Condesa Constancia_Constance Corazon Costanza 
 			Damiana Damita Drina 
-			Eilo Eldora Elena Elida_Hilda Elisabeta_Elisabeth Eliza Emilia_Emily Endulcia_Douce Ermesinda_Ermesinda Esmeralda Estefani Estefanía_Stephania 
+			Eilo Eldora Elena Elida_Hilda Elisabeta_Elisabeth Eliza Elvira Emilia_Emily Endulcia_Douce Ermesinda_Ermesinda Esmeralda Estefani Estefanía_Stephania 
 			Faquilo Floriana Francisca Fronilda_Fronilde Fuensanta 
 			Gitana Guntroda 
 			Herminia 
@@ -132,6 +134,7 @@ tigarrese = {
 			Ximena Xiomara 
 			Zerlina 
 		}
+		
 		from_dynasty_prefix = "de "
 		
 		male_patronym = "ez"
@@ -147,10 +150,10 @@ tigarrese = {
 		mother_name_chance = 20
 
 		modifier = default_culture_modifier
-		}
-
-avilian = {
-		graphical_culture = iberiangfx
+	}
+	
+	avilian = {
+		graphical_culture = southerngfx
 		
 		color = { 0.5 0.8 0.6 }
 
@@ -179,10 +182,11 @@ avilian = {
 			Zenon 
 			"Denís Clemente" "Martín Juan"
 		}
+		
 		female_names = {
 			Ágata_Agatha Agueda Alameda Alda_Alduara Aldara_Alduara Aldonça_Aldonza Alegria Alida Alita Alva Ana_Anna Antonia 
 			Barbola Beatriz_Beatrice Belinda Berengária Branca Breezy Brites_Beatrice 
-			Camila Carol Carolina Catarina_Catherine Chamoa Clara Conceição Conchita Constança_Constance Corazon Costanza Cristina_Christina Damiana Damita Dórdia Drina Eldora Elena Elisabete_Elisabeth Elvira Elvira Esmeralda Esperança Estefani Estefânia_Stephania Estevainha 
+			Camila Carol Carolina Catarina_Catherine Chamoa Clara Conceição Conchita Constança_Constance Corazon Costanza Cristina_Christina Damiana Damita Dórdia Drina Eldora Elena Elisabete_Elisabeth Elvira Esmeralda Esperança Estefani Estefânia_Stephania Estevainha 
 			Fátima Filipa_Philippa Floriana Francisca Fruilhe_Fronilde Fuensanta 
 			Gitana Gonçinha_Gotina Gontinha_Gotina Gregória Guiomar 
 			Herminia 
@@ -201,12 +205,11 @@ avilian = {
 			Ximena Xiomara 
 			Zerlina 
 		}
+		
 		from_dynasty_prefix = "de "
 		male_patronym = "es"
 		female_patronym = "es"
 		grammar_transform = spanish
-
-		modifier = default_culture_modifier
 
 		pat_grf_name_chance = 55
 		mat_grf_name_chance = 5
@@ -217,10 +220,10 @@ avilian = {
 		mother_name_chance = 15
 		
 		modifier = default_culture_modifier
-		}
+	}
 
-galice = {
-		graphical_culture = iberiangfx
+	galice = {
+		graphical_culture = southerngfx
 		
 		color = { 0.2 0.5 0.2 }
 
@@ -247,6 +250,7 @@ galice = {
 			Zenon 
 			"Juan Alfonso"_John-Alphonse 
 		}
+		
 		female_names = {
 			Adosinda Agueda Alameda Aldonza_Aldonza Alduara_Alduara Alegria Alida Alita Alva Ana Anderquina Andregoto Antonia Aragonta Argilo Arsenda_Arsenda Aurovita Ava 
 			Barbola Beatriz_Beatrice Belinda Benita Berenguela Blanca_Blanche Breezy Brígida_Brigid 
@@ -272,6 +276,7 @@ galice = {
 			Xiomara 
 			Zerlina 
 		}
+		
 		from_dynasty_prefix = "de "
 		
 		male_patronym = "ez"
@@ -287,9 +292,9 @@ galice = {
 		mother_name_chance = 40
 		
 		modifier = default_culture_modifier
-		}
+	}
 
-obregonese = {
+	obregonese = {
 		graphical_culture = westerngfx
 
 		color = { 0.3 0.6 0.3 }
@@ -315,6 +320,7 @@ obregonese = {
 			Yago 
 			Zavier_Xavier Zenon 
 		}
+		
 		female_names = {
 			Agueda Alameda Aldonza_Aldonza Alegria Alida Alita Alva Ana Andregoto_Andregoto Antonia 
 			Barbola Beatriz_Beatrice Belinda Breezy 
@@ -337,11 +343,12 @@ obregonese = {
 			Xiomara 
 			Zerlina 
 		}
+		
 		from_dynasty_prefix = "de "
 
-		male_patronym = " "
-		female_patronym = " "
-		prefix = no
+		male_patronym = ""
+		female_patronym = ""
+		grammar_transform = spanish
 
 		pat_grf_name_chance = 45
 		mat_grf_name_chance = 15
@@ -354,8 +361,8 @@ obregonese = {
 		modifier = default_culture_modifier
 	}
 
-astur = {
-		graphical_culture = iberiangfx
+	astur = {
+		graphical_culture = southerngfx
 		
 		color = { 0.6 0.2 0.3 }
 
@@ -382,6 +389,7 @@ astur = {
 			Zenon 
 			"Dionís Clemente" "Martín Juan" 
 		}
+		
 		female_names = {
 			Adosinda Agueda Alameda Aldonza_Aldonza Alduara_Alduara Alegria Alida Alita Alva Ana Anderquina Andregoto Antonia Aragonta Argilo Arsenda_Arsenda Aurovita Ava 
 			Barbola Beatriz_Beatrice Belinda Benita Berenguela Blanca_Blanche Breezy Brígida_Brigid 
@@ -407,6 +415,7 @@ astur = {
 			Xiomara 
 			Zerlina 
 		}
+		
 		from_dynasty_prefix = "de "
 		
 		male_patronym = "ez"
@@ -424,8 +433,8 @@ astur = {
 		modifier = default_culture_modifier
 	}
 
-montanese = {
-		graphical_culture = iberiangfx
+	montanese = {
+		graphical_culture = southerngfx
 		
 		color = { 0.7 0.6 0.3 }
 
@@ -443,7 +452,7 @@ montanese = {
 			Karlos_Charles 
 			Ladron Laín Lázar Llano Lope_Lupo Lorenz Lorenzo_Laurence Luis_Louis Manrike_Amalric Manrique_Amalric Manuel_Manuel Martín_Martin Mateo Matias Mendo_Mendo Mendoza Menendo_Mendo Mentzio Miguel Munio_Munio Muño_Munio 
 			Nardo Noe Nuño_Nuno 
-			Ordoño_Ordono Ordoño_Ordono Osorio Otxoa Oveco 
+			Ordoño_Ordono Osorio Otxoa Oveco 
 			Pablo Pacheco Pascual Paskoal_Pascal Paz Pedro_Peter Pelaio_Pelagius Pelayo_Pelagius Piarres_Peter Piñal Piñolo Pinzón Ponce_Pons 
 			Raimundo_Raymond Ramiro_Ramiro Ricardo Rico Rodrico_Roderick Rodrigo_Roderick Rogelio Román_Roman Rosendo Rusk 
 			Salvador Sancho_Sancho Santiago Santos Sebastian Sebastián_Sebastian Senon Simón Solerio Suero 
@@ -453,6 +462,7 @@ montanese = {
 			Yago 
 			Zenon 
 		}
+		
 		female_names = {
 			Adosinda Agueda Aines_Agnes Alameda Aldontza_Aldonza Aldonza_Aldonza Alduara_Alduara Alegria Alida Alita Alva Ana Ana_Anna Anderkina Anderquina Andregoto Antonia Antsa Aragonta Argilo Arsenda_Arsenda Auro Aurovita Ava 
 			Barbola Beatriz_Beatrice Belaskita Belinda Benita Berengaria Berenguela Blanca_Blanche Blanka_Blanche Breezy Brígida_Brigid 
@@ -477,6 +487,7 @@ montanese = {
 			Ximena Xiomara 
 			Zerlina 
 		}
+		
 		from_dynasty_prefix = "de "
 		
 		male_patronym = "ez"
@@ -495,8 +506,8 @@ montanese = {
 	}
 	
 	
-tierrasman = {
-		graphical_culture = iberiangfx
+	tierrasman = {
+		graphical_culture = southerngfx
 		
 		color = { 0.4 0.6 0.3 }
 
@@ -526,6 +537,7 @@ tierrasman = {
 			Yago 
 			Zenon 
 		}
+		
 		female_names = {
 			Adalmoda_Almodis Adela_Adela Adelaida_Adelaide Adelaide_Adelaide Adelinda Adosinda Agata_Agatha Agnès_Agnes Agueda Aines_Agnes Alamande Alameda Aldonce_Aldonza Aldontza_Aldonza Aldonza_Aldonza Alduara_Alduara Aléarda Alegria Algaburgue Alice_Alice Alida Aliénor_Eleanor Alita Alix_Alice Almodes_Almodis Almodis_Almodis Alva Amela_Amelia Ana Ana_Anna Anderkina Anderquina Andregoto Angarin Anglesa Anna_Anna Antoneta Antonia Antsa Aragonta Argilo Arnaua Arsenda_Arsenda Arsende_Arsenda Arsinda_Arsenda Auda Aurembaix Aurengarda Auro Aurovita Ava 
 			Barbola Beatriça_Beatrice Beatrix Beatrix_Beatrice Beatriz_Beatrice Belaskita Beleassez Beliarde Belinda Benita Benoita Berengaria Berengera Berenguela Berenguere Berta Blanca_Blanche Blanka_Blanche Blanque_Blanche Bona_Bonne Borgoña Borguinã Breezy Brígida_Brigid Brunisende 
@@ -550,6 +562,7 @@ tierrasman = {
 			Ximena Xiomara 
 			Zerlina 
 		}
+		
 		from_dynasty_prefix = "de "
 		
 		male_patronym = "ez"

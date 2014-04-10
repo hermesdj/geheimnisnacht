@@ -14,23 +14,30 @@ climate = "climate.txt"
 region = "region.txt"
 static = "static.txt"
 
-# New mechanic for water
-sea_zones = { 1821 1852 }
-sea_zones = { 1857 1978 }
-sea_zones = { 1981 1982 }
-sea_zones = { 1984 2053 }
-sea_zones = { 2056 2118 }
-sea_zones = { 2120 2179 }
-sea_zones = { 2187 2281 }
+# Great Sea
+sea_zones = { 1820 2062 }
+sea_zones = { 2078 2117 }
+sea_zones = { 2156 2281 }
 
-ocean_region = { # Connected Oceans
- sea_zones = { 1 2 3 4 5 6 7 }
+# Sea of Storms
+sea_zones = { 2063 2077 }
+sea_zones = { 2118 2155 }
+
+ocean_region = {	# Great Sea etc
+ sea_zones = { 1 2 3 }
+}
+
+ocean_region = {	# Sea of Storms, River Ruin etc
+ sea_zones = { 4 5 }
 }
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
 tree = { 3 4 7 10 }
 major_rivers = 
 {
+	2080 2081 2082 2083 2085 2087 2088 #Amaxon River 1
+	2089 #Amaxon River 2
+	1971 1971 #Doom Glades
 	2272 #Halkild
 	2273 #Iisgalt
 	2278 #River Sannez

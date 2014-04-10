@@ -11,7 +11,7 @@ goblin_group = {
 			Aggro Aggry Amble Anx Assik Ati
 			Backbinz Backbla Backblum Backbog Backdy Backgi Backgit Backgrub Backgut Backid Backira Backit Backlah Backlit Backnose Backny Backoff Backopa Backrak Backrit Backsnik Backstabba Backurran Backzak Badbinz Badbla Badblum Badbog Baddy Badgi Badgit Badgrub Badgut Badkid Badkira Badkit Badkurran Badlah Badlit Badnose Badny Badoff Badopa Badrak Badrit Badsnik Badstabba Badzak Bagger Bait Bans Big "Big Boss" "Big Boy" "Big Deal" "Big Git" "Big Head" "Big Gob" Biggs Bit "Bit Bit" "Bit Coin" Bits Black Block Blox Boff Bog Bogbinz Bogbla Bogblum Bogbog Bogdy Bogger Boggi Boggit Boggrub Boggut Bogkid Bogkira Bogkit Bogkurran Boglah Boglit Bognose Bogny Bogoff Bogopa Bograk Bogrit Bogsnik Bogstabba Bogzak Booger Bong Box Bug Bugaxe Bugger Butom Butt "Butt Butt" Buxum 
 			Cog "Cog Cog" Coin "Coin Bit" Crabby Crag Cripto Curse 
-			Dag Dagger Daggy Dar Darryl Datam Dee Dig "Dig Dig" Dimple Dinky Dnoraz Dnos Dnotux Dogomex Dork "Dork Dork" Dos Dread Drib Dribble Driznik Dunggrub Duraks Duraks 
+			Dag Dagger Daggy Dar Darryl Datam Dee Dig "Dig Dig" Dimple Dinky Dnoraz Dnos Dnotux Dogomex Dork "Dork Dork" Dos Dread Drib Dribble Driznik Dunggrub Duraks 
 			Fester Fiat Flam "Flam Flim" Flat Flim "Flim Flam" Fog Frot Frut 
 			Gary Gat "Gat Gat" Geds Gerrak Gerrbinz Gerrbla Gerrblum Gerrbog Gerrdy Gerrgi Gerrgit Gerrgrub Gerrgut Gerrit Gerrkid Gerrkira Gerrkit Gerrkurran Gerrlah Gerrlit Gerrnose Gerrny Gerroff Gerropa Gerrsnik Gerrstabba Gerrzak Gesurz Ghabinz Ghabla Ghablum Ghabog Ghady Ghagi Ghagit Ghagrub Ghagut Ghakid Ghakira Ghakit Ghakurran Ghala Ghalit Ghanose Ghany Gharak Gharit Ghasnik Ghastabba Ghazak Ghnashgi Ghoff Ghopa Git Gnarb Gnashbinz Gnashbla Gnashblum Gnashbog Gnashdy Gnashgit Gnashgrub Gnashgut Gnashkid Gnashkira Gnashkit Gnashkurran Gnashlah Gnashlit Gnashnik Gnashnose Gnashny Gnashoff Gnashopa Gnashrak Gnashrit Gnashtabba Gnashzak Gobbo Gobgit Gobin Goldgrin Goldy Goly Gool Gorbinz Gorbla Gorblum Gorbog Gordy Gorgi Gorgit Gorgrub Gorgut Gorkid Gorkira Gorkit Gorkurran Gorlah Gorlit Gornose Gorny Goroff Goropa Gorrak Gorrit Gorsnik Gorstabba Gorzak Gox "Gox Gox" Grabby Grave Greedy Greeny Gribbles Gribbly Grimbinz Grimbla Grimblum Grimbog Grimdy Grimgi Grimgit Grimgrub Grimgut Grimkid Grimkira Grimkit Grimkurran Grimlah Grimlit Grimnose Grimny Grimoff Grimopa Grimrak Grimrit Grimsnik Grimstabba Grimzak Grindle Grombinz Grombla Gromblum Grombog Gromdy Gromgi Gromgit Gromgrub Gromgut Gromkid Gromkira Gromkit Gromkurran Gromlah Gromlit Gromnose Gromny Gromoff Gromopa Gromrak Gromrit Gromsnik Gromstabba Gromzak Grool Grot "Grot Grot" Grox Gubbdy Gubbgi Gubbgit Gubbgrub Gubbgut Gubbinz Gubbkid Gubbkira Gubbkit Gubbkurran Gubbla Gubblah Gubblit Gubblum Gubbnose Gubbny Gubboff Gubbog Gubbopa Gubbrak Gubbrit Gubbsnik Gubbstabba Gubbzak Gxas 
 			Habblo Hex "Hex Hex"
@@ -36,10 +36,6 @@ goblin_group = {
 			Blib Squeebles Squog
 		}
 		
-		male_patronym = ""
-		female_patronym = ""
-		prefix = no
-
 		dynasty_title_names = yes
 		founder_named_dynasties = yes		
 		

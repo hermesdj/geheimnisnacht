@@ -15,7 +15,7 @@ halfling_group = {
 			Eberhart Eckel Ehrmann Elbel Emmerich Enderlin Erich Erling Eustasius
 			Foda Fosca Fridericus Friediger Frodo Frabo Fredoc Frem Friago Fribo Fridoc Frim Frodoc Froigrin Froippi From Froppi
 			Gebehardt Gelfrat Georgius Gerlach Gernandt Godefridus Gottfriedus Greger Gregor Grimwold Gumpwit Gunthar Gustavus
-			Halmut Hals Hamfast Hannos Hannus Hartmundus Hartusch Haug Heindel Heineman Heinricus Helmut Henlin Henrich Hentschil Herbort Herdegen Herdeinus Herpin Herpin Hildiger Hildred Hinric Hultz Humfried
+			Halmut Hals Hamfast Hannos Hannus Hartmundus Hartusch Haug Heindel Heineman Heinricus Helmut Henlin Henrich Hentschil Herbort Herdegen Herdeinus Herpin Hildiger Hildred Hinric Hultz Humfried
 			Isengrim Isumbras 
 			Jakob Jakusch Janke Joachim Jocop Johannes Jone Jordan Jorn Josef Karolus Kaspar Kitan Kite Klemens Konradin Kraft Kristof Kuno 
 			Lampertus Lamprecht Lanfried Leopold Leuthold Liebert Liebink Lindt Liebwin Liphardus Lodewig Longa Ludevicus Ludwig Lukas Luppolt Lutherius Lutke Lutolf
@@ -37,7 +37,7 @@ halfling_group = {
 			Barbara Bell Bella Bellane Benusch Berchte Bertradis Beryll  Bess Broncea Brunhilde
 			Camellio Carina Cecilia Christine Cilie Clare
 			Dagmar Daisy Demona Desdemona Donnamiro  Dorthilda Drachena Drachilda Droggo 
-			Edhilda Edyth Elanor Elena Elene Elise Elise Elisinda Ella Ellene Ellinde Emerlinde Ennelein Erica Erika Erling Esther Etheldreda Ethelreda Eufemia Eva 
+			Edhilda Edyth Elanor Elena Elene Elise Elisinda Ella Ellene Ellinde Emerlinde Ennelein Erica Erika Erling Esther Etheldreda Ethelreda Eufemia Eva 
 			Faustma Femeke Foda Fosca Fridelinus Friedrica Fronika 
 			Gabi Galina Genevieve Genovega Gerold Gertrude Geruscha Gilda Gilly Gina Girdrud Girlin Gitta Goldilocks Goldy Gotboldtus Gretel Grizelda Gudradis Gudrun
 			Hadwin Hanmann Hanna Hartlib Heidi Heidrun Heilwig Heintze Helusch Hentschel Herburg Hildegard Hildegart Hildo
@@ -59,16 +59,12 @@ halfling_group = {
 		}
 
 		from_dynasty_prefix = "von "
-
-		male_patronym = "son"
-		female_patronym = "sdotter"
-		prefix = no
-
+		
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 20
+		mat_grf_name_chance = 10
 		father_name_chance = 10
 
-		pat_grm_name_chance = 20
+		pat_grm_name_chance = 10
 		mat_grm_name_chance = 40
 		mother_name_chance = 10
 		

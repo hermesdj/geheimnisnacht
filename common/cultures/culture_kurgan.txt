@@ -1,294 +1,774 @@
-
 kurgan_group = {
 	graphical_culture = muslimgfx
 
 	aghol = {
-		graphical_culture = mongolgfx
-		horde = yes
-	#Bolghar
+		graphical_culture = muslimgfx
+
 		color = { 0.3 0.7 0.2 }
 
-		male_names = {
-			Almish Alzek Anzi Apskhih Araslan_Arslan Asparukh Balamber_Balambar Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boyan Bulger Buzan Chepa Chinialush Dengizikh 
-			Dizeng Dometa Dristar Drong Dukum Ellak Elemag Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Irnek Isbul Islivan Isperikh Ispor Kälaç Kano Karan Karaton
-			Kardam Kharaton Khinialon Khudbard Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kurt Kutrigur Kuvrat Labertam Magotin Malamir Mugel Odolgan Okhsi 
-			Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Pakhtiyar_Bakhtiar Paväl Praksa Rassate Rugila Sabin Sandil Sandilkh Sarkhan Sartäç Savin Sevar Shilki 
-			Sondoke Tähtaman Tarasiy Taridin Tatra Telec Telerig Tervel Timër_Timur Timëreç Timërpälat Tingiz Tiradin Tokhtaman Toktu Tsog Tsul Tuk Umor Uturgur Vakrim Venda Vetam Vinekh Yani 
-			Yavantey Yençepi Yerneslu Yeçtirek Zabergan Zenti Tukiy Aydar Irkhan Batir
+       male_names = {
+			Abachi Abak Abdumannob Abdurahim Abdurashid Adil Aguchu Ahmed Ajai Ajinai Akhutai Akshan Aktash Alagh Alangasar Alchi Alchidai Alghu Alim Alishaer Alisher Almas Almis Almish Altan Ambaghai Ämir Arasen Arslan Asiki Äxmät Aydar Aynur Ayrat Azat Aziz 
+			Babur Badarongga Bagaridai Bahauddin Baidar Baraq Barghujin Bayan Bedugun Belgunutei Belgutei Betshe Bigra Bil Biya Bodonchar Bogen Bogorchu Boljak Bolkhadar Borjigidai Boroghul Botir Bughu Bughutu Bugunutei Buqa Burkhan Bursin Buyirugh Buzan Bydzym-Nyunya 
+			Chaghagan Chagur Chagurkhai Changshi Chapar Cher Chidukhul Chiledu Chokmorskon Chormakhan Chulgutei Chunypi Çiñgiz 
+			Danishmendji Daniyal Dokholkhu Dokja Dologadai Donda Dondy Dorlipun Dost Duwa 
+			Eksei Elbrus Eljigedei Eljigidey Engkebatu Ergash Esen-Buqa 
+			Fakriddin Färit Furkat 
+			Gabdulla Gädel Gantimur Gäskär Ghachin Guigudar Gurya 
+			Hamid Hamza Horkhudagh Hülëgü Hutenu 
+			Ibi Idna Idughadai Ilbars Ildar Ildus Ilgiz Ilsat Ilyas Inmar Invu Irek Iskändär Iskavyn Iskender_Alexander Islam Ismail_Ismail 
+			Jani Jirghogadai Jurchedei 
+			Kaidu Kamil Kärim Karin Kazbek Kebek Kenesh Keremet Khabul Khaligudar Kharachar Khizr Khorghosun Khudayar Khutughtu Khutula Khuyildar Kinggiyadai Kiriltugh Kochkunju Kokochu Könchek Kotrag Kuaz Kubrat Kuchlug Kuraysh_Cyrus Kuzhmo Kuzjirsi Kwaz Kyldysin 
+			Mammaduli Mansur_Mansur Maqsud Mardan Mergan Mergujin Mersentei Mezha-vozmas Miyangëdei Miyanggetu Möngke Mozhga Mubarak Mulkhalkhu Mungetu Murad_Murad Murt Muzaffar 
+			Nail Nakhu Narbuta Nariman Narimon Nasil Nasir_Nasser Nasr Nawruz Nayaga Negübei Nulesmurt 
+			Odchigin Oldaghar Oronartai Osman_Uthman Ozhmeg 
+			Pulad 
+			Qamaruddin Qazaghan Qazan Quli 
+			Radiq Rail Rais Ramil Räsit Rawil Risat Röstäm Rostam_Rostam Rusan Rustam 
+			Sa’id Salim_Selim Salymiki Samil Satuq Selta Shahrukh_Shahrokh Shayabak Shilki Shingkhor Shir Shiraghul Shirgugetu Shodja Silki Sorkhatu Soyiketu Subetei Subhan Sukegei Sulayman Sultan Sunjuq Suurgatmish 
+			Tahir Taliqu Targhutai Teginbek Telegetu Temuge Temür_Timur Timer Timur Tobsakha Tobukha Toghon Toghoril Toghtoga Tokhuchar Tolperi Toro Torolchi Tughlugh Tumbinai Tunghhuidai Tuno Tusakha Tuyuideger 
+			Ubaidullah Ubaydullah Üjiyedin Ukhuna Ulugh Uly Urtusakhal Uwais_Uwais 
+			Vesya Vezom Vosas Vumurt 
+			Yadygar Yahya_John Yamin Yesugun Yesun Yesunge Yulbars Yunus Yusuf_Joseph 
+			Zöfär 
+		}
 
+       female_names = {
+			Adliya Adolat Aida Al-Alta Alan Älfiä Äliä Alimi Alsu Altani Asiä Aygöl Aysilu 
+			Bakhmal Bigra Bodom Bodya Borte Botokhui Bulughan 
+			Chabi Chagur Chakha Checheyigen Chotan Çulpan 
+			Dinara Doquz Doregene 
+			Ebegei Ebga Egra 
+			Färidä Frakhunda 
+			Gäliä Gölçäçäk Gölnara Gölnaz Gudyry Gudyry-Mumy Guldana Guldasta Gulkhuron Gulrukhsor Gurbesu Guzal Güzäl Güzäliä 
+			Hoelun Hogelun Holuikhan 
+			Ibakha Inmumy Irdana 
+			Jachi Juri 
+			Khadagan Khogaghchin Khojin Khorijin Khugurchin Khulan Kibya Kurganjin Ksenia 
+			Lälä Liä Liana Lusa Lyali 
+			Mahmuda Mandukhai Märyäm Miläwsä Miram_Mariam Nadezhda Nadira Napise Nigora Nila Nomolun Nurhan 
+			Oghul Oksana Ona Orbei Oy 
+			Pharahat Poska Raad 
+			Sabahat Salieva Seyahat Shadrasak Shara Shara_Sarah Shukria Shundy Shundy-Mumy Sokhatai Sorkhaghatani 
+			Tañsilu Tekine Temulun Töregene Tursanay 
+			Ulyn 
+			Varklet Varzi Vezhan Yesugun Yesui Yulduz Yumyashur 
+			Zeb Zemfira Zöhrä 
 		}
-		female_names = {
-			Çeçek_Çiçek Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçeçek_Gulçiçek Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
-			Karacik Kätyarikka Këlnissa Këlyamal Lärkka Lyukha Mala Maturkka Mutlu Naça Patiyer Paykëlti Peksen Puyantay Samur Sarantay Sarä Sarica Sarikel 
-			Sati Savaçka Savkëlti Savtilek Savilay_Sevilay Savintik_Sevindik Shurkka Sibel Sirin Sirma Songul Tähtani Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek 
-		}
-				
+
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
+		
+		male_patronym = "oglu"
+		female_patronym = "kiz"
+		prefix = no
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
 		
 		modifier = default_culture_modifier
-		}
+	}
 
 	dolgan = {
-		graphical_culture = mongolgfx
-	#Cuman and Pecheneg
+		graphical_culture = muslimgfx
+
 		color = { 0.6 0.9 0.1 }
 
-		male_names = {
-			Çilbu Aepak Abarkhan Afridon Aklan Alip Arskab Asalup Asep Astlan Atrak Balaban Basar Bashkort Bönek Baçman Begluk Blush Bonyak
-			Borç Eldeçyuk Eldigüz Eltämir Etrek Garu Girgen Gzi Imek Inalçik Itlar Ituk Kaçir-üküle Karakus Karçiga Kitan Könçek Kobyak Kopti
-			Köten Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Kutlu Maçar Mämbrok Okhotur Or Otrak Otrok Pulad Saru Sevenç Shishman Siçgan Sirçan Sokal Sotan Sugr
-			Tämir Täbär Tärtär Toktämir Törtogul Togli Tolun Tomzak Tugor Ulus Urs Uzluk Uzur
-			            Çelgil Aba Baitzas Balgor Batan Batas Bator Bayça Biçkili Bizel Boru Bula Giazis Ildey Ipa Ipaos Kabuksin Karaca Kaydum Kegen Konel  
-			Korkutan Kortan Kostas Kourkoutai Kuerçi Kugel Kure Sol Suru Tatus Teber Temir Tyrach Yavdi Yazi Yeke
+       male_names = {
+			Ábel Aaron Abraham Ádárn Ágoston Aharon Akhad Alajos Alburia Aleksii Álmos Alp Alypbi Ambrus Amram András_Andrew Antal Árpád As Askungur Attila Avraham Aybat 
+			Baghatur Balamber Balázs Balghichi Bälgichi Balgitzi Balgitzin Balin Bálint Barjik Bashtu Bashtwa Bazir Béla_Albert Belgichi Belk Benedek_Benedict Benjamin Benyamin Bernardin_Bernard Bernát_Bernard Bertalan Bertók Bihar Biheros Bihor Bleda Bluchan Bogoris Boldizsár Bonuslo Böri Boril Borisz_Boris Bozidar_Theodat Braslav Bu-Timer Bu-Urgan Bugha Bulan Bulash Bulchan Buljan Busir Buzer 
+			Chanukkah Chat Chelbir Chorpan Csaba Csák Csongor 
+			Dan David Dénes Dengizich Dezsõ Dionisii_Dionysus Djilka Djurash Dominik_Dominic Domoszló Dömötör Donát Dragoman Dragshan Drzislav Dyggvi 
+			Elek Elemér Ellec Endre Ermak Ernõ Evtimii 
+			Ferenc_Francis Frigyes Frujin Fulöp_Philip 
+			Gábor Gábriel_Gabriel Gáspár_Caspar Gazan Gazsi Gellért George Gergely German Géza Glavan Gostun Grgur György_George Gyula 
+			Hanukkah Hazer Hernach Hezekiah Hranimir 
+			Ibuzir Ilig Imre Ioakim Irbis Isaac István_Stephen Itakh Ivan_John Izsák 
+			Jákob_Jacob János_John Jenõ Jerolim Joseph József_Joseph 
+			Kálmán Kalojan Karadach Károly_Charles Kayghalagh Kayqalagh Khadir Khanuka Khatir Khinialon Khozarig Khuterkin Kibar Kisa Kocelj Konrád_Konrad Kornél Kozma Kresimir Kristóf Kufin Kulin Kundaj Kundajiq Kupin Kurbat Kutrigur 
+			Labertam Lajos_Louis Lampert László Lázár Levente Ljubomir Ljutomisl Lõrinc Lukács 
+			Mänär Mänäs Manasseh Márk_Marcus Marko_Marcus Marót Márton_Martin Máté Mátyás_Matthew Menahem Menakhem Menashe Mihail_Michael Mihály_Michael Mikica Miklós Miroslav_Miroslav Momchil Móric Morut Moses Moshe Mózes 
+			Nándor Nikola_Nicholas Nisi Nissi 
+			Obadiah Octar Õdön_Otto Ognen Orbán Oszkár Ötemish Ovadiah Pál_Paul Papatzys Pesah Pesakh Petar_Peter Péter_Peter Prijezda 
+			Qadir Quterkin 
+			Radislav Radu Ras Reuben Reuven Rugila 
+			Sabriel Salamon Samsam Sámuel_Samuel Sandlikh Sándor_Alexander Saul Sava Savriel Sermon Shad Shambat Shmuel Simsam Simson Sinai Sinnion Slavac Soimir Soma Stracimir Sulabi Svetislav Szilveszter_Silvester 
+			Tacsony Tádor Tamás_Thomas Tar'mach Tarcan Tarchan Targan Tarkan Tarkhaan Tarkhan Tarmach Tarqan Tarxan Tat-Ugek Tat-Utyak Tatra Tibor Tingiz Tivadar Tomislav Tong Trpimir Tuldila Tuvan Tuzniq Tzul 
+			Uldin Uturgur 
+			Vasilii_Basil Vazul Vencel_Vaclav Vilmos Virhor Viseslav Vladislav_Vladislav Vojnomir Vund 
+			Yaakov Yabghu Yazir Yehudah Yilig Yitzhak 
+			Zabergan Zachariah Zambri Zambrios Zdeslav Zebulun Zechariah Zecharias Zevulun Ziebel Ziebil Zoilos Zoilus Zoltán Zsigmond_Sigmund Zsolt 
 		}
-		female_names = {
-			Çiçek_Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yaylak Yeldem Yildiz
-						Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
+		
+       female_names = {
+			Adelaida_Adelaide Agáta_Agatha Ágnes_Agnes Aleksandra Aleksandrina Amália_Amelia Angyalka Anikó Aranka 
+			Barsbek Berta_Bertha Bilyana Bisera Bogdana Bogna Borbála Borislava Boyana 
+			Chichäk Chichek Csilla Csillag Czenzi Dana Desislava Donka Dorottya_Dorothy 
+			Edit_Edith Elisaveta_Elisabeth Emese Emiliya_Emily Emõke Erika Erzsébet_Elisabeth Eszter Etel Euphemia_Euphemia Éva_Eva Evdokiya Filipa_Philippa 
+			Gergana Gizella_Gisela Györgyi_Georgia 
+			Hajnal Hedwig_Hedwig Hristina 
+			Ibolya Ildico Ildikó Illona Irén_Irene Iskra Iva Ivana Ivanka Ivet 
+			Jácinta Jolán Józsa Judith_Judith Júlia_Juliana 
+			Kamilla_Camilla Katalin_Catherine Katun Khatun Kinga Klára_Clara Konstancia_Constance Krisztina_Christina Kunigunda_Kunigunde 
+			Lala Lidiya Lilyana Luca Lyudmila 
+			Magdolna_Magdalena Margaréta_Margaret Margit Mária_Maria Márta_Martha Matild_Matilda Maya 
+			N'Kara Nadejda Natália_Natalia Nevena Nikolina 
+			Odola Orsolya 
+			Panni Parsbit Penka Piroska Prisbit 
+			Rada Radka Raina Raya Rayna Rosa Rositsa Rózsa_Rosa 
+			Sára_Sarah Sarolt Serach Serah Serakh Silva Silviya Skolasztika Snezhana Sophia_Sophia Stoyanka 
+			Tereza_Teresa Terezia_Teresa Theodora Todorka Tsveta Tsvetanka Tundér Tzitzak 
+			Vasilka Viola_Viola Violeta_Yolanda Virág 
+			Yana Yoanan Yordanka 
+			Zhivka Zoltána Zsanett Zsófia_Sophia Zsuzsa
 		}
-				
+
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
-		male_patronym = "oglu "
-		female_patronym = "kiz "
-		prefix = yes
+		male_patronym = "oglu"
+		female_patronym = "kiz"
+		prefix = no
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
 		
 		modifier = default_culture_modifier
 	}
 
 	gharhar = {
-		graphical_culture = mongolgfx
-	#Avar
-		horde = yes
-		color = { 0.4 0.9 0.5 }
+		graphical_culture = muslimgfx
 
-		male_names = {
-			Almish Alp Alzek Anzi Apskhih Araslan_Arslan Asparukh Bagha Baghatur Balambär_Balambar Barjik Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha Bughra Bulan Bulger Bulçan Busir Buzan Buzer Bälgiçi Böri 
-			Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Ilik Iltäbär Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon 
-			Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kundaç Kundaçiq Kurt Kutrigur Kälaç Labertam Magotin Malamir Mugel Mänär Mänäs Mënümarót Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag 
-			Oshi Ostro Pagan Pakhtiyar_Bakhtiar Papaçyz Paväl Praksa Rassate Rugila Sabin Samsam Sandil Sandilkh Sarkhan Sartäç Savin Sevar Shilki Simsam Sondoke Tabghaç Tarasiy Taridin Tarkhan Tarmaç Tatra Telec Telerig Tervel Timër_Timur Timëreç Timërpälat 
-			Tingiz Tiradin Toghan Toghrïl_Toghrul Tokhtaman Toktu Tsog Tsul Tuk Tuzniq Täbär_Teber Tähtaman Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey Yençepi Yerneslu Yeçtirek Yilig Zabergan Zenti Çat Çat'n Çorpan Ötemis
+		color = { 0.1 0.5 0.7 }
 
+       male_names = {
+			Abachi Abak Abdumannob Abdurahim Abdurashid Adil Aguchu Ahmed Ajai Ajinai Akhutai Akshan Aktash Alagh Alangasar Alchi Alchidai Alghu Alim Alishaer Alisher Almas Almis Almish Altan Ambaghai Ämir Arasen Arslan Asiki Äxmät Aydar Aynur Ayrat Azat Aziz 
+			Babur Badarongga Bagaridai Bahauddin Baidar Baraq Barghujin Bayan Bedugun Belgunutei Belgutei Betshe Bigra Bil Biya Bodonchar Bogen Bogorchu Boljak Bolkhadar Borjigidai Boroghul Botir Bughu Bughutu Bugunutei Buqa Burkhan Bursin Buyirugh Buzan Bydzym-Nyunya 
+			Chaghagan Chagur Chagurkhai Changshi Chapar Cher Chidukhul Chiledu Chokmorskon Chormakhan Chulgutei Chunypi Çiñgiz 
+			Danishmendji Daniyal Dokholkhu Dokja Dologadai Donda Dondy Dorlipun Dost Duwa 
+			Eksei Elbrus Eljigedei Eljigidey Engkebatu Ergash Esen-Buqa 
+			Fakriddin Färit Furkat 
+			Gabdulla Gädel Gantimur Gäskär Ghachin Guigudar Gurya 
+			Hamid Hamza Horkhudagh Hülëgü Hutenu 
+			Ibi Idna Idughadai Ilbars Ildar Ildus Ilgiz Ilsat Ilyas Inmar Invu Irek Iskändär Iskavyn Iskender_Alexander Islam Ismail_Ismail 
+			Jani Jirghogadai Jurchedei 
+			Kaidu Kamil Kärim Karin Kazbek Kebek Kenesh Keremet Khabul Khaligudar Kharachar Khizr Khorghosun Khudayar Khutughtu Khutula Khuyildar Kinggiyadai Kiriltugh Kochkunju Kokochu Könchek Kotrag Kuaz Kubrat Kuchlug Kuraysh_Cyrus Kuzhmo Kuzjirsi Kwaz Kyldysin 
+			Mammaduli Mansur_Mansur Maqsud Mardan Mergan Mergujin Mersentei Mezha-vozmas Miyangëdei Miyanggetu Möngke Mozhga Mubarak Mulkhalkhu Mungetu Murad_Murad Murt Muzaffar 
+			Nail Nakhu Narbuta Nariman Narimon Nasil Nasir_Nasser Nasr Nawruz Nayaga Negübei Nulesmurt 
+			Odchigin Oldaghar Oronartai Osman_Uthman Ozhmeg 
+			Pulad 
+			Qamaruddin Qazaghan Qazan Quli 
+			Radiq Rail Rais Ramil Räsit Rawil Risat Röstäm Rostam_Rostam Rusan Rustam 
+			Sa’id Salim_Selim Salymiki Samil Satuq Selta Shahrukh_Shahrokh Shayabak Shilki Shingkhor Shir Shiraghul Shirgugetu Shodja Silki Sorkhatu Soyiketu Subetei Subhan Sukegei Sulayman Sultan Sunjuq Suurgatmish 
+			Tahir Taliqu Targhutai Teginbek Telegetu Temuge Temür_Timur Timer Timur Tobsakha Tobukha Toghon Toghoril Toghtoga Tokhuchar Tolperi Toro Torolchi Tughlugh Tumbinai Tunghhuidai Tuno Tusakha Tuyuideger 
+			Ubaidullah Ubaydullah Üjiyedin Ukhuna Ulugh Uly Urtusakhal Uwais_Uwais 
+			Vesya Vezom Vosas Vumurt 
+			Yadygar Yahya_John Yamin Yesugun Yesun Yesunge Yulbars Yunus Yusuf_Joseph 
+			Zöfär 
 		}
-		female_names = {
-			Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulay Gulçiçäk_Gulçiçek Gundes Gunduz Gunes Ikalay Ilkay Ipek Ipekel Irge Karacik Khatun Kätyarikka Këlnissa Këlyamal Lyukha Lärkka Mala Maturkka Mutlu Naça Parsbit Patiyer Paykëlti Peksen 
-			Puyantay Samur Sarantay Sarica Sarikel Sarä Sati Savaçka Savilay_Sevilay Savintik_Sevindik Savkëlti Savtilek Shurkka Sibel Sirin Sirma Songul Tekçe Tura Tähtani Umay Usunbike Yartilek Yasar Yeldem Yildiz Çeçeppi Çeçki
-			Çeçtilet Çilen Çiltanesi Çiçäk_Çiçek Özgul Özlem
+
+       female_names = {
+			Adliya Adolat Aida Al-Alta Alan Älfiä Äliä Alimi Alsu Altani Asiä Aygöl Aysilu 
+			Bakhmal Bigra Bodom Bodya Borte Botokhui Bulughan 
+			Chabi Chagur Chakha Checheyigen Chotan Çulpan 
+			Dinara Doquz Doregene 
+			Ebegei Ebga Egra 
+			Färidä Frakhunda 
+			Gäliä Gölçäçäk Gölnara Gölnaz Gudyry Gudyry-Mumy Guldana Guldasta Gulkhuron Gulrukhsor Gurbesu Guzal Güzäl Güzäliä 
+			Hoelun Hogelun Holuikhan 
+			Ibakha Inmumy Irdana 
+			Jachi Juri 
+			Khadagan Khogaghchin Khojin Khorijin Khugurchin Khulan Kibya Kurganjin Ksenia 
+			Lälä Liä Liana Lusa Lyali 
+			Mahmuda Mandukhai Märyäm Miläwsä Miram_Mariam Nadezhda Nadira Napise Nigora Nila Nomolun Nurhan 
+			Oghul Oksana Ona Orbei Oy 
+			Pharahat Poska Raad 
+			Sabahat Salieva Seyahat Shadrasak Shara Shara_Sarah Shukria Shundy Shundy-Mumy Sokhatai Sorkhaghatani 
+			Tañsilu Tekine Temulun Töregene Tursanay 
+			Ulyn 
+			Varklet Varzi Vezhan Yesugun Yesui Yulduz Yumyashur 
+			Zeb Zemfira Zöhrä 
 		}
 
-		male_patronym = "ibn "
-		female_patronym = "bint "
-		prefix = yes
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
-		
-		modifier = default_culture_modifier
-		}
-
-	hastling = {
-		graphical_culture = mongolgfx
-	#Old Magyar
-		color = { 0.1 0.7 0.1 }
-
-		male_names = {
-			Abád Acsád Adony Agád Ajtony Ajándok Alajos Alpár Apor Apszik Arszlán_Arslan Aszparucs Atakám Balabán_Balaban Balambér_Balambar Balázs Becse Berény Bese Bod Bogát Bojta 
-			Bors Bot Botond Botos Botus Bozdurgán Buda Bulcsu Bánd Bátur Béla Bökény Csaba Csanád Csege Csegõ Cseka Cseke Dengizék Dezsõ Domán Edömér Egyed Ellák Elõd Ennedzur Erdõjáró 
-			Ernakh Erõs Ete Ezelek Falicsi Farkas Fehér Fejér Fekete Forkos Gerény Gyalu Gyeicsa Gyimes Gyula Gécsa Géza Görény Hetény Hollus Hollós Huba Hudus Hódos Ilek Ilemér Irnek 
-			Iszonyat Itemér Itisza Itlár Izár Jelek Jeno Jutocsa Jutos Kada Kadocsa Kaplon Kapolcs Karaton Karcsa Karsa Kartal Karád Kecsen Kelad Keled Kerecse Kerecsen Keszi Ketel 
-			Ketüd Keve Kipcsa Kolos Koppány Kortol Kund Kuppány Kurd Kurszán Kusid Kuszán Kál Kálmán Kósa Kölcse Kölpény Köncs Köncse Kötény Kövecs Kücsen Kürüsüly Levedi Levente Levéd 
-			Lél Makó Menmarót Móg Nyárád Nyék Nándor Obus Õdön Öden Önedbelia Oktár Ond Örkény Örkönd Örs 
-			Somogy Szabolcs Szecsõd Szemes Szemus Szerénd Szilárd Szoárd Szónuk Súr Taksony Tarcal Tarhos Tarján Tarkacsu Tas Tasi 
-			Teveli Toksuny Torda Tormacsu Turda Turul Táltos Tühütüm Uldin Vajk Vata Vál Vászoly Vízibor Zalán Zolta Zoltán Zovárd Zsolt Zsombor Zuárd Ákus Álmos Álmus Árbóc Árpád Ócsád 
-			Ügyek
-			
-		}
-		female_names = {
-			Ajnácska Ajsa Ajándék Alirán Alma Anada Arany Arika Barót Bejke Bogárd Bolda Boróka Buga Bíbur Csente Cseperka Csepke Csikó Csillag Csuda Delin Déva Eger Emese Emõke 
-			Enikõ Enéh Evetke Eõrsike Fehéra Füvellõ Gilvád Gimely Gyöngy Hajna Havadi Hete Hitvánd Ildikó Jóleán Karoldu Kecse Köcse Köncse Lelle Lente Lónya Mag Manga Nyesta 
-			Nyeste Négyöke Ondvér Piriska Rege Rázdi Réka Ríka Sarolt Saroltu Somocska Szecsõke Szépa Sáfély Villõ Virág Zsejke Ábrányka Ágocska Áldáska Édua Éne Öte Ünõke
-		}
-		
-		
-		dynasty_title_names = yes
-		founder_named_dynasties = yes
-		
-		male_patronym = "fi"
-		prefix = no
-		
-		modifier = default_culture_modifier
-		}
-
-	khazag = {
-		graphical_culture = mongolgfx
-		#Cuman and Hunnic
-		color = { 0.2 0.4 0.9 }
-
-
-		male_names = {
-			Çilbu Aepak Abarkhan Afridon Aklan Alip Arskab Asalup Asep Astlan Atrak Balaban Basar Bashkort Bönek Baçman Begluk Blush Bonyak
-			Borç Eldeçyuk Eldigüz Eltämir Etrek Garu Girgen Gzi Imek Inalçik Itlar Ituk Kaçir-üküle Karakus Karçiga Kitan Könçek Kobyak Kopti
-			Köten Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Kutlu Maçar Mämbrok Okhotur Or Otrak Otrok Pulad Saru Sevenç Shishman Siçgan Sirçan Sokal Sotan Sugr
-			Tämir Täbär Tärtär Toktämir Törtogul Togli Tolun Tomzak Tugor Ulus Urs Uzluk Uzur
-			Akhad Alburia Alypbi Askungur Attila Aybat Balamber Belk Bleda Bu-Timer Bu-Urgan Chelbir Dengizich Djilka Djurash Ellec Ermak Gazan Gostun Hernach Khinialon Kurbat Kutrigur Labertam Octar Rugila Sandlikh Shambat Sinnion Sulabi Tat-Ugek Tat-Utyak Tatra Tingiz Tuldila Uldin Uturgur Vund Zabergan
-		}
-		female_names = {
-			Çiçek_Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yaylak Yeldem Yildiz
-			Ildico N'Kara
-		}
-
-		prefix = no
-		
-		dynasty_title_names = yes
-		founder_named_dynasties = yes
-		
-		modifier = default_culture_modifier
-		}		
-		
-	kul = {
-		graphical_culture = mongolgfx
-	#Caucasian Avar
-		horde = yes
-		color = { 0.3 0.6 0.1 }
-
-		male_names = {
-			Acsád Adony Ajtony Apor Becse Berény Bese Bod Bogát Bojta Bors Bot Botond Botos Buda Bulcsu Bánk Bátur Béla Bókony Bökény Csaba Csanád Csege Cseka Décse Décso Elmér Elod Ete Ezelek Falicsi Farkas Forkos Gyeicsa Gyejcsa Gyeücsa Gyécso Hetény Hollós Huba Hódos Jutocsa Jutos Kadocsa Kaplony Kartal Karád Katapán Kecsen Keled Kerecse Kerecsen Ketel Keve Kond Kortol Kuppány Kurszán Kál Kölpény Küzsdég Levedi Levente Livünti Lél Makó Mike Mikán Miske Móg Nyárád Obus Ond Pozsony Szabolcs Szecsod Szerénd Szolnok Szoárd Súr Taksony Tarcal Tarkacsu Tas Tasi Teveli Tormacsu Turda Töhötöm Uros Vajk Vata Vál Zolta Zoltán Zombor Zsolt Zsombor Ákus Álmus Árpád Ócsád Öden Örkény Örkönd Özséb
-			}
-		female_names = {
-			Ajnácska Ajándék Arany Arika Barót Bogárd Bolda Buga Bíbur Csente Cseperka Csepke Csikó Csillag Csuda Delin Déva Emese Emoke Enéh Fehéra Gilvád Gyöngy Hajna Havadi Hete Hitvánd Jóleán Karold Kecse Krabocsa Köncse Lelle Lente Mag Manga Mikolt Nyesta Piriska Rázdi Réka Sarolt Somocska Szecsoke Szépa Sáfély Virág Áldáska Örsi Öte
-			}
-		
-		dynasty_title_names = yes
-		founder_named_dynasties = yes
-		
-		modifier = default_culture_modifier
-		}		
-
-	kvellig = {
-		horde = yes
-		graphical_culture = mongolgfx
-	#Turkish
-		color = { 0.5 0.6 0.8 }
-
-		male_names = {
-			Çagri Çaka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp Arslan" "Alp Yurek" Alptigin Artuk Ayaz Aydin Aydogan Aydogdu Aytekin Böru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend
-			Davud_David Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan Hizir Ibrahim Ilgazi Inal Iskender_Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun Kemal Kiliç Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan Söbuk Sökmen Sönmez Suleyman Saim Saltuk Saruca Savtekin Savur Sehinsah Selçuk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Uluç Umur Yakut Yaman Yinal Yunus
-		}
-		female_names = {
-			Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu Bozçin Canan Ceylan Dunya Dilber Dilek Emine
-			Esin Fatma Firuze Gulçiçek Gulay Gulbahar Gulfem Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge
-			Karacik Lale Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica Sati Sehnaz Serap Serife Sevilay
-			Sevindik Sibel_Sibylla Sirin Sirma Songul Sumru Tekçe Tura Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal
-		}
-		
-		from_dynasty_prefix = "ve "
 		
 		male_patronym = "oglu"
+		female_patronym = "kiz"
 		prefix = no
 		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
+		
+		modifier = default_culture_modifier
+	}
+
+	hastling = {
+		graphical_culture = muslimgfx
+
+		color = { 0.1 0.7 0.1 }
+
+       male_names = {
+			Ábel Aaron Abraham Ádárn Ágoston Aharon Akhad Alajos Alburia Aleksii Álmos Alp Alypbi Ambrus Amram András_Andrew Antal Árpád As Askungur Attila Avraham Aybat 
+			Baghatur Balamber Balázs Balghichi Bälgichi Balgitzi Balgitzin Balin Bálint Barjik Bashtu Bashtwa Bazir Béla_Albert Belgichi Belk Benedek_Benedict Benjamin Benyamin Bernardin_Bernard Bernát_Bernard Bertalan Bertók Bihar Biheros Bihor Bleda Bluchan Bogoris Boldizsár Bonuslo Böri Boril Borisz_Boris Bozidar_Theodat Braslav Bu-Timer Bu-Urgan Bugha Bulan Bulash Bulchan Buljan Busir Buzer 
+			Chanukkah Chat Chelbir Chorpan Csaba Csák Csongor 
+			Dan David Dénes Dengizich Dezsõ Dionisii_Dionysus Djilka Djurash Dominik_Dominic Domoszló Dömötör Donát Dragoman Dragshan Drzislav Dyggvi 
+			Elek Elemér Ellec Endre Ermak Ernõ Evtimii 
+			Ferenc_Francis Frigyes Frujin Fulöp_Philip 
+			Gábor Gábriel_Gabriel Gáspár_Caspar Gazan Gazsi Gellért George Gergely German Géza Glavan Gostun Grgur György_George Gyula 
+			Hanukkah Hazer Hernach Hezekiah Hranimir 
+			Ibuzir Ilig Imre Ioakim Irbis Isaac István_Stephen Itakh Ivan_John Izsák 
+			Jákob_Jacob János_John Jenõ Jerolim Joseph József_Joseph 
+			Kálmán Kalojan Karadach Károly_Charles Kayghalagh Kayqalagh Khadir Khanuka Khatir Khinialon Khozarig Khuterkin Kibar Kisa Kocelj Konrád_Konrad Kornél Kozma Kresimir Kristóf Kufin Kulin Kundaj Kundajiq Kupin Kurbat Kutrigur 
+			Labertam Lajos_Louis Lampert László Lázár Levente Ljubomir Ljutomisl Lõrinc Lukács 
+			Mänär Mänäs Manasseh Márk_Marcus Marko_Marcus Marót Márton_Martin Máté Mátyás_Matthew Menahem Menakhem Menashe Mihail_Michael Mihály_Michael Mikica Miklós Miroslav_Miroslav Momchil Móric Morut Moses Moshe Mózes 
+			Nándor Nikola_Nicholas Nisi Nissi 
+			Obadiah Octar Õdön_Otto Ognen Orbán Oszkár Ötemish Ovadiah Pál_Paul Papatzys Pesah Pesakh Petar_Peter Péter_Peter Prijezda 
+			Qadir Quterkin 
+			Radislav Radu Ras Reuben Reuven Rugila 
+			Sabriel Salamon Samsam Sámuel_Samuel Sandlikh Sándor_Alexander Saul Sava Savriel Sermon Shad Shambat Shmuel Simsam Simson Sinai Sinnion Slavac Soimir Soma Stracimir Sulabi Svetislav Szilveszter_Silvester 
+			Tacsony Tádor Tamás_Thomas Tar'mach Tarcan Tarchan Targan Tarkan Tarkhaan Tarkhan Tarmach Tarqan Tarxan Tat-Ugek Tat-Utyak Tatra Tibor Tingiz Tivadar Tomislav Tong Trpimir Tuldila Tuvan Tuzniq Tzul 
+			Uldin Uturgur 
+			Vasilii_Basil Vazul Vencel_Vaclav Vilmos Virhor Viseslav Vladislav_Vladislav Vojnomir Vund 
+			Yaakov Yabghu Yazir Yehudah Yilig Yitzhak 
+			Zabergan Zachariah Zambri Zambrios Zdeslav Zebulun Zechariah Zecharias Zevulun Ziebel Ziebil Zoilos Zoilus Zoltán Zsigmond_Sigmund Zsolt 
+		}
+		
+       female_names = {
+			Adelaida_Adelaide Agáta_Agatha Ágnes_Agnes Aleksandra Aleksandrina Amália_Amelia Angyalka Anikó Aranka 
+			Barsbek Berta_Bertha Bilyana Bisera Bogdana Bogna Borbála Borislava Boyana 
+			Chichäk Chichek Csilla Csillag Czenzi Dana Desislava Donka Dorottya_Dorothy 
+			Edit_Edith Elisaveta_Elisabeth Emese Emiliya_Emily Emõke Erika Erzsébet_Elisabeth Eszter Etel Euphemia_Euphemia Éva_Eva Evdokiya Filipa_Philippa 
+			Gergana Gizella_Gisela Györgyi_Georgia 
+			Hajnal Hedwig_Hedwig Hristina 
+			Ibolya Ildico Ildikó Illona Irén_Irene Iskra Iva Ivana Ivanka Ivet 
+			Jácinta Jolán Józsa Judith_Judith Júlia_Juliana 
+			Kamilla_Camilla Katalin_Catherine Katun Khatun Kinga Klára_Clara Konstancia_Constance Krisztina_Christina Kunigunda_Kunigunde 
+			Lala Lidiya Lilyana Luca Lyudmila 
+			Magdolna_Magdalena Margaréta_Margaret Margit Mária_Maria Márta_Martha Matild_Matilda Maya 
+			N'Kara Nadejda Natália_Natalia Nevena Nikolina 
+			Odola Orsolya 
+			Panni Parsbit Penka Piroska Prisbit 
+			Rada Radka Raina Raya Rayna Rosa Rositsa Rózsa_Rosa 
+			Sára_Sarah Sarolt Serach Serah Serakh Silva Silviya Skolasztika Snezhana Sophia_Sophia Stoyanka 
+			Tereza_Teresa Terezia_Teresa Theodora Todorka Tsveta Tsvetanka Tundér Tzitzak 
+			Vasilka Viola_Viola Violeta_Yolanda Virág 
+			Yana Yoanan Yordanka 
+			Zhivka Zoltána Zsanett Zsófia_Sophia Zsuzsa
+		}
+
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
+		male_patronym = "oglu"
+		female_patronym = "kiz"
+		prefix = no
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
+		
 		modifier = default_culture_modifier
-		}		
+	}
+
+	khazag = {
+		graphical_culture = muslimgfx
+
+		color = { 0.2 0.4 0.9 }
+
+       male_names = {
+			Abak Abdumannob Abdurahim Abdurashid Abduxaliq Ablajan Adigh Adil Afaq Ahmed Akhad Akhmad Alburia Alghu Alishaer Alisher Alp Alypbi Alzek Anzi Apskhih Arslan Art Askar Askungur Asparukh Attila Aybat Aziz 
+			Babur Bagha Baghatur Bahaguli Bahauddin Baidar Balamber Bälgiçi Balgitzi Baraq Barchuq Barjik Bars Bashtwa Bastu Bataul Batbayan Batoya Batulia Baurchuk Bayan Bayanchur Bazh Belk Belkermak Bezmer Bihor Bil Bilge Bleda Bogu Bögü Böra Boris Botir Boyan Boyla Bu-Timer Bu-Urgan Bugha Bulan Bulçan Bulger Buqa Buzan Buzer Buzurb 
+			Çat Çat'n Changshi Chapar Chawar Chelbir Chepa Çorpan 
+			Danishmendji Daniyal Dengisich Dengizich Dengizik Dizeng Djilka Djurash Dometa Dost Dristar Drong Dukum Duwa 
+			Ehmetjan Elemag Elihan Eljigidey Ellec Elterish Eretna Ergash Erkin Ermak Esen-Buqa Eskhach 
+			Fakriddin Furkat 
+			Gazan Gheni Goleda Gostun Grigora Grod Guar 
+			Hala Hamid Hamza Hernach Hesmat Hoja Hoshur Houdbaad Hudbaad Hülëgü Huseyincan Hushu 
+			Ibi Ilbars Iltäbär Ilteber Iratais Irnek Isa Isbul Ishana Iskender_Alexander Islam Ismail_Ismail Isperikh Ispor Itakh 
+			Jakhangir Jani Juluobo 
+			Kahar Kaidu Kano Karan Kardam Karin Kayghalagh Kayqalagh Kebek Kerman Khabul Khadir Khatir Khinialon Khizr Khudayar Khudbard Khuterkin Kibar Kisa Kochkunju Könchek Kordil Koresh Kormesiy Kormisosh Korsis Kotrag Krovat Krum Kuber Kubrat Kül-Erkin Kulug Kundaç Kundaçiq Kuraysh_Cyrus Kurbat Kurebir Kurt Kutlug Kutrigur Kuvrat 
+			Labertam Lutpulla 
+			Magotin Makhmud Malamir Mammaduli Mänär Mänäs Mansur Mansur_Mansur Maqsud Marmais Mënümarót Möngke Mubarak Mugel Murad_Murad Murat Muzaffar 
+			Nag Narbuta Nariman Narimon Nasir_Nasser Nawruz Negübei Nur Nurmuhemmet 
+			Octar Odolgan Öge Okhsi Okhsun Okors Omerjan Omurtag Onegavon Organ Organa Orkesh Ormïzt Ornag Oshi Osman_Uthman Ostro Ötemis 
+			Pagan Palta Pan-kül Papaçyz Peilo Pojuan Praksa Pressian Pulad Pusa 
+			Qamaruddin Qaplan Qara Qasar Qazaghan Qazan Quli 
+			Rabban Rais Ramil Rassate Rostam_Rostam Rugila 
+			Sa’id Sabin Sabit Salim_Selim Samsam Sandlikh Satuq Savin Setiwaldi Sevar Shahrukh_Shahrokh Shambat Shayabak Sheto Shilki Shingqur Shir Shodja Shokrat Sigritsis Silki Simsam Sinnion Slavnas Sondoke Stazis Subhan Sulabi Sulayman Sultan Sunjuq Süpürga Suurgatmish 
+			Täbär Tabghaç Taliqu Tarasiy Tardu Taridin Tarkhan Tarmaç Tat-Ugek Tat-Utyak Tatatunga Tatra Tay Tegin Teginbek Tekin Telec Telerig Temür_Timur Tengri Tervel Tiliwaldi Timur Tingiz Tiradin Toghril Tohti Toktu Tomur Tömür Tsog Tsul Tuchiachi Tughlugh Tuk Tuldila Tumitu Tun Tunga Turdacis Turdi Turghan Turghun Tursun Tusun Tutuk Tuzniq 
+			Ubaidullah Ubaydullah Uldin Ulugh Umor Uturgur Uwais_Uwais 
+			Vanand Vardan Venda Vetam Vinekh Vund 
+			Wuhe 
+			Yabghu Yabgu Yahya_John Yamin Yani Yesun Yilig Yulbars Yunus Yusuf_Joseph Yusup 
+			Zabergan Zenti Ziya Zordun Zvinitsis 
+		}
+       
+       female_names = {
+	   
+			Adliya Adolat Akgul Alimi Altun Amannisa Asli Aslihan Ayasun Aykhan Ayla Ayse Ayten Azize 
+			Bahar Bakhmal Bodom Bozçin 
+			Canan Ceylan Chechak Çiçek Çilen Çiltanesi 
+			Dilber Dilek Dilnaz Dunya Durnyam 
+			Emine Esin Frakhunda 
+			Ghuncha Gül Gulay Gulbahar Gulçiçek Guldana Guldasta Gulfem Gulkhuron Gulrukhsor Gulsum Gumus Gundes Gunduz Gunes Guzal 
+			Hatice Hawa-gül Hayat Hidligh Huriye 
+			Ibadat-gül Ilbilge Ildico Ilkay Ilknur Iparhan Ipek Ipekel Irdana Irge 
+			Karacik Khanum Kunduz 
+			Lale Lusa 
+			Mahmuda Mala Miram_Mariam Mutlu 
+			N'Kara Nadira Nagihan Napise Nergis Neslihan Nigora Nila Ninguo Nurhan 
+			Oksana Ona Oy Özgul Özlem 
+			Pati-gül Peksen Pharahat Po 
+			Raad Rebiya Ruqiya 
+			Sabahat Salieva Samur Sarica Sati Sevilay Sevindik Seyahat Shara Shara_Sarah Shukria Sibel Sirin Sirma Songul 
+			Tekçe Tura Tursanay 
+			Umay Usunbike 
+			Yasar Yeldem Yildiz Yulduz Yultuz 
+			Zeb Zuleiha Zuwida 
+		}
+
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		male_patronym = "oglu"
+		female_patronym = "kiz"
+		prefix = no
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
+		
+		modifier = default_culture_modifier
+	}		
+		
+	kul = {
+		graphical_culture = muslimgfx
+
+		color = { 0.3 0.6 0.1 }
+
+       male_names = {
+			Ábel Aaron Abraham Ádárn Ágoston Aharon Akhad Alajos Alburia Aleksii Álmos Alp Alypbi Ambrus Amram András_Andrew Antal Árpád As Askungur Attila Avraham Aybat 
+			Baghatur Balamber Balázs Balghichi Bälgichi Balgitzi Balgitzin Balin Bálint Barjik Bashtu Bashtwa Bazir Béla_Albert Belgichi Belk Benedek_Benedict Benjamin Benyamin Bernardin_Bernard Bernát_Bernard Bertalan Bertók Bihar Biheros Bihor Bleda Bluchan Bogoris Boldizsár Bonuslo Böri Boril Borisz_Boris Bozidar_Theodat Braslav Bu-Timer Bu-Urgan Bugha Bulan Bulash Bulchan Buljan Busir Buzer 
+			Chanukkah Chat Chelbir Chorpan Csaba Csák Csongor 
+			Dan David Dénes Dengizich Dezsõ Dionisii_Dionysus Djilka Djurash Dominik_Dominic Domoszló Dömötör Donát Dragoman Dragshan Drzislav Dyggvi 
+			Elek Elemér Ellec Endre Ermak Ernõ Evtimii 
+			Ferenc_Francis Frigyes Frujin Fulöp_Philip 
+			Gábor Gábriel_Gabriel Gáspár_Caspar Gazan Gazsi Gellért George Gergely German Géza Glavan Gostun Grgur György_George Gyula 
+			Hanukkah Hazer Hernach Hezekiah Hranimir 
+			Ibuzir Ilig Imre Ioakim Irbis Isaac István_Stephen Itakh Ivan_John Izsák 
+			Jákob_Jacob János_John Jenõ Jerolim Joseph József_Joseph 
+			Kálmán Kalojan Karadach Károly_Charles Kayghalagh Kayqalagh Khadir Khanuka Khatir Khinialon Khozarig Khuterkin Kibar Kisa Kocelj Konrád_Konrad Kornél Kozma Kresimir Kristóf Kufin Kulin Kundaj Kundajiq Kupin Kurbat Kutrigur 
+			Labertam Lajos_Louis Lampert László Lázár Levente Ljubomir Ljutomisl Lõrinc Lukács 
+			Mänär Mänäs Manasseh Márk_Marcus Marko_Marcus Marót Márton_Martin Máté Mátyás_Matthew Menahem Menakhem Menashe Mihail_Michael Mihály_Michael Mikica Miklós Miroslav_Miroslav Momchil Móric Morut Moses Moshe Mózes 
+			Nándor Nikola_Nicholas Nisi Nissi 
+			Obadiah Octar Õdön_Otto Ognen Orbán Oszkár Ötemish Ovadiah Pál_Paul Papatzys Pesah Pesakh Petar_Peter Péter_Peter Prijezda 
+			Qadir Quterkin 
+			Radislav Radu Ras Reuben Reuven Rugila 
+			Sabriel Salamon Samsam Sámuel_Samuel Sandlikh Sándor_Alexander Saul Sava Savriel Sermon Shad Shambat Shmuel Simsam Simson Sinai Sinnion Slavac Soimir Soma Stracimir Sulabi Svetislav Szilveszter_Silvester 
+			Tacsony Tádor Tamás_Thomas Tar'mach Tarcan Tarchan Targan Tarkan Tarkhaan Tarkhan Tarmach Tarqan Tarxan Tat-Ugek Tat-Utyak Tatra Tibor Tingiz Tivadar Tomislav Tong Trpimir Tuldila Tuvan Tuzniq Tzul 
+			Uldin Uturgur 
+			Vasilii_Basil Vazul Vencel_Vaclav Vilmos Virhor Viseslav Vladislav_Vladislav Vojnomir Vund 
+			Yaakov Yabghu Yazir Yehudah Yilig Yitzhak 
+			Zabergan Zachariah Zambri Zambrios Zdeslav Zebulun Zechariah Zecharias Zevulun Ziebel Ziebil Zoilos Zoilus Zoltán Zsigmond_Sigmund Zsolt 
+		}
+		
+       female_names = {
+			Adelaida_Adelaide Agáta_Agatha Ágnes_Agnes Aleksandra Aleksandrina Amália_Amelia Angyalka Anikó Aranka 
+			Barsbek Berta_Bertha Bilyana Bisera Bogdana Bogna Borbála Borislava Boyana 
+			Chichäk Chichek Csilla Csillag Czenzi Dana Desislava Donka Dorottya_Dorothy 
+			Edit_Edith Elisaveta_Elisabeth Emese Emiliya_Emily Emõke Erika Erzsébet_Elisabeth Eszter Etel Euphemia_Euphemia Éva_Eva Evdokiya Filipa_Philippa 
+			Gergana Gizella_Gisela Györgyi_Georgia 
+			Hajnal Hedwig_Hedwig Hristina 
+			Ibolya Ildico Ildikó Illona Irén_Irene Iskra Iva Ivana Ivanka Ivet 
+			Jácinta Jolán Józsa Judith_Judith Júlia_Juliana 
+			Kamilla_Camilla Katalin_Catherine Katun Khatun Kinga Klára_Clara Konstancia_Constance Krisztina_Christina Kunigunda_Kunigunde 
+			Lala Lidiya Lilyana Luca Lyudmila 
+			Magdolna_Magdalena Margaréta_Margaret Margit Mária_Maria Márta_Martha Matild_Matilda Maya 
+			N'Kara Nadejda Natália_Natalia Nevena Nikolina 
+			Odola Orsolya 
+			Panni Parsbit Penka Piroska Prisbit 
+			Rada Radka Raina Raya Rayna Rosa Rositsa Rózsa_Rosa 
+			Sára_Sarah Sarolt Serach Serah Serakh Silva Silviya Skolasztika Snezhana Sophia_Sophia Stoyanka 
+			Tereza_Teresa Terezia_Teresa Theodora Todorka Tsveta Tsvetanka Tundér Tzitzak 
+			Vasilka Viola_Viola Violeta_Yolanda Virág 
+			Yana Yoanan Yordanka 
+			Zhivka Zoltána Zsanett Zsófia_Sophia Zsuzsa
+		}
+
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		male_patronym = "oglu"
+		female_patronym = "kiz"
+		prefix = no
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
+		
+		modifier = default_culture_modifier
+	}		
+
+	kvellig = {
+		graphical_culture = muslimgfx
+
+		color = { 0.5 0.6 0.8 }
+
+       male_names = {
+			Abachi Abak Abdumannob Abdurahim Abdurashid Adil Aguchu Ahmed Ajai Ajinai Akhutai Akshan Aktash Alagh Alangasar Alchi Alchidai Alghu Alim Alishaer Alisher Almas Almis Almish Altan Ambaghai Ämir Arasen Arslan Asiki Äxmät Aydar Aynur Ayrat Azat Aziz 
+			Babur Badarongga Bagaridai Bahauddin Baidar Baraq Barghujin Bayan Bedugun Belgunutei Belgutei Betshe Bigra Bil Biya Bodonchar Bogen Bogorchu Boljak Bolkhadar Borjigidai Boroghul Botir Bughu Bughutu Bugunutei Buqa Burkhan Bursin Buyirugh Buzan Bydzym-Nyunya 
+			Chaghagan Chagur Chagurkhai Changshi Chapar Cher Chidukhul Chiledu Chokmorskon Chormakhan Chulgutei Chunypi Çiñgiz 
+			Danishmendji Daniyal Dokholkhu Dokja Dologadai Donda Dondy Dorlipun Dost Duwa 
+			Eksei Elbrus Eljigedei Eljigidey Engkebatu Ergash Esen-Buqa 
+			Fakriddin Färit Furkat 
+			Gabdulla Gädel Gantimur Gäskär Ghachin Guigudar Gurya 
+			Hamid Hamza Horkhudagh Hülëgü Hutenu 
+			Ibi Idna Idughadai Ilbars Ildar Ildus Ilgiz Ilsat Ilyas Inmar Invu Irek Iskändär Iskavyn Iskender_Alexander Islam Ismail_Ismail 
+			Jani Jirghogadai Jurchedei 
+			Kaidu Kamil Kärim Karin Kazbek Kebek Kenesh Keremet Khabul Khaligudar Kharachar Khizr Khorghosun Khudayar Khutughtu Khutula Khuyildar Kinggiyadai Kiriltugh Kochkunju Kokochu Könchek Kotrag Kuaz Kubrat Kuchlug Kuraysh_Cyrus Kuzhmo Kuzjirsi Kwaz Kyldysin 
+			Mammaduli Mansur_Mansur Maqsud Mardan Mergan Mergujin Mersentei Mezha-vozmas Miyangëdei Miyanggetu Möngke Mozhga Mubarak Mulkhalkhu Mungetu Murad_Murad Murt Muzaffar 
+			Nail Nakhu Narbuta Nariman Narimon Nasil Nasir_Nasser Nasr Nawruz Nayaga Negübei Nulesmurt 
+			Odchigin Oldaghar Oronartai Osman_Uthman Ozhmeg 
+			Pulad 
+			Qamaruddin Qazaghan Qazan Quli 
+			Radiq Rail Rais Ramil Räsit Rawil Risat Röstäm Rostam_Rostam Rusan Rustam 
+			Sa’id Salim_Selim Salymiki Samil Satuq Selta Shahrukh_Shahrokh Shayabak Shilki Shingkhor Shir Shiraghul Shirgugetu Shodja Silki Sorkhatu Soyiketu Subetei Subhan Sukegei Sulayman Sultan Sunjuq Suurgatmish 
+			Tahir Taliqu Targhutai Teginbek Telegetu Temuge Temür_Timur Timer Timur Tobsakha Tobukha Toghon Toghoril Toghtoga Tokhuchar Tolperi Toro Torolchi Tughlugh Tumbinai Tunghhuidai Tuno Tusakha Tuyuideger 
+			Ubaidullah Ubaydullah Üjiyedin Ukhuna Ulugh Uly Urtusakhal Uwais_Uwais 
+			Vesya Vezom Vosas Vumurt 
+			Yadygar Yahya_John Yamin Yesugun Yesun Yesunge Yulbars Yunus Yusuf_Joseph 
+			Zöfär 
+		}
+
+       female_names = {
+			Adliya Adolat Aida Al-Alta Alan Älfiä Äliä Alimi Alsu Altani Asiä Aygöl Aysilu 
+			Bakhmal Bigra Bodom Bodya Borte Botokhui Bulughan 
+			Chabi Chagur Chakha Checheyigen Chotan Çulpan 
+			Dinara Doquz Doregene 
+			Ebegei Ebga Egra 
+			Färidä Frakhunda 
+			Gäliä Gölçäçäk Gölnara Gölnaz Gudyry Gudyry-Mumy Guldana Guldasta Gulkhuron Gulrukhsor Gurbesu Guzal Güzäl Güzäliä 
+			Hoelun Hogelun Holuikhan 
+			Ibakha Inmumy Irdana 
+			Jachi Juri 
+			Khadagan Khogaghchin Khojin Khorijin Khugurchin Khulan Kibya Kurganjin Ksenia 
+			Lälä Liä Liana Lusa Lyali 
+			Mahmuda Mandukhai Märyäm Miläwsä Miram_Mariam Nadezhda Nadira Napise Nigora Nila Nomolun Nurhan 
+			Oghul Oksana Ona Orbei Oy 
+			Pharahat Poska Raad 
+			Sabahat Salieva Seyahat Shadrasak Shara Shara_Sarah Shukria Shundy Shundy-Mumy Sokhatai Sorkhaghatani 
+			Tañsilu Tekine Temulun Töregene Tursanay 
+			Ulyn 
+			Varklet Varzi Vezhan Yesugun Yesui Yulduz Yumyashur 
+			Zeb Zemfira Zöhrä 
+		}
+
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		male_patronym = "oglu"
+		female_patronym = "kiz"
+		prefix = no
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
+
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
+		
+		modifier = default_culture_modifier
+	}		
 
 	tahmak = {
-		horde = yes
-		graphical_culture = mongolgfx
-	#Aghbanian
+		graphical_culture = muslimgfx
+
 		color = { 0.2 0.4 0.7 }
 
-		male_names = {
-			Abas Abul Abuset Aghbugha Aneroghogis Aratan Arches Armayel Asay Aswagen Atrnerseh_Atrnerseh Awag Bab Baguran Bakur Benjamin Bndoy Dawit_David Eghisha_Elisha Enibay Esuaghen 
-			Gadvshnasp Germanosan Ghazar Grigor_Gregory Grigoris_Gregory Haykaz Ishxananun Javanshir_Javanshir Juankoy Juanshir_Javanshir Kiwrike_Kiurike Mamkan Mankik Marut Matte_Matthew Merhawan Mihr 
-			Mirdazat Mirhavan Mirhorik Movses_Moses Mutsik Nerseh Patrik_Patrick Peroz_Peroz Pillipe_Phillip Rahat Rostom_Rustam Sahak Sanatruk Sargis_Sergius Satoy Shahnshah_Shahanshah 
-			Shama Shat Shergir Sheroy Shuphaghishoy Smbat_Smbat Spandarat Sparakos Stepannos_Stephen Tiran Tirazd Trdat Urnayr Uxtanes Vachagan Vache Vagharshak Vahan Vahram Vanakan 
-			Varaz-Grigor Varaz-Peroz Varaz-Trdat Varazman Varazoy Vard Vardan_Vartan Vaxtank_Vakhtang Viro Viroy Vrtanes Vstam Xochkorik Xosken Xosrov_Khosrow Xurs Yakob_Jacob Yawchagan 
-			Yeremia Yezut-Xosrov Yovhannes_John Yovnatan_Johnathan Yovxan_John Yusik Zakaria
+       male_names = {
+			Abak Abdumannob Abdurahim Abdurashid Abduxaliq Ablajan Adigh Adil Afaq Ahmed Akhad Akhmad Alburia Alghu Alishaer Alisher Alp Alypbi Alzek Anzi Apskhih Arslan Art Askar Askungur Asparukh Attila Aybat Aziz 
+			Babur Bagha Baghatur Bahaguli Bahauddin Baidar Balamber Bälgiçi Balgitzi Baraq Barchuq Barjik Bars Bashtwa Bastu Bataul Batbayan Batoya Batulia Baurchuk Bayan Bayanchur Bazh Belk Belkermak Bezmer Bihor Bil Bilge Bleda Bogu Bögü Böra Boris Botir Boyan Boyla Bu-Timer Bu-Urgan Bugha Bulan Bulçan Bulger Buqa Buzan Buzer Buzurb 
+			Çat Çat'n Changshi Chapar Chawar Chelbir Chepa Çorpan 
+			Danishmendji Daniyal Dengisich Dengizich Dengizik Dizeng Djilka Djurash Dometa Dost Dristar Drong Dukum Duwa 
+			Ehmetjan Elemag Elihan Eljigidey Ellec Elterish Eretna Ergash Erkin Ermak Esen-Buqa Eskhach 
+			Fakriddin Furkat 
+			Gazan Gheni Goleda Gostun Grigora Grod Guar 
+			Hala Hamid Hamza Hernach Hesmat Hoja Hoshur Houdbaad Hudbaad Hülëgü Huseyincan Hushu 
+			Ibi Ilbars Iltäbär Ilteber Iratais Irnek Isa Isbul Ishana Iskender_Alexander Islam Ismail_Ismail Isperikh Ispor Itakh 
+			Jakhangir Jani Juluobo 
+			Kahar Kaidu Kano Karan Kardam Karin Kayghalagh Kayqalagh Kebek Kerman Khabul Khadir Khatir Khinialon Khizr Khudayar Khudbard Khuterkin Kibar Kisa Kochkunju Könchek Kordil Koresh Kormesiy Kormisosh Korsis Kotrag Krovat Krum Kuber Kubrat Kül-Erkin Kulug Kundaç Kundaçiq Kuraysh_Cyrus Kurbat Kurebir Kurt Kutlug Kutrigur Kuvrat 
+			Labertam Lutpulla 
+			Magotin Makhmud Malamir Mammaduli Mänär Mänäs Mansur Mansur_Mansur Maqsud Marmais Mënümarót Möngke Mubarak Mugel Murad_Murad Murat Muzaffar 
+			Nag Narbuta Nariman Narimon Nasir_Nasser Nawruz Negübei Nur Nurmuhemmet 
+			Octar Odolgan Öge Okhsi Okhsun Okors Omerjan Omurtag Onegavon Organ Organa Orkesh Ormïzt Ornag Oshi Osman_Uthman Ostro Ötemis 
+			Pagan Palta Pan-kül Papaçyz Peilo Pojuan Praksa Pressian Pulad Pusa 
+			Qamaruddin Qaplan Qara Qasar Qazaghan Qazan Quli 
+			Rabban Rais Ramil Rassate Rostam_Rostam Rugila 
+			Sa’id Sabin Sabit Salim_Selim Samsam Sandlikh Satuq Savin Setiwaldi Sevar Shahrukh_Shahrokh Shambat Shayabak Sheto Shilki Shingqur Shir Shodja Shokrat Sigritsis Silki Simsam Sinnion Slavnas Sondoke Stazis Subhan Sulabi Sulayman Sultan Sunjuq Süpürga Suurgatmish 
+			Täbär Tabghaç Taliqu Tarasiy Tardu Taridin Tarkhan Tarmaç Tat-Ugek Tat-Utyak Tatatunga Tatra Tay Tegin Teginbek Tekin Telec Telerig Temür_Timur Tengri Tervel Tiliwaldi Timur Tingiz Tiradin Toghril Tohti Toktu Tomur Tömür Tsog Tsul Tuchiachi Tughlugh Tuk Tuldila Tumitu Tun Tunga Turdacis Turdi Turghan Turghun Tursun Tusun Tutuk Tuzniq 
+			Ubaidullah Ubaydullah Uldin Ulugh Umor Uturgur Uwais_Uwais 
+			Vanand Vardan Venda Vetam Vinekh Vund 
+			Wuhe 
+			Yabghu Yabgu Yahya_John Yamin Yani Yesun Yilig Yulbars Yunus Yusuf_Joseph Yusup 
+			Zabergan Zenti Ziya Zordun Zvinitsis 
 		}
-		female_names = {
-			Aghavni Alitz_Alice Almasd Anahid Anna_Anna Anoush Aprsamik Arda Arevig Arin Baydzar Berjanoush Berjouhi Dalita Datevig Eliz_Eloise Gadar Gayane Gorandoukht Goriduxt Hasmig 
-			Heghine Houri Hranoush Hripsime Hripsimeh Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid_Margaret Maria_Maria Mariyam Meghranoush Nane Nazani Ovsanna 
-			Pounig Razmouhi Rita Satenik_Satenik Seta Shoushanig Shushik Siran Sirvart Srpouhi Taguhi_Takouhi Tamar Vardanuhi Vartanoush Vartouhi Vosgi Xnchik Xosrovanush Yeva 
-			Zabel_Elizabeth Zmroukhd
+       
+       female_names = {
+	   
+			Adliya Adolat Akgul Alimi Altun Amannisa Asli Aslihan Ayasun Aykhan Ayla Ayse Ayten Azize 
+			Bahar Bakhmal Bodom Bozçin 
+			Canan Ceylan Chechak Çiçek Çilen Çiltanesi 
+			Dilber Dilek Dilnaz Dunya Durnyam 
+			Emine Esin Frakhunda 
+			Ghuncha Gül Gulay Gulbahar Gulçiçek Guldana Guldasta Gulfem Gulkhuron Gulrukhsor Gulsum Gumus Gundes Gunduz Gunes Guzal 
+			Hatice Hawa-gül Hayat Hidligh Huriye 
+			Ibadat-gül Ilbilge Ildico Ilkay Ilknur Iparhan Ipek Ipekel Irdana Irge 
+			Karacik Khanum Kunduz 
+			Lale Lusa 
+			Mahmuda Mala Miram_Mariam Mutlu 
+			N'Kara Nadira Nagihan Napise Nergis Neslihan Nigora Nila Ninguo Nurhan 
+			Oksana Ona Oy Özgul Özlem 
+			Pati-gül Peksen Pharahat Po 
+			Raad Rebiya Ruqiya 
+			Sabahat Salieva Samur Sarica Sati Sevilay Sevindik Seyahat Shara Shara_Sarah Shukria Sibel Sirin Sirma Songul 
+			Tekçe Tura Tursanay 
+			Umay Usunbike 
+			Yasar Yeldem Yildiz Yulduz Yultuz 
+			Zeb Zuleiha Zuwida 
 		}
 
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
+		
+		male_patronym = "oglu"
+		female_patronym = "kiz"
+		prefix = no
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
 
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
-		father_name_chance = 0
-
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 5
-		mat_grm_name_chance = 40
-		mother_name_chance = 0
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
 		
 		modifier = default_culture_modifier
-		}		
+	}		
 
 	tokmar = {
-		horde = yes
-		graphical_culture = mongolgfx
-	#Khazar and Hunnic
+		graphical_culture = muslimgfx
+
 		color = { 0.5 0.9 0.7 }
 
-		male_names = {
-			Alp Baghatur Balgitzi Bälgiçi Barjik Bastu Bashtwa Bihor Bugha Bulan Bulçan Buzer Çat Çat'n Çorpan Iltäbär Itakh Kayghalagh Kayqalagh Khatir Khadir Khuterkin
-			Kibar Kisa Kundaçiq Kundaç Mänär Mänäs Mënümarót Ötemis Papaçyz Samsam Simsam Täbär Tabghaç Tarkhan Tarmaç Tuzniq Yabghu Yilig 
-			Akhad Alburia Alypbi Askungur Attila Aybat Balamber Belk Bleda Bu-Timer Bu-Urgan Chelbir Dengizich Djilka Djurash Ellec Ermak Gazan Gostun Hernach Khinialon Kurbat Kutrigur Labertam Octar Rugila Sandlikh Shambat Sinnion Sulabi Tat-Ugek Tat-Utyak Tatra Tingiz Tuldila Uldin Uturgur Vund Zabergan
+       male_names = {
+			Abak Abdumannob Abdurahim Abdurashid Abduxaliq Ablajan Adigh Adil Afaq Ahmed Akhad Akhmad Alburia Alghu Alishaer Alisher Alp Alypbi Alzek Anzi Apskhih Arslan Art Askar Askungur Asparukh Attila Aybat Aziz 
+			Babur Bagha Baghatur Bahaguli Bahauddin Baidar Balamber Bälgiçi Balgitzi Baraq Barchuq Barjik Bars Bashtwa Bastu Bataul Batbayan Batoya Batulia Baurchuk Bayan Bayanchur Bazh Belk Belkermak Bezmer Bihor Bil Bilge Bleda Bogu Bögü Böra Boris Botir Boyan Boyla Bu-Timer Bu-Urgan Bugha Bulan Bulçan Bulger Buqa Buzan Buzer Buzurb 
+			Çat Çat'n Changshi Chapar Chawar Chelbir Chepa Çorpan 
+			Danishmendji Daniyal Dengisich Dengizich Dengizik Dizeng Djilka Djurash Dometa Dost Dristar Drong Dukum Duwa 
+			Ehmetjan Elemag Elihan Eljigidey Ellec Elterish Eretna Ergash Erkin Ermak Esen-Buqa Eskhach 
+			Fakriddin Furkat 
+			Gazan Gheni Goleda Gostun Grigora Grod Guar 
+			Hala Hamid Hamza Hernach Hesmat Hoja Hoshur Houdbaad Hudbaad Hülëgü Huseyincan Hushu 
+			Ibi Ilbars Iltäbär Ilteber Iratais Irnek Isa Isbul Ishana Iskender_Alexander Islam Ismail_Ismail Isperikh Ispor Itakh 
+			Jakhangir Jani Juluobo 
+			Kahar Kaidu Kano Karan Kardam Karin Kayghalagh Kayqalagh Kebek Kerman Khabul Khadir Khatir Khinialon Khizr Khudayar Khudbard Khuterkin Kibar Kisa Kochkunju Könchek Kordil Koresh Kormesiy Kormisosh Korsis Kotrag Krovat Krum Kuber Kubrat Kül-Erkin Kulug Kundaç Kundaçiq Kuraysh_Cyrus Kurbat Kurebir Kurt Kutlug Kutrigur Kuvrat 
+			Labertam Lutpulla 
+			Magotin Makhmud Malamir Mammaduli Mänär Mänäs Mansur Mansur_Mansur Maqsud Marmais Mënümarót Möngke Mubarak Mugel Murad_Murad Murat Muzaffar 
+			Nag Narbuta Nariman Narimon Nasir_Nasser Nawruz Negübei Nur Nurmuhemmet 
+			Octar Odolgan Öge Okhsi Okhsun Okors Omerjan Omurtag Onegavon Organ Organa Orkesh Ormïzt Ornag Oshi Osman_Uthman Ostro Ötemis 
+			Pagan Palta Pan-kül Papaçyz Peilo Pojuan Praksa Pressian Pulad Pusa 
+			Qamaruddin Qaplan Qara Qasar Qazaghan Qazan Quli 
+			Rabban Rais Ramil Rassate Rostam_Rostam Rugila 
+			Sa’id Sabin Sabit Salim_Selim Samsam Sandlikh Satuq Savin Setiwaldi Sevar Shahrukh_Shahrokh Shambat Shayabak Sheto Shilki Shingqur Shir Shodja Shokrat Sigritsis Silki Simsam Sinnion Slavnas Sondoke Stazis Subhan Sulabi Sulayman Sultan Sunjuq Süpürga Suurgatmish 
+			Täbär Tabghaç Taliqu Tarasiy Tardu Taridin Tarkhan Tarmaç Tat-Ugek Tat-Utyak Tatatunga Tatra Tay Tegin Teginbek Tekin Telec Telerig Temür_Timur Tengri Tervel Tiliwaldi Timur Tingiz Tiradin Toghril Tohti Toktu Tomur Tömür Tsog Tsul Tuchiachi Tughlugh Tuk Tuldila Tumitu Tun Tunga Turdacis Turdi Turghan Turghun Tursun Tusun Tutuk Tuzniq 
+			Ubaidullah Ubaydullah Uldin Ulugh Umor Uturgur Uwais_Uwais 
+			Vanand Vardan Venda Vetam Vinekh Vund 
+			Wuhe 
+			Yabghu Yabgu Yahya_John Yamin Yani Yesun Yilig Yulbars Yunus Yusuf_Joseph Yusup 
+			Zabergan Zenti Ziya Zordun Zvinitsis 
 		}
-		female_names = {
-			Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
-			Ildico N'Kara
+       
+       female_names = {
+	   
+			Adliya Adolat Akgul Alimi Altun Amannisa Asli Aslihan Ayasun Aykhan Ayla Ayse Ayten Azize 
+			Bahar Bakhmal Bodom Bozçin 
+			Canan Ceylan Chechak Çiçek Çilen Çiltanesi 
+			Dilber Dilek Dilnaz Dunya Durnyam 
+			Emine Esin Frakhunda 
+			Ghuncha Gül Gulay Gulbahar Gulçiçek Guldana Guldasta Gulfem Gulkhuron Gulrukhsor Gulsum Gumus Gundes Gunduz Gunes Guzal 
+			Hatice Hawa-gül Hayat Hidligh Huriye 
+			Ibadat-gül Ilbilge Ildico Ilkay Ilknur Iparhan Ipek Ipekel Irdana Irge 
+			Karacik Khanum Kunduz 
+			Lale Lusa 
+			Mahmuda Mala Miram_Mariam Mutlu 
+			N'Kara Nadira Nagihan Napise Nergis Neslihan Nigora Nila Ninguo Nurhan 
+			Oksana Ona Oy Özgul Özlem 
+			Pati-gül Peksen Pharahat Po 
+			Raad Rebiya Ruqiya 
+			Sabahat Salieva Samur Sarica Sati Sevilay Sevindik Seyahat Shara Shara_Sarah Shukria Sibel Sirin Sirma Songul 
+			Tekçe Tura Tursanay 
+			Umay Usunbike 
+			Yasar Yeldem Yildiz Yulduz Yultuz 
+			Zeb Zuleiha Zuwida 
 		}
-		
+
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
+		
+		male_patronym = "oglu"
+		female_patronym = "kiz"
+		prefix = no
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
 
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
 		
 		modifier = default_culture_modifier
-		}
+	}
 
 	yusak = {
-		horde = yes
-		graphical_culture = mongolgfx
-	#Utigur and Kutrigur and Volga Bulgar
+		graphical_culture = muslimgfx
+
 		color = { 0.6 0.9 0.6 }
 
-
-		male_names = {
-			Almish Almush Alzek Anzi Apskhih Araslan Asparukh Bars Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Boris Boyan Bulger Buzan Chepa Chinialus Dizeng Dometa 
-			Dristar Drong Dukum Elemag Ernakh Eskhach Goleda Gostun Grigora Grod Guar Houdbaad Hudbaad Iani Iratais Isbul Isperikh Ispor Kano 
-			Karan Kardam Khinialon Khudbard Kordil Kormesiy Kormisosh Korsis Kotrag Krovat Krum Kuber Kubrat Kurt Kuvrat Magotin Malamir Marmais 
-			Mugel Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag Oshi Ostro Pagan Praksa Pressian Rassate Sabin Sandil Sandilch 
-			Savin Sevar Shilki Sigritsis Silki Sinnion Slavnas Sondoke Stazis Synion Tarasiy Taridin Telec Telerig Tervel Tiradin Toktu Tsog Tsul 
-			Tuk Turdacis Umor Uturgur Vanand Vardan Venda Vetam Vinekh Yani Zabergan Zenti Zvinitsis
-			Dengisich Dengizik Eskhach Irnek Kutrigur Labertam Tatra Tingiz 
-			Alim Almas Almis Arslan Aydar Aynur Ayrat Azat Elbrus Färit Ildar Ildus Ilgiz Ilyas Ilsat Irek Iskändär Kamil Kazbek Kärim Nail Radiq Rail Ramil Rawil Risat Rustam Rusan Räsit Röstäm Tahir Timer Timur Zöfär Ämir Äxmät Çiñgiz Gabdulla Gädel Gäskär Samil
-
-
+       male_names = {
+			Abak Abdumannob Abdurahim Abdurashid Abduxaliq Ablajan Adigh Adil Afaq Ahmed Akhad Akhmad Alburia Alghu Alishaer Alisher Alp Alypbi Alzek Anzi Apskhih Arslan Art Askar Askungur Asparukh Attila Aybat Aziz 
+			Babur Bagha Baghatur Bahaguli Bahauddin Baidar Balamber Bälgiçi Balgitzi Baraq Barchuq Barjik Bars Bashtwa Bastu Bataul Batbayan Batoya Batulia Baurchuk Bayan Bayanchur Bazh Belk Belkermak Bezmer Bihor Bil Bilge Bleda Bogu Bögü Böra Boris Botir Boyan Boyla Bu-Timer Bu-Urgan Bugha Bulan Bulçan Bulger Buqa Buzan Buzer Buzurb 
+			Çat Çat'n Changshi Chapar Chawar Chelbir Chepa Çorpan 
+			Danishmendji Daniyal Dengisich Dengizich Dengizik Dizeng Djilka Djurash Dometa Dost Dristar Drong Dukum Duwa 
+			Ehmetjan Elemag Elihan Eljigidey Ellec Elterish Eretna Ergash Erkin Ermak Esen-Buqa Eskhach 
+			Fakriddin Furkat 
+			Gazan Gheni Goleda Gostun Grigora Grod Guar 
+			Hala Hamid Hamza Hernach Hesmat Hoja Hoshur Houdbaad Hudbaad Hülëgü Huseyincan Hushu 
+			Ibi Ilbars Iltäbär Ilteber Iratais Irnek Isa Isbul Ishana Iskender_Alexander Islam Ismail_Ismail Isperikh Ispor Itakh 
+			Jakhangir Jani Juluobo 
+			Kahar Kaidu Kano Karan Kardam Karin Kayghalagh Kayqalagh Kebek Kerman Khabul Khadir Khatir Khinialon Khizr Khudayar Khudbard Khuterkin Kibar Kisa Kochkunju Könchek Kordil Koresh Kormesiy Kormisosh Korsis Kotrag Krovat Krum Kuber Kubrat Kül-Erkin Kulug Kundaç Kundaçiq Kuraysh_Cyrus Kurbat Kurebir Kurt Kutlug Kutrigur Kuvrat 
+			Labertam Lutpulla 
+			Magotin Makhmud Malamir Mammaduli Mänär Mänäs Mansur Mansur_Mansur Maqsud Marmais Mënümarót Möngke Mubarak Mugel Murad_Murad Murat Muzaffar 
+			Nag Narbuta Nariman Narimon Nasir_Nasser Nawruz Negübei Nur Nurmuhemmet 
+			Octar Odolgan Öge Okhsi Okhsun Okors Omerjan Omurtag Onegavon Organ Organa Orkesh Ormïzt Ornag Oshi Osman_Uthman Ostro Ötemis 
+			Pagan Palta Pan-kül Papaçyz Peilo Pojuan Praksa Pressian Pulad Pusa 
+			Qamaruddin Qaplan Qara Qasar Qazaghan Qazan Quli 
+			Rabban Rais Ramil Rassate Rostam_Rostam Rugila 
+			Sa’id Sabin Sabit Salim_Selim Samsam Sandlikh Satuq Savin Setiwaldi Sevar Shahrukh_Shahrokh Shambat Shayabak Sheto Shilki Shingqur Shir Shodja Shokrat Sigritsis Silki Simsam Sinnion Slavnas Sondoke Stazis Subhan Sulabi Sulayman Sultan Sunjuq Süpürga Suurgatmish 
+			Täbär Tabghaç Taliqu Tarasiy Tardu Taridin Tarkhan Tarmaç Tat-Ugek Tat-Utyak Tatatunga Tatra Tay Tegin Teginbek Tekin Telec Telerig Temür_Timur Tengri Tervel Tiliwaldi Timur Tingiz Tiradin Toghril Tohti Toktu Tomur Tömür Tsog Tsul Tuchiachi Tughlugh Tuk Tuldila Tumitu Tun Tunga Turdacis Turdi Turghan Turghun Tursun Tusun Tutuk Tuzniq 
+			Ubaidullah Ubaydullah Uldin Ulugh Umor Uturgur Uwais_Uwais 
+			Vanand Vardan Venda Vetam Vinekh Vund 
+			Wuhe 
+			Yabghu Yabgu Yahya_John Yamin Yani Yesun Yilig Yulbars Yunus Yusuf_Joseph Yusup 
+			Zabergan Zenti Ziya Zordun Zvinitsis 
 		}
-		
-		female_names = {
-			Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay Gunduz Gundes Gunes Ilkay Ipek Ipekel Irge
-			Karacik Mala Mutlu Peksen Samur Sarica Sati Sevilay Sevindik Sibel Sirin Sirma Songul Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz
-			Aida Alsu Asiä Aygöl Aysilu Dinara Färidä Gölnara Gölnaz Gölçäçäk Güzäl Güzäliä Liana Liä Lälä Miläwsä Märyäm Tañsilu Zemfira Zöhrä Älfiä Äliä Çulpan Gäliä
-
+       
+       female_names = {
+	   
+			Adliya Adolat Akgul Alimi Altun Amannisa Asli Aslihan Ayasun Aykhan Ayla Ayse Ayten Azize 
+			Bahar Bakhmal Bodom Bozçin 
+			Canan Ceylan Chechak Çiçek Çilen Çiltanesi 
+			Dilber Dilek Dilnaz Dunya Durnyam 
+			Emine Esin Frakhunda 
+			Ghuncha Gül Gulay Gulbahar Gulçiçek Guldana Guldasta Gulfem Gulkhuron Gulrukhsor Gulsum Gumus Gundes Gunduz Gunes Guzal 
+			Hatice Hawa-gül Hayat Hidligh Huriye 
+			Ibadat-gül Ilbilge Ildico Ilkay Ilknur Iparhan Ipek Ipekel Irdana Irge 
+			Karacik Khanum Kunduz 
+			Lale Lusa 
+			Mahmuda Mala Miram_Mariam Mutlu 
+			N'Kara Nadira Nagihan Napise Nergis Neslihan Nigora Nila Ninguo Nurhan 
+			Oksana Ona Oy Özgul Özlem 
+			Pati-gül Peksen Pharahat Po 
+			Raad Rebiya Ruqiya 
+			Sabahat Salieva Samur Sarica Sati Sevilay Sevindik Seyahat Shara Shara_Sarah Shukria Sibel Sirin Sirma Songul 
+			Tekçe Tura Tursanay 
+			Umay Usunbike 
+			Yasar Yeldem Yildiz Yulduz Yultuz 
+			Zeb Zuleiha Zuwida 
 		}
+
+		dukes_called_kings = yes
+		baron_titles_hidden = yes
+		count_titles_hidden = no
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
+		
+		male_patronym = "oglu"
+		female_patronym = "kiz"
+		prefix = no
+		
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 15
 
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 25
+		mother_name_chance = 15
 		
 		modifier = default_culture_modifier
 	}		

@@ -163,12 +163,10 @@ arabyan_group = {
 			Yaa Yaaba Yejide Yetunde Yewande 
 		}
 
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
 		pat_grf_name_chance = 40
 		mat_grf_name_chance = 0
 		father_name_chance = 0
 
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 5
 		mat_grm_name_chance = 40
 		mother_name_chance = 0
@@ -208,11 +206,11 @@ arabyan_group = {
 		}
 
 		female_names = {
-			Aba Abena Abi Adama Adel Adjo Adjua Adzo Afi Aisa Aja Alanso Alima Alimatou Amie Aminata Aminata Anti Aramata Assita Attha Awa Awa Balkissa 
-			Bassin Binta Bintou Bintou Bintu 
+			Aba Abena Abi Adama Adel Adjo Adjua Adzo Afi Aisa Aja Alanso Alima Alimatou Amie Aminata Anti Aramata Assita Attha Awa Balkissa 
+			Bassin Binta Bintou Bintu 
 			Daba Dene Djeneba 
 			Edwige 
-			Fanta Fatim Fatou Fatou Fatoumatta Filije Filijee 
+			Fanta Fatim Fatou Fatoumatta Filije Filijee 
 			Guessrima 
 			Hadang Haddy Haoua Hawa 
 			Isatou Jabou Jahou Jainaba Jankeh Jatou Jojo Joma Juka 
@@ -229,13 +227,10 @@ arabyan_group = {
 			Yama Yamma 
 		}
 
-
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
 		pat_grf_name_chance = 40
 		mat_grf_name_chance = 0
 		father_name_chance = 0
 
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 5
 		mat_grm_name_chance = 40
 		mother_name_chance = 0

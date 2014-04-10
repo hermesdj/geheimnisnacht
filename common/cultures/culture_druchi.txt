@@ -59,15 +59,13 @@ druchi_group = {
 		female_patronym = ""
 		prefix = no
 
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		mat_grf_name_chance = 5
+		father_name_chance = 5
 
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 5
 		mat_grm_name_chance = 40
-		mother_name_chance = 0
+		mother_name_chance = 5
 		
 		modifier = default_culture_modifier
 	}
@@ -78,25 +76,64 @@ druchi_group = {
 		color = { 1.0 0.4 0.1 }
 
 		male_names = {
-		Legolas
+			Akrana Alondir Arishok Atar 
+			Baromad 
+			Citae Corrus Coru Crucum 
+			Devak Drai Drazek Duris 
+			Eniko Erax 
+			Festuc Fueris 
+			Garek Ghaunadaur Girathon Gloreir 
+			Hakazin Harodir Hathdror Hyethan 
+			Ilries Inpuric 
+			Kaltarn Karbo Karithan Kesida Khaeleth Khalaeth Kolith Koridrel Kossith Krartil Krathar Krellian Kulvorath Kyaran 
+			Leiaceus Livor Lokhir 
+			Maefyr Maelthraen Malagurn Malefic Malek Malekith Malign Malik Malo Manarith Metruor Metus Morelan 
+			Nyethan 
+			Perduc 
+			Ralkuth Riakahd Rindhor 
+			Saril Scalus Scelus Selvetarm Sicar Skarus Skrumar 
+			Taraj Taromir Telurna Thalyn Thandros Torrath Trepis Typhoth 
+			Urian Uzoe 
+			Valensyl Velathor Vereor Vex Vexo Vexos 
+			Vhaeraun Vilkareth Yldrian 
+			Zural 
 		}
 		female_names = {
-		
+			Aelfil Aenesintryan Aenrenasar Aethlas Alba Alyth Argenfys Astoniella 
+			Balaniell 
+			Caethsol Camilet Celo Chorane Cornix Crinis Crucia 
+			Deprava 
+			Eilistraee Elrelsar Elthfannith Ersfen 
+			Fae Faerie Fandenfelle Fel Ferfys Finirryeth Foram 
+			Gesulrell Glorrorys Glorrose Gracilia 
+			Hasilsothyn Hel Hellebron Hellis Helsiine 
+			Igniax Illanolthyn Inlica Ithsalaa Ithselroi Iyralsinath 
+			Kathandris Keress Kiaransalee Korana Krinis Kyroldet 
+			Lafenorys Lamina Lanfanona Lanfenronneth Lanselrali Larathryn Laresenther Leti Letum Lilasaira Liliath Lilroit Limfina Limrolisa Limroth Lolth Lothtrys 
+			Malifyr Malsefynn Melthirolnem Morag Morathi Moridyth Morithia Morotir Morrega Morsi 
+			Nenassela Norsor 
+			Orsula 
+			Pelicai 
+			Rapina Raptua Ridolraam Riellaeys Riilsoneleth Riinerai 
+			Sanik Sarava Seleis Shar Sharr Shazamel Sicara Skari Sprite 
+			Taenia Taluolieth Tanarashar Tanesoa Tarsisa Telsanys Tenuis Toxi Toxika 
+			Uleneleann Ulseeltar 
+			Vasti Venen Venum Vexo Viri Virik 
+			Yrrensasar 
+			Zinzerena 
 		}
 
 		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		mat_grf_name_chance = 5
+		father_name_chance = 5
 
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 5
 		mat_grm_name_chance = 40
-		mother_name_chance = 0
+		mother_name_chance = 5
 		
 		modifier = default_culture_modifier
 	}	
@@ -107,25 +144,64 @@ druchi_group = {
 		color = { 1.0 0.4 0.1 }
 
 		male_names = {
-		Legolas
+			Akrana Alondir Arishok Atar 
+			Baromad 
+			Citae Corrus Coru Crucum 
+			Devak Drai Drazek Duris 
+			Eniko Erax 
+			Festuc Fueris 
+			Garek Ghaunadaur Girathon Gloreir 
+			Hakazin Harodir Hathdror Hyethan 
+			Ilries Inpuric 
+			Kaltarn Karbo Karithan Kesida Khaeleth Khalaeth Kolith Koridrel Kossith Krartil Krathar Krellian Kulvorath Kyaran 
+			Leiaceus Livor Lokhir 
+			Maefyr Maelthraen Malagurn Malefic Malek Malekith Malign Malik Malo Manarith Metruor Metus Morelan 
+			Nyethan 
+			Perduc 
+			Ralkuth Riakahd Rindhor 
+			Saril Scalus Scelus Selvetarm Sicar Skarus Skrumar 
+			Taraj Taromir Telurna Thalyn Thandros Torrath Trepis Typhoth 
+			Urian Uzoe 
+			Valensyl Velathor Vereor Vex Vexo Vexos 
+			Vhaeraun Vilkareth Yldrian 
+			Zural 
 		}
 		female_names = {
-		
+			Aelfil Aenesintryan Aenrenasar Aethlas Alba Alyth Argenfys Astoniella 
+			Balaniell 
+			Caethsol Camilet Celo Chorane Cornix Crinis Crucia 
+			Deprava 
+			Eilistraee Elrelsar Elthfannith Ersfen 
+			Fae Faerie Fandenfelle Fel Ferfys Finirryeth Foram 
+			Gesulrell Glorrorys Glorrose Gracilia 
+			Hasilsothyn Hel Hellebron Hellis Helsiine 
+			Igniax Illanolthyn Inlica Ithsalaa Ithselroi Iyralsinath 
+			Kathandris Keress Kiaransalee Korana Krinis Kyroldet 
+			Lafenorys Lamina Lanfanona Lanfenronneth Lanselrali Larathryn Laresenther Leti Letum Lilasaira Liliath Lilroit Limfina Limrolisa Limroth Lolth Lothtrys 
+			Malifyr Malsefynn Melthirolnem Morag Morathi Moridyth Morithia Morotir Morrega Morsi 
+			Nenassela Norsor 
+			Orsula 
+			Pelicai 
+			Rapina Raptua Ridolraam Riellaeys Riilsoneleth Riinerai 
+			Sanik Sarava Seleis Shar Sharr Shazamel Sicara Skari Sprite 
+			Taenia Taluolieth Tanarashar Tanesoa Tarsisa Telsanys Tenuis Toxi Toxika 
+			Uleneleann Ulseeltar 
+			Vasti Venen Venum Vexo Viri Virik 
+			Yrrensasar 
+			Zinzerena 
 		}
 
 		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		mat_grf_name_chance = 5
+		father_name_chance = 5
 
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 5
 		mat_grm_name_chance = 40
-		mother_name_chance = 0
+		mother_name_chance = 5
 		
 		modifier = default_culture_modifier
 	}
@@ -136,25 +212,64 @@ druchi_group = {
 		color = { 1.0 0.4 0.1 }
 
 		male_names = {
-		Legolas
+			Akrana Alondir Arishok Atar 
+			Baromad 
+			Citae Corrus Coru Crucum 
+			Devak Drai Drazek Duris 
+			Eniko Erax 
+			Festuc Fueris 
+			Garek Ghaunadaur Girathon Gloreir 
+			Hakazin Harodir Hathdror Hyethan 
+			Ilries Inpuric 
+			Kaltarn Karbo Karithan Kesida Khaeleth Khalaeth Kolith Koridrel Kossith Krartil Krathar Krellian Kulvorath Kyaran 
+			Leiaceus Livor Lokhir 
+			Maefyr Maelthraen Malagurn Malefic Malek Malekith Malign Malik Malo Manarith Metruor Metus Morelan 
+			Nyethan 
+			Perduc 
+			Ralkuth Riakahd Rindhor 
+			Saril Scalus Scelus Selvetarm Sicar Skarus Skrumar 
+			Taraj Taromir Telurna Thalyn Thandros Torrath Trepis Typhoth 
+			Urian Uzoe 
+			Valensyl Velathor Vereor Vex Vexo Vexos 
+			Vhaeraun Vilkareth Yldrian 
+			Zural 
 		}
 		female_names = {
-		
+			Aelfil Aenesintryan Aenrenasar Aethlas Alba Alyth Argenfys Astoniella 
+			Balaniell 
+			Caethsol Camilet Celo Chorane Cornix Crinis Crucia 
+			Deprava 
+			Eilistraee Elrelsar Elthfannith Ersfen 
+			Fae Faerie Fandenfelle Fel Ferfys Finirryeth Foram 
+			Gesulrell Glorrorys Glorrose Gracilia 
+			Hasilsothyn Hel Hellebron Hellis Helsiine 
+			Igniax Illanolthyn Inlica Ithsalaa Ithselroi Iyralsinath 
+			Kathandris Keress Kiaransalee Korana Krinis Kyroldet 
+			Lafenorys Lamina Lanfanona Lanfenronneth Lanselrali Larathryn Laresenther Leti Letum Lilasaira Liliath Lilroit Limfina Limrolisa Limroth Lolth Lothtrys 
+			Malifyr Malsefynn Melthirolnem Morag Morathi Moridyth Morithia Morotir Morrega Morsi 
+			Nenassela Norsor 
+			Orsula 
+			Pelicai 
+			Rapina Raptua Ridolraam Riellaeys Riilsoneleth Riinerai 
+			Sanik Sarava Seleis Shar Sharr Shazamel Sicara Skari Sprite 
+			Taenia Taluolieth Tanarashar Tanesoa Tarsisa Telsanys Tenuis Toxi Toxika 
+			Uleneleann Ulseeltar 
+			Vasti Venen Venum Vexo Viri Virik 
+			Yrrensasar 
+			Zinzerena 
 		}
 
 		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		mat_grf_name_chance = 5
+		father_name_chance = 5
 
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 5
 		mat_grm_name_chance = 40
-		mother_name_chance = 0
+		mother_name_chance = 5
 		
 		modifier = default_culture_modifier
 	}
@@ -165,25 +280,64 @@ druchi_group = {
 		color = { 1.0 0.4 0.1 }
 
 		male_names = {
-		Legolas
+			Akrana Alondir Arishok Atar 
+			Baromad 
+			Citae Corrus Coru Crucum 
+			Devak Drai Drazek Duris 
+			Eniko Erax 
+			Festuc Fueris 
+			Garek Ghaunadaur Girathon Gloreir 
+			Hakazin Harodir Hathdror Hyethan 
+			Ilries Inpuric 
+			Kaltarn Karbo Karithan Kesida Khaeleth Khalaeth Kolith Koridrel Kossith Krartil Krathar Krellian Kulvorath Kyaran 
+			Leiaceus Livor Lokhir 
+			Maefyr Maelthraen Malagurn Malefic Malek Malekith Malign Malik Malo Manarith Metruor Metus Morelan 
+			Nyethan 
+			Perduc 
+			Ralkuth Riakahd Rindhor 
+			Saril Scalus Scelus Selvetarm Sicar Skarus Skrumar 
+			Taraj Taromir Telurna Thalyn Thandros Torrath Trepis Typhoth 
+			Urian Uzoe 
+			Valensyl Velathor Vereor Vex Vexo Vexos 
+			Vhaeraun Vilkareth Yldrian 
+			Zural 
 		}
 		female_names = {
-		
+			Aelfil Aenesintryan Aenrenasar Aethlas Alba Alyth Argenfys Astoniella 
+			Balaniell 
+			Caethsol Camilet Celo Chorane Cornix Crinis Crucia 
+			Deprava 
+			Eilistraee Elrelsar Elthfannith Ersfen 
+			Fae Faerie Fandenfelle Fel Ferfys Finirryeth Foram 
+			Gesulrell Glorrorys Glorrose Gracilia 
+			Hasilsothyn Hel Hellebron Hellis Helsiine 
+			Igniax Illanolthyn Inlica Ithsalaa Ithselroi Iyralsinath 
+			Kathandris Keress Kiaransalee Korana Krinis Kyroldet 
+			Lafenorys Lamina Lanfanona Lanfenronneth Lanselrali Larathryn Laresenther Leti Letum Lilasaira Liliath Lilroit Limfina Limrolisa Limroth Lolth Lothtrys 
+			Malifyr Malsefynn Melthirolnem Morag Morathi Moridyth Morithia Morotir Morrega Morsi 
+			Nenassela Norsor 
+			Orsula 
+			Pelicai 
+			Rapina Raptua Ridolraam Riellaeys Riilsoneleth Riinerai 
+			Sanik Sarava Seleis Shar Sharr Shazamel Sicara Skari Sprite 
+			Taenia Taluolieth Tanarashar Tanesoa Tarsisa Telsanys Tenuis Toxi Toxika 
+			Uleneleann Ulseeltar 
+			Vasti Venen Venum Vexo Viri Virik 
+			Yrrensasar 
+			Zinzerena 
 		}
 
 		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		mat_grf_name_chance = 5
+		father_name_chance = 5
 
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 5
 		mat_grm_name_chance = 40
-		mother_name_chance = 0
+		mother_name_chance = 5
 		
 		modifier = default_culture_modifier
 	}
@@ -193,26 +347,66 @@ druchi_group = {
 
 		color = { 1.0 0.4 0.1 }
 
+
 		male_names = {
-		Legolas
+			Akrana Alondir Arishok Atar 
+			Baromad 
+			Citae Corrus Coru Crucum 
+			Devak Drai Drazek Duris 
+			Eniko Erax 
+			Festuc Fueris 
+			Garek Ghaunadaur Girathon Gloreir 
+			Hakazin Harodir Hathdror Hyethan 
+			Ilries Inpuric 
+			Kaltarn Karbo Karithan Kesida Khaeleth Khalaeth Kolith Koridrel Kossith Krartil Krathar Krellian Kulvorath Kyaran 
+			Leiaceus Livor Lokhir 
+			Maefyr Maelthraen Malagurn Malefic Malek Malekith Malign Malik Malo Manarith Metruor Metus Morelan 
+			Nyethan 
+			Perduc 
+			Ralkuth Riakahd Rindhor 
+			Saril Scalus Scelus Selvetarm Sicar Skarus Skrumar 
+			Taraj Taromir Telurna Thalyn Thandros Torrath Trepis Typhoth 
+			Urian Uzoe 
+			Valensyl Velathor Vereor Vex Vexo Vexos 
+			Vhaeraun Vilkareth Yldrian 
+			Zural 
 		}
 		female_names = {
-		
+			Aelfil Aenesintryan Aenrenasar Aethlas Alba Alyth Argenfys Astoniella 
+			Balaniell 
+			Caethsol Camilet Celo Chorane Cornix Crinis Crucia 
+			Deprava 
+			Eilistraee Elrelsar Elthfannith Ersfen 
+			Fae Faerie Fandenfelle Fel Ferfys Finirryeth Foram 
+			Gesulrell Glorrorys Glorrose Gracilia 
+			Hasilsothyn Hel Hellebron Hellis Helsiine 
+			Igniax Illanolthyn Inlica Ithsalaa Ithselroi Iyralsinath 
+			Kathandris Keress Kiaransalee Korana Krinis Kyroldet 
+			Lafenorys Lamina Lanfanona Lanfenronneth Lanselrali Larathryn Laresenther Leti Letum Lilasaira Liliath Lilroit Limfina Limrolisa Limroth Lolth Lothtrys 
+			Malifyr Malsefynn Melthirolnem Morag Morathi Moridyth Morithia Morotir Morrega Morsi 
+			Nenassela Norsor 
+			Orsula 
+			Pelicai 
+			Rapina Raptua Ridolraam Riellaeys Riilsoneleth Riinerai 
+			Sanik Sarava Seleis Shar Sharr Shazamel Sicara Skari Sprite 
+			Taenia Taluolieth Tanarashar Tanesoa Tarsisa Telsanys Tenuis Toxi Toxika 
+			Uleneleann Ulseeltar 
+			Vasti Venen Venum Vexo Viri Virik 
+			Yrrensasar 
+			Zinzerena 
 		}
 
 		male_patronym = ""
 		female_patronym = ""
 		prefix = no
 
-		# Chane of male children being named after their paternal or maternal grandfather, or the father. Sum must not exceed 100.
 		pat_grf_name_chance = 40
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		mat_grf_name_chance = 5
+		father_name_chance = 5
 
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 5
 		mat_grm_name_chance = 40
-		mother_name_chance = 0
+		mother_name_chance = 5
 		
 		modifier = default_culture_modifier
 	}	

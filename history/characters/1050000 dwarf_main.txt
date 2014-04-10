@@ -1,0 +1,1645 @@
+1050000={
+name = "Belm"
+dynasty = 75347
+culture = dwarf_main
+religion = ancestor_gods
+martial = 0
+diplomacy = 8
+stewardship = 6
+intrigue = 5
+learning = 0
+add_trait = "scholar"
+add_trait = "detached_priest"
+add_trait="kind"
+add_trait="craven"
+add_trait="gregarious"
+
+1986.11.14={birth=yes}
+2066.12.17={death=yes}
+}
+
+1050001={
+name = "Morek"
+dynasty = 75207
+culture = dwarf_main
+religion = ancestor_gods
+martial = 8
+diplomacy = 4
+stewardship = 9
+intrigue = 1
+learning = 5
+add_trait = "gardener"
+add_trait = "tough_soldier"
+add_trait="greedy"
+add_trait="honest"
+
+
+1986.4.29={birth=yes}
+2024.1.3={death=yes}
+}
+
+1050002={
+name = "Thrain"
+dynasty = 75355
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 7
+stewardship = 8
+intrigue = 0
+learning = 8
+add_trait = "poet"
+add_trait = "mastermind_theologian"
+
+
+
+
+1997.2.3={birth=yes}
+2015.9.9={death=yes}
+}
+
+1050003={
+name = "Halig"
+dynasty = 75208
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 0
+stewardship = 7
+intrigue = 0
+learning = 5
+add_trait = "poet"
+add_trait = "midas_touched"
+add_trait="tall"
+add_trait="wroth"
+add_trait="temperate"
+
+1982.11.13={birth=yes}
+2035.1.23={death=yes}
+}
+
+1050004={
+name = "Heganbor"
+dynasty = 75208
+culture = dwarf_main
+religion = ancestor_gods
+martial = 4
+diplomacy = 4
+stewardship = 10
+intrigue = 6
+learning = 10
+add_trait = "hunter"
+add_trait = "indulgent_wastrel"
+add_trait="chaste"
+add_trait="cruel"
+add_trait="weak"
+
+1989.1.6={birth=yes}
+2020.6.10={death=yes}
+}
+
+1050005={
+name = "Grognil"
+dynasty = 75256
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 8
+stewardship = 1
+intrigue = 0
+learning = 1
+add_trait = "impaler"
+add_trait="trusting"
+add_trait="ill"
+add_trait="humble"
+
+1973.5.22={birth=yes}
+2066.8.5={death=yes}
+}
+
+1050006={
+name = "Enlag"
+dynasty = 75329
+culture = dwarf_main
+religion = ancestor_gods
+martial = 6
+diplomacy = 6
+stewardship = 1
+intrigue = 6
+learning = 9
+add_trait = "poet"
+add_trait = "elusive_shadow"
+add_trait="content"
+
+
+
+1999.8.25={birth=yes}
+2043.8.7={death=yes}
+}
+
+1050007={
+name = "Dimzad"
+dynasty = 75003
+culture = dwarf_main
+religion = ancestor_gods
+martial = 7
+diplomacy = 5
+stewardship = 4
+intrigue = 9
+learning = 2
+add_trait = "duelist"
+add_trait = "mastermind_theologian"
+
+
+
+
+1970.4.12={birth=yes}
+2036.8.13={death=yes}
+}
+
+1050008={
+name = "Azram"
+dynasty = 75002
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 6
+stewardship = 7
+intrigue = 8
+learning = 6
+add_trait = "hunter"
+add_trait = "flamboyant_schemer"
+add_trait="legit_bastard"
+add_trait="homosexual"
+add_trait="drunkard"
+
+1984.2.20={birth=yes}
+2015.10.2={death=yes}
+}
+
+1050009={
+name = "Alrik"
+dynasty = 75000
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 8
+stewardship = 11
+intrigue = 8
+learning = 9
+add_trait = "intricate_webweaver"
+
+add_trait="lisp"
+
+father = 1050080
+
+1958.1.3={birth=yes}
+2205.4.20={death="2205.4.20"}
+}
+
+1050010={
+name = "Horgar"
+dynasty = 75373
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 4
+stewardship = 2
+intrigue = 2
+learning = 4
+add_trait = "hedonist"
+add_trait = "flamboyant_schemer"
+add_trait="lustful"
+
+
+
+1994.3.14={birth=yes}
+2030.5.30={death=yes}
+}
+
+1050011={
+name = "Hulfden"
+dynasty = 75390
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 2
+stewardship = 1
+intrigue = 11
+learning = 2
+add_trait = "poet"
+add_trait = "amateurish_plotter"
+
+
+
+
+2008.11.11={birth=yes}
+2049.6.2={death=yes}
+}
+
+1050012={
+name = "Skalli"
+dynasty = 75297
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 4
+stewardship = 9
+intrigue = 5
+learning = 7
+add_trait = "hunter"
+add_trait = "indulgent_wastrel"
+add_trait="strong"
+add_trait="diligent"
+add_trait="proud"
+
+1967.1.23={birth=yes}
+2039.11.12={death=yes}
+}
+
+1050013={
+name = "Thorbal"
+dynasty = 75364
+culture = dwarf_main
+religion = ancestor_gods
+martial = 8
+diplomacy = 5
+stewardship = 1
+intrigue = 2
+learning = 4
+add_trait = "hedonist"
+add_trait = "naive_appeaser"
+add_trait="slothful"
+add_trait="envious"
+add_trait="fair"
+
+1978.8.29={birth=yes}
+2025.1.10={death=yes}
+}
+
+1050014={
+name = "Oldor"
+dynasty = 75331
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 1
+stewardship = 9
+intrigue = 7
+learning = 5
+add_trait = "mystic"
+add_trait = "amateurish_plotter"
+add_trait="patient"
+add_trait="arbitrary"
+add_trait="shy"
+
+1958.1.30={birth=yes}
+2028.3.18={death=yes}
+}
+
+1050015={
+name = "Vikram"
+dynasty = 75221
+culture = dwarf_main
+religion = ancestor_gods
+martial = 6
+diplomacy = 8
+stewardship = 9
+intrigue = 8
+learning = 6
+add_trait = "gardener"
+add_trait = "tough_soldier"
+add_trait="cynical"
+add_trait="zealous"
+add_trait="ambitious"
+
+2003.7.16={birth=yes}
+2065.1.3={death=yes}
+}
+
+1050016={
+name = "Gudrun"
+dynasty = 75350
+culture = dwarf_main
+religion = ancestor_gods
+martial = 0
+diplomacy = 3
+stewardship = 5
+intrigue = 1
+learning = 5
+add_trait = "falconer"
+add_trait = "grey_eminence"
+add_trait="just"
+add_trait="paranoid"
+add_trait="honest"
+
+1965.6.30={birth=yes}
+2028.11.17={death=yes}
+}
+
+1050017={
+name = "Garin"
+dynasty = 75378
+culture = dwarf_main
+religion = ancestor_gods
+martial = 0
+diplomacy = 4
+stewardship = 0
+intrigue = 1
+learning = 8
+add_trait = "poet"
+add_trait = "martial_cleric"
+add_trait="craven"
+add_trait="gregarious"
+add_trait="greedy"
+
+2001.3.4={birth=yes}
+2023.2.2={death=yes}
+}
+
+1050018={
+name = "Mim"
+dynasty = 75004
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 1
+stewardship = 8
+intrigue = 2
+learning = 9
+
+add_trait = "mastermind_theologian"
+add_trait="kind"
+
+
+
+2002.8.28={birth=yes}
+2062.1.29={death=yes}
+}
+
+1050019={
+name = "Dorin"
+dynasty = 75249
+culture = dwarf_main
+religion = ancestor_gods
+martial = 7
+diplomacy = 7
+stewardship = 8
+intrigue = 0
+learning = 9
+add_trait = "hedonist"
+add_trait = "intricate_webweaver"
+
+add_trait="tall"
+add_trait="weak"
+
+1952.9.13={birth=yes}
+2031.6.11={death=yes}
+}
+
+1050020={
+name = "Janek"
+dynasty = 75265
+culture = dwarf_main
+religion = ancestor_gods
+martial = 3
+diplomacy = 3
+stewardship = 8
+intrigue = 1
+learning = 9
+add_trait = "hunter"
+add_trait = "naive_appeaser"
+
+add_trait="wroth"
+add_trait="cruel"
+
+1994.8.15={birth=yes}
+2041.2.6={death=yes}
+}
+
+1050021={
+name = "Rorek"
+dynasty = 75293
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 5
+stewardship = 8
+intrigue = 0
+learning = 2
+add_trait = "hedonist"
+add_trait = "tough_soldier"
+add_trait="humble"
+add_trait="content"
+add_trait="temperate"
+
+1982.3.29={birth=yes}
+2053.12.8={death=yes}
+}
+
+1050022={
+name = "Skuddi"
+dynasty = 75272
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 5
+stewardship = 6
+intrigue = 8
+learning = 8
+
+add_trait = "amateurish_plotter"
+add_trait="chaste"
+add_trait="ill"
+add_trait="trusting"
+
+1985.1.20={birth=yes}
+2024.4.24={death=yes}
+}
+
+1050023={
+name = "Cranneg"
+dynasty = 75306
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 3
+stewardship = 2
+intrigue = 6
+learning = 5
+
+add_trait = "scholarly_theologian"
+
+
+add_trait="drunkard"
+
+2009.6.11={birth=yes}
+2034.3.26={death=yes}
+}
+
+1050024={
+name = "Thorek"
+dynasty = 75328
+culture = dwarf_main
+religion = ancestor_gods
+martial = 2
+diplomacy = 10
+stewardship = 6
+intrigue = 9
+learning = 9
+add_trait = "hunter"
+add_trait = "amateurish_plotter"
+
+add_trait="lustful"
+
+
+1983.10.3={birth=yes}
+2030.6.17={death=yes}
+}
+
+1050025={
+name = "Khim"
+dynasty = 75380
+culture = dwarf_main
+religion = ancestor_gods
+martial = 7
+diplomacy = 7
+stewardship = 6
+intrigue = 11
+learning = 10
+add_trait = "duelist"
+add_trait = "underhanded_rogue"
+
+add_trait="legit_bastard"
+
+
+1962.5.30={birth=yes}
+2016.8.19={death=yes}
+}
+
+1050026={
+name = "Nar"
+dynasty = 75202
+culture = dwarf_main
+religion = ancestor_gods
+martial = 0
+diplomacy = 8
+stewardship = 11
+intrigue = 2
+learning = 4
+add_trait = "impaler"
+add_trait = "thrifty_clerk"
+
+add_trait="lisp"
+
+
+1976.1.11={birth=yes}
+2064.3.30={death=yes}
+}
+
+1050027={
+name = "Othos"
+dynasty = 75230
+culture = dwarf_main
+religion = ancestor_gods
+martial = 7
+diplomacy = 7
+stewardship = 5
+intrigue = 5
+learning = 9
+add_trait = "hunter"
+add_trait = "grey_eminence"
+add_trait="homosexual"
+
+
+
+1957.8.15={birth=yes}
+2025.7.20={death=yes}
+}
+
+1050028={
+name = "Telchar"
+dynasty = 75006
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 6
+stewardship = 5
+intrigue = 1
+learning = 9
+add_trait = "duelist"
+add_trait = "brilliant_strategist"
+add_trait="fair"
+
+add_trait="strong"
+
+1959.1.8={birth=yes}
+2016.12.1={death=yes}
+}
+
+1050029={
+name = "Hurgin"
+dynasty = 75327
+culture = dwarf_main
+religion = ancestor_gods
+martial = 10
+diplomacy = 3
+stewardship = 1
+intrigue = 0
+learning = 5
+add_trait = "hunter"
+add_trait = "brilliant_strategist"
+
+add_trait="proud"
+add_trait="envious"
+
+1987.4.27={birth=yes}
+2017.11.11={death=yes}
+}
+
+1050030={
+name = "Falgrim"
+dynasty = 75279
+culture = dwarf_main
+religion = ancestor_gods
+martial = 2
+diplomacy = 7
+stewardship = 3
+intrigue = 5
+learning = 1
+add_trait = "falconer"
+add_trait = "detached_priest"
+add_trait="slothful"
+add_trait="shy"
+add_trait="diligent"
+
+1978.12.11={birth=yes}
+2061.3.19={death=yes}
+}
+
+1050031={
+name = "Harakaz"
+dynasty = 75361
+culture = dwarf_main
+religion = ancestor_gods
+martial = 8
+diplomacy = 9
+stewardship = 0
+intrigue = 4
+learning = 1
+add_trait = "hunter"
+add_trait = "indulgent_wastrel"
+add_trait="patient"
+add_trait="just"
+add_trait="ambitious"
+
+1995.2.24={birth=yes}
+2014.4.16={death=yes}
+}
+
+1050032={
+name = "Nain"
+dynasty = 75333
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 4
+stewardship = 10
+intrigue = 8
+learning = 2
+add_trait = "hunter"
+add_trait = "intricate_webweaver"
+add_trait="zealous"
+add_trait="cynical"
+add_trait="paranoid"
+
+1979.4.25={birth=yes}
+2016.7.4={death=yes}
+}
+
+1050033={
+name = "Ulfar"
+dynasty = 75326
+culture = dwarf_main
+religion = ancestor_gods
+martial = 3
+diplomacy = 8
+stewardship = 2
+intrigue = 6
+learning = 9
+add_trait = "gardener"
+add_trait = "charismatic_negotiator"
+add_trait="kind"
+add_trait="arbitrary"
+add_trait="craven"
+
+1970.4.21={birth=yes}
+2042.8.21={death=yes}
+}
+
+1050034={
+name = "Yadri"
+dynasty = 75365
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 8
+stewardship = 9
+intrigue = 1
+learning = 9
+add_trait = "poet"
+add_trait = "brilliant_strategist"
+add_trait="gregarious"
+
+
+
+1986.10.28={birth=yes}
+2069.4.21={death=yes}
+}
+
+1050035={
+name = "Gumli"
+dynasty = 75316
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 8
+stewardship = 6
+intrigue = 9
+learning = 7
+
+add_trait = "thrifty_clerk"
+
+add_trait="honest"
+
+
+1990.11.17={birth=yes}
+2055.8.15={death=yes}
+}
+
+1050036={
+name = "Duregar"
+dynasty = 75382
+culture = dwarf_main
+religion = ancestor_gods
+martial = 6
+diplomacy = 5
+stewardship = 0
+intrigue = 8
+learning = 9
+add_trait = "impaler"
+add_trait = "underhanded_rogue"
+add_trait="weak"
+add_trait="tall"
+add_trait="greedy"
+
+1988.12.22={birth=yes}
+2038.12.9={death=yes}
+}
+
+1050037={
+name = "Harggan"
+dynasty = 75300
+culture = dwarf_main
+religion = ancestor_gods
+martial = 6
+diplomacy = 6
+stewardship = 11
+intrigue = 11
+learning = 6
+add_trait = "poet"
+add_trait = "indulgent_wastrel"
+add_trait="cruel"
+add_trait="chaste"
+add_trait="temperate"
+
+2007.6.20={birth=yes}
+2054.6.17={death=yes}
+}
+
+1050038={
+name = "Oin"
+dynasty = 75278
+culture = dwarf_main
+religion = ancestor_gods
+martial = 3
+diplomacy = 5
+stewardship = 1
+intrigue = 7
+learning = 10
+add_trait = "gardener"
+add_trait = "misguided_warrior"
+add_trait="wroth"
+add_trait="humble"
+add_trait="ill"
+
+1989.9.16={birth=yes}
+2015.3.12={death=yes}
+}
+
+1050039={
+name = "Gror"
+dynasty = 75347
+culture = dwarf_main
+religion = ancestor_gods
+martial = 0
+diplomacy = 8
+stewardship = 6
+intrigue = 5
+learning = 0
+add_trait = "scholar"
+add_trait = "detached_priest"
+add_trait="kind"
+add_trait="craven"
+add_trait="gregarious"
+
+1986.11.14={birth=yes}
+2066.12.17={death=yes}
+}
+
+1050040={
+name = "Guddi"
+dynasty = 75007
+culture = dwarf_main
+religion = ancestor_gods
+martial = 8
+diplomacy = 4
+stewardship = 9
+intrigue = 1
+learning = 5
+add_trait = "gardener"
+add_trait = "tough_soldier"
+add_trait="greedy"
+add_trait="honest"
+
+
+1986.4.29={birth=yes}
+2024.1.3={death=yes}
+}
+
+1050041={
+name = "Lagnus"
+dynasty = 75355
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 7
+stewardship = 8
+intrigue = 0
+learning = 8
+add_trait = "poet"
+add_trait = "mastermind_theologian"
+
+
+
+
+1997.2.3={birth=yes}
+2015.9.9={death=yes}
+}
+
+1050042={
+name = "Skaldor"
+dynasty = 75208
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 0
+stewardship = 7
+intrigue = 0
+learning = 5
+add_trait = "poet"
+add_trait = "midas_touched"
+add_trait="tall"
+add_trait="wroth"
+add_trait="temperate"
+
+1982.11.13={birth=yes}
+2035.1.23={death=yes}
+}
+
+1050043={
+name = "Rork"
+dynasty = 75208
+culture = dwarf_main
+religion = ancestor_gods
+martial = 4
+diplomacy = 4
+stewardship = 10
+intrigue = 6
+learning = 10
+add_trait = "hunter"
+add_trait = "indulgent_wastrel"
+add_trait="chaste"
+add_trait="cruel"
+add_trait="weak"
+
+1989.1.6={birth=yes}
+2020.6.10={death=yes}
+}
+
+1050044={
+name = "Gazin"
+dynasty = 75256
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 8
+stewardship = 1
+intrigue = 0
+learning = 1
+add_trait = "impaler"
+add_trait = "martial_cleric"
+add_trait="trusting"
+add_trait="ill"
+add_trait="humble"
+
+1973.5.22={birth=yes}
+2066.8.5={death=yes}
+}
+
+1050045={
+name = "Guttri"
+dynasty = 75008
+culture = dwarf_main
+religion = ancestor_gods
+martial = 6
+diplomacy = 6
+stewardship = 1
+intrigue = 6
+learning = 9
+add_trait = "poet"
+add_trait = "elusive_shadow"
+add_trait="content"
+
+
+
+1999.8.25={birth=yes}
+2043.8.7={death=yes}
+}
+
+1050046={
+name = "Herger"
+dynasty = 75254
+culture = dwarf_main
+religion = ancestor_gods
+martial = 7
+diplomacy = 5
+stewardship = 4
+intrigue = 9
+learning = 2
+add_trait = "duelist"
+add_trait = "mastermind_theologian"
+
+
+
+
+1980.4.12={birth=yes}
+2036.8.13={death=yes}
+}
+
+1050047={
+name = "Grim"
+dynasty = 75005
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 6
+stewardship = 7
+intrigue = 8
+learning = 6
+add_trait = "hunter"
+add_trait = "flamboyant_schemer"
+add_trait="legit_bastard"
+add_trait="homosexual"
+add_trait="drunkard"
+
+1984.2.20={birth=yes}
+2015.10.2={death=yes}
+}
+
+1050048={
+name = "Grim"
+dynasty = 75289
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 8
+stewardship = 11
+intrigue = 8
+learning = 9
+
+add_trait = "intricate_webweaver"
+
+add_trait="lisp"
+
+
+1998.1.3={birth=yes}
+2065.4.20={death=yes}
+}
+
+1050049={
+name = "Sindri"
+dynasty = 75373
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 4
+stewardship = 2
+intrigue = 2
+learning = 4
+add_trait = "hedonist"
+add_trait = "flamboyant_schemer"
+add_trait="lustful"
+
+
+
+1994.3.14={birth=yes}
+2030.5.30={death=yes}
+}
+
+1050050={
+name = "Skag"
+dynasty = 75390
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 2
+stewardship = 1
+intrigue = 11
+learning = 2
+add_trait = "poet"
+add_trait = "amateurish_plotter"
+
+
+
+
+2008.11.11={birth=yes}
+2049.6.2={death=yes}
+}
+
+1050051={
+name = "Fenni"
+dynasty = 75297
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 4
+stewardship = 9
+intrigue = 5
+learning = 7
+add_trait = "hunter"
+add_trait = "indulgent_wastrel"
+add_trait="strong"
+add_trait="diligent"
+add_trait="proud"
+
+1967.1.23={birth=yes}
+2039.11.12={death=yes}
+}
+
+1050052={
+name = "Borin"
+dynasty = 75364
+culture = dwarf_main
+religion = ancestor_gods
+martial = 8
+diplomacy = 5
+stewardship = 1
+intrigue = 2
+learning = 4
+add_trait = "hedonist"
+add_trait = "naive_appeaser"
+add_trait="slothful"
+add_trait="envious"
+add_trait="fair"
+
+1978.8.29={birth=yes}
+2025.1.10={death=yes}
+}
+
+1050053={
+name = "Goddi"
+dynasty = 75331
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 1
+stewardship = 9
+intrigue = 7
+learning = 5
+add_trait = "mystic"
+add_trait = "amateurish_plotter"
+add_trait="patient"
+add_trait="arbitrary"
+add_trait="shy"
+
+1958.1.30={birth=yes}
+2028.3.18={death=yes}
+}
+
+1050054={
+name = "Guddi"
+dynasty = 75221
+culture = dwarf_main
+religion = ancestor_gods
+martial = 6
+diplomacy = 8
+stewardship = 9
+intrigue = 8
+learning = 6
+add_trait = "gardener"
+add_trait = "tough_soldier"
+add_trait="cynical"
+add_trait="zealous"
+add_trait="ambitious"
+
+2003.7.16={birth=yes}
+2065.1.3={death=yes}
+}
+
+1050055={
+name = "Rungni"
+dynasty = 75350
+culture = dwarf_main
+religion = ancestor_gods
+martial = 0
+diplomacy = 3
+stewardship = 5
+intrigue = 1
+learning = 5
+add_trait = "falconer"
+add_trait = "grey_eminence"
+add_trait="just"
+add_trait="paranoid"
+add_trait="honest"
+
+1965.6.30={birth=yes}
+2028.11.17={death=yes}
+}
+
+1050056={
+name = "Ulfir"
+dynasty = 75378
+culture = dwarf_main
+religion = ancestor_gods
+martial = 0
+diplomacy = 4
+stewardship = 0
+intrigue = 1
+learning = 8
+add_trait = "poet"
+add_trait = "martial_cleric"
+add_trait="craven"
+add_trait="gregarious"
+add_trait="greedy"
+
+2001.3.4={birth=yes}
+2023.2.2={death=yes}
+}
+
+1050057={
+name = "Thiafi"
+dynasty = 75230
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 1
+stewardship = 8
+intrigue = 2
+learning = 9
+
+add_trait = "mastermind_theologian"
+add_trait="kind"
+
+
+
+2002.8.28={birth=yes}
+2062.1.29={death=yes}
+}
+1050058={
+name = "Ibun"
+dynasty = 75156
+culture = dwarf_main
+religion = ancestor_gods
+martial = 0
+diplomacy = 7
+stewardship = 3
+intrigue = 5
+learning = 9
+add_trait = "scholar"
+add_trait = "underhanded_rogue"
+add_trait="honest"
+add_trait="gregarious"
+add_trait="kind"
+
+1977.1.24={birth=yes}
+2056.4.17={death=yes}
+}
+
+1050059={
+name = "Grimwold"
+dynasty = 75173
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 7
+stewardship = 6
+intrigue = 8
+learning = 10
+add_trait = "hunter"
+add_trait = "misguided_warrior"
+add_trait="craven"
+
+add_trait="greedy"
+
+1968.6.29={birth=yes}
+2062.4.24={death=yes}
+}
+
+1050060={
+name = "Yanni"
+dynasty = 75157
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 8
+stewardship = 0
+intrigue = 4
+learning = 9
+add_trait = "duelist"
+add_trait = "brilliant_strategist"
+
+add_trait="weak"
+
+
+1999.8.30={birth=yes}
+2039.4.28={death=yes}
+}
+
+1050061={
+name = "Malakai"
+dynasty = 75184
+culture = dwarf_main
+religion = ancestor_gods
+martial = 6
+diplomacy = 7
+stewardship = 11
+intrigue = 6
+learning = 4
+add_trait = "gardener"
+add_trait = "tough_soldier"
+add_trait="tall"
+add_trait="wroth"
+
+1986.1.6={birth=yes}
+2029.5.29={death=yes}
+}
+
+1050062={
+name = "Lothor"
+dynasty = 75180
+culture = dwarf_main
+religion = ancestor_gods
+martial = 3
+diplomacy = 2
+stewardship = 10
+intrigue = 8
+learning = 1
+add_trait = "hedonist"
+add_trait = "mastermind_theologian"
+add_trait="chaste"
+add_trait="humble"
+add_trait="content"
+
+1981.4.20={birth=yes}
+2041.6.24={death=yes}
+}
+
+1050063={
+name = "Trygg"
+dynasty = 75172
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 8
+stewardship = 6
+intrigue = 6
+learning = 0
+add_trait = "impaler"
+add_trait = "flamboyant_schemer"
+add_trait="cruel"
+add_trait="ill"
+add_trait="trusting"
+
+1971.12.2={birth=yes}
+2069.2.1={death=yes}
+}
+
+1050064={
+name = "Urist"
+dynasty = 75171
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 6
+stewardship = 4
+intrigue = 7
+learning = 2
+
+add_trait = "midas_touched"
+
+
+
+
+1984.10.27={birth=yes}
+2060.9.19={death=yes}
+}
+
+1050065={
+name = "Mordin"
+dynasty = 75183
+culture = dwarf_main
+religion = ancestor_gods
+martial = 8
+diplomacy = 2
+stewardship = 5
+intrigue = 5
+learning = 3
+add_trait = "hedonist"
+add_trait = "flamboyant_schemer"
+add_trait="drunkard"
+add_trait="temperate"
+
+
+1997.5.24={birth=yes}
+2033.5.3={death=yes}
+}
+
+1050066={
+name = "Magnus"
+dynasty = 75151
+culture = dwarf_main
+religion = ancestor_gods
+martial = 10
+diplomacy = 8
+stewardship = 10
+intrigue = 8
+learning = 0
+add_trait = "gardener"
+add_trait = "martial_cleric"
+
+add_trait="homosexual"
+add_trait="legit_bastard"
+
+1969.6.24={birth=yes}
+2048.4.10={death=yes}
+}
+
+1050067={
+name = "Gorim"
+dynasty = 75178
+culture = dwarf_main
+religion = ancestor_gods
+martial = 8
+diplomacy = 10
+stewardship = 5
+intrigue = 4
+learning = 4
+add_trait = "poet"
+add_trait = "flamboyant_schemer"
+add_trait="lustful"
+
+add_trait="lisp"
+
+1959.11.28={birth=yes}
+2043.1.27={death=yes}
+}
+
+1050068={
+name = "Dared"
+dynasty = 75179
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 9
+stewardship = 9
+intrigue = 8
+learning = 1
+add_trait = "duelist"
+add_trait = "midas_touched"
+
+
+
+
+1999.6.23={birth=yes}
+2067.5.11={death=yes}
+}
+
+1050069={
+name = "Gharth"
+dynasty = 75187
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 4
+stewardship = 1
+intrigue = 9
+learning = 9
+add_trait = "poet"
+add_trait = "mastermind_theologian"
+
+
+
+
+2009.4.23={birth=yes}
+2045.2.3={death=yes}
+}
+
+1050070={
+name = "Norgrim"
+dynasty = 75173
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 4
+stewardship = 4
+intrigue = 7
+learning = 7
+add_trait = "falconer"
+add_trait = "martial_cleric"
+add_trait="strong"
+add_trait="diligent"
+add_trait="envious"
+
+1988.12.7={birth=yes}
+2041.9.4={death=yes}
+}
+
+1050071={
+name = "Budrik"
+dynasty = 75159
+culture = dwarf_main
+religion = ancestor_gods
+martial = 1
+diplomacy = 8
+stewardship = 2
+intrigue = 5
+learning = 0
+add_trait = "gardener"
+add_trait = "indulgent_wastrel"
+add_trait="slothful"
+add_trait="patient"
+add_trait="shy"
+
+1984.7.24={birth=yes}
+2021.1.3={death=yes}
+}
+
+1050072={
+name = "Belgol"
+dynasty = 75154
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 0
+stewardship = 0
+intrigue = 9
+learning = 1
+add_trait = "poet"
+add_trait = "amateurish_plotter"
+add_trait="fair"
+add_trait="proud"
+add_trait="just"
+
+2009.1.24={birth=yes}
+2022.11.6={death=yes}
+}
+
+1050073={
+name = "Drakki"
+dynasty = 75187
+culture = dwarf_main
+religion = ancestor_gods
+martial = 8
+diplomacy = 0
+stewardship = 9
+intrigue = 1
+learning = 0
+add_trait = "scholar"
+add_trait = "underhanded_rogue"
+add_trait="ambitious"
+add_trait="arbitrary"
+add_trait="paranoid"
+
+1980.8.16={birth=yes}
+2052.12.23={death=yes}
+}
+
+1050074={
+name = "Furgil"
+dynasty = 75156
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 0
+stewardship = 2
+intrigue = 4
+learning = 9
+add_trait = "mystic"
+add_trait = "amateurish_plotter"
+add_trait="gregarious"
+add_trait="cynical"
+add_trait="honest"
+
+1993.5.3={birth=yes}
+2069.9.18={death=yes}
+}
+
+1050075={
+name = "Groin"
+dynasty = 75186
+culture = dwarf_main
+religion = ancestor_gods
+martial = 9
+diplomacy = 8
+stewardship = 1
+intrigue = 5
+learning = 5
+add_trait = "hedonist"
+add_trait = "thrifty_clerk"
+add_trait="craven"
+
+add_trait="kind"
+
+1982.6.22={birth=yes}
+2064.4.2={death=yes}
+}
+
+1050076={
+name = "Haakon"
+dynasty = 75114
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 6
+stewardship = 3
+intrigue = 9
+learning = 5
+add_trait = "gardener"
+add_trait = "charismatic_negotiator"
+add_trait="zealous"
+
+add_trait="greedy"
+
+1998.6.17={birth=yes}
+2030.9.12={death=yes}
+}
+
+1050077={
+name = "Goddi"
+dynasty = 75102
+culture = dwarf_main
+religion = ancestor_gods
+martial = 10
+diplomacy = 7
+stewardship = 0
+intrigue = 0
+learning = 8
+add_trait = "gardener"
+add_trait = "charismatic_negotiator"
+
+add_trait="weak"
+
+
+1992.11.14={birth=yes}
+2017.8.10={death=yes}
+}
+
+1050078={
+name = "Vragni"
+dynasty = 75116
+culture = dwarf_main
+religion = ancestor_gods
+martial = 6
+diplomacy = 8
+stewardship = 10
+intrigue = 1
+learning = 1
+add_trait = "mystic"
+add_trait = "grey_eminence"
+add_trait="tall"
+add_trait="temperate"
+add_trait="chaste"
+
+1963.9.26={birth=yes}
+2024.4.14={death=yes}
+}
+
+#Line of Thorgrim Grudgebearer Durazklad
+
+1050079={
+name = "Bronn"
+dynasty = 75000
+culture = dwarf_main
+religion = ancestor_gods
+martial = 5
+diplomacy = 8
+stewardship = 4
+intrigue = 3
+learning = 2
+add_trait = "mystic"
+add_trait = "grey_eminence"
+add_trait="tall"
+add_trait="temperate"
+add_trait="chaste"
+
+father = 1050009
+
+1983.9.26={birth=yes}
+2024.4.14={death=yes}
+}
+
+1050080={
+name = "Ranulf"
+dynasty = 75000
+culture = dwarf_main
+religion = ancestor_gods
+martial = 7
+diplomacy = 7
+stewardship = 7
+intrigue = 3
+learning = 1
+add_trait = "mystic"
+add_trait = "grey_eminence"
+add_trait="tall"
+add_trait="temperate"
+add_trait="chaste"
+father = 1050081
+
+1913.9.26={birth=yes}
+1984.4.14={death=yes}
+}
+
+1050081={
+name = "Elmador"
+dynasty = 75000
+culture = dwarf_main
+religion = ancestor_gods
+martial = 7
+diplomacy = 7
+stewardship = 7
+intrigue = 3
+learning = 1
+add_trait = "mystic"
+add_trait = "grey_eminence"
+add_trait="tall"
+add_trait="temperate"
+add_trait="chaste"
+
+1913.9.26={birth=yes}
+1984.4.14={death=yes}
+}
+
+
+#
+
