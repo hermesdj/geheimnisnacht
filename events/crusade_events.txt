@@ -267,7 +267,7 @@ character_event = {
     
     trigger = {
         FROM = { is_capital = yes }
-        religion = catholic
+        #religion = catholic
         OR = {
             any_war = {
                 using_cb = crusade

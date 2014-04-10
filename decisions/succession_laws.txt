@@ -233,7 +233,7 @@ succession_laws = {
 				
 				OR = {
 					religion_group = halfling_gods_group
-					religion_group = chaos_group
+					religion_group = chaos_gods_group
 					religion_group = necromantic_group
 				}
 				
@@ -352,7 +352,7 @@ succession_laws = {
 	
 	succ_papal_succession = {
 		potential = {
-			title = k_papal_state
+			title = k_cult_of_sigmar
 		}
 		
 		effect = {
