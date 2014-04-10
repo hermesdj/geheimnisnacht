@@ -5302,8 +5302,8 @@ pagan_subjugation = {
         FROM = {
             # we can subjugate people of barbaric culture only
             OR = {
-                culture_group = beastman_group
-                culture_group = norscan_group
+                religion_group = ROOT
+                culture_group = ROOT
             }
             NOT = {
                 any_war = {

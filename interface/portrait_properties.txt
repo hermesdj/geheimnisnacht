@@ -931,10 +931,6 @@
 	#Western Blank/Muslim Blank/Cuman Black Metal Beard
 	11 = {
 		factor = 1
-		modifier = {
-			factor = 0.25
-			culture = cuman
-		}
 	}
 	
 	#Western Blank/Muslim Blank/Cuman Mustache and Chin Fro

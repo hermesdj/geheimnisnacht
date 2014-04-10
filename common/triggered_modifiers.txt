@@ -62,7 +62,7 @@ hp_low = {
 	trigger = {
 		NOT = { check_variable = { which = "duel_hp" value = 4 }}
 	}
-	icon = 40
+	icon = 58
 }
 hp_high = {
 	potential = {

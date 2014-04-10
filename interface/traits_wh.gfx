@@ -333,7 +333,7 @@ spriteTypes = {
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-
+	# new personalities
 
 
 }
