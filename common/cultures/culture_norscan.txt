@@ -65,7 +65,7 @@ norscan_group = {
 			
 		male_patronym = "sson"
 		female_patronym = "sdottir"
-		prefix = yes
+		prefix = no
 
 		pat_grf_name_chance = 25
 		mat_grf_name_chance = 15
@@ -142,7 +142,7 @@ norscan_group = {
 			
 		male_patronym = "sson"
 		female_patronym = "sdottir"
-		prefix = yes
+		prefix = no
 
 		pat_grf_name_chance = 25
 		mat_grf_name_chance = 15
@@ -219,7 +219,7 @@ norscan_group = {
 			
 		male_patronym = "sson"
 		female_patronym = "sdottir"
-		prefix = yes
+		prefix = no
 
 		pat_grf_name_chance = 25
 		mat_grf_name_chance = 15
@@ -296,7 +296,7 @@ norscan_group = {
 			
 		male_patronym = "sson"
 		female_patronym = "sdottir"
-		prefix = yes
+		prefix = no
 
 		pat_grf_name_chance = 25
 		mat_grf_name_chance = 15
@@ -373,7 +373,7 @@ norscan_group = {
 			
 		male_patronym = "sson"
 		female_patronym = "sdottir"
-		prefix = yes
+		prefix = no
 
 		pat_grf_name_chance = 25
 		mat_grf_name_chance = 15
@@ -451,7 +451,7 @@ norscan_group = {
 			
 		male_patronym = "sson"
 		female_patronym = "sdottir"
-		prefix = yes
+		prefix = no
 
 		pat_grf_name_chance = 25
 		mat_grf_name_chance = 15
@@ -528,7 +528,7 @@ norscan_group = {
 			
 		male_patronym = "sson"
 		female_patronym = "sdottir"
-		prefix = yes
+		prefix = no
 
 		pat_grf_name_chance = 25
 		mat_grf_name_chance = 15
@@ -608,7 +608,7 @@ norscan_group = {
 			
 		male_patronym = "sson"
 		female_patronym = "sdottir"
-		prefix = yes
+		prefix = no
 
 		pat_grf_name_chance = 25
 		mat_grf_name_chance = 15

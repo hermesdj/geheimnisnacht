@@ -22,6 +22,7 @@ necromantic_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
+		feminist = yes
 		max_consorts = 3
 		can_hold_temples = yes
 	}

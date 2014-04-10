@@ -799,8 +799,6 @@ e_the_empire = {
 	capital = 299 #Altdorf
 	short_name = yes
 	
-	# FIXME crusade weight
-	chaos = 1000
 
 	k_drakwald = {
 		color = { 60 150 80 }

@@ -78,7 +78,7 @@ dwarf_group = {
 		color = { 0.8 0.8 1.0 }
 
 		male_names = {
-			Aegir Agnar Aldr Alf Alfar Alfrigg Alfrik Algfrig Algron Allsvinn Alsvid Althjof Alu Alviss Alvíss Andhrimnir Andlang Andurg Andvar Andvaranut Andvari Andvat Annarr Annarr Argrum Ari Aridva Armsvartnir Arvak Arvaker Askr Asvid Athe Atrid Aud Aurgelmir Aurvandil Austri 
+			Aegir Agnar Aldr Alf Alfar Alfrigg Alfrik Algfrig Algron Allsvinn Alsvid Althjof Alu Alviss Alvíss Andhrimnir Andlang Andurg Andvar Andvaranut Andvari Andvat Annarr Argrum Ari Aridva Armsvartnir Arvak Arvaker Askr Asvid Athe Atrid Aud Aurgelmir Aurvandil Austri 
 			Bafur Baldar Balder Baugi Beli Beowulf Berling Bifur Billingr Bolthorn Bolverk Bombor Brage Brandig Brangrimm Breck Brimer Brokk Brokkr Brundir Bruor Budli Buri Búri 
 			Crom 
 			Dag Dain Dargum Delling Dellingr Donar Dori Draupnir Dvalin Dvalinn 

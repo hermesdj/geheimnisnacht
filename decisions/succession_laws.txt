@@ -10,6 +10,14 @@ succession_laws = {
 	
 		potential = {
 			holder_scope = {
+				OR = {
+					independent = yes
+					NOT = {
+						any_liege = {
+							holy_order = yes
+						}
+					}
+				}
 				NOT = { religion_group = greenskin_gods_group }
 				is_merchant_republic = no
 				is_patrician = no
@@ -17,7 +25,9 @@ succession_laws = {
 			OR = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
+				temporary = yes
 			}
+			rebel = no
 			OR = {
 				AND = {
 					tier = baron
@@ -26,7 +36,6 @@ succession_laws = {
 				holder_scope = { is_feudal = yes }
 			}
 			is_primary_type_title = no
-			NOT = { tier = baron }
 		}
 		effect = {
 			succession = gavelkind
@@ -44,6 +53,15 @@ succession_laws = {
 	
 		potential = {
 			holder_scope = {
+				OR = {
+					independent = yes
+					NOT = {
+						any_liege = {
+							holy_order = yes
+						}
+					}
+				}
+				
 				NOT = { religion_group = greenskin_gods_group }
 				is_merchant_republic = no
 				
@@ -55,6 +73,7 @@ succession_laws = {
 			OR = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
+				temporary = yes
 			}
 			OR = {
 				AND = {
@@ -96,6 +115,7 @@ succession_laws = {
 		}			
 	}
 	
+
 	succ_primogeniture = {
 		oldest_child_opinion = 20
 		youngest_child_opinion = -30
@@ -103,13 +123,23 @@ succession_laws = {
 		dynasty_opinion = -5
 		potential = {
 			holder_scope = {
+				OR = {
+					independent = yes
+					NOT = {
+						any_liege = {
+							holy_order = yes
+						}
+					}
+				}
 				NOT = { religion_group = greenskin_gods_group }
+				
 				is_merchant_republic = no
 				is_patrician = no
 			}
 			OR = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
+				temporary = yes
 			}
 			is_primary_type_title = no
 			OR = {
@@ -149,13 +179,23 @@ succession_laws = {
 		vassal_opinion = 20
 		potential = {
 			holder_scope = {
+				OR = {
+					independent = yes
+					NOT = {
+						any_liege = {
+							holy_order = yes
+						}
+					}
+				}
 				NOT = { religion_group = greenskin_gods_group }
 				is_merchant_republic = no
 				is_patrician = no
+				
 			}
 			OR = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
+				temporary = yes
 			}
 			is_primary_type_title = no
 			NOT = { tier = baron }
@@ -183,16 +223,27 @@ succession_laws = {
 		potential = {
 			holder_scope = {
 				OR = {
+					independent = yes
+					NOT = {
+						any_liege = {
+							holy_order = yes
+						}
+					}
+				}
+				
+				OR = {
 					religion_group = halfling_gods_group
-					religion_group = chaos_gods_group
+					religion_group = chaos_group
 					religion_group = necromantic_group
 				}
+				
 				is_merchant_republic = no
 				is_patrician = no
 			}
 			OR = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
+				temporary = yes
 			}
 			is_primary_type_title = no
 			NOT = { tier = baron }
@@ -211,7 +262,6 @@ succession_laws = {
 			always = no
 		}			
 	}
-	
 	succ_ultimogeniture = {
 		youngest_child_opinion = 20
 		oldest_child_opinion = -30
@@ -219,14 +269,23 @@ succession_laws = {
 		dynasty_opinion = -5
 		potential = {
 			holder_scope = {
-				religion_group = halfling_gods_group
+				OR = {
+					independent = yes
+					NOT = {
+						any_liege = {
+							holy_order = yes
+						}
+					}
+				}
 				NOT = { religion_group = greenskin_gods_group }
+				
 				is_merchant_republic = no
 				is_patrician = no
 			}
 			OR = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
+				temporary = yes
 			}
 			is_primary_type_title = no
 			OR = {
@@ -255,19 +314,29 @@ succession_laws = {
 			always = no
 		}
 	}
-
+	
 	succ_turkish_succession = {
 		oldest_child_opinion = -10
-#		child_opinion = 30
-#		dynasty_opinion = 10
+		child_opinion = 30
+		dynasty_opinion = 10
 		potential = {
 			OR = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
+				temporary = yes
 			}
 			holder_scope = {
-				religion_group = chaos_gods_group			
+				OR = {
+					independent = yes
+					NOT = {
+						any_liege = {
+							holy_order = yes
+						}
+					}
+				}
+				
 				NOT = { religion_group = greenskin_gods_group }
+				
 				is_republic = no
 				is_merchant_republic = no
 			}
@@ -281,10 +350,9 @@ succession_laws = {
 		}			
 	}
 	
-	# FIXME what is it?
 	succ_papal_succession = {
 		potential = {
-			title = k_cult_of_sigmar
+			title = k_papal_state
 		}
 		
 		effect = {
@@ -405,7 +473,14 @@ gender_laws = {
 		potential = {
 
 			holder_scope = {
-				NOT = { religion = northern_gods }	
+				NOT = { religion = northern_gods }
+				NOT = { religion = taalite }
+				NOT = { religion = classical_gods }
+				NOT = { religion = old_faith }
+				NOT = { religion_group = cadai_gods_group }
+				NOT = { religion_group = cytharai_gods_group }
+				NOT = { religion_group = halfling_gods_group }
+				NOT = { religion_group = nehekharan_gods_group }
 			}
 			always = yes
 		}
@@ -425,6 +500,8 @@ gender_laws = {
 			holder_scope = { 
 				NOT = { religion_group = greenskin_gods_group }
 				NOT = { religion_group = beastman_gods_group }
+				NOT = { religion_group = horned_rat_god_group }
+				NOT = { religion_group = old_ones_group }
 			}
 			
 			is_landless_type_title = no
@@ -455,6 +532,8 @@ gender_laws = {
 				NOT = { religion_group = dwarf_gods_group }			
 				NOT = { religion_group = greenskin_gods_group }
 				NOT = { religion_group = beastman_gods_group }
+				NOT = { religion_group = horned_rat_god_group }
+				NOT = { religion_group = old_ones_group }
 			}
 			
 			is_landless_type_title = no
@@ -483,10 +562,16 @@ gender_laws = {
 		
 		potential = {
 			holder_scope = {
-				NOT = { religion = lady_of_the_lake }		
+				NOT = { religion = lady_of_the_lake }	
+				NOT = { religion = ulrican }	
+				NOT = { religion = sigmarite }		
+				NOT = { religion_group = norse_group }
+				NOT = { religion_group = ormazd_gods_group }
 				NOT = { religion_group = dwarf_gods_group }			
 				NOT = { religion_group = greenskin_gods_group }
 				NOT = { religion_group = beastman_gods_group }
+				NOT = { religion_group = horned_rat_god_group }
+				NOT = { religion_group = old_ones_group }
 			}
 		}
 		effect = {
@@ -503,10 +588,18 @@ gender_laws = {
 		
 		potential = {
 			holder_scope = {
-				NOT = { religion = lady_of_the_lake }		
+				NOT = { religion_group = norse_group }
+				NOT = { religion_group = ormazd_gods_group }
+				NOT = { religion_group = cadai_gods_group }
+				NOT = { religion_group = cytharai_gods_group }
+				NOT = { religion_group = halfling_gods_group }
+				NOT = { religion_group = old_world_group }
 				NOT = { religion_group = dwarf_gods_group }			
 				NOT = { religion_group = greenskin_gods_group }
 				NOT = { religion_group = beastman_gods_group }
+				NOT = { religion_group = horned_rat_god_group }
+				NOT = { religion_group = old_ones_group }
+				NOT = { religion_group = nehekharan_gods_group }
 			}
 		}
 		effect = {
