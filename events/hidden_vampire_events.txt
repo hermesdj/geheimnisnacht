@@ -251,16 +251,6 @@ character_event = {
 				limit = { ROOT = { trait = scarred }	}		
 				add_trait = scarred
 			}
-			#heavily_scarred
-			if = {
-				limit = { ROOT = { trait = heavily_scarred }	}		
-				add_trait = heavily_scarred
-			}
-			#massively_scarred
-			if = {
-				limit = { ROOT = { trait = massively_scarred }	}		
-				add_trait = massively_scarred
-			}
 			#eunuch
 			if = {
 				limit = { ROOT = { trait = eunuch }	}		

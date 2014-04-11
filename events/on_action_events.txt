@@ -157,7 +157,7 @@ character_event = {
 			if = {
 				limit = { 
 					dynasty = ROOT 
-					NOT = { religion_group = muslim }
+					#NOT = { religion_group = muslim }
 				}
 				add_trait = kinslayer
 			}
@@ -697,7 +697,7 @@ character_event = {
 		if = {
 			limit = { 
 				dynasty = FROM 
-				NOT = { FROM = { religion_group = muslim } }
+				#NOT = { FROM = { religion_group = muslim } }
 			}
 			FROM = { add_trait = kinslayer }
 		}
@@ -2336,7 +2336,7 @@ character_event = {
 	is_triggered_only = yes
 	
 	trigger = {
-		NOT = { religion_group = muslim }
+		#NOT = { religion_group = muslim }
 		OR = {
 			AND = {
 				NOT = { religion = zoroastrian }
