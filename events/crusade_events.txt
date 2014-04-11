@@ -14,7 +14,7 @@
 # Arriving for the crusade
 character_event = {
     id = 8300
-    desc = "EVTDESC8300_WH"
+    desc = "EVTDESC_WH_8300"
     picture = "GFX_evt_crusaders" # FIXME to be changed
     border = GFX_event_normal_frame_war
     
@@ -48,7 +48,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPT8300_WH_A"
+        name = "EVTOPT_WH_8300_A"
         add_trait = crusader
     }
 }
@@ -61,7 +61,7 @@ character_event = {
 # FROM = opposing army's owner
 character_event = {
     id = 8310
-    desc = "EVTDESC8310_WH"
+    desc = "EVTDESC_WH_8310"
     picture = "GFX_evt_knight_kneeling"
     border = GFX_event_normal_frame_religion
     
@@ -100,7 +100,7 @@ character_event = {
 # FROM = opposing army's owner
 character_event = {
     id = 8320
-    desc = "EVTDESC8320_WH"
+    desc = "EVTDESC_WH_8320"
     picture = "GFX_evt_pale_rider"
     border = GFX_event_normal_frame_war
 
@@ -137,7 +137,7 @@ character_event = {
 # FROM = barony won
 character_event = {
     id = 8330
-    desc = EVTDESC8330
+    desc = EVTDESC_WH_8330
     picture = GFX_evt_siege
     border = GFX_event_normal_frame_war
     

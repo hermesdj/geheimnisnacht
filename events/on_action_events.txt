@@ -1254,8 +1254,8 @@ character_event = {
 # FROM is the attacked kingdom title
 narrative_event = {
 	id = 200
-	title = "EVTNAME_200_NEW"
-	desc = "EVTDESC_200_NEW"
+	title = "EVTNAME_WH_200"
+	desc = "EVTDESC_WH_200"
 	picture = GFX_evt_crusaders
 	
 	is_triggered_only = yes
@@ -1272,11 +1272,11 @@ narrative_event = {
 	}
 	
 	option = {
-		name = "EVTOPTA200" # Deus Vult! 
+		name = "EVTOPT_WH_200_A" # Deus Vult! 
 		trigger = { religion = ROOT }
 	}
 	option = {
-		name = "EVTOPTB200" # No concern of ours  (not old world religion group)
+		name = "EVTOPT_WH_200_B" # No concern of ours  (not old world religion group)
 		trigger = {
 			NOT = { religion_group = ROOT }
 			new_character = {
@@ -1287,7 +1287,7 @@ narrative_event = {
 	}
 	# we are the target of black crusade
 	option = {
-		name = "EVTOPTD200" # To Arms!
+		name = "EVTOPTD_WH_200_C" # To Arms!
 		trigger = {
 			new_character = {
 				character = PREV
@@ -1295,7 +1295,7 @@ narrative_event = {
 		}
 	}
 	option = {
-		name = "EVTOPTE200" # Terrible news they attack one of ours
+		name = "EVTOPTE_WH_200_D" # Terrible news they attack one of ours
 		trigger = {
 			new_character = {
 				religion_group = PREV
