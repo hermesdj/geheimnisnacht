@@ -56,6 +56,7 @@ chaste = {
 }
 gluttonous = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		temperate
 	}
@@ -71,6 +72,7 @@ gluttonous = {
 }
 temperate = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		gluttonous
 	}
@@ -86,6 +88,7 @@ temperate = {
 }
 greedy = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		charitable
 	}
@@ -98,6 +101,7 @@ greedy = {
 }
 charitable = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		greedy
 	}
@@ -115,10 +119,11 @@ charitable = {
 }
 slothful = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		diligent
 	}
-	
+
 	vassal_opinion = -10
 	
 	diplomacy = -1
@@ -134,6 +139,7 @@ slothful = {
 }
 diligent = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		slothful
 	}
@@ -153,6 +159,7 @@ diligent = {
 }
 envious = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		kind
 	}
@@ -165,6 +172,7 @@ envious = {
 }
 kind = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		envious
 		cruel
@@ -180,6 +188,7 @@ kind = {
 }
 wroth = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		patient
 	}
@@ -192,6 +201,7 @@ wroth = {
 }
 patient = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		wroth
 	}
@@ -209,6 +219,7 @@ patient = {
 }
 proud = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		humble
 	}
@@ -219,6 +230,7 @@ proud = {
 }
 humble = {
 	personality = yes
+	potential = { NOT = {  religion_group = greenskin_gods_group } }
 	opposites =  {
 		proud
 	}

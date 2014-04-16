@@ -132,7 +132,7 @@ character_event = {
         }
         modifier = {
             factor = 1.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 1.5
@@ -149,10 +149,6 @@ character_event = {
         modifier = {
             factor = 1.5
             trait = has_tomb_rot
-        }
-        modifier = {
-            factor = 1.5
-            trait = has_nurgles_rot
         }
     }
     
@@ -320,7 +316,7 @@ character_event = {
         }
         modifier = {
             factor = 1.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 1.5
@@ -337,10 +333,6 @@ character_event = {
         modifier = {
             factor = 1.2
             trait = has_tomb_rot
-        }
-        modifier = {
-            factor = 1.5
-            trait = has_nurgles_rot
         }
     }
     
@@ -489,7 +481,7 @@ character_event = {
         }
         modifier = {
             factor = 1.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 1.5
@@ -506,10 +498,6 @@ character_event = {
         modifier = {
             factor = 1.2
             trait = has_tomb_rot
-        }
-        modifier = {
-            factor = 1.5
-            trait = has_nurgles_rot
         }
     }
     
@@ -657,7 +645,7 @@ character_event = {
         }
         modifier = {
             factor = 1.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 1.5
@@ -674,10 +662,6 @@ character_event = {
         modifier = {
             factor = 1.2
             trait = has_tomb_rot
-        }
-        modifier = {
-            factor = 1.5
-            trait = has_nurgles_rot
         }
     }
 
@@ -807,7 +791,7 @@ character_event = {
         }
         modifier = {
             factor = 0.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 0.5
@@ -824,10 +808,6 @@ character_event = {
         modifier = {
             factor = 0.5
             trait = has_tomb_rot
-        }
-        modifier = {
-            factor = 0.5
-            trait = has_nurgles_rot
         }
 
     }
@@ -973,7 +953,7 @@ character_event = {
         }
         modifier = {
             factor = 0.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 0.5
@@ -991,11 +971,6 @@ character_event = {
             factor = 0.5
             trait = has_tomb_rot
         }
-        modifier = {
-            factor = 0.5
-            trait = has_nurgles_rot
-        }
-
     }
 
     option = {
@@ -1115,7 +1090,7 @@ character_event = {
         }
         modifier = {
             factor = 0.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 0.5
@@ -1133,11 +1108,6 @@ character_event = {
             factor = 0.5
             trait = has_tomb_rot
         }
-        modifier = {
-            factor = 0.5
-            trait = has_nurgles_rot
-        }
-
     }
 
     option = {
@@ -1282,7 +1252,7 @@ character_event = {
         }
         modifier = {
             factor = 0.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 0.5
@@ -1299,10 +1269,6 @@ character_event = {
         modifier = {
             factor = 0.5
             trait = has_tomb_rot
-        }
-        modifier = {
-            factor = 0.5
-            trait = has_nurgles_rot
         }
     }
 
@@ -1440,7 +1406,7 @@ character_event = {
         }
         modifier = {
             factor = 1.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 1.5
@@ -1457,10 +1423,6 @@ character_event = {
         modifier = {
             factor = 1.5
             trait = has_tomb_rot
-        }
-        modifier = {
-            factor = 1.5
-            trait = has_nurgles_rot
         }
     }
 
@@ -1633,7 +1595,7 @@ character_event = {
         }
         modifier = {
             factor = 0.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 0.5
@@ -1650,10 +1612,6 @@ character_event = {
         modifier = {
             factor = 0.5
             trait = has_tomb_rot
-        }
-        modifier = {
-            factor = 0.5
-            trait = has_nurgles_rot
         }
     }
     
@@ -1911,7 +1869,7 @@ character_event = {
         }
         modifier = {
             factor = 1.5
-            trait = has_typhus
+            trait = has_nurgles_rot
         }
         modifier = {
             factor = 1.5
@@ -1928,10 +1886,6 @@ character_event = {
         modifier = {
             factor = 1.5
             trait = has_tomb_rot
-        }
-        modifier = {
-            factor = 1.5
-            trait = has_nurgles_rot
         }
         modifier = {
             factor = 0.5

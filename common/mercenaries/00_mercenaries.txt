@@ -425,8 +425,8 @@ d_shieldmaidens_of_the_storm_modifier = {
 
 d_gryphon_legion_modifier = {
 	levy_size = 1
-	light_cavalry = 500
-	knights = 300
+	light_cavalry = 400
+	knights = 400
 }
 
 d_winged_company_modifier = {

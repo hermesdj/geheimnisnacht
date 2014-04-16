@@ -117,4 +117,7 @@ resistance_desc;Most of population is hiding before forces of Chaos, those who a
 # Chaos subjugation
 CB_NAME_CHAOS_SUBJUGATION;Unholy Subjugation of [Title.GetBaseName];Assujettissement de [Title.GetBaseName];Unterwerfung von [Title.GetBaseName];;Subyugación de [Title.GetBaseName];;;;;;;;;x
 WAR_NAME_CHAOS_SUBJUGATION;$ORDER$$FIRST_ADJ$ Unholy Subjugation of $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ assujettissement de $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ Unterwerfung von $OTHER_TITLE$;;$ORDER$$FIRST_ADJ$ Subyugación de $OTHER_TITLE$;;;;;;;;;x
+# Chaos invasion
+CB_NAME_CHAOS_INVASION;Chaos Invasion of [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_CHAOS_INVASION;$ORDER$$FIRST_ADJ$ Chaos Invasion of $OTHER_TITLE$;;;;;;;;;;;;;x
 

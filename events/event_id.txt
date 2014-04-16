@@ -6,16 +6,25 @@
 #
 # This file is a list of events
 # ported from vanilla to
-# warhammer mod, it doesn't
+# Warhammer mod, it doesn't
 # contain the completly new
 # events
 #
+# Keep events in IDs order!
+# 
+#
+#
+#
+
 
 ##############################
 #
 # WARHAMMER (FINAL FORM)
 #
 ##############################
+
+
+
 
 
 #############################
@@ -30,18 +39,30 @@
 # (Character) Health Events: 6000-6499
 
 # Crusade Events: 8300-8499
+# renamed to chaos_vs_order.txt
+# its content tells about chaos incrusions etc
 
-##############################
-#
-# VANILA EVENTS
-#
-##############################
-
-# (Character) Adult Personality Traits: 1000-1499
+# (Character) Adult Personality Traits: 1000-1499 
+# TODO non-human races don't taken into account
 
 # (Character) Childhood Personality Traits: 1500-1999
+# TODO: fits for human races only
 
 # (Character) Guardian Events: 2000-2500, 38100 - 38299
+# TODO: fits for human races only
+
+
+
+
+##############################
+#
+# VANILA EVENTS  
+#
+##############################
+
+# Those events we need to port for Warhammer 
+# to gain bare functionality and gameplay experience
+# of quality similiar to this form vanilla
 
 # (Character) Personality Trait Effects: 3000 - 3999
 
@@ -55,17 +76,11 @@
 
 # Plot Events: 7000-8299
 
-# Teutonic Order Events: 8500-9999
-
-# Narrative Events: 10000-19999
-
 # Triggered by on-action/special events: 20000-24499
 
 # Mourning Event series : 24500 - 24999
 
 # (Character) Married Life Events: 30000-30999
-
-# Muslims (Religion) Events: 31000 - 31999
 
 # Hunting Events 36000 - 36099 
 
@@ -80,8 +95,6 @@
 # Imprisoned Events: 50000 - 54999
 
 # Cultural Conversion Events: 55000 - 59999
-
-# Mongol Horde Events: 60000 - 60999
 
 # Regency Events: 61000 - 61999
 
@@ -98,8 +111,6 @@
 # (Character) Dynasty Events: 66000 - 66999
 
 # (Character) Pope vs Free Investiture: 67000 - 67999
-
-# (Character) UNUSED: 68000 - 68999
 
 # (Character) Rumours Events: 69000 - 69999
 
@@ -123,6 +134,34 @@
 
 # Rebel events: 80000 - 85000
 
+# Polygamy Events: 89000 - 89249
+
+# Ambition Events: 94000 - 94999
+
+# Friends & Rivals events: 100000 - 104999
+
+
+
+##############################
+#
+# DELETED EVENTS
+#
+##############################
+
+# Those event doesn't have to be ported 
+# remember about delteing references to 
+# their id ranges
+
+# Teutonic Order Events: 8500-9999
+
+# Narrative Events: 10000-19999 ( legend_events.txt)
+
+# (Character) UNUSED: 68000 - 68999
+
+# Muslims (Religion) Events: 31000 - 31999
+
+# Mongol Horde Events: 60000 - 60999
+
 # Muslim Pilgrimage: 86000-86999
 
 # Hashshashin Events: 88000 - 88249
@@ -133,16 +172,11 @@
 
 # Fatwa Events: 88750 - 88999
 
-# Polygamy Events: 89000 - 89249
-
 # Tutorial Events: 90000 - 90999
 
 # Decadence Events: 91000 - 91499
 
-# Ambition Events: 94000 - 94999
-
-# Friends & Rivals events: 100000 - 104999
-
 # (Character) Muslim Honorary Titles Events: 105000 - 105999
 
 # Important Muslims: 106000 - 106999
+

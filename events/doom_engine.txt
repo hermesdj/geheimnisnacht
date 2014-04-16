@@ -4,6 +4,7 @@
 # WH world they compute the doom counter which 
 # is the number used to describe how bad world is corrupted by chaos (1-100)
 #
+# Also those event are used to treat chaos invasions etc
 #
 # Armaggedon counter:
 # 1-19  : the forces of order are at peak of their strength
@@ -29,7 +30,12 @@
 #
 namespace = doomengine
 #
-# Periodical event
+################################################
+#
+# Doom counter events 
+# reserved 0-19
+#
+###############################################
 province_event = {
     id = doomengine.0
     hide_window = yes
@@ -130,5 +136,55 @@ province_event = {
        name = "EVTOPT_DOOMENGINE_1A"
        change_variable = { which = "doom_counter" value = 3 }
        ai_chance = { factor = 1 }
+    }
+}
+##################################################
+#
+# Here should be events governing the conflicts
+# between chaos and the rest
+# reserved 20-39
+#
+#################################################
+
+
+# Triggered by decision "Join chaos war"
+# sets the FROM, and ROOT valeues nicely
+character_event = {
+    id = doomengine.20
+    hide_window = yes
+    is_triggered_only = yes
+    
+    immediate = {
+        # fires event back
+        FROM = { character_event = { id = doomengine.1 } }
+    }   
+}
+# Event for people to join the chaos crusade led by everchosen
+character_event = {
+    id = doomengine.21
+    desc = "EVTDESC_DOOMENGINE_1"
+    picture = "GFX_evt_nurgle"
+    is_triggered_only = yes
+    
+    # Join the attackers
+    option = {
+        name = "EVTOPT_DOOMENGINE_1A"
+        ai_chance = {
+            factor = 1
+        }
+    }
+    # Join the defenders
+    option = {
+        name = "EVTOPT_DOOMENGINE_1B"
+        ai_chance = {
+            factor = 1
+        }
+    }
+    # Wait
+    option = {
+        name = "EVTOPT_DOOMENGINE_1C"
+        ai_chance = {
+            factor = 1
+        } 
     }
 }

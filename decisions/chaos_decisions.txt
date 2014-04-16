@@ -73,4 +73,79 @@ decisions = {
             }
         }
     }
+  
+#########################################
+#
+# Join the chaos invasion (AI only)
+#
+########################################
+    decision_join_chaos_invasion = {
+        potential = {
+            # all of our pc decisions use this trigger
+            #FIXME ai = yes
+            independent = yes
+            OR = {
+                has_global_flag = doom_low # FIXME jst for tests
+                has_global_flag = doom_medium
+                has_global_flag = doom_high
+                has_global_flag = doom_very_high
+            }
+            # there is an invasion led by champion
+            any_independent_ruler = {
+                limit = { 
+                    religion_group = chaos_gods_group
+                    religion_group = norse_group
+                    OR = { 
+                        has_landed_title = e_host_chaos
+                        has_landed_title = e_host_tzeentch
+                        has_landed_title = e_host_slaanesh
+                        has_landed_title = e_host_khorne
+                        has_landed_title = e_host_nurgle
+                    }
+                }
+                using_cb = chaos_invasion
+            }
+        }
+        allow = {
+            prisoner = no
+            war = no
+        }
+        # triggers the event where you choose the invasion side
+        effect = { 
+            random_independent_ruler = {
+                limit = { 
+                    religion_group = chaos_gods_group
+                    religion_group = norse_group
+                    OR = { 
+                        has_landed_title = e_host_chaos
+                        has_landed_title = e_host_tzeentch
+                        has_landed_title = e_host_slaanesh
+                        has_landed_title = e_host_khorne
+                        has_landed_title = e_host_nurgle
+                    }
+                }
+                using_cb = chaos_invasion
+            }
+            character_event = { id = doomengine.20 }
+        }
+        ai_will_do = {
+            # we should tweak it
+            factor = 1
+            modifier = {
+                factor = 4
+                has_global_flag = doom_medium
+            }
+
+            modifier = {
+                factor = 8
+                has_global_flag = doom_high
+            }
+            modifier = {
+                factor = 12
+                has_global_flag = doom_very_high
+            }
+
+        }
+    }
+
 }

@@ -699,6 +699,10 @@ e_host_khorne = {
 	primary = yes
 	
 	controls_religion = khorne
+        allow = {
+            piety = 1000
+        }
+
 }
 	
 e_host_slaanesh = {
@@ -717,6 +721,10 @@ e_host_slaanesh = {
 	primary = yes
 	
 	controls_religion = slaanesh
+        allow = {
+            piety = 1000
+        }
+
 }	
 	
 e_host_tzeentch = {
@@ -735,6 +743,10 @@ e_host_tzeentch = {
 	primary = yes
 	
 	controls_religion = tzeentch
+        allow = {
+            piety = 1000
+        }
+
 }
 	
 e_host_nurgle = {
@@ -753,6 +765,10 @@ e_host_nurgle = {
 	primary = yes
 	
 	controls_religion = nurgle
+        allow = {
+            piety = 1000
+        }
+
 }
 	
 e_host_chaos = {
