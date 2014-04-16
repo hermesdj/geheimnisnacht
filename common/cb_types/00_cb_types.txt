@@ -1,4 +1,5 @@
 ## normal scopes(including posttitle scopes) ##
+
 # ROOT = receiver
 # FROM = giver
 # <no scope change> = attacker or receiver
@@ -6929,7 +6930,7 @@ other_dejure_county_claim = {
 chaos_subjugation = {
     name = CB_NAME_CHAOS_SUBJUGATION
     war_name = WAR_NAME_CHAOS_SUBJUGATION
-    sprite = 8
+    sprite = 30
     truce_days = 180 # was 365
     hostile_against_others = yes
     is_permanent = yes
@@ -7139,7 +7140,7 @@ chaos_subjugation = {
 chaos_invasion = {
     name = CB_NAME_CHAOS_INVASION
     war_name = WAR_NAME_CHAOS_INVASION
-    sprite = 8 #FIXME
+    sprite = 30 
     truce_days = 365
     hostile_against_others = yes
     is_permanent = yes

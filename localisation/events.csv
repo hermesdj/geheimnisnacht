@@ -81,6 +81,10 @@ EVTOPT_RACIAL_3A;Aaa...;;;;;;;;;;;;;x
 EVTNAME_DOOMENGINE_1;Signs of Armageddon;;;;;;;;;;;;;x
 EVTDESC_DOOMENGINE_1;The Signs on heaven and earth are telling about forecoming Armageddon. Mutants attacks are more frequent and people are telling stories about strange ilnesses that depopulated whole villages...;;;;;;;;;;;;;x
 EVTOPT_DOOMENGINE_1A;Yes indeed something is happening...;;;;;;;;;;;;;x
+EVTDESC_DOOMENGINE_21;The Armies of Chaos march through the world spreading destruction in the name of their Dark Gods. The Doom is coming... In such conflict One must take a side..;;;;;;;;;;;;;x
+EVTOPT_DOOMENGINE_21A;LET THE WORLD BURN!.;;;;;;;;;;;;;x
+EVTOPT_DOOMENGINE_21B;I will never yield before Chaos.;;;;;;;;;;;;;x
+EVTOPT_DOOMENGINE_21C;That is not our war...;;;;;;;;;;;;;x
 # namespace = duelengine
 EVTDESC_DUELENGINE_0;In the heat of battle you have spotted your opponent;;;;;;;;;;;;;x
 EVTOPT_DUELENGINE_0A;May the gods be with me!;;;;;;;;;;;;;x
