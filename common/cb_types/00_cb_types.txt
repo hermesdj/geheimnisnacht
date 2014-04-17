@@ -7121,11 +7121,11 @@ chaos_subjugation = {
        modifier = {
            factor = 1.5
            OR = {
-               has_landend_title = e_host_nurgle
-               has_landend_title = e_host_khorne
-               has_landend_title = e_host_slaanesh
-               has_landend_title = e_host_tzeentch
-               has_landend_title = e_host_chaos
+               has_landed_title = e_host_nurgle
+               has_landed_title = e_host_khorne
+               has_landed_title = e_host_slaanesh
+               has_landed_title = e_host_tzeentch
+               has_landed_title = e_host_chaos
            }
        }
        modifier = {
@@ -7144,22 +7144,16 @@ chaos_invasion = {
     truce_days = 365
     hostile_against_others = yes
     is_permanent = yes
-    can_ask_to_join_war = yes
     check_de_jure_tier = KING # this scans all de jure kingdoms for the counties which are held by or vassals(or below) of selected character. Only valid if is_permanent = yes
     
     can_use = {
-        #OR = {
-        #    has_global_flag = doom_medium
-        #    has_global_flag = doom_high
-        #    has_global_flag = doom_very_high
-        #}
         ROOT = {
             OR = {
                 religion_group = chaos_gods_group
                 religion = dark_norse
             }
         }
-        # no fighiting aginst other chaotic forces
+        # no fighiting against other chaotic forces
         FROM = { 
             NOT = { religion_group = ROOT } 
             NOT = { religion_group = horned_rat_god_group } 
@@ -7202,14 +7196,64 @@ chaos_invasion = {
             }
         }
     }
+    # send proper event to chaos followers
+    on_add = { 
+        ROOT = { 
+            if = {
+                limit = { 
+                    OR = {
+                        has_landed_title = e_host_nurgle
+                        has_landed_title = e_host_khorne
+                        has_landed_title = e_host_slaanesh
+                        has_landed_title = e_host_tzeentch
+                        has_landed_title = e_host_chaos
+                    }
+                }
+                character_event = { id = doomengine.20 }
+            }
+        }
+
+    }
     on_success = {
         # DOOM_COUNTER - raise
         1 = { change_variable = { which = "doom_counter" value = 16 } }
+        
+        ######################################################
+        # 
+        # Here should be code targeting neighbouring kingodm
+        #
+        #####################################################
+        random_independent_ruler = {
+            limit = {
+                # Emperor or King of non-chaos religion
+                num_of_king_titles = 1
+                NOT = { religion_group = ROOT } 
+                NOT = { religion_group = horned_rat_god_group } 
+                NOT = { religion_group = beastman_gods_group } 
+                NOT = { religion_group = hashut_god_group } 
+                NOT = { religion = dark_norse } 
+                # target must be nearby
+                NOT = { FROM = { distance = { who = PREV distance = 200 } } }
+            }
+            # going to scope
+            random_demesne_title = {
+                limit = { tier = KING }
+                ROOT = { 
+                    war = { 
+                       casus_belli = chaos_invasion
+                       target = PREVPREV
+                       thirdparty_title = PREV
+                    }
+                }
+            }
+        }
+        #####################################################
 
         any_attacker = {
             limit = { character = ROOT }
             participation_scaled_prestige = 400
             participation_scaled_piety = 800
+             
         }
         any_attacker = {
             limit = { NOT = { character = ROOT } }
@@ -7320,11 +7364,11 @@ chaos_invasion = {
            factor = 1.2
            NOT = { 
                OR = {
-                   has_landend_title = e_host_nurgle
-                   has_landend_title = e_host_khorne
-                   has_landend_title = e_host_slaanesh
-                   has_landend_title = e_host_tzeentch
-                   has_landend_title = e_host_chaos
+                   has_landed_title = e_host_nurgle
+                   has_landed_title = e_host_khorne
+                   has_landed_title = e_host_slaanesh
+                   has_landed_title = e_host_tzeentch
+                   has_landed_title = e_host_chaos
                }
            }
        }
@@ -7344,6 +7388,10 @@ chaos_invasion = {
        modifier = {
            factor = 1.5
            has_landed_title = e_host_chaos 
+       }
+       modifier = {
+           factor = 0.7
+           religion = dark_norse
        }
     }
 }

@@ -151,12 +151,27 @@ province_event = {
 # sets the FROM, and ROOT valeues nicely
 character_event = {
     id = doomengine.20
-    hide_window = yes
+    desc = "This event informs that choas guys will join you"
     is_triggered_only = yes
-    
-    immediate = {
+    hide_window = yes
+     
+    option = { 
+    #immediate = {
+        name = "Chaos should join us"
         # fires event back
-        FROM = { character_event = { id = doomengine.21 } }
+        any_independent_ruler = {
+            limit = { 
+               OR = {
+                   religion_group = chaos_gods_group
+                   religion_group = norse_group
+                   religion_group = horned_rat_god_group
+                   religion_group = greenskin_gods_group
+               }
+               NOT = { distance = { who = ROOT distance = 1000 } }
+               war = no
+            }
+            character_event = { id = doomengine.21 }
+        }
     }   
 }
 # Event for people to join the chaos crusade led by everchosen
@@ -189,10 +204,6 @@ character_event = {
         ai_chance = {
             factor = 1
 
-            modifier = {
-                factor = 0
-                distance = { who = FROM distance = 1000 }
-            }
             modifier = {
                 factor = 0.6
                 distance = { who = FROM distance = 600 }
@@ -234,12 +245,26 @@ character_event = {
                 FROM = { has_landed_title = e_host_chaos }
             }
             modifier = {
-                factor = 0.2
+                factor = 0.1
                 OR = {
                     religion_group = greenskin_goods_group
                     religion_group = horned_rat_god_group
                 }
             }
+            modifier = {
+                factor = 0.6
+                has_global_flag = doom_low
+            }
+
+            modifier = {
+                factor = 1.2
+                has_global_flag = doom_high
+            }
+            modifier = {
+                factor = 1.5
+                has_global_flag = doom_very_high
+            }
+
         }
     }
     # Wait
@@ -279,18 +304,13 @@ character_event = {
         } 
     }
 }
-
-narrative_event = {
+# event that deletes flag for rulers that called for help
+character_event = {
     id = doomengine.23
-    desc = "here be dragons"
-    picture = "GFX_evt_nurgle"
     is_triggered_only = yes
- 
-    major = yes
-    show_ROOT = yes
-    hide_new = yes
- 
-   option = {
-        name = "Yep"
+    hide_window = yes
+   
+    immediate = {
+        clr_character_flag = chaos_struggle_help_called
     }
 }
