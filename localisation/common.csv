@@ -109,8 +109,8 @@ spell_truthpower_desc;The words of this characters are empowered with powers of 
 spell_eyesoftruth;Eyes of Truth;;;;;;;;;;;;;x
 spell_eyesoftruth_desc;The wind magic wind allows this character to see through lies of others.;;;;;;;;;;;;;x
 # province modifiers
-recent_chaos_incursion;Recent Chaos Incursion;;;;;;;;;;;;;x
-recent_chaos_incursion_desc;These lands were target of recent chaos incursion, those who didn't escape from this defiled land were killed by chaos host. This earth is soaked by blood and terrible creaters are haunting city streets in the light of day.;;;;;;;;;;;;;x
+ravaged_by_chaos;Ravaged by Chaos;;;;;;;;;;;;;x
+ravaged_by_chaos_desc;These lands were target of recent chaos incursion, those who didn't escape from this defiled land were killed by chaos host. This earth is soaked by blood and terrible creaters are haunting city streets in the light of day.;;;;;;;;;;;;;x
 resistance;Resistance against Chaos;;;;;;;;;;;;;x
 resistance_desc;Most of population is hiding before forces of Chaos, those who aren not will never surrender.;;;;;;;;;;;;;x
 #CBS
