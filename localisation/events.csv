@@ -1,139 +1,171 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-#
-# namespace = temptation
-temptation.1;The Embrace of Uncle Nurgle;;;;;;;;;;;;;x
-temptation.1_desc;The Plague Father, Fly Lord, Great Corruptor, the Master of Pestilence... Grandfather Nurgle has many titles. Within your very mind and soul you hear the maddened buzzing of a billion flies, and a chorus of choking, coughing voices whispering in your ears. They are calling you to join them in the endless bliss of utter pestilence and decay, to cast aside the facade of health and embrace the utter rottenness that is the inevitable fate of all life.;;;;;;;;;;;;;x
-Temptation.1.TOOLTIP1;Father Nurgle loves his childern, he he he...;;;;;;;;;;;;;x
-Temptation.1.TOOLTIP2;[Root.Religion.GetRandomGodName] will give me the strength to resist this sickness in my heart!;;;;;;;;;;;;;x
-temptation.2;The Seductions of the Prince of Pleasure;;;;;;;;;;;;;x
-temptation.2_desc;Truth, beauty,, honour, justice... what do any of these things mean without pleasure? Are not the senses of Man his guide into the divine? Poetry, music, dance, wine, none of it is enough for one of your intellect and needs. Your body and mind yearn for stimulation, to seek out new experiences. You tire of the restraints of so-called "civilised society," and wonder if it might be better to seek out likeminded spirits and experiment with a new lifestyle beyond mere mortal hedonism? Your inquiring mind and almost uncontrollable lust for life leads you to the Forbidden Lord of Excess, Slaanesh, who can offer you all you desire in return for so littleâ€¦?;;;;;;;;;;;;;x 
-temptation.2.TOOLTIP1;Ah, what sweet ecstasy is thisâ€¦ I must have more!;;;;;;;;;;;;;x
-temptation.2.TOOLTIP2;No, no, I have gone too far... [Root.Religion.GetRandomGodName] forgive me.;;;;;;;;;;;;;x
-temptation.3;The Changer of Ways Calls Ye;;;;;;;;;;;;;x
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+EVTNAME1700000202;The Sword in the Stone;L'épée dans le Rocher;;;;;;;;;;;;x;
+EVTDESC1700000202;You decide to take a stroll in the countryside to relieve some stress. Whilst walking you come upon a large stone in a clearing. What makes this stone unusual is the large sword buried in it, with only the bejewelled hilt visible.;Vous décidez de vous promener dans la campagne pour évacuer le stress. Alors que vous marchez, vous voyez une énorme pierre dans une clairière. Ce qui est inhabituel à propos de cette pierre est l'épée large encastrée dedans, seule le joyau du pommeau étant visible.;;;;;;;;;;;;x;
+EVTOPTA1700000202;I feel drawn to the power of this artifact.;Je me sens attiré par le pouvoir de cette relique.;;;;;;;;;;;;x;
+EVTOPTB1700000202;What is this? Someone's idea of a practical joke?;Qu'est-ce donc ? Quelqu'un veut me faire une plaisanterie ?;;;;;;;;;;;;x;
+EVTOPTC1700000202;Look at the size of those gemstones!;Regardez la taille de ces pierres précieuses !;;;;;;;;;;;;x;
+EVTOPTD1700000202;A sword in a stone? That's it, I'm out of here.;In épée dans un rocher ? Ok, je m'en vais.;;;;;;;;;;;;x;
+EVTNAME1700000203;You Approach the Stone;Vous approchez de la pierre.;;;;;;;;;;;;x;
+EVTDESC1700000203;As you draw near, you feel the power of the stone fill you. You feel you could do anything.;Alors que vous vous approchez, vous ressetez le pouvoir de la pierre vous emplir. Vous ressentez une puissance sans limite.;;;;;;;;;;;;x;
+EVTOPTA1700000203;I shall claim it for my own!;Je devrais la revendiquer comme mienne !;;;;;;;;;;;;x;
+EVTOPTB1700000203;I will examine the weapon first.;Je vais examiner l'arme en premier.;;;;;;;;;;;;x;
+EVTNAME1700000204;A Chance for Some Fun;L'occasion de samuser;;;;;;;;;;;;x;
+EVTDESC1700000204;If this is a joke, maybe we can use it to our benefit.;Si c'est une plaisanterie, peut-être pouvons nous la tourner à notre avantage.;;;;;;;;;;;;x;
+EVTOPTA1700000204;I will embarrass my vassal.;Je vais embarrasser mon vassal.;;;;;;;;;;;;x;
+EVTOPTB1700000204;I will embarrass my courtier.;Je vais embarrasser mon courtisan.;;;;;;;;;;;;x;
+EVTOPTC1700000204;I will embarrass my spouse.;Je vais embarrasser mon épouse.;;;;;;;;;;;;x;
+EVTOPTD1700000204;A joke like this would be mean. I'll just go home.;Une telle plaisanterie serait méchante, je vais juste rentrer chez moi.;;;;;;;;;;;;x;
+EVTNAME1700000205;You Approach the Stone;Vous approchez de la pierre.;;;;;;;;;;;;x;
+EVTDESC1700000205;As you draw near, you see the many jewels sparkle in the sunlight. Each is most likely worth a small fortune.;Alors que vous êtes proches, vous voyez les multiples joyaux briller dans la lumière du soleil. Chacun d'eux vaux sans aucun doute une petite fortune.;;;;;;;;;;;;x;
+EVTOPTA1700000205;I bet I can get these jewels and make a fortune.;Je parie que je peux prendre ces joyaux et me devenir riche !;;;;;;;;;;;;x;
+EVTOPTB1700000211;I will examine the weapon first.;Je vais examiner l'arme en premier.;;;;;;;;;;;;x;
+EVTNAME1700000206;You Place Your Hands on the Sword;Vous placez vos mains sur l'épée.;;;;;;;;;;;;x;
+EVTDESC1700000206;You stand next to the stone and place both hands on the sword. In a moment you will try to remove it from its prison.;Vous vous tenez près de la pierre et placez les deux mains sur le pommeau de l'épée. Vous vous apprêtez à la retirer de sa prison de pierre.;;;;;;;;;;;;x;
+EVTOPTA1700000206;This will be easy...;Cela devrais être facile…;;;;;;;;;;;;x;
+EVTTOOLTIP1700000212;;;;;;;;;;;;;;x;
+EVTTOOLTIP1700000213;;;;;;;;;;;;;;x;
+EVTOPTB1700000206;This will be difficult...;Cela va être difficile…;;;;;;;;;;;;x;
+EVTTOOLTIP1700000212;TEXTNAME;;;;;;;;;;;;;x;
+EVTTOOLTIP1700000213;TEXTNAME;;;;;;;;;;;;;x;
+EVTOPTC1700000206;This will be impossible...;C'est impossible !;;;;;;;;;;;;x;
+EVTTOOLTIP1700000213;TEXTNAME;;;;;;;;;;;;;x;
+EVTTOOLTIP1700000212;TEXTNAME;;;;;;;;;;;;;x;
+EVTNAME1700000207;You Take a Closer Look at the Sword;Vous regardez l'épée plus attentivement.;;;;;;;;;;;;x;
+EVTDESC1700000207;You approach the sword and take a closer look at the markings on it. Your head swims and your vision blurs as you try to understand the meaning of the runes.;Vous vous approchez de l'épée et discernez ses marques. Votre tête tourne et votre vision se brouille alors que vous essayez de comprendre le sens de ces runes.;;;;;;;;;;;;x;
+# namespace = temptation;;;;;;;;;;;;;;;
+temptation.1;The Embrace of Uncle Nurgle;Le baiser d'Oncle Nurlge;;;;;;;;;;;;x;
+temptation.1_desc;The Plague Father, Fly Lord, Great Corruptor, the Master of Pestilence... Old Uncle Nurgle has many titles. Within your very mind and soul you hear the maddened buzzing of a billion flies, and a chorus of choking, coughing voices whispering in your ears. They are calling you to join them in the endless bliss of utter pestilence and decay, to cast aside the facade of health and embrace the utter rottenness that is the inevitable fate of all life.;Le père de la peste, le seigneur des mouches, grand corrupteur et maître de la pestilence… Le vieil oncle Nurgle possède beaucoup de titres. Au sein de votre propre esprit et de votre propre âme vous entendez  le bourdonnement de millions de mouches, et un choeur de voix toussante murmurer dans votre oreille. Ils vous appelent pour les rejoindre dans l'éternelle pestilence afin de repousser l'illusion de la santé et d'embrasser le pourrissement éternel, destin de toute vie.;;;;;;;;;;;;x;
+Temptation.1.TOOLTIP1;Uncle Nurgle loves his childern, he he he...;Oncle Nurgle aime ses enfants, hin hin hin…;;;;;;;;;;;;x;
+Temptation.1.TOOLTIP2;[Root.Religion.GetRandomGodName] will give me the strength to resist this sickness in my heart!;[Root.Religion.GetRandomGodName] me donnera la force de résister à cette maladie du cœur!;;;;;;;;;;;;x;
+temptation.2;The Seductions of the Prince of Pleasure;La séduction du Prince de la Luxure;;;;;;;;;;;;x;
+temptation.2_desc;"Truth, beauty,, honour, justice... what do any of these things mean without pleasure? Are not the senses of Man his guide into the divine? Poetry, music, dance, wine, none of it is enough for one of your intellect and needs. Your body and mind yearn for stimulation, to seek out new experiences. You tire of the restraints of so-called ""civilised society,"" and wonder if it might be better to seek out likeminded spirits and experiment with a new lifestyle beyond mere mortal hedonism? Your inquiring mind and almost uncontrollable lust for life leads you to the Forbidden Lord of Excess, Slaanesh, who can offer you all you desire in return for so littleâ€¦?";;;;;;;;;;;;;x ;
+temptation.2.TOOLTIP1;Ah, what sweet ecstasy is thisâ€¦ I must have more!;;;;;;;;;;;;;x;
+temptation.2.TOOLTIP2;No, no, I have gone too far... [Root.Religion.GetRandomGodName] forgive me.;;;;;;;;;;;;;x;
+temptation.3;The Changer of Ways Calls Ye;;;;;;;;;;;;;x;
 temptation.3_desc;The ignorant masses cling to their Gods and laws, unaware of their own utter insignificance in the grand scheme of things. Civilisations and races rise and fall, the only constant is change - all else is illusion. One of your genius knows that the only way to survive and achieve greatness on this mortal coil is to understand the vast immaterial power of magic, and to use any means necessary to acquire that knowledge. You know that the parlour tricks of the common wizard are merely a pale reflection of the incredible powers that close-minded religious dogma denies to you. In order to better understand the Winds of Magic, and to further your own career, you've considered entering a purely temporary relationship with the demonic called Tzeentch in order to use him for your own ends.;;;;;;;;;;;;;;x  
-temptation.3.TOOLTIP1;Knowlegde is power.;;;;;;;;;;;;;x
-temptation.3.TOOLTIP2;Some secerts must be forever hidden.;;;;;;;;;;;;;x
-temptation.4;The Eight-Fold Path;;;;;;;;;;;;;x
-temptation.4_desc;Weakness, all you see around you is weakness and corruption. Peace breeds excess, only war is pure. Every day you spend you long for the clash of arms, the splatter of fresh blood on your face, to see your enemies homesteads in flames and their warriors in flight. Better that than to forever be surrounded by whining, ungrateful vassals and forced to listen to the false advice of effete scholars and sorcerers. Kill them, kill them all! Khrone, Master of the Skull Throne, calls you to his service. It matters not from whence the blood flows, only that it does.;;;;;;;;;;;;;x
-temptation.4.TOOLTIP1;BLOOD FOR THE BLOOD GOD, SKULLS FOR THE SKULL THRONE!!!;;;;;;;;;;;;;x
-temptation.4.TOOLTIP2;What am I thinking?! I'm a warrior, not a butcher!;;;;;;;;;;;;;x
-temptation.5;The Power of Chaos;;;;;;;;;;;;;x
-temptation.5_desc;Everywhere those in power seek to blind the teaming mass of humanity to the horrors that lurk just out of sight. The Blood God, the Changer of Ways, the Prince of Pleasure and the Great Corrupter are all names for a unspeakable force that was ancient when the mountains and the seas were young. Fools deny it, but the Runinous Powers are very real. Those who serve them well are rewarded, or else are damned for eternity. Do you dare sell your soul to Chaos Undivided, the Primordial Annihilator - and risk all for the sake of immortality and a escape from death itself?;;;;;;;;;;;;;x
-temptation.5.TOOLTIP1;[Root.Religion.GetRandomGodName]? Bah, these are the real Gods!;;;;;;;;;;;;;x
-temptation.5.TOOLTIP2;My faith in [Root.Religion.GetRandomGodName] in unshakeable!;;;;;;;;;;;;;x
-temptation.6;The Cult;;;;;;;;;;;;;x
-temptation.6_desc;You hurry through the streets, scurrying like a common criminal through the backstreets and the slums, a hood obscuring your face from sight. But you are no common thief or mere conspirator, you serve a greater power. You duck and weave your way to arranged meeting place, whispering a password in a forbidden language. Inside, you are greeted by your new Brothers and Sisters, and after a blood curdling ritual test you are finally inaugurated into the Cult.;;;;;;;;;;;;;x
-temptation.6.TOOLTIP1;It's too late to turn back now....;;;;;;;;;;;;;x
-#
-# namespace = disease
-EVTDESC_DISEASE_1;You were infected with Tomb Rot, and your body has started rotting.;;;;;;;;;;;;;x
-EVTOPT_DISEASE_1A;Oh no!;;;;;;;;;;;;;x
-EVTDESC_DISEASE_0;A miracle! You were cured of Tomb Rot.;;;;;;;;;;;;;x
-EVTOPT_DISEASE_0A;Bless the Gods!.;;;;;;;;;;;;;x
-EVTDESC_DISEASE_2;A miracle! You were cured of Creeping Buboes.;;;;;;;;;;;;;x
-EVTOPT_DISEASE_2A;Bless the Gods!.;;;;;;;;;;;;;x
-EVTDESC_DISEASE_3;A miracle! You were cured of Green Pox.;;;;;;;;;;;;;x
-EVTOPT_DISEASE_3A;Bless the Gods!.;;;;;;;;;;;;;x
-EVTDESC_DISEASE_4;A miracle! You were cured of Red Pox.;;;;;;;;;;;;;x
-EVTOPT_DISEASE_4A;Bless the Gods!.;;;;;;;;;;;;;x
-EVTDESC_DISEASE_5;A miracle! You were cured of Rattlelung.;;;;;;;;;;;;;x
-EVTOPT_DISEASE_5A;Bless the Gods!.;;;;;;;;;;;;;x
-EVTDESC_DISEASE_6;A miracle! You were cured of Bone Auge.;;;;;;;;;;;;;x
-EVTOPT_DISEASE_6A;Bless the Gods!.;;;;;;;;;;;;;x
-#
-# namespace = racial
-EVTDESC_RACIAL_1;Hidden;;;;;;;;;;;;;x
-EVTDESC_RACIAL_2;You have been blessed with a long life, but now you feel your time has come to leave this world.;;;;;;;;;;;;;x
-EVTOPT_RACIAL_2A;I die in peace..;;;;;;;;;;;;;x
-EVTDESC_RACIAL_3;Illness weakens your once strong body, you feel that your last moment has come. You take your final breath.;;;;;;;;;;;;;x
-EVTOPT_RACIAL_3A;Aaaaaa...;;;;;;;;;;;;;x
-#
-# namespace = doomengine
-EVTNAME_DOOMENGINE_1;Signs of Armageddon;;;;;;;;;;;;;x
-EVTDESC_DOOMENGINE_1;The Signs on heaven and earth are telling about forecoming Armageddon. Mutants attacks are more frequent and people are telling stories about strange ilnesses that depopulated whole villages...;;;;;;;;;;;;;x
-EVTOPT_DOOMENGINE_1A;Yes indeed something is happening...;;;;;;;;;;;;;x
-EVTDESC_DOOMENGINE_21;The Armies of Chaos march through the world spreading destruction in the name of their Dark Gods. The Doom is coming... In such conflict One must take a side..;;;;;;;;;;;;;x
-EVTOPT_DOOMENGINE_21A;LET THE WORLD BURN!.;;;;;;;;;;;;;x
-EVTOPT_DOOMENGINE_21B;I will never yield before Chaos.;;;;;;;;;;;;;x
-EVTOPT_DOOMENGINE_21C;That is not our war...;;;;;;;;;;;;;x
-EVTDESC_DOOMENGINE_1;Signs in the heavens and on earth tell of imminent coming of the End of Days. Mutations and Beastmen attacks are more frequent and you hear stories about strange illnesses that completely wipe out whole villages.;;;;;;;;;;;;;x
-EVTOPT_DOOMENGINE_1A;It is clear something is happening...;;;;;;;;;;;;;x
-#
-# namespace = duelengine
-EVTDESC_DUELENGINE_0;In the heat of battle you have spotted an opponent;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_0A;May the gods be with me!;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_1;In the heat of battle you have spotted your opponent [From.GetFirstName], will you confront your enemy?;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_1A;I will crush him!;;;;;;;;;;;;;x
-DUELENGINE_TOOLTIP_1A;Reacts!;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_1B;I must run!;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_4;The fighting continues... What will be your next move?;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_4A;Never surrender!;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_4B;Fight!;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_4C;Crush him!;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_4D;I will never yield!;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_4E;Hit harder!;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_5;[From.GetFirstName] managed to escape the battlefield and covered [From.GetHerHis]self in shame!;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_5A;One day I will finish that coward... I swear!;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_20;You hit your enemy and injuried him, however gap in your defence let him to hit you.;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_20A;Defend from enemy's hits;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_20B;Charge!;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_20C;Balance your defence and attack;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_21;You hit your enemy and injuried him, your masterly defence did not give him occasion to counter.;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_22;Your enemy hit you and countered your attack.;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_23;Neither of you was able to hurt the other.;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_24;You have lost, your enemy was better you die...;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_24A;Noo....!;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_25;You have won! The body of your enemy lies before you.;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_25A;Hurray!;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_26;You have lost the duel.. Wounded and weak you managed to escape...;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_26A;Run!;;;;;;;;;;;;;x
-EVTDESC_DUELENGINE_27;You have won! However your enemy manged to escape!;;;;;;;;;;;;;x
-EVTOPT_DUELENGINE_27A;Arragh what a coward!;;;;;;;;;;;;;x
-#
-# namespace = HCLT
-EVTDESCHCLT.1;You are a secret servant of Chaos Undivided!;;;;;;;;;;;;;x
-EVTDESCHCLT.2;You are a secret servant of Khorne!;;;;;;;;;;;;;x
-EVTDESCHCLT.3;You are a secret servant of Nurgle!;;;;;;;;;;;;;x
-EVTDESCHCLT.4;You are a secret servant of Slaanesh!;;;;;;;;;;;;;x
-EVTDESCHCLT.5;You are a secret servant of Tzeentch!;;;;;;;;;;;;;x
-EVTDESCHCLT.21;You are a secret Lahmian vampire!;;;;;;;;;;;;;x
-EVTDESCHCLT.22;You are a secret Carstein vampire!;;;;;;;;;;;;;x
-EVTDESCHCLT.23;You are a secret Blood Dragon vampire!;;;;;;;;;;;;;x
-EVTDESCHCLT.24;You are a secret Strigoi vampire!;;;;;;;;;;;;;x
-EVTDESCHCLT.25;You are a secret Necrach vampire!;;;;;;;;;;;;;x
-EVTDESCHCLT.26;You are a secret Jade vampire!;;;;;;;;;;;;;x
-EVTDESCHCLT.27;You are a secret Mahtmasi vampire!;;;;;;;;;;;;;x
-hide_my_cultist;Hide My Cultist;;;;;;;;;;;;;x
-#
-# SYLVANIA EVENTS I DONT KNOW IF THOSE ARE CORRECT 
-EVTDESCUDSYL.1;Sylvania is a dangerous place for all live, but a lovely country if you are a Vampire.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.1;I'll rule on this accursed land.;;;;;;;;;;;;;x
-EVTOPTBUDSYL.1;I've found my perfect lair.;;;;;;;;;;;;;x
-EVTDESCUDSYL.2;My lands are suffering the effects of dark forces. Dead men arise while huge flocks of bats darkened the skies.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.2;Damn. I can't do anything to stop it.;;;;;;;;;;;;;x
-EVTDESCUDSYL.3;With my efforts, the lands of Sylvania are growing up again. Crops grow and people live safely under my rule.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.3;I'm a great ruler.;;;;;;;;;;;;;x
-EVTDESCUDSYL.4;With my powerful magic, Sylvania is getting stronger. The dead will rise again and more serfs will come to me.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.4;I will live for eternity.;;;;;;;;;;;;;x
-EVTDESCUDSYL.5;I've not paid enough attention to the care of my land, and now, my loyal servants leave, pursued by hunters and templars.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.5;I don't care of mortal affairs.;;;;;;;;;;;;;x
-EVTDESCUDSYL.6;I've conquered the land, and now I will increase my armies with the dead's bodies, and local necromancers.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.6;I'm unstoppable.;;;;;;;;;;;;;x
-EVTDESCUDSYL.7;I've conquered the land, and now I have to face down armies of dead and vampire servants.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.7;I shall prevail.;;;;;;;;;;;;;x
-EVTDESCUDSYL.8;Send money to a loyal sigmarite to fight undead.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.8;Send the money.;;;;;;;;;;;;;x
-EVTOPTBUDSYL.8;Don't send the money.;;;;;;;;;;;;;x
-EVTDESCUDSYL.9;Great Theogonist [From.GetFirstName] has send us money to fight undead.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.9;I'll waste it well.;;;;;;;;;;;;;x
-EVTDESCUDSYL.10;What will I do with the money Great Theogonist sent me?;;;;;;;;;;;;;x
-EVTOPTAUDSYL.10;Hire some adventurers.;;;;;;;;;;;;;x
-EVTOPTBUDSYL.10;I'll lead a hunting party.;;;;;;;;;;;;;x
-EVTOPTCUDSYL.10;I'll keep the money for me.;;;;;;;;;;;;;x
-EVTDESCUDSYL.11;A strange hooded man approaches you, offering you his services to fight the dangers of sylvania.;;;;;;;;;;;;;x
-EVTOPTAUDSYL.11;Let him in, as he will serve me well.;;;;;;;;;;;;;x
-EVTOPTBUDSYL.11;I don't trust strangers, send him far away.;;;;;;;;;;;;;x
-EVTOPTCUDSYL.11;He's a witch! Burn him! Buuurn hiiiiim!;;;;;;;;;;;;;x
-TOOLTIPOPTCUDSYL11;There is a chance that the man escapes, wounding you in gratitude for your hospitality.;;;;;;;;;;;;;x
-#
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x
+temptation.3.TOOLTIP1;Knowlegde is power.;;;;;;;;;;;;;x;
+temptation.3.TOOLTIP2;Some secerts must be forever hidden.;;;;;;;;;;;;;x;
+temptation.4;The Eight-Fold Path;;;;;;;;;;;;;x;
+temptation.4_desc;Weakness, all you see around you is weakness and corruption. Peace breeds excess, only war is pure. Every day you spend you long for the clash of arms, the splatter of fresh blood on your face, to see your enemies homesteads in flames and their warriors in flight. Better that than to forever be surrounded by whining, ungrateful vassals and forced to listen to the false advice of effete scholars and sorcerers. Kill them, kill them all! Khrone, Master of the Skull Throne, calls you to his service. It matters not from whence the blood flows, only that it does.;;;;;;;;;;;;;x;
+temptation.4.TOOLTIP1;BLOOD FOR THE BLOOD GOD, SKULLS FOR THE SKULL THRONE!!!;;;;;;;;;;;;;x;
+temptation.4.TOOLTIP2;What am I thinking?! I'm a warrior, not a butcher!;Mais à quoi je pense ? Je suis un guerrier, pas un boucher !;;;;;;;;;;;;x;
+temptation.5;The Power of Chaos;Le Pouvoir du Chaos;;;;;;;;;;;;x;
+temptation.5_desc;Everywhere those in power seek to blind the teaming mass of humanity to the horrors that lurk just out of sight. The Blood God, the Changer of Ways, the Prince of Pleasure and the Great Corrupter are all names for a unspeakable force that was ancient when the mountains and the seas were young. Fools deny it, but the Runinous Powers are very real. Those who serve them well are rewarded, or else are damned for eternity. Do you dare sell your soul to Chaos Undivided, the Primordial Annihilator - and risk all for the sake of immortality and a escape from death itself?;;;;;;;;;;;;;x;
+temptation.5.TOOLTIP1;[Root.Religion.GetRandomGodName]? Bah, these are the real Gods!;;;;;;;;;;;;;x;
+temptation.5.TOOLTIP2;My faith in [Root.Religion.GetRandomGodName] in unshakeable!;;;;;;;;;;;;;x;
+temptation.6;The Cult;;;;;;;;;;;;;x;
+temptation.6_desc;You hurry through the streets, scurrying like a common criminal through the backstreets and the slums, a hood obscuring your face from sight. But you are no common thief or mere conspirator, you serve a greater power. You duck and weave your way to arranged meeting place, whispering a password in a forbidden language. Inside, you are greeted by your new Brothers and Sisters, and after a blood curdling ritual test you are finally inaugurated into the Cult.;;;;;;;;;;;;;x;
+temptation.6.TOOLTIP1;It's too late to turn back now....;;;;;;;;;;;;;x;
+# namespace = disease;;;;;;;;;;;;;;;
+EVTDESC_DISEASE_1;You were infected with tomb rot, your body started rotting.;;;;;;;;;;;;;x;
+EVTOPT_DISEASE_1A;Oh no.;;;;;;;;;;;;;x;
+EVTDESC_DISEASE_0;A miracle! You were cured from Tomb Rot.;;;;;;;;;;;;;x;
+EVTOPT_DISEASE_0A;Bless the Gods!.;;;;;;;;;;;;;x;
+EVTDESC_DISEASE_2;A miracle! You were cured from Creeping Buboes.;;;;;;;;;;;;;x;
+EVTOPT_DISEASE_2A;Bless the Gods!.;;;;;;;;;;;;;x;
+EVTDESC_DISEASE_3;A miracle! You were cured from Green Pox.;;;;;;;;;;;;;x;
+EVTOPT_DISEASE_3A;Bless the Gods!.;;;;;;;;;;;;;x;
+EVTDESC_DISEASE_4;A miracle! You were cured from Red Pox.;;;;;;;;;;;;;x;
+EVTOPT_DISEASE_4A;Bless the Gods!.;;;;;;;;;;;;;x;
+EVTDESC_DISEASE_5;A miracle! You were cured from Rattlelung.;;;;;;;;;;;;;x;
+EVTOPT_DISEASE_5A;Bless the Gods!.;;;;;;;;;;;;;x;
+EVTDESC_DISEASE_6;A miracle! You were cured from Bone Auge.;;;;;;;;;;;;;x;
+EVTOPT_DISEASE_6A;Bless the Gods!.;;;;;;;;;;;;;x;
+# namespace = racial;;;;;;;;;;;;;;;
+EVTDESC_RACIAL_1;Hidden;;;;;;;;;;;;;x;
+EVTDESC_RACIAL_2;You were blessed with a long life but now you feel your time has come to leave this world.;;;;;;;;;;;;;x;
+EVTOPT_RACIAL_2A;I die in peace..;;;;;;;;;;;;;x;
+EVTDESC_RACIAL_3;Ilness weaken your once strong body, you feel that your last moment has come. Time for final breath.;;;;;;;;;;;;;x;
+EVTOPT_RACIAL_3A;Aaa...;;;;;;;;;;;;;x;
+# namespace = doomengine;;;;;;;;;;;;;;;
+EVTNAME_DOOMENGINE_1;Signs of Armageddon;;;;;;;;;;;;;x;
+EVTDESC_DOOMENGINE_1;The Signs on heaven and earth are telling about forecoming Armageddon. Mutants attacks are more frequent and people are telling stories about strange ilnesses that depopulated whole villages...;;;;;;;;;;;;;x;
+EVTOPT_DOOMENGINE_1A;Yes indeed something is happening...;;;;;;;;;;;;;x;
+# namespace = duelengine;;;;;;;;;;;;;;;
+EVTDESC_DUELENGINE_0;In the heat of battle you have spotted your opponent;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_0A;May the gods be with me!;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_1;In the heat of battle you have spotted your opponent [From.GetFirstName], will you confront your enemy?;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_1A;I will crush him!;;;;;;;;;;;;;x;
+DUELENGINE_TOOLTIP_1A;Reacts!;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_1B;I must run!;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_4;The fighting continues... What will be your next move?;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_4A;Never surrender!;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_4B;Fight!;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_4C;Crush him!;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_4D;I will never yield!;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_4E;Hit harder!;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_5;[From.GetFirstName] managed to escape the battlefield and covered [From.GetHerHis]self in shame!;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_5A;One day I will finish that coward... I swear!;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_20;You hit your enemy and injuried him, however gap in your defence let him to hit you.;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_20A;Defend from enemy's hits;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_20B;Charge!;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_20C;Balance your defence and attack;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_21;You hit your enemy and injuried him, your masterly defence did not give him occasion to counter.;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_22;Your enemy hit you and countered your attack.;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_23;Neither of you was able to hurt the other.;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_24;You have lost, your enemy was better you die...;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_24A;Noo....!;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_25;You have won! The body of your enemy lies before you.;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_25A;Hurray!;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_26;You have lost the duel.. Wounded and weak you managed to escape...;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_26A;Run!;;;;;;;;;;;;;x;
+EVTDESC_DUELENGINE_27;You have won! However your enemy manged to escape!;;;;;;;;;;;;;x;
+EVTOPT_DUELENGINE_27A;Arragh what a coward!;;;;;;;;;;;;;x;
+# namespace = HCLT;;;;;;;;;;;;;;;
+EVTDESCHCLT.1;You are a secret servant of Chaos Undivided!;;;;;;;;;;;;;x;
+EVTDESCHCLT.2;You are a secret servant of Khorne!;;;;;;;;;;;;;x;
+EVTDESCHCLT.3;You are a secret servant of Nurgle!;;;;;;;;;;;;;x;
+EVTDESCHCLT.4;You are a secret servant of Slaanesh!;;;;;;;;;;;;;x;
+EVTDESCHCLT.5;You are a secret servant of Tzeentch!;;;;;;;;;;;;;x;
+EVTDESCHCLT.21;You are a secret Lahmian vampire!;;;;;;;;;;;;;x;
+EVTDESCHCLT.22;You are a secret Carstein vampire!;;;;;;;;;;;;;x;
+EVTDESCHCLT.23;You are a secret Blood Dragon vampire!;;;;;;;;;;;;;x;
+EVTDESCHCLT.24;You are a secret Strigoi vampire!;;;;;;;;;;;;;x;
+EVTDESCHCLT.25;You are a secret Necrach vampire!;;;;;;;;;;;;;x;
+EVTDESCHCLT.26;You are a secret Jade vampire!;;;;;;;;;;;;;x;
+EVTDESCHCLT.27;You are a secret Mahtmasi vampire!;;;;;;;;;;;;;x;
+hide_my_cultist;Hide My Cultist;;;;;;;;;;;;;x;
+# ;;;;;;;;;;;;;;;
+# ;;;;;;;;;;;;;;;
+#;;;;;;;;;;;;;;;
+# SYLVANIA EVENTS I DONT KNOW IF THOSE ARE CORRECT ;;;;;;;;;;;;;;;
+EVTDESCUDSYL.1;Sylvania is a dangerous place for all live, but a lovely country if you are a Vampire.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.1;I'll rule on this accursed land.;;;;;;;;;;;;;x;
+EVTOPTBUDSYL.1;I've found my perfect lair.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.2;My lands are suffering the effects of dark forces. Dead men arise while huge flocks of bats darkened the skies.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.2;Damn. I can't do anything to stop it.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.3;With my efforts, the lands of Sylvania are growing up again. Crops grow and people live safely under my rule.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.3;I'm a great ruler.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.4;With my powerful magic, Sylvania is getting stronger. The dead will rise again and more serfs will come to me.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.4;I will live for eternity.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.5;I've not paid enough attention to the care of my land, and now, my loyal servants leave, pursued by hunters and templars.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.5;I don't care of mortal affairs.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.6;I've conquered the land, and now I will increase my armies with the dead's bodies, and local necromancers.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.6;I'm unstoppable.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.7;I've conquered the land, and now I have to face down armies of dead and vampire servants.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.7;I shall prevail.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.8;Send money to a loyal sigmarite to fight undead.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.8;Send the money.;;;;;;;;;;;;;x;
+EVTOPTBUDSYL.8;Don't send the money.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.9;Great Theogonist [FROM.GetFirstName] has send us money to fight undead.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.9;I'll waste it well.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.10;What will I do with the money Great Theogonist sended me?;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.10;Hire some adventurers.;;;;;;;;;;;;;x;
+EVTOPTBUDSYL.10;I'll lead a hunting party.;;;;;;;;;;;;;x;
+EVTOPTCUDSYL.10;I'll keep the money for me.;;;;;;;;;;;;;x;
+EVTDESCUDSYL.11;A strange and hooded man approaches, offering you his services to fight sylvanian dangers.;;;;;;;;;;;;;x;
+EVTOPTAUDSYL.11;Let him in, as he will serve me well.;;;;;;;;;;;;;x;
+EVTOPTBUDSYL.11;I don't trust strangers, send him far away.;;;;;;;;;;;;;x;
+EVTOPTCUDSYL.11;He's a witch! Burn him! Buuurn hiiiiim!;;;;;;;;;;;;;x;
+TOOLTIPOPTCUDSYL11;There is a chance that the man escapes, wounding you in gratitude for your hospitality.;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;

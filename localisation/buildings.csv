@@ -1,22 +1,22 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-ca_dwarf_keep_1;Dwarf Settlement;;;;;;;;;;;;;x
+ca_dwarf_keep_1;Dwarf Settlement;Colonie Naine;;;;;;;;;;;;x
 ca_dwarf_keep_1_desc;Dwarf stone and Dwarf arms guard the heart of the fortress.;;;;;;;;;;;;;x
-ca_dwarf_keep_2;Dwarf Settlement;;;;;;;;;;;;;x
-ca_dwarf_keep_3;Dwarf Settlement;;;;;;;;;;;;;x
-ca_dwarf_keep_4;Dwarf Settlement;;;;;;;;;;;;;x
-ca_dwarf_keep_5;Dwarf Settlement;;;;;;;;;;;;;x
-ca_dwarf_fort_1;Dwarf Stronghold;;;;;;;;;;;;;x
+ca_dwarf_keep_2;Dwarf Settlement;Colonie Naine;;;;;;;;;;;;x
+ca_dwarf_keep_3;Dwarf Settlement;Colonie Naine;;;;;;;;;;;;x
+ca_dwarf_keep_4;Dwarf Settlement;Colonie Naine;;;;;;;;;;;;x
+ca_dwarf_keep_5;Dwarf Settlement;Colonie Naine;;;;;;;;;;;;x
+ca_dwarf_fort_1;Dwarf Stronghold;Forteresse Naine;;;;;;;;;;;;x
 ca_dwarf_fort_1_desc;Dwarf stone and Dwarf arms guard the heart of the fortress.;;;;;;;;;;;;;x
-ca_dwarf_fort_2;Dwarf Stronghold;;;;;;;;;;;;;x
-ca_dwarf_fort_3;Dwarf Stronghold;;;;;;;;;;;;;x
-ca_dwarf_fort_4;Dwarf Stronghold;;;;;;;;;;;;;x
-ca_dwarf_fort_5;Dwarf Stronghold;;;;;;;;;;;;;x
-ca_dwarf_barracks_1;Dwarf Fortifications;;;;;;;;;;;;;x
+ca_dwarf_fort_2;Dwarf Stronghold;Forteresse Naine;;;;;;;;;;;;x
+ca_dwarf_fort_3;Dwarf Stronghold;Forteresse Naine;;;;;;;;;;;;x
+ca_dwarf_fort_4;Dwarf Stronghold;Forteresse Naine;;;;;;;;;;;;x
+ca_dwarf_fort_5;Dwarf Stronghold;Forteresse Naine;;;;;;;;;;;;x
+ca_dwarf_barracks_1;Dwarf Fortifications;Fortifications Naines;;;;;;;;;;;;x
 ca_dwarf_barracks_1_desc;A strong bulwark against the outside world provides the first line of Dwarf defences.;;;;;;;;;;;;;x
-ca_dwarf_barracks_2;Dwarf Fortifications;;;;;;;;;;;;;x
-ca_dwarf_barracks_3;Dwarf Fortifications;;;;;;;;;;;;;x
-ca_dwarf_barracks_4;Dwarf Fortifications;;;;;;;;;;;;;x
-ca_dwarf_barracks_5;Dwarf Fortifications;;;;;;;;;;;;;x
+ca_dwarf_barracks_2;Dwarf Fortifications;Fortifications Naines;;;;;;;;;;;;x
+ca_dwarf_barracks_3;Dwarf Fortifications;Fortifications Naines;;;;;;;;;;;;x
+ca_dwarf_barracks_4;Dwarf Fortifications;Fortifications Naines;;;;;;;;;;;;x
+ca_dwarf_barracks_5;Dwarf Fortifications;Fortifications Naines;;;;;;;;;;;;x
 ca_dwarf_cannon_1;Dwarf Cannon Foundry;;;;;;;;;;;;;x
 ca_dwarf_cannon_1_desc;Great smelting furnaces and casting molds allow for the production of the legendary Dwarf cannons.;;;;;;;;;;;;;x
 ca_dwarf_cannon_2;Dwarf Cannon Foundry;;;;;;;;;;;;;x

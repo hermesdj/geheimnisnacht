@@ -21,33 +21,33 @@ Saturday;Saturday;Samedi;Samstag;So;Sábado;Sabato;Szombat;Sobota;;;;;;x
 marsh;Marsh;;;;;;;;;;;;;x
 mountain_pass;Mountain Pass;;;;;;;;;;;;;x
 BM_GEHEIMNISNACHT;Geheimnisnacht;;;;;;;;;;;;;x
-BM_GEHEIMNISNACHT_DESC;Vlad von Carstein marches on the fractured Empire to claim it for himself.;;;;;;;;;;;;;x
-BM_WINTER_WAR;Winter War;;;;;;;;;;;;;x
-BM_WINTER_WAR_DESC;Mannfred von Carstein marches out of Sylvania to do what Vlad von Carstein could not.;;;;;;;;;;;;;x
-BM_GREAT_WAR_AGAINST_CHAOS;Great War Against Chaos;;;;;;;;;;;;;x
-BM_GREAT_WAR_AGAINST_CHAOS_DESC;Innumerable hordes pour from Norsca and the Chaos Wastes under the banner of Asavar Kul, Everchosen of Chaos.;;;;;;;;;;;;;x
-BM_MAGNUS_THE_PIOUS;Magnus the Pious;;;;;;;;;;;;;x
-BM_MAGNUS_THE_PIOUS_DESC;The Empire is united for the first time in a thousand years.;;;;;;;;;;;;;x
-BM_NORTHERN_MERCANTILE_SOCIETY;The Northern Mercantile Society;;;;;;;;;;;;;x
+BM_GEHEIMNISNACHT_DESC;Vlad von Carstein marches on the fractured Empire to claim it for himself.;Vlad Von Carstein marche sur un Empire fragmenté pour le revendiquer pour lui-même.;;;;;;;;;;;;x
+BM_WINTER_WAR;Winter War;La Guerre de l'Hiver;;;;;;;;;;;;x
+BM_WINTER_WAR_DESC;Mannfred von Carstein marches out of Sylvania to do what Vlad von Carstein could not.;Mannfred Von Carstein marche hors de la Sylvannie pour réussir où Vlad Von Carstein a échoué.;;;;;;;;;;;;x
+BM_GREAT_WAR_AGAINST_CHAOS;Great War Against Chaos;La Grande Guerre du Chaos;;;;;;;;;;;;x
+BM_GREAT_WAR_AGAINST_CHAOS_DESC;Innumerable hordes pour from Norsca and the Chaos Wastes under the banner of Asavar Kul, Everchosen of Chaos.;D'innombrables hordes viennent de la Norsca et des désolations du Chaos sous la bannière d'Asavar Kul l'éternel élu du Chaos.;;;;;;;;;;;;x
+BM_MAGNUS_THE_PIOUS;Magnus the Pious;Magnus le Pieu;;;;;;;;;;;;x
+BM_MAGNUS_THE_PIOUS_DESC;The Empire is united for the first time in a thousand years.;L'Empire est unfié pour la première fois en un millier d'années.;;;;;;;;;;;;x
+BM_NORTHERN_MERCANTILE_SOCIETY;The Northern Mercantile Society;La société du commerce du Nord;;;;;;;;;;;;x
 BM_NORTHERN_MERCANTILE_SOCIETY_DESC;In a bid to regain some of the trade lost from the secession of Marienburg, the Electors of Hochland, Ostland and Nordland have funded the foundation of a new merchant league in the Sea of Claws. Based in the towns of Neues Emskrank and Salkalten, Jens-Peter hopes to build a profitable enterprise in the northern Empire. With fierce opposition from the establised powers in Marienburg and Erengrad, the survival of the Northern Mercantile Society is not guaranteed.;;;;;;;;;;;;;x
-BM_STORM_OF_CHAOS;Storm of Chaos;;;;;;;;;;;;;x
-BM_STORM_OF_CHAOS_DESC;Archaon the Everchosen leads the forces of Chaos south to destroy Kislev, the Empire, and the world.;;;;;;;;;;;;;x
-BM_THE_END;The End;;;;;;;;;;;;;x
+BM_STORM_OF_CHAOS;Storm of Chaos;La Tempête du Chaos;;;;;;;;;;;;x
+BM_STORM_OF_CHAOS_DESC;Archaon the Everchosen leads the forces of Chaos south to destroy Kislev, the Empire, and the world.;Archaon l'éternel élu mène les forces du Chaos vers le sud pour détruire Kislev, l'Empire et le monde.;;;;;;;;;;;;x
+BM_THE_END;The End;La fin;;;;;;;;;;;;x
 BM_THE_END_DESC;Things are looking grim.;;;;;;;;;;;;;x
 LOADING_TIP_0;Small steps corrupt.;;;;;;;;;;;;;x
-LOADING_TIP_1;"Deliver us, Lord Sigmar, from the savage race of Northmen which lays waste our realm" - Common Nordlander prayer;;;;;;;;;;;;;x
-LOADING_TIP_2;Never confuse a Tilean with an Estalian.;;;;;;;;;;;;;x
-LOADING_TIP_3;KILL FOR KHORNE! KILL FOR KHORNE! KILL FOR KHORNE!;;;;;;;;;;;;;x
-LOADING_TIP_4;The cross is a popular symbol in the Empire. The left, right, and upper arms represent the human tribes uniting, and the lower arm represents the Dwarfs.;;;;;;;;;;;;;x
-LOADING_TIP_5;The fleur de lys is a common symbol in Bretonnia. The flower is the sacred emblem of the Lady of the Lake, and grows around holy sites.;;;;;;;;;;;;;x
-LOADING_TIP_6;In the Chaos Wastes, time and space lose consistancy the further north you travel.;;;;;;;;;;;;;x
+LOADING_TIP_1;Deliver us, Lord Sigmar, from the savage race of Northmen which lays waste our realm - Common Nordlander prayer;Sigmar délivre nous des races sauvages d'hommes du nord qui détruisent notre royaume - Prière d'homme du Nord;;;;;;;;;;;;x
+LOADING_TIP_2;Never confuse a Tilean with an Estalian.;Ne jamais confondre un Tiléen d'un Estalien.;;;;;;;;;;;;x
+LOADING_TIP_3;KILL FOR KHORNE! KILL FOR KHORNE! KILL FOR KHORNE!;TUER POUR KHORNE ! TUER POUR KHORNE ! TUER POUR KHORNE !;;;;;;;;;;;;x
+LOADING_TIP_4;The cross is a popular symbol in the Empire. The left, right, and upper arms represent the human tribes uniting, and the lower arm represents the Dwarfs.;La croix est un symbole populaire dans l'empire. Les bras gauche, droite et supérieurs représentes les tribus humaines s'unifiant, et le bras inférieur représente les nains.;;;;;;;;;;;;x
+LOADING_TIP_5;The fleur de lys is a common symbol in Bretonnia. The flower is the sacred emblem of the Lady of the Lake, and grows around holy sites.;La fleur de Lys est un symbole commun en Bretonnie. La fleur est l'emblème sacré de la Dame du Lac et pousse autour des lieux saints.;;;;;;;;;;;;x
+LOADING_TIP_6;In the Chaos Wastes, time and space lose consistancy the further north you travel.;Dans les désolations du Chaos, le temps et l'espace perdent leur consistance au plus vous voyagez vers le nord.;;;;;;;;;;;;x
 LOADING_TIP_7;The Hung are the least trustworthy people in the world, even among the treacherous savages of the north.;;;;;;;;;;;;;x
-LOADING_TIP_8;Tilea and Estalia were once briefly united in a great empire.;;;;;;;;;;;;;x
-LOADING_TIP_9;The ancient empire of Nehekhara had a terrible and long reach, taking slaves and erecting monuments as far as the Old World.;;;;;;;;;;;;;x
-LOADING_TIP_10;Far to the east, the great empire of Cathay endures.;;;;;;;;;;;;;x
-LOADING_TIP_11;Nobody quite knows where little orcs come from.;;;;;;;;;;;;;x
+LOADING_TIP_8;Tilea and Estalia were once briefly united in a great empire.;Tiléa et Estalia furent brièvement unifiés sous la bannière d'un grand empire.;;;;;;;;;;;;x
+LOADING_TIP_9;The ancient empire of Nehekhara had a terrible and long reach, taking slaves and erecting monuments as far as the Old World.;L'ancien empire de Nehekhara eut une portée immense, enlevant des esclaves et érigeant des monuments partout dans le Vieux Monde.;;;;;;;;;;;;x
+LOADING_TIP_10;Far to the east, the great empire of Cathay endures.;Dans l'est lointant, le grand empire de Cathay résiste au temps.;;;;;;;;;;;;x
+LOADING_TIP_11;Nobody quite knows where little orcs come from.;Personne ne sait d'où viennent les petits Orcs.;;;;;;;;;;;;x
 LOADING_TIP_12;The Lynsk is commonly regarded as the true northern border of civilisation.;;;;;;;;;;;;;x
-LOADING_TIP_13;The great rolling plains of Bretonnia are home to some of the greatest knights in the world.;;;;;;;;;;;;;x
+LOADING_TIP_13;The great rolling plains of Bretonnia are home to some of the greatest knights in the world.;Les plus grands guerriers du monde viennent des grandes plaines de Bretonnie.;;;;;;;;;;;;x
 LOADING_TIP_14;Pirates originating from Sartosa are a constant thorn in the side of Tilean merchants.;;;;;;;;;;;;;x
 LOADING_TIP_15;Eight is the sacred number of Khorne.;;;;;;;;;;;;;x
 LOADING_TIP_16;Six is the sacred number of Slaanesh.;;;;;;;;;;;;;x
@@ -70,12 +70,12 @@ DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House von Krystallbach. Afte
 DYN13_DESC;With a score of $SCORE$ you$FAILED$ beat House von Drak. The von Draks of Sylvania were legendary in their ill-governance. Under their rule Sylvania was overrun by monsters and petty nobles abused their vassals with impunity. Their reign of ambivalent terror was only ended by the arrival of Vlad von Carstein.;;;;;;;;;;;;;x
 DYN14_DESC;With a score of $SCORE$ you$FAILED$ beat House Stoutheart. In the 26th century, Hisme Stoutheart achieved a record ten consecutive three-year terms as Elder of the Mootland.;;;;;;;;;;;;;x
 DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Nikse. The Nikse family were a minor noble family in Nordland, and are only known from their ocassional marriages into the Todbringer dynasty.;;;;;;;;;;;;;x
-# RETINUES
+# RETINUES;;;;;;;;;;;;;;
 RETTYPE_CUL_IMP;Imperial Infantry Company.;;;;;;;;;;;;;x
 RETTYPE_CUL_IMP2;Imperial Light Infantry Company.;;;;;;;;;;;;;x
 RETTYPE_CUL_BRET;Bertonian Pikeman Company.;;;;;;;;;;;;;x
 RETTYPE_CUL_BRET2;Bertonian Archers Company.;;;;;;;;;;;;;x
-# DISEASES GUI INFO
+# DISEASES GUI INFO;;;;;;;;;;;;;;
 has_creeping_buboes;Has Creeping Buboes;;;;;;;;;;;;;x
 has_creeping_buboes_desc;This character has Creeping Buboes, which leave horrible itchy red welts;;;;;;;;;;;;;x
 has_green_pox;Has the Green Pox;;;;;;;;;;;;;x
@@ -87,7 +87,7 @@ has_rattlelung_desc;This character has Rattlelung, and can never seem to stop co
 has_tomb_rot;Has Tomb Rot;;;;;;;;;;;;;x
 has_tomb_rot_desc;This character has Tomb Rot, which causes the flesh to rot away;;;;;;;;;;;;;x
 has_nurgles_rot;Has Nurgle's Rot!;;;;;;;;;;;;;x
-has_nurgles_rot_desc;This character has Nurgle's Rot, and is cursed to spread father Nurgle's "gifts";;;;;;;;;;;;;x
+has_nurgles_rot_desc;"This character has Nurgle's Rot, and is cursed to spread father Nurgle's ""gifts""";;;;;;;;;;;;;x
 has_bone_auge;Has Bone Auge;;;;;;;;;;;;;x
 has_bone_auge_desc;This character has Bone Auge, his bones are malformed in terrible way, [This.GetSheHe] is in constant pain ;;;;;;;;;;;;;x
 creeping_buboes;Creeping Buboes;;;;;;;;;;;;;x
@@ -100,25 +100,20 @@ red_pox;the Red Pox;;;;;;;;;;;;;x
 RED_POX_INFO;There is an epidemic of the Red Pox in this place;;;;;;;;;;;;;x
 green_pox;the Green Pox;;;;;;;;;;;;;x
 GREEN_POX_INFO;There is an epidemic of the Green Pox in this place;;;;;;;;;;;;;x
-# EVENT MODIFIERS
-# magic ones
+# EVENT MODIFIERS;;;;;;;;;;;;;;
+# magic ones;;;;;;;;;;;;;;
 spell_inspiration;Inspiration;;;;;;;;;;;;;x
 spell_inspiration_desc;The luminous power of Hysh filled this character with wisdom.;;;;;;;;;;;;;x
 spell_truthpower;The Power of Truth;;;;;;;;;;;;;x
 spell_truthpower_desc;The words of this characters are empowered with powers of Hysh.;;;;;;;;;;;;;x
 spell_eyesoftruth;Eyes of Truth;;;;;;;;;;;;;x
 spell_eyesoftruth_desc;The wind magic wind allows this character to see through lies of others.;;;;;;;;;;;;;x
-# province modifiers
-ravaged_by_chaos;Ravaged by Chaos;;;;;;;;;;;;;x
-ravaged_by_chaos_desc;These lands were target of recent chaos incursion, those who didn't escape from this defiled land were killed by chaos host. This earth is soaked by blood and terrible creaters are haunting city streets in the light of day.;;;;;;;;;;;;;x
+# province modifiers;;;;;;;;;;;;;;
+recent_chaos_incursion;Recent Chaos Incursion;;;;;;;;;;;;;x
+recent_chaos_incursion_desc;These lands were target of recent chaos incursion, those who didn't escape from this defiled land were killed by chaos host. This earth is soaked by blood and terrible creaters are haunting city streets in the light of day.;;;;;;;;;;;;;x
 resistance;Resistance against Chaos;;;;;;;;;;;;;x
 resistance_desc;Most of population is hiding before forces of Chaos, those who aren not will never surrender.;;;;;;;;;;;;;x
-#CBS
-# Chaos subjugation
+#CBS;;;;;;;;;;;;;;
+# Chaos subjugation;;;;;;;;;;;;;;
 CB_NAME_CHAOS_SUBJUGATION;Unholy Subjugation of [Title.GetBaseName];Assujettissement de [Title.GetBaseName];Unterwerfung von [Title.GetBaseName];;Subyugación de [Title.GetBaseName];;;;;;;;;x
-chaos_subjugation_desc;The strongest will rule!;;;;;;;;;;;;;x
 WAR_NAME_CHAOS_SUBJUGATION;$ORDER$$FIRST_ADJ$ Unholy Subjugation of $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ assujettissement de $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ Unterwerfung von $OTHER_TITLE$;;$ORDER$$FIRST_ADJ$ Subyugación de $OTHER_TITLE$;;;;;;;;;x
-#chaos invasion
-CB_NAME_CHAOS_INVASION;Chaos Invasion of [Title.GetBaseName];;;;;;;;;;;;;x
-chaos_invasion_desc;Starts a Chaos Invasion in the glory of Dark Gods. Only a true champion of Gods may receive help form other follower of Chaos.;;;;;;;;;;;;;x
-WAR_NAME_CHAOS_INVASION;$ORDER$$FIRST_ADJ$ Chaos Invasion of $OTHER_TITLE$;;;;;;;;;;;;;x 
