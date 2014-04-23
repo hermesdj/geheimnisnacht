@@ -1,0 +1,54 @@
+Random thoughts by Hermesdj
+
+*About Bretonnian Knights
+I want to create two traits for the bretonnian knights: 
+- bretonnian_knight : Knights of the Realm. Can obtain after successfully done the errant_knight_quest
+- bretonnian_grail_knight : Grail knights. Obtained after successfull holy_grail_quest
+
+**Knights virtues and grail virtues traits
+- knight virtue: obtained when going on the errant_knight_quest. A character with this trait has access to a decision called "ask a blessing from the lady"
+This decision will open an event where the knight can select a blessing (cure for example). The response of the lady will depend on the knight virtue, prestige and piety
+- grail virtue: obtained when finishing the holy_grail_quest: this trait extends the choice of blessings one can ask to the lady
+
+When becoming a knight of the realm, the character choose between a set of knight virtues that will be added to the knight virtue.
+When becoming a knight of the grail, the character will gain the grail virtue associated to the knight virtue he chose.
+
+**Errant knight quest
+The quest will contain a list of events that can be fired annually. Those event chains will be like mini stories where the character will fight
+against ennemies, obtain traits, equipment, prestige and gold. The character will have to choose from a list of choices to make for each event in the chain.
+
+There will be a list of bad traits a knight cannot have unless he cannot begin the quest. If he gains the trait during the quest (ex. craven, slothful, cruel...) he will have an event
+that will be fired to give him a chance to redeem himself but at great risks (death !)
+
+When the character has a certain amount of prestige and completed a few quests, he will come back home and become a knight of the realm.
+
+**Quest for the Holy Grail
+The quest will be similar in mechanics and will share some events with the errant knight quest. However, most of the events will be much more
+dangerous and with much higher rewards. Upon finishing each event chains, a counter will increase that will give a chance for the knight
+to see the lady of the lake. He will then have an epic finishing event chain that will grant him a title and a LOT of prestige/piety
+
+We do not want to see grail knights by the manies, so the quest will be dangerous and difficult.
+
+**Forbidden traits for knights (having one of these will prevent from beginning any quest): 
+- Craven
+- Slothful
+- Arbitrary
+- Lustful
+- Possessed
+- Lunatic
+- Weak
+- Impaler
+- Glutonous
+- Greedy
+- Envious
+- Wroth (maybe not...)
+- deceitful
+- cynical
+- cruel
+- kinslayer
+- blinded
+- any chaos traits or mutation trait
+
+Having some of these traits might trigger an event that will remove all knighthood to the character, even if he is a knight of the grail.
+However, i am considering offering a "go on adventure" decision that can remove the bad trait in dangerous situations.
+
