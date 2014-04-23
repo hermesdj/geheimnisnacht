@@ -1,54 +1,54 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_knights_panther;Knights Panther;;;;;;;;;;;;;x
-d_knights_sigmars_blood;Knights of Sigmar's Blood;;;;;;;;;;;;;x
-d_knights_griffon;Knights Griffon;;;;;;;;;;;;;x
-d_knights_black_rose;Knights of the Black Rose;;;;;;;;;;;;;x
-d_knights_blazing_sun;Knights of the Blazing Sun;;;;;;;;;;;;;x
-d_knights_broken_sword;Knights of the Broken Sword;;;;;;;;;;;;;x
-d_knights_everlasting_light;Knights of the Everlasting Light;;;;;;;;;;;;;x
-d_knights_white_wolf;Knights of the White Wolf;;;;;;;;;;;;;x
-d_reiksguard;Reiksguard;;;;;;;;;;;;;x
-d_desert_dogs;Desert Dogs;;;;;;;;;;;;;x
-d_leopolds_leopard_company;Leopard Company;;;;;;;;;;;;;x
-d_brazangas_besiegers;Besiegers;;;;;;;;;;;;;x
-d_dragon_company;Dragon Company;;;;;;;;;;;;;x
-d_knights_origo;Knights of Origo;;;;;;;;;;;;;x
-d_flagellant_warband;Flagellant Warband;;;;;;;;;;;;;x
-d_red_redemption;Red Redemption;;;;;;;;;;;;;x
-d_vanguard_of_khorne;Vanguard of Khorne;;;;;;;;;;;;;x
-d_desolators_of_nurgle;Desolators of Nurgle;;;;;;;;;;;;;x
-d_heralds_of_tzeentch;Heralds of Tzeentch;;;;;;;;;;;;;x
-d_ravagers_of_slaanesh;Ravagers of Slaanesh;;;;;;;;;;;;;x
-d_knights_of_the_cleansing_flame;Knights of the Cleansing Flame;;;;;;;;;;;;;x
+d_knights_panther;Knights Panther;Chevaliers Panthères;;;;;;;;;;;;x
+d_knights_sigmars_blood;Knights of Sigmar's Blood;Chevaliers du Sang de Sigmar;;;;;;;;;;;;x
+d_knights_griffon;Knights Griffon;Chevaliers Griffons;;;;;;;;;;;;x
+d_knights_black_rose;Knights of the Black Rose;Chevaliers de la Rose Noire;;;;;;;;;;;;x
+d_knights_blazing_sun;Knights of the Blazing Sun;Chevaliers du Soleil;;;;;;;;;;;;x
+d_knights_broken_sword;Knights of the Broken Sword;Chevaliers de l'Epée Brisée;;;;;;;;;;;;x
+d_knights_everlasting_light;Knights of the Everlasting Light;Templiers de la Lumière Eternelle;;;;;;;;;;;;x
+d_knights_white_wolf;Knights of the White Wolf;Chevaliers du Loup Blanc;;;;;;;;;;;;x
+d_reiksguard;Reiksguard;Reiksguard;;;;;;;;;;;;x
+d_desert_dogs;Desert Dogs;Chiens du Désert;;;;;;;;;;;;x
+d_leopolds_leopard_company;Leopard Company;Compagnie Léopard;;;;;;;;;;;;x
+d_brazangas_besiegers;Besiegers;Les Assiégeants;;;;;;;;;;;;x
+d_dragon_company;Dragon Company;Companie du Dragon;;;;;;;;;;;;x
+d_knights_origo;Knights of Origo;Chevaliers d'Origo;;;;;;;;;;;;x
+d_flagellant_warband;Flagellant Warband;Troupe des Flagellants;;;;;;;;;;;;x
+d_red_redemption;Red Redemption;Rédemption Rouge;;;;;;;;;;;;x
+d_vanguard_of_khorne;Vanguard of Khorne;avant-garde de Khorne;;;;;;;;;;;;x
+d_desolators_of_nurgle;Desolators of Nurgle;Désolateurs de Nurgle;;;;;;;;;;;;x
+d_heralds_of_tzeentch;Heralds of Tzeentch;Hérauts de Tzeentch;;;;;;;;;;;;x
+d_ravagers_of_slaanesh;Ravagers of Slaanesh;Ravageurs de Slaanesh;;;;;;;;;;;;x
+d_knights_of_the_cleansing_flame;Knights of the Cleansing Flame;Chevaliers de la Flamme Purificatrice;;;;;;;;;;;;x
 d_bearmen_of_ursulo;Bearmen of Ursulo;;;;;;;;;;;;;x
-d_alcatani_fellowship;Alcatani Fellowship;;;;;;;;;;;;;x
-d_riccos_republican_guard;Republican Guard;;;;;;;;;;;;;x
-d_cursed_company;Cursed Company;;;;;;;;;;;;;x
+d_alcatani_fellowship;Alcatani Fellowship;Communauté Alcatani;;;;;;;;;;;;x
+d_riccos_republican_guard;Republican Guard;Garde Républicaine;;;;;;;;;;;;x
+d_cursed_company;Cursed Company;Companie Maudite;;;;;;;;;;;;x
 d_mother_crushers;Mother Crushers;;;;;;;;;;;;;x
-d_spike_clan_commandos;Spike-Clan Commandos;;;;;;;;;;;;;x
-d_fighting_cocks;Fighting Cocks;;;;;;;;;;;;;x
-d_marksmen_of_miragliano;Marksmen of Miragliano;;;;;;;;;;;;;x
+d_spike_clan_commandos;Spike-Clan Commandos;Commandos du clan épine;;;;;;;;;;;;x
+d_fighting_cocks;Fighting Cocks;Coqs de Combat;;;;;;;;;;;;x
+d_marksmen_of_miragliano;Marksmen of Miragliano;Tireurs d'élite de Miragliano;;;;;;;;;;;;x
 d_tichi_huchis_raiders;Tichi-Huchi's Raiders;;;;;;;;;;;;;x
 d_vesperos_vendetta;Vespero's Vendetta;;;;;;;;;;;;;x
-d_volands_venators;Venators;;;;;;;;;;;;;x
-d_birdmen_of_catrazza;Birdmen of Catrazza;;;;;;;;;;;;;x
+d_volands_venators;Venators;Venators;;;;;;;;;;;;x
+d_birdmen_of_catrazza;Birdmen of Catrazza;Homme oiseaux de Catrazza;;;;;;;;;;;;x
 d_bronzinos_galloper_guns;Galloper Guns;;;;;;;;;;;;;x
-d_black_mountain_boys;Black Mountain Boys;;;;;;;;;;;;;x
-d_aklands_death_commandos;Death Commandos;;;;;;;;;;;;;x
-d_battle_chariots_of_bogdan;Battle Chariots;;;;;;;;;;;;;x
-d_notlobs_bolt_throwers;Bolt-Throwers;;;;;;;;;;;;;x
-d_throgs_hobgoblin_despoilers;Hobgoblin Despoilers;;;;;;;;;;;;;x
-d_nightmare_legion;Nightmare Legion;;;;;;;;;;;;;x
-d_skarlocs_wood_elf_archers;Wood Elf Archers of Skarloc;;;;;;;;;;;;;x
-d_bowmen_of_prince_oreon;Bowmen of Prince Oreon;;;;;;;;;;;;;x
-d_vanaheim_marauders;Vanaheim Marauders;;;;;;;;;;;;;x
-d_kathleen_chargers;Kathleen Chargers;;;;;;;;;;;;;x
-d_blue_face_boyz;Blue Face Boyz;;;;;;;;;;;;;x
-d_broken_tooth_boyz;Broken Tooth Boyz;;;;;;;;;;;;;x
-d_dead_head_boyz;Dead-Head Boyz;;;;;;;;;;;;;x
-d_slayer_legion;Slayer Legion;;;;;;;;;;;;;x
-d_siren_isles_sailors;Siren Isles Sailors;;;;;;;;;;;;;x
-d_sartosan_hulks;Sartosan Hulks;;;;;;;;;;;;;x
-d_norscan_seafarers;Norscan Seafarers;;;;;;;;;;;;;x
-d_erengrad_convoy;Erengrad Convoy;;;;;;;;;;;;;x
-d_marienburg_merchant_fleet;Marienburg Merchant Fleet;;;;;;;;;;;;;x
+d_black_mountain_boys;Black Mountain Boys;Boys de la Montagne Noire;;;;;;;;;;;;x
+d_aklands_death_commandos;Death Commandos;Commandos de la Mort;;;;;;;;;;;;x
+d_battle_chariots_of_bogdan;Battle Chariots;Chariots de Batailles;;;;;;;;;;;;x
+d_notlobs_bolt_throwers;Bolt-Throwers;Lanceurs de Tonnerres;;;;;;;;;;;;x
+d_throgs_hobgoblin_despoilers;Hobgoblin Despoilers;Spoliateurs Hobgobelins;;;;;;;;;;;;x
+d_nightmare_legion;Nightmare Legion;La Légion Cauchemardesque;;;;;;;;;;;;x
+d_skarlocs_wood_elf_archers;Wood Elf Archers of Skarloc;Archers Elfes Sylvains de Skarloc;;;;;;;;;;;;x
+d_bowmen_of_prince_oreon;Bowmen of Prince Oreon;Archers du Prince Oreon;;;;;;;;;;;;x
+d_vanaheim_marauders;Vanaheim Marauders;Maraudeurs de Vanaheim;;;;;;;;;;;;x
+d_kathleen_chargers;Kathleen Chargers;Chargeurs de Kathleen;;;;;;;;;;;;x
+d_blue_face_boyz;Blue Face Boyz;Boyz Face Bleue;;;;;;;;;;;;x
+d_broken_tooth_boyz;Broken Tooth Boyz;Boyz Dents Cassées;;;;;;;;;;;;x
+d_dead_head_boyz;Dead-Head Boyz;Boyz Tête Morte;;;;;;;;;;;;x
+d_slayer_legion;Slayer Legion;Légion des Tueurs;;;;;;;;;;;;x
+d_siren_isles_sailors;Siren Isles Sailors;Marins de l'île des Sirènes;;;;;;;;;;;;x
+d_sartosan_hulks;Sartosan Hulks;Carcasses Sartosiennes;;;;;;;;;;;;x
+d_norscan_seafarers;Norscan Seafarers;Marins Norses;;;;;;;;;;;;x
+d_erengrad_convoy;Erengrad Convoy;Convoi d'Erengrad;;;;;;;;;;;;x
+d_marienburg_merchant_fleet;Marienburg Merchant Fleet;Flotte Marchande de Marienburg;;;;;;;;;;;;x
