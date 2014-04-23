@@ -43,19 +43,125 @@ decisions = {
 	# Rulers will have a regent while on errance
 	# Negative personality traits will prevent this decision
 	become_errant_knight = {
-		#Only young male bretonnians can do this (after becoming an adult)
-		#TODO: Add cost to buy the equipment
+		#Only young male bretonnians can do this (after becoming an adult) and must be noble (not lowborn)
 		potential = {
 			culture_group = bretonnian_group
-			is_female = no
-			prisonner = no
+			religion = lady_of_the_lake
+			NOT = {trait = errant_knight}
+			NOT = {trait = grail_knight}
+			NOT = {has_character_flag = errant_knight_quest}
 		}
 		
 		allow = {
+			war = no
+			prisoner = no
+			in_command = no
+			age = 16
+			NOT = {age = 25} # might be removed
+			
 		}
 		
 		# TODO set the flag to begin the errance
 		effect = {
+			wealth = -50 #pay for the equipment
+			set_character_flag = errant_knight_quest
+			hidden_tooltip = {
+				character_event = {
+					id = Bretonnia.1000 # Launch starting event for the quest
+				}
+			}
+		}
+		#The AI can go on the errance
+		ai_will_do = {
+			factor = 0.1           # TODO Only noble bretonnians can go on a pilgrimage
+			modifier = {
+				factor = 0
+				NOT = { age = 25 }
+			}
+			modifier = {
+				factor = 3
+				trait = zealous
+			}
+			modifier = {
+				factor = 0
+				NOT = { wealth = 200 }
+			}			
+			modifier = {
+				factor = 0
+				NOT = { age = 30 }
+			}
+			modifier = {
+				factor = 0.01
+				NOT = { is_primary_heir } # Primary heirs of a title have low chance to go
+			}
+			#TODO title holders have lower chances to none to go
+		}
+	}
+	
+	#used for comparison and inspiration
+	catholic_pilgrimage = {
+		potential = {
+			has_dlc = "Sons of Abraham"
+			is_ruler = yes
+			religion_group = christian
+			NOT = { trait = pilgrim }
+			NOT = { has_character_flag = do_not_disturb }
+		}
+		allow = {
+			war = no
+			in_command = no
+			any_demesne_title = {
+				is_occupied = no
+			}
+			prisoner = no
+			wealth = 50
+			age = 16
+			custom_tooltip = {
+				text = health_travel_condition
+				hidden_tooltip = {
+					NOT = {	trait = pregnant }
+					NOT = {	trait = incapable }
+					NOT = {	trait = blinded }
+					NOT = {	trait = has_tuberculosis }
+					NOT = {	trait = has_typhoid_fever }
+					NOT = {	trait = has_typhus }
+					NOT = {	trait = has_bubonic_plague }
+					NOT = {	trait = has_measles }
+					NOT = {	trait = has_small_pox }
+					NOT = {	trait = has_aztec_disease }
+				}
+			}
+		}
+		effect = {
+			wealth = -50
+			set_character_flag = activated_pilgrimage
+			hidden_tooltip = {
+				character_event = { 
+					id = SoA.5000
+				}
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.001             # Only a small minority of Christians ever go on a pilgrimage
+			modifier = {
+				factor = 0
+				NOT = { age = 25 }
+			}
+			modifier = {
+				factor = 3
+				trait = zealous
+			}
+			modifier = {
+				factor = 0
+				NOT = { wealth = 200 }
+			}			
+			modifier = {
+				factor = 0
+				NOT = { age = 30 }
+			}
 		}
 	}
 }
