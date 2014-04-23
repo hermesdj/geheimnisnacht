@@ -95,7 +95,7 @@ decisions = {
         }
         allow = {
             custom_tooltip = {
-               text = "help must not be called"
+               text = "help must not be called" # FIXME Localize this text. Is this the right text ?
                NOT = { has_character_flag = chaos_struggle_help_called }
                is_primary_war_defender = yes
                prisoner = no
@@ -151,7 +151,7 @@ decisions = {
             }
             modifier = {
                 factor = 0.5
-		religion_group = cadai_gods_group
+				religion_group = cadai_gods_group
             }
             modifier = {
                 factor = 1.5

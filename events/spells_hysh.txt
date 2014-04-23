@@ -64,7 +64,7 @@ character_event = {
        }
    }
 }
-# Puryfying light (icreasing health)
+# Puryfying light (increasing health)
 character_event = {
    id = hysh.3
    is_triggered_only = yes

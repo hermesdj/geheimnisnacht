@@ -90,7 +90,7 @@ character_event = {
             }
         }
         
-        # Getting mutated by by nurgle illness (this should be placed in nurgle's disease effct
+        # Getting mutated by nurgle illness (this should be placed in nurgle's disease effct
         # maybe?
         #
         # Religion dependent modifier (obviously service under darks gods banner increase chance)
@@ -139,6 +139,7 @@ character_event = {
             }
         }
         # Location dependent modifiers
+		# In the chaos waste maybe ?
         # to be done in empire only Sylvany gets modifer
         modifier = {
             factor = 0.5

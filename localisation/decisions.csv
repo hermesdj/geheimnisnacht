@@ -18,4 +18,8 @@ decision_lore_ice;Lore of Ice spells;;;;;;;;;;;;;x
 decision_open_spellbook;Open the spellbook;Ouvrir le livre des sorts;;;;;;;;;;;;x
 decision_close_spellbook;Close the spellbook;Fermer le livre des sorts;;;;;;;;;;;;x
 # chaos cultists decisions;;;;;;;;;;;;;;
-decision_reveal_chaos_religion;Reveal yourself as chaos worshipper;Vous révéler en tant qu'adorateur du Chaos;;;;;;;;;;;;x
+decision_reveal_chaos_religion;Reveal yourself as chaos worshipper;Vous vous révélez en tant qu'adorateur du Chaos;;;;;;;;;;;;x
+#bretonnian decisions;;;;;;;;;;;;;;
+decision_reveal_chaos_religion;Reveal yourself as chaos worshipper;Vous vous révélez en tant qu'adorateur du Chaos;;;;;;;;;;;;x
+holy_grail_quest_start;Go on the quest of the Holy Grail;Entreprendre la quête du saint graal;;;;;;;;;;;;
+become_errant_knight;Become an errant knight;Devenir un chevalier errant;;;;;;;;;;;;

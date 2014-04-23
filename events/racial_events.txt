@@ -146,6 +146,8 @@ character_event = {
 ## I've seen speculation in several locations that the average lifespan is 2500
 ## we may want to address this accordingly -Erik
 # let's say then that the average elves lifespan is ~1500 years
+# 
+# Nota by hermes: Malekith is still alive and lived more than 2000 years (he was the son of aenarion)
 #
 character_event = {
     id = racial.2

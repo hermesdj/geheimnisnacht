@@ -1,0 +1,61 @@
+#
+#	HermesDj:
+#	This is a test for bretonnian only decision to see how the system
+#	works.
+#
+# Bretonnian quests will have a set of events that will guide them
+# through their task. It will last a few years each time and grant
+# them prestige, skill, traits and equipment and event a benediction
+# from the lady of the lake !
+# rulers will have a regent while on the quest
+# TODO : complete the decisions & create the traits (virtues)
+# Errant knights will have the knight virtue. This will give them decisions
+# to prey for the lady (will give potential healing, martial bonus, health bonus, etc.
+decisions = {
+	# Bretonnian knights can go on the quest for the holy grail
+	# This decision is similar to the pilgrimage decision
+	# Only male bretonnians can do it
+	# negative personnality traits will prevent this decision
+	# grail knights shall be pure !
+	holy_grail_quest_start = {
+		is_high_prio = yes
+		potential = {
+			culture_group = bretonnian_group
+			is_female = no
+			prisonner = no
+			#TODO only bretonnian knight can go on the quest
+			#trait = bretonnian_knight
+		}
+		allow = {
+			#prestige = 1000 # FIXME i will find another mechanic for this
+		}
+		
+		# TODO set character flag to start the quest
+		effect = {
+		}
+	}
+	
+	# In order to become true bretonnian knights, a character
+	# must first become an errant_knight. A list of events will be fired
+	# that will grant the char prestige. The errance will end when this
+	# prestige will be above 500 for example
+	# When the quest ends, the character will gain the bretonnian_knight trait
+	# Rulers will have a regent while on errance
+	# Negative personality traits will prevent this decision
+	become_errant_knight = {
+		#Only young male bretonnians can do this (after becoming an adult)
+		#TODO: Add cost to buy the equipment
+		potential = {
+			culture_group = bretonnian_group
+			is_female = no
+			prisonner = no
+		}
+		
+		allow = {
+		}
+		
+		# TODO set the flag to begin the errance
+		effect = {
+		}
+	}
+}

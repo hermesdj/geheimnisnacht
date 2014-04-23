@@ -149,7 +149,7 @@
 ##############################
 
 # Those event doesn't have to be ported 
-# remember about delteing references to 
+# remember about deleting references to 
 # their id ranges
 
 # Teutonic Order Events: 8500-9999

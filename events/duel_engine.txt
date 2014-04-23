@@ -539,7 +539,7 @@ character_event = {
        character_event = { id = duelengine.3 }
     }
     option = {
-        name = "EVTOPT_DUELENGINE_1A"
+        name = "EVTOPT_DUELENGINE_1A" #I will crush him!
         # Begin duel
         hidden_tooltip = {
            # FIXME random person starts the fight
@@ -588,7 +588,7 @@ character_event = {
     }
     # RUN from enemy!
     option = {
-        name = "EVTOPT_DUELENGINE_1B"
+        name = "EVTOPT_DUELENGINE_1B" #I must run!
         hidden_tooltip = { FROM = { character_event = { id = duelengine.5 } } }
         remove_character_modifier = battlefield_fight
         if = {
@@ -803,6 +803,26 @@ character_event = {
            change_variable = { which = "duel_def" value = 1 }
        }
        # Ok now here should be traits bonus but i left them for now
+	   
+	   #Positive traits
+	   # Strong characters have a bonus health
+	   if = { 
+			limit = { trait = strong } 
+			change_variable = { which = "duel_hp" value = 1 }
+       }
+	   # Duelist have better attack and defense
+	   if = { 
+			limit = { trait = duelist } 
+			change_variable = { which = "duel_hp" value = 1 }
+			change_variable = { which = "duel_att" value = 1 }
+			change_variable = { which = "duel_def" value = 1 }
+       }
+	   
+	   #Negative traits
+	   if = { 
+			limit = { trait = weak } 
+			change_variable = { which = "duel_hp" value = -1 }
+       }
    }    
 }
 # Round event
@@ -829,7 +849,7 @@ character_event = {
 # Done
 #         -Peter
 #
-# at first rund
+# at first round
 # FROMFROM = defender
 # FROM = attacker
 # ROOT = defender
