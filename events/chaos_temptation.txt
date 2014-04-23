@@ -26,13 +26,13 @@ namespace = temptation
 #
 # TODO: add ai chances
 # TODO: make hidden mutation a modifier as well 
-# TODO: possibly seperate mutation out into different fafctors, 
+# TODO: possibly seperate mutation out into different factors, 
 #massively mutated individual should be more likely to fall than a minor one
 #
 # Temptation by Nurgle
 character_event = {
-    id = temptation.1
-    desc = "temptation.1_desc" #TODO
+    id = temptation.1 #The Embrace of Uncle Nurgle
+    desc = "temptation.1_desc" #Embrace description is in events.csv localisation file
     picture = "GFX_evt_nurgle"
     min_age = 16
     capable_only = yes
@@ -168,20 +168,20 @@ character_event = {
     }
     # Temptation by some chosen god
     option = {
-        name = "Temptation.1.TOOLTIP1" #TODO
-        character_event = { id = temptation.5 days = 30 }
+        name = "Temptation.1.TOOLTIP1" #Uncle Nurgle loves his children, he he he...
+        character_event = { id = temptation.6 days = 30 }
         set_character_flag = hidden_cultist_nurgle
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "Temptation.1.TOOLTIP2" #TODO
+        name = "Temptation.1.TOOLTIP2" # [Root.Religion.GetRandomGodName] will give me the strength to resist this sickness in my heart!
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
 # Temptation Slaanesh
 character_event = {
-    id = temptation.2
-    desc = "temptation.2_desc" #TODO
+    id = temptation.2 # The Seductions of the Prince of Pleasure
+    desc = "temptation.2_desc" #Embrace description is in events.csv localisation file
     picture = "GFX_evt_slaanesh"
     min_age = 16
     capable_only = yes
@@ -320,20 +320,20 @@ character_event = {
     }
     # Temptation by some chosen god
     option = {
-        name = "temptation.2.TOOLTIP1" #TODO
-        character_event = { id = temptation.5 days = 30 }
+        name = "temptation.2.TOOLTIP1" #Ah, what sweet ecstasy is this? I must have more!
+        character_event = { id = temptation.6 days = 30 }
         set_character_flag = hidden_cultist_slaanesh
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "temptation.2.TOOLTIP2" #TODO
+        name = "temptation.2.TOOLTIP2" #No, no, I have gone too far... [Root.Religion.GetRandomGodName] forgive me.
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
 # Temptation Tzeenth
 character_event = {
-    id = temptation.3
-    desc = "temptation.3_desc" #TODO
+    id = temptation.3 #The Changer of Ways Calls Ye
+    desc = "temptation.3_desc"
     picture = "GFX_evt_tzeentch"
     min_age = 16
     capable_only = yes
@@ -455,20 +455,21 @@ character_event = {
     }
     # Temptation by some chosen god
     option = {
-        name = "temptation.3.TOOLTIP1" #TODO
+        name = "temptation.3.TOOLTIP1" #Knowlegde is power.
         set_character_flag = hidden_cultist_tzeenth
-        character_event = { id = temptation.5 days = 30 }
+        character_event = { id = temptation.6 days = 30 }
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "temptation.3.TOOLTIP2"
+        name = "temptation.3.TOOLTIP2" #Some secrets must be forever hidden.
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
 # Temptation Khorne
+# Maybe another event like this one triggered while in battle ? (rage like event, with huge modifier for bersekers)
 character_event = {
-    id = temptation.4
-    desc = "temptation.4_desc" #TODO
+    id = temptation.4 #The Eight-Fold Path
+    desc = "temptation.4_desc"
     picture = "GFX_evt_khorne"
     min_age = 16
     capable_only = yes
@@ -613,19 +614,19 @@ character_event = {
     }
     # Temptation by some chosen god
     option = {
-        name = "temptation.4.TOOLTIP1"
+        name = "temptation.4.TOOLTIP1" #BLOOD FOR THE BLOOD GOD, SKULLS FOR THE SKULL THRONE!!!
         set_character_flag = hidden_cultist_khorne
-        character_event = { id = temptation.5 days = 30 }
+        character_event = { id = temptation.6 days = 30 }
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "temptation.4.TOOLTIP2"
+        name = "temptation.4.TOOLTIP2" #What am I thinking?! I'm a warrior, not a butcher!
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
 # Temptation Undivided
 character_event = {
-    id = temptation.5
+    id = temptation.5 #The Power of Chaos
     desc = "temptation.5_desc"
     #picture = ""
     min_age = 16
@@ -726,13 +727,13 @@ character_event = {
     }
     # Temptation by chaos
     option = {
-        name = "temptation.5.TOOLTIP1" #TODO
+        name = "temptation.5.TOOLTIP1" #[Root.Religion.GetRandomGodName]? Bah, these are the real Gods!
         set_character_flag = hidden_cultist_undivided
-        character_event = { id = temptation.5 days = 30 }
+        character_event = { id = temptation.6 days = 30 }
     }
     # Resist the chaos if you SW test went correctly
     option = {
-        name = "temptation.5.TOOLTIP2"
+        name = "temptation.5.TOOLTIP2" #My faith in [Root.Religion.GetRandomGodName] in unshakeable!
         trigger = { NOT = { check_variable = { which = "sw_test" value = 1 }}}
     }
 }
@@ -743,14 +744,16 @@ character_event = {
 # 
 # That event should be place dependent 
 #
+# There might be a bug here, because events tempatation.1 through 5 reference the character_event temptation.5 and not this one ?
+# I fixed that, hope i am not wrong ^^
 character_event = {
-    id = temptation.6
+    id = temptation.6 #The Cult
     desc = "temptation.6_desc"
     picture = "GFX_shadow_cabal"
     
     is_triggered_only = yes
     option = {
-        name = "temptation.6.TOOLTIP1"
+        name = "temptation.6.TOOLTIP1" #It's too late to turn back now...
         # change doom counter - if big figure became cultist
         if = { 
             limit = { higher_tier_than = COUNT }

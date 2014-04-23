@@ -56,6 +56,8 @@ province_event = {
         if = { 
             limit = { 
                 # FIXME create vortex first
+				# question: Destroy the vortex if chaos forces conquer Ulthluan ? 
+				# Create the vortex quest for Ulthluan mages ?
                 has_global_flag = vortex_exists  
                 check_variable = { which = "doom_counter" value = 3 }
             }
@@ -116,9 +118,9 @@ province_event = {
 # DOOM COUNTER RAISING EVENTS
 #
 #
-#
+# Possible Bug: no localisation for doomengine.x, EVTNAME_DOOMENGINE_1 was used instead
 province_event = {
-    id = doomengine.1
+    id = doomengine.1 #Signs of Armageddon
     #name = "EVTNAME_DOOMENGINE_1"
     desc = "EVTDESC_DOOMENGINE_1"
     
@@ -148,16 +150,16 @@ province_event = {
 
 
 # Triggered by decision "Join chaos war"
-# sets the FROM, and ROOT valeues nicely
+# sets the FROM, and ROOT values nicely
 character_event = {
     id = doomengine.20
-    desc = "This event informs that choas guys will join you"
+    desc = "EVTDESC_DOOMENGINE_20"
     is_triggered_only = yes
     hide_window = yes
      
     option = { 
     #immediate = {
-        name = "Chaos should join us"
+        name = "EVTDESC_DOOMENGINE_20A"
         # fires event back
         any_independent_ruler = {
             limit = { 
@@ -281,12 +283,12 @@ character_event = {
 # FROM = person attacked in chaos incursion 
 character_event = {
     id = doomengine.22
-    desc = "EVTDESC_DOOMENGINE_21"
+    desc = "EVTDESC_DOOMENGINE_22"
     picture = "GFX_evt_nurgle"
     is_triggered_only = yes
  
     option = {
-        name = "EVTOPT_DOOMENGINE_21B"
+        name = "EVTOPT_DOOMENGINE_22B"
         # get the defender by getting war with proper cb
         join_defender_wars = FROM
         ai_chance = {
@@ -298,7 +300,7 @@ character_event = {
     }
     # Wait
     option = {
-        name = "EVTOPT_DOOMENGINE_21C"
+        name = "EVTOPT_DOOMENGINE_22C"
         ai_chance = {
             factor = 8
         } 
