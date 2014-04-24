@@ -20,6 +20,7 @@ decision_close_spellbook;Close the spellbook;Fermer le livre des sorts;;;;;;;;;;
 # chaos cultists decisions;;;;;;;;;;;;;;
 decision_reveal_chaos_religion;Reveal yourself as chaos worshipper;Vous vous révélez en tant qu'adorateur du Chaos;;;;;;;;;;;;x
 #bretonnian decisions;;;;;;;;;;;;;;
-decision_reveal_chaos_religion;Reveal yourself as chaos worshipper;Vous vous révélez en tant qu'adorateur du Chaos;;;;;;;;;;;;x
-holy_grail_quest_start;Go on the quest of the Holy Grail;Entreprendre la quête du saint graal;;;;;;;;;;;;
-become_errant_knight;Become an errant knight;Devenir un chevalier errant;;;;;;;;;;;;
+holy_grail_quest_start;Go on the quest of the Holy Grail;Entreprendre la quête du saint graal;;;;;;;;;;;;x
+holy_grail_quest_start_desc;I Shall find the holy grail and meet the lady of the lake !;Je trouverais la Dame du Lac et le Saint Graal !;;;;;;;;;;;;x
+become_errant_knight;Become an errant knight;Devenir un chevalier errant;;;;;;;;;;;;x
+become_errant_knight_desc;I will go on the traditionnal errance quest to prove my worthiness;Devenez un chevalier errant pour prouver votre valeur;;;;;;;;;;;;x

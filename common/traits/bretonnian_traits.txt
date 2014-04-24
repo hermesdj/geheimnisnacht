@@ -1,0 +1,49 @@
+#
+# Traits used while on the quest or the errance
+#
+errant_knight = {
+	martial = 1
+	health = 2
+	
+	monthly_character_prestige = 0.01
+	
+	cannot_marry = yes
+	pilgrimage = yes
+	religious = yes
+	
+	fertility = -10
+}
+
+questing_knight = {
+	martial = 3
+	health = 3
+	
+	monthly_character_prestige = 0.5
+	
+	cannot_marry = yes
+	pilgrimage = yes
+	religious = yes
+	
+	fertility = -10
+}
+
+#
+# Traits used when the quest or the errance is completed
+#
+realm_knight = {
+	martial = 2
+	health = 3
+	
+	monthly_character_prestige = 0.1
+	
+	religious = yes
+}
+
+grail_knight = {
+	martial = 4
+	health = 3
+	
+	monthly_character_prestige = 1
+	
+	religious = yes
+}

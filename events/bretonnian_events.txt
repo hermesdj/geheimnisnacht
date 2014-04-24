@@ -1,0 +1,14 @@
+namespace = Bretonnia
+
+character_event = {
+	id=Bretonnia.1
+	desc = Bretonnia.1_desc
+	picture = "GFX_evt_questing_knight" #FIXME used only for test
+	is_triggered_only = yes
+	
+	option = {
+		name = Bretonnia.1.1
+		add_trait = errant_knight
+		prestige = 50
+	}
+}

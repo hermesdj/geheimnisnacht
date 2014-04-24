@@ -52,4 +52,9 @@ spriteTypes = {
                 texturefile = "gfx\\event_pictures\\tzeentch.tga"
                 allwaystransparent = yes
         }
+	spriteType = {
+		name = "GFX_evt_questing_knight"
+		texturefile = "gfx\\event_pictures\\questing_knight.tga"
+		allwaystransparent = yes
+	}
 }

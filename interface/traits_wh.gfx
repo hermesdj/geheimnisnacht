@@ -335,5 +335,33 @@ spriteTypes = {
 	}
 	# new personalities
 
-
+	#Bretonnian traits
+	spriteType = {
+		name = "GFX_trait_errant_knight"
+		texturefile = "gfx/traits/errant_knight.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_questing_knight"
+		texturefile = "gfx/traits/questing_knight.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_realm_knight"
+		texturefile = "gfx/traits/realm_knight.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_grail_knight"
+		texturefile = "gfx/traits/grail_knight.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 }

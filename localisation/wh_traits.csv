@@ -21,7 +21,7 @@ benefactor;Benefactor;;;;;;;;;;;;;x
 benefactor_desc;This character devotes a great deal of effort to benefiting the poor and needy.;;;;;;;;;;;;;x
 slaver;Slaver;;;;;;;;;;;;;x
 slaver_desc;This character is an enthusiastic participant in the slave trade, involving themselves whenever possible.;;;;;;;;;;;;;x
-# CREATURE TRAITS
+# CREATURE TRAITS;;;;;;;;;;;;;;
 creature_human;Human;;;;;;;;;;;;;x
 creature_human_desc;This character is a Human.;;;;;;;;;;;;;x
 creature_elf;Elf;;;;;;;;;;;;;x
@@ -48,7 +48,7 @@ creature_ogre;Ogre;;;;;;;;;;;;;x
 creature_ogre_desc;This character is an Ogre.;;;;;;;;;;;;;x
 creature_beastman;Beastman;;;;;;;;;;;;;x
 creature_beastman_desc;This character is a Beastman.;;;;;;;;;;;;;x
-# MOUNT TRAITS
+# MOUNT TRAITS;;;;;;;;;;;;;;
 mount_dragon;Dragon;;;;;;;;;;;;;x
 mount_dragon_desc;This character possesses the services of a dragon.;;;;;;;;;;;;;x
 mount_dragon_undead;Undead Dragon;;;;;;;;;;;;;x
@@ -117,7 +117,7 @@ mount_thundertusk;Thundertusk;;;;;;;;;;;;;x
 mount_thundertusk_desc;This character possesses the services of a thundertusk.;;;;;;;;;;;;;x
 mount_stonehorn;Stonehorn;;;;;;;;;;;;;x
 mount_stonehorn_desc;This character possesses the services of a stonehorn.;;;;;;;;;;;;;x
-# ARMOUR TRAITS
+# ARMOUR TRAITS;;;;;;;;;;;;;;
 armour_chaos;Armour of Chaos;;;;;;;;;;;;;x
 armour_chaos_desc;This suit of cursed armour bears the taint of the warp, bonding to the flesh and whispering to the mind.;;;;;;;;;;;;;x
 armour_khorne;Armour of Khorne;;;;;;;;;;;;;x
@@ -136,7 +136,7 @@ armour_enchanted;Enchanted Armour;;;;;;;;;;;;;x
 armour_enchanted_desc;This armour has been enchanted by wizardry to be stronger and tougher than regular armour.;;;;;;;;;;;;;x
 armour_blessed;Blessed Armour;;;;;;;;;;;;;x
 armour_blessed_desc;This armour has been blessed by divine power to be stronger and tougher than regular armour.;;;;;;;;;;;;;x
-# WEAPON TRAITS
+# WEAPON TRAITS;;;;;;;;;;;;;;
 weapon_chaos;Weapon of Chaos;;;;;;;;;;;;;x
 weapon_chaos_desc;This weapon thirsts for slaughter and seeks to influence the mind of the wielder.;;;;;;;;;;;;;x
 weapon_khorne;Weapon of Khorne;;;;;;;;;;;;;x
@@ -155,7 +155,7 @@ weapon_enchanted;Enchanted Weapon;;;;;;;;;;;;;x
 weapon_enchanted_desc;This weapon has been enchanted by wizardry to be deadlier than regular weapons.;;;;;;;;;;;;;x
 weapon_blessed;Blessed Weapon;;;;;;;;;;;;;x
 weapon_blessed_desc;This weapon has been blessed by divine power to be deadlier than regular weapons.;;;;;;;;;;;;;x
-# WORSHIPPER TRAITS
+# WORSHIPPER TRAITS;;;;;;;;;;;;;;
 worshipper_of_elder_gods;Worshipper of the Elder Gods;;;;;;;;;;;;;x
 worshipper_of_elder_gods_desc;This character is not devoted to any particular god, instead paying reverence to the entire pantheon of elder gods.;;;;;;;;;;;;;x
 worshipper_of_classical_gods;Worshipper of the Classical Gods;;;;;;;;;;;;;x
@@ -340,7 +340,7 @@ worshipper_of_self;Worshipper of Self;;;;;;;;;;;;;x
 worshipper_of_self_desc;This character is devoted to nothing but themselves, regarding the patronage of a deity below them.;;;;;;;;;;;;;x
 worshipper_of_sigmars_saints;Worshipper of Sigmar's Saints;;;;;;;;;;;;;x
 worshipper_of_sigmars_saints_desc;This character is devoted to one or more of the saints of Sigmar, the champions and legends of ages past.;;;;;;;;;;;;;x
-# GREENSKIN TRAITS
+# GREENSKIN TRAITS;;;;;;;;;;;;;;
 orc_small;Small Orc;;;;;;;;;;;;;x
 orc_small_desc;This orc is downright titchy and should only think about bossing even smaller things, like squigs and snotlings.;;;;;;;;;;;;;x
 orc_average;Average Orc;;;;;;;;;;;;;x
@@ -357,7 +357,7 @@ goblin_large;Large Goblin;;;;;;;;;;;;;x
 goblin_large_desc;This goblin is large, making them suitable for bossing most goblins around.;;;;;;;;;;;;;x
 goblin_huge;Huge Goblin;;;;;;;;;;;;;x
 goblin_huge_desc;This goblin is huge, making them the rightful boss of every sensible goblin.;;;;;;;;;;;;;x
-# BRETONNIAN TRAITS
+# BRETONNIAN TRAITS;;;;;;;;;;;;;;
 virtue_of_chivalry;Virtue of Chivalry;;;;;;;;;;;;;x
 virtue_of_chivalry_desc;This Knight pursues the Virtue of Chivalry. Every knight must follow a wide-reaching code of conduct.;;;;;;;;;;;;;x
 virtue_of_audacity;Virtue of Audacity;;;;;;;;;;;;;x
@@ -394,10 +394,10 @@ knight_grail;Grail Knight;;;;;;;;;;;;;x
 knight_grail_desc;This Knight has found the Grail.;;;;;;;;;;;;;x
 knight_questing;Questing Knight;;;;;;;;;;;;;x
 knight_questing_desc;This Knight is actively searching for the Grail.;;;;;;;;;;;;;x
-# ELF TRAITS
+# ELF TRAITS;;;;;;;;;;;;;;
 nagarythi_elf;Nagarythi;;;;;;;;;;;;;x
 nagarythi_elf_desc;This elf is from the Shadowlands, or Nagarythe. They are distrusted despite their actions.;;;;;;;;;;;;;x
-# VAMPIRE TRAITS
+# VAMPIRE TRAITS;;;;;;;;;;;;;;
 vampire_lahmian_visible;Lahmian Vampire;;;;;;;;;;;;;x
 vampire_lahmian_visible_desc;This character is a Vampire of the Lahmian Bloodline. The Lahmian Vampires are known for being sensual as well as vicious. Their beauty often blinds their foes to the danger that lurks behind the mask.;;;;;;;;;;;;;x
 vampire_lahmian_hidden;Hidden Lahmian Vampire;;;;;;;;;;;;;x
@@ -426,7 +426,7 @@ vampire_mahtmasi_visible;Mahtmasi Vampire;;;;;;;;;;;;;x
 vampire_mahtmasi_visible_desc;Mahtmasi vampires are strange and mysterious things. It would be disingenuous to apply generalisations to such a diverse people.;;;;;;;;;;;;;x
 vampire_mahtmasi_hidden;Hidden Mahtmasi Vampire;;;;;;;;;;;;;x
 vampire_mahtmasi_hidden_desc;This character can't seem to decide what they want in life.;;;;;;;;;;;;;x
-# SPECIAL CHARACTER TRAITS
+# SPECIAL CHARACTER TRAITS;;;;;;;;;;;;;;
 special_char_nefereta;Nefereta;;;;;;;;;;;;;x
 special_char_nefereta_desc;Nefereta, the first vampire and founder of the Lahmian bloodline.;;;;;;;;;;;;;x
 special_char_vashanesh;Vashanesh;;;;;;;;;;;;;x
@@ -445,10 +445,10 @@ special_char_red_duke;The Red Duke;;;;;;;;;;;;;x
 special_char_red_duke_desc;The Red Duke should have died in battle with the Arabyans hundreds of years ago, but was driven mad by eternal life. Now the only name he remembers is the title given by his old enemies, 'El Syf ash-Shml', 'The Sword of the North'.;;;;;;;;;;;;;x
 special_char_nagash;Nagash;;;;;;;;;;;;;x
 special_char_nagash_desc;Once a grand and terrible wizard of Nehekhara, Nagash is now a monstrous undead form possessing somewhat diminished powers. His mind is ancient, but has not forgotten any of his enemies.;;;;;;;;;;;;;x
-# NEHEKHARAN TRAITS
+# NEHEKHARAN TRAITS;;;;;;;;;;;;;;
 nehekharan_child;Nehekharan Child;;;;;;;;;;;;;x
 nehekharan_child_desc;This Nehekharan died and was entombed as a child. Despite their small and frail body, they are just as cunning and ambitious as their peers.;;;;;;;;;;;;;x
-# Warrior traits
+# Warrior traits;;;;;;;;;;;;;;
 master_warrior;Formidable Fighter;Combattant formidable;Formidable Fighter;;Formidable Fighter;;;;;;;;;x
 master_warrior_desc;This character is one of the greatest warriors in the world, favored by God and dreaded on the battlefield.;Ce personnage est l'une des plus fines lames de le monde, il est favorisé par Dieu et redouté sur le champs de bataille. ;This character is one of the greatest warriors in the world, favored by God and dreaded on the battlefield.;;This character is one of the greatest warriors in the world, favored by God and dreaded on the battlefield.;;;;;;;;;x
 poor_warrior;Poor Fighter;Mauvais combattant;Poor Fighter;;Poor Fighter;;;;;;;;;x
@@ -457,21 +457,21 @@ skilled_warrior;Skilled Fighter;Combattant talentueux;Skilled Fighter;;Skilled F
 skilled_warrior_desc;This character possesses a certain talent for battle and swordplay.;Ce personnage possède un certain talent pour les batailles et les duels à l'épée.;This character possesses a certain talent for battle and swordplay.;;This character possesses a certain talent for battle and swordplay.;;;;;;;;;x
 trained_warrior;Trained Fighter;Combattant entraîné;Trained Fighter;;Trained Fighter;;;;;;;;;x
 trained_warrior_desc;This character has received training in the art of combat. While no master, they can hold their own in a fight.;Ce personnage a suivit un entrainement dans l'art de la guerre. S'il n'est pas un maître, il peut se débrouiller dans un combat.;This character has received training in the art of combat. While no master, they can hold their own in a fight.;;This character has received training in the art of combat. While no master, they can hold their own in a fight.;;;;;;;;;x
-# ADDITIONAL TRAITS
+# ADDITIONAL TRAITS;;;;;;;;;;;;;;
 tall;Tall;;;;;;;;;;;;;x
 tall_desc;This character is exceptionally tall.;;;;;;;;;;;;;x
 hideous;Hideous;;;;;;;;;;;;;x
 hideous_desc;This character has a most horrifying appearance.;;;;;;;;;;;;;x
 beautiful;Beautiful;;;;;;;;;;;;;x
 beautiful_desc;This character has a statuesque appearance, one most alluring and attractive.;;;;;;;;;;;;;x
-#MUTATION TRAITS
+#MUTATION TRAITS;;;;;;;;;;;;;;
 mutation_minor;Minor Mutation;;;;;;;;;;;;;x
 mutation_minor_desc;This character possess a small mutation that has little effect.;;;;;;;;;;;;;x
 mutation_major;Major Mutation;;;;;;;;;;;;;x
 mutation_major_desc;This character possess a large mutation that radically changes [This.GetHerHis] body.;;;;;;;;;;;;;x
 mutation_massive;Massive Mutation;;;;;;;;;;;;;x
 mutation_massive_desc;This character is so mutated [This.GetSheHe] is barely recognizable.;;;;;;;;;;;;;x
-# MAGIC TRAITS
+# MAGIC TRAITS;;;;;;;;;;;;;;
 magic_power_adept;Adept;;;;;;;;;;;;;x
 magic_power_magister;Magister;;;;;;;;;;;;;x
 magic_power_lord;Wizard Lord;;;;;;;;;;;;;x
@@ -490,7 +490,7 @@ lore_nurgle;Lore of Nurgle;;;;;;;;;;;;;x
 lore_slaanesh;Lore of Slaanesh;;;;;;;;;;;;;x
 lore_tzeentch;Lore of Tzeentch;;;;;;;;;;;;;x
 lore_ice;Lore of Ice;;;;;;;;;;;;;x
-# MAGIC TRAITS Descriptions
+# MAGIC TRAITS Descriptions;;;;;;;;;;;;;;
 magic_power_adept_desc;This character shows an affinity in the use of magic.;;;;;;;;;;;;;x
 magic_power_magister_desc;This character is capable in the use of magic.;;;;;;;;;;;;;x
 magic_power_lord_desc;This character is extremely skilled in the use of magic.;;;;;;;;;;;;;x
@@ -509,4 +509,12 @@ lore_nurgle_desc;This character can use spells specially crafted by Nurgle.;;;;;
 lore_slaanesh_desc;This character can use spells specially crafted by Slaanesh.;;;;;;;;;;;;;x
 lore_tzeenth_desc;This character can use spells specially crafted by Tzeenth.;;;;;;;;;;;;;x
 lore_ice_desc;This character can use magic of Ice;;;;;;;;;;;;;x
-
+#Bretonnian traits;;;;;;;;;;;;;;
+errant_knight;Errant Knight;Chevalier Errant;;;;;;;;;;;;x
+errant_knight_desc;This character has started the errance quest to prove his valor;;;;;;;;;;;;;x
+realm_knight;Knight of the Realm;;;;;;;;;;;;;x
+realm_knight_desc;The character is a knight of the realm and has provent his valor during a sucessfull errance quest;;;;;;;;;;;;;x
+questing_knight;Questing Knight;;;;;;;;;;;;;x
+questing_knight_desc;The character has began the quest for the Holy Grail and seeks to meet the Lady of the Lake;;;;;;;;;;;;;x
+grail_knight;Grail Knight;;;;;;;;;;;;;x
+grail_knight_desc;The Knight has met the Lady and has drank in the Holy Grail. He is now considered to be a saint;;;;;;;;;;;;;x

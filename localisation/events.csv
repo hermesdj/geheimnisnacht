@@ -167,9 +167,9 @@ EVTOPTAUDSYL.11;Let him in, as he will serve me well.;Le laisser venir, il me se
 EVTOPTBUDSYL.11;I don't trust strangers, send him far away.;Je ne fais pas confiance aux étrangers, le renvoyer !;;;;;;;;;;;;x;
 EVTOPTCUDSYL.11;He's a witch! Burn him! Buuurn hiiiiim!;C'est un sorcier ! Brûlez le ! BRULEZ LE !;;;;;;;;;;;;x;
 TOOLTIPOPTCUDSYL11;There is a chance that the man escapes, wounding you in gratitude for your hospitality.;Il y a une chance que cet homme s'échappe, vous blessant pour votre hospitalité.;;;;;;;;;;;;x;
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
-BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
+#Bretonnian quests;;;;;;;;;;;;;;;
+Bretonnia.1_desc;You decide to go on the traditionnal errance to become a true Bretonnian Knight;;;;;;;;;;;;;x;
+Bretonnia.1.1;For the Lady ! For the Kingdom ! For the Rey !;;;;;;;;;;;;;x;
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;
 BLANKNAME;TEXTNAME;;;;;;;;;;;;;x;

@@ -1,0 +1,7 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_become_errant_knight"
+		texturefile = "gfx\\interface\\decision_become_errant_knight.tga"
+	}
+}
