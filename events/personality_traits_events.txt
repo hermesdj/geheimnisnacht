@@ -9,14 +9,17 @@
 # Written by Sara Wendel-Örtqvist
 # changed for Warhammer Geheimnisnacht by Arsakes
 #
-# TODO: It current state it fits only to some human races 
-#       it should be corrected for other races and savage human
+# TODO: It current state it fits only to some human races. it should be corrected for other races and savage human
+# @version 0.1
+# @author arsakes & hermesdj
 #
 
-# Lustful/Chaste - male
+# @name Lustful/Chaste - male
+# @description Event giving the lustful or chaste traits to the character
+# TODO Slaanesh followers should gain piety or lose piety ?
 character_event = {
     id = 1000
-    desc = "EVTDESC1000"
+    desc = "EVTDESC1000" #A pretty wench is throwing herself at you.
     picture = "GFX_evt_lovers"
     
     min_age = 16
@@ -68,10 +71,20 @@ character_event = {
             factor = 0.5
             trait = temperate
         }
+		#chaos worshippers have greater chances
+		modifier = {
+			factor = 1.3
+			religion_group = chaos_gods_group
+		}
+		#Slaanesh have even greater chances
+		modifier = {
+			factor = 1.7
+			religion = slaanesh
+		}
     }
 
     option = {
-        name = "EVTOPTA1000"
+        name = "EVTOPTA1000" #I can't resist her
         if = {
             limit = {
                 trait = honest
@@ -146,7 +159,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1000"
+        name = "EVTOPTB1000" #Mind over body, mind over body...
         if = {
             limit = {
                 trait = arbitrary
@@ -222,10 +235,12 @@ character_event = {
     }
 }
 
-#Gluttonous/Temperate
+# @name Gluttonous/Temperate
+# @description Event giving the gluttonous or temperate traits
+# TODO Nurgle followers should have a special effect (piety for example ?)
 character_event = {
     id = 1001
-    desc = "EVTDESC1001"
+    desc = "EVTDESC1001" #The cook has prepared a fine meal, but the priest preached about temperance...
     picture = "GFX_evt_feast"
     
     min_age = 16
@@ -268,7 +283,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1001"
+        name = "EVTOPTA1001" #I try to eat modestly but the food is too good!
         if = {
             limit = {
                 trait = lustful
@@ -343,7 +358,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1001"
+        name = "EVTOPTB1001"  #I satisfy my hunger with bread and water
         if = {
             limit = {
                 trait = zealous
@@ -419,10 +434,12 @@ character_event = {
     }
 }
 
-#Gluttonous/Temperate
+# @name Gluttonous/Temperate
+# @description Event giving the gluttonous or temperate traits
+# TODO Nurgle followers should have a special effect (piety for example ?)
 character_event = {
     id = 1002
-    desc = "EVTDESC1002"
+    desc = "EVTDESC1002" #The cook had prepared a magnificent meal, with lots of different fruits, various kinds of meat, plenty of freshly baked bread and several mature cheeses.
     picture = "GFX_evt_feast"
     
     min_age = 16
@@ -466,7 +483,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1001"
+        name = "EVTOPTA1001" #I try to eat modestly but the food is too good!
         if = {
             limit = {
                 trait = lustful
@@ -541,7 +558,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1001"
+        name = "EVTOPTB1001" #I satisfy my hunger with bread and water
         if = {
             limit = {
                 trait = zealous
@@ -617,10 +634,11 @@ character_event = {
     }
 }
 
-#Charitable/Greedy
+# @name Charitable/Greedy
+# @description Gain the charitable or greedy traits
 character_event = {
     id = 1003
-    desc = "EVTDESC1003"
+    desc = "EVTDESC1003" #After giving my advice on a delicate matter, the courtier asked me to accept a small gift of gold as thanks for my help
     picture = "GFX_evt_market"
     
     min_age = 16
@@ -656,7 +674,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1003"
+        name = "EVTOPTA1003" #I accept the gift reluctantly
         if = {
             limit = {
                 trait = honest
@@ -731,7 +749,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1003"
+        name = "EVTOPTB1003" #Wasn't my advice worth more than a couple pennies?
         if = {
             limit = {
                 trait = proud
@@ -807,10 +825,11 @@ character_event = {
     }
 }
 
-#Slothful/Diligent
+# @name Slothful/Diligent
+# @description gain the slothful or diligent traits
 character_event = {
     id = 1004
-    desc = "EVTDESC1004"
+    desc = "EVTDESC1004" #Work can be tedious and when one problem is solved another one pops up. I tire of having to complete the same tasks over and over again.
     picture = "GFX_evt_drunk"
     
     min_age = 16
@@ -854,7 +873,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1004"
+        name = "EVTOPTA1004" #Let someone else do this!
         if = {
             limit = {
                 trait = cruel
@@ -929,7 +948,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1004"
+        name = "EVTOPTB1004" #I can rest in Heaven
         if = {
             limit = {
                 trait = patient
@@ -1005,10 +1024,11 @@ character_event = {
     }
 }
 
-#Kind/Envious - female
+# @name Kind/Envious - female
+# @description female version of the kind/envious event
 character_event = {
     id = 1005
-    desc = "EVTDESC1005"
+    desc = "EVTDESC1005" #Her hair is always perfect, men love her charm and looks but she is also intelligent and well-spoken. She has been blessed with beauty, intelligence and success in all things.
     picture = "GFX_evt_shadowy_cabal"
     
     only_women = yes
@@ -1060,7 +1080,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1005"
+        name = "EVTOPTA1005" #Why was [Root.GetSheHe] blessed and not I?
         if = {
             limit = {
                 trait = gregarious
@@ -1135,7 +1155,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1005"
+        name = "EVTOPTB1005" #It's hard not to envy her, but I am perfect as I am
         if = {
             limit = {
                 trait = gregarious
@@ -1211,10 +1231,11 @@ character_event = {
     }
 }
 
-#Kind/Envious - male
+# @name kind/Envious - male
+# @description The male version of the kind/envious event
 character_event = {
     id = 1006
-    desc = "EVTDESC1006"
+    desc = "EVTDESC1006" #It feels like everyone is trying to trump me! My huntsman killed more prey than I, my councillors found a better solution to the rebellious peasants than mine and I started to feel that everyone was better than me, no matter what.
     picture = "GFX_evt_shadowy_cabal"
     
     only_men = yes
@@ -1263,7 +1284,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1006"
+        name = "EVTOPTA1006" #If they are better than me, then I have to accept that
         if = {
             limit = {
                 trait = gregarious
@@ -1338,7 +1359,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1006"
+        name = "EVTOPTB1006" #I envy them all!
         if = {
             limit = {
                 trait = lustful
@@ -1414,10 +1435,12 @@ character_event = {
     }
 }
 
-#Wroth/Patient
+# @name Wroth/Patient
+# @description Event used to gain the worth or patient traits
+# TODO Khorne followers should have an effect for becoming wroth
 character_event = {
     id = 1007
-    desc = "EVTDESC1007"
+    desc = "EVTDESC1007" #I don't think it was meant to hurt me, but the criticism still stung harder than it should have.
     picture = "GFX_evt_spymaster"
     
     min_age = 16
@@ -1469,7 +1492,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1007"
+        name = "EVTOPTA1007" #An eye for an eye!
         if = {
             limit = {
                 trait = paranoid
@@ -1544,7 +1567,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1007"
+        name = "EVTOPTB1007" #I'll turn the other cheek
         if = {
             limit = {
                 trait = temperate
@@ -1620,10 +1643,11 @@ character_event = {
     }
 }
 
-#Proud/Humble
+#@name Proud/Humble
+#@description event giving proud or humble
 character_event = {
     id = 1008
-    desc = "EVTDESC1008"
+    desc = "EVTDESC1008" #I took a good look at myself and thought about my weaknesses and strengths. After many hours of soul-searching, I realized:
     picture = "GFX_evt_throne_room"
     
     min_age = 16
@@ -1663,7 +1687,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1008"
+        name = "EVTOPTA1008" #I have nothing to be ashamed of!
         if = {
             limit = {
                 trait = fair
@@ -1720,7 +1744,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1008"
+        name = "EVTOPTB1008" #I have many strengths, but more weaknesses
         if = {
             limit = {
                 trait = ugly
@@ -1796,10 +1820,11 @@ character_event = {
     }
 }
 
-#Deceitful/Honest
+#@name Deceitful/Honest
+#@description event used to gain deceitful or honest
 character_event = {
     id = 1009
-    desc = "EVTDESC1009"
+    desc = "EVTDESC1009" #It was one of those situations where you didn't want to tell the truth in case it would hurt the person, but in the same time, honesty is a virtue...
     picture = "GFX_evt_whispers"
     
     min_age = 16
@@ -1851,7 +1876,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1009"
+        name = "EVTOPTA1009" #Lie and don't hurt anyone
         if = {
             limit = {
                 trait = kind
@@ -1926,7 +1951,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1009"
+        name = "EVTOPTB1009" #Be honest and tell it as it is
         if = {
             limit = {
                 trait = zealous
@@ -2002,10 +2027,11 @@ character_event = {
     }
 }
 
-#Craven/Brave
+#@name Craven/Brave
+#@description event used to gain craven or brave
 character_event = {
     id = 1010
-    desc = "EVTDESC1010"
+    desc = "EVTDESC1010" #I imagined a situation which became more and more intimidating, with an outcome that could mean life or death. I swallowed hard and decided that I would...
     picture = "GFX_evt_courier"
     
     min_age = 16
@@ -2036,7 +2062,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1010"
+        name = "EVTOPTA1010" #Run awaaaayyy!
         if = {
             limit = {
                 trait = paranoid
@@ -2111,7 +2137,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1010"
+        name = "EVTOPTB1010" #Stay put and fight!
         if = {
             limit = {
                 trait = ambitious
@@ -2187,10 +2213,11 @@ character_event = {
     }
 }
 
-#Shy/Gregarious
+# @name Shy/Gregarious
+# @description event used to become sjy or gregarious
 character_event = {
     id = 1011
-    desc = "EVTDESC1011"
+    desc = "EVTDESC1011" #It started as an uneasiness around guests and strangers, then evolved into awkwardness and a strong feeling of discomfort.
     picture = "GFX_evt_garden"
     
     min_age = 16
@@ -2238,7 +2265,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1011"
+        name = "EVTOPTA1011" #I don't want to meet any new people
         if = {
             limit = {
                 trait = craven
@@ -2313,7 +2340,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1011"
+        name = "EVTOPTB1011" #I'll just have to try to be more gregarious
         if = {
             limit = {
                 trait = brave
@@ -2389,10 +2416,11 @@ character_event = {
     }
 }
 
-#Ambitious/Content
+# @name Ambitious/Content
+# @description event used to become ambitious or content
 character_event = {
     id = 1012
-    desc = "EVTDESC1012"
+    desc = "EVTDESC1012" #I could strive to become better, or I can be satisfied with who I am and what I have.
     picture = "GFX_evt_council"
     
     min_age = 16
@@ -2432,7 +2460,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1012"
+        name = "EVTOPTA1012" #I will never be satisfied!
         if = {
             limit = {
                 trait = proud
@@ -2507,7 +2535,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1012"
+        name = "EVTOPTB1012" #I am content
         if = {
             limit = {
                 trait = patient
@@ -2583,10 +2611,11 @@ character_event = {
     }
 }
 
-#Arbitrary/Just
+# @name Arbitrary/Just
+# @description event used to become arbitrary or just
 character_event = {
     id = 1013
-    desc = "EVTDESC1013"
+    desc = "EVTDESC1013" #If my opinion ruled, the world would be a more chaotic but fun place. If I keep following the laws, the world would have less chaos but also be less fun.
     picture = "GFX_evt_beheading"
     
     min_age = 16
@@ -2630,7 +2659,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1013"
+        name = "EVTOPTA1013" #Let my rule begin!
         if = {
             limit = {
                 trait = diligent
@@ -2705,7 +2734,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1013"
+        name = "EVTOPTB1013" #Justice should always prevail!
         if = {
             limit = {
                 trait = honest
@@ -2781,10 +2810,11 @@ character_event = {
     }
 }
 
-#Cynical/Zealous
+# @name Cynical/Zealous
+# @description event used to become cynical or zealous
 character_event = {
     id = 1014
-    desc = "EVTDESC1014"
+    desc = "EVTDESC1014" #If there is a God, why is the world filled with hardships, grief and heretics?
     picture = "GFX_evt_bishop"
     
     min_age = 16
@@ -2845,7 +2875,7 @@ character_event = {
     }
     
     option = {
-        name = "EVTOPTA1014"
+        name = "EVTOPTA1014" #God has a plan for everything and everyone
         if = {
             limit = {
                 trait = patient
@@ -2920,7 +2950,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1014"
+        name = "EVTOPTB1014" #God is as clueless as I am
         if = {
             limit = {
                 trait = wroth
@@ -2996,10 +3026,11 @@ character_event = {
     }
 }
 
-#Lustful/chaste - female
+# @name Lustful/chaste - female
+# @description female version of the lustful chaste evt
 character_event = {
     id = 1015
-    desc = "EVTDESC1015"
+    desc = "EVTDESC1015" #The court is filled with young, beautiful men and the attention they give me is making it hard for me to refuse them. Who wouldn't want one of them in their bed?
     picture = "GFX_evt_lovers"
     
     min_age = 16
@@ -3056,7 +3087,7 @@ character_event = {
     }
 
     option = {
-        name = "EVTOPTA1015"
+        name = "EVTOPTA1015" #Give in, have some fun!
         if = {
             limit = {
                 trait = honest
@@ -3131,7 +3162,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1015"
+        name = "EVTOPTB1015" #A woman should suppress her worldly urges
         if = {
             limit = {
                 trait = arbitrary
@@ -3207,10 +3238,11 @@ character_event = {
     }
 }
 
-#Paranoid/Trusting
+# @name Paranoid/Trusting
+# @description event used to get paranoid or trusting
 character_event = {
     id = 1016
-    desc = "EVTDESC1016"
+    desc = "EVTDESC1016" #Lately I have become afraid that someone might want to hurt me. I am thinking about hiring a, no, two food-tasters and... maybe a bodyguard would be a good idea?
     picture = "GFX_evt_lunatic"
     
     min_age = 16
@@ -3258,7 +3290,7 @@ character_event = {
     }
 
     option = {
-        name = "EVTOPTA1016"
+        name = "EVTOPTA1016" #Food-tasters, bodyguards, anything that can save me!
         if = {
             limit = {
                 trait = cynical
@@ -3333,7 +3365,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1016"
+        name = "EVTOPTB1016" #I won't let fear rule my life!
         if = {
             limit = {
                 trait = gregarious
@@ -3409,10 +3441,11 @@ character_event = {
     }
 }
 
-#Cruel/Kind
+#@name Cruel/Kind
+#@description event used to get cruel or kind
 character_event = {
     id = 1017
-    desc = "EVTDESC1017"
+    desc = "EVTDESC1017" #After I had made another courtier cry, the third one in a short week, I felt a bit embarrassed. Is this really who I am, a cruel [Root.GetManWoman] who likes to hurt people?
     picture = "GFX_evt_lunatic"
     
     min_age = 16
@@ -3460,7 +3493,7 @@ character_event = {
     }
 
     option = {
-        name = "EVTOPTA1017"
+        name = "EVTOPTA1017" #Who am I kidding? I love this!
         if = {
             limit = {
                 trait = arbitrary
@@ -3535,7 +3568,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1017"
+        name = "EVTOPTB1017" #Oh [Root.Religion.GetRandomGodName], what have I done? Forgive me, please!
         if = {
             limit = {
                 trait = gregarious
@@ -3611,10 +3644,11 @@ character_event = {
     }
 }
 
-#Lustful/chaste - Homosexual female
+#@name Lustful/chaste - Homosexual female
+#@description homosexual female version of the lustful event
 character_event = {
     id = 1018
-    desc = "EVTDESC1018"
+    desc = "EVTDESC1018" #en have never interested me, and my awkward attempts to find out if another woman feels like I do has always ended with insulted or apprehensive looks. But today, a woman tried to seduce me!
     picture = "GFX_evt_lovers"
     
     min_age = 16
@@ -3675,7 +3709,7 @@ character_event = {
     }
 
     option = {
-        name = "EVTOPTA1018"
+        name = "EVTOPTA1018" #...and she's irresistible!
         if = {
             limit = {
                 trait = honest
@@ -3750,7 +3784,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1018"
+        name = "EVTOPTB1018" #As tempting as it is, I really shouldn't
         if = {
             limit = {
                 trait = arbitrary
@@ -3826,10 +3860,11 @@ character_event = {
     }
 }
 
-#Lustful/chaste - Homosexual male
+#@name Lustful/chaste - Homosexual male
+#@description homosexual male version of the lustful event
 character_event = {
     id = 1019
-    desc = "EVTDESC1019"
+    desc = "EVTDESC1019" #I realized when I was rather young that I would never find a woman attractive. The comfort and love I saw couples share felt out of my reach, until I met a man who felt as I did...
     picture = "GFX_evt_lovers"
     
     min_age = 16
@@ -3890,7 +3925,7 @@ character_event = {
     }
 
     option = {
-        name = "EVTOPTA1019"
+        name = "EVTOPTA1019" #...and he's irresistible!
         if = {
             limit = {
                 trait = honest
@@ -3965,7 +4000,7 @@ character_event = {
         }
     }
     option = {
-        name = "EVTOPTB1019"
+        name = "EVTOPTB1019" #I cannot give in to these feelings!
         if = {
             limit = {
                 trait = arbitrary
@@ -4042,11 +4077,11 @@ character_event = {
 }
 
 ### THESE EVENTS REMOVES TRAITS ###
-
+# TODO CONTINUE
 # Remove Lustful - male
 character_event = {
     id = 1028
-    desc = "EVTDESC1028"
+    desc = "EVTDESC1028" #It seems the young women no longer have the power to seduce me.
     picture = "GFX_evt_lovers"
     
     min_age = 16

@@ -8,7 +8,7 @@
 
 
 #################################################################
-# pERSONALITY - Events, should happen more often during childhood
+# PERSONALITY - Events, should happen more often during childhood
 #################################################################
 
 # THE SEVEN SINS AND VIRTUES
